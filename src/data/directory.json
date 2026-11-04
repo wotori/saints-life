@@ -1,0 +1,3389 @@
+{
+  "saints": [
+    {
+      "id": "dimitrij-alexandrovich",
+      "slug": "dimitrij-alexandrovich",
+      "name": "Димитрий I Александрович Переяславский, Владимирский",
+      "rank": "благоверный князь",
+      "aliases": [
+        "Дмитрий I Александрович Переяславский, Владимирский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий I Александрович Переяславский, Владимирский; благоверный князь; индивидуальная дата не указана"
+    },
+    {
+      "id": "dimitrij-basarbovskij",
+      "slug": "dimitrij-basarbovskij",
+      "name": "Димитрий Басарбовский (Бассарабовский), Болгарский",
+      "rank": "преподобный",
+      "aliases": [
+        "Дмитрий Басарбовский (Бассарабовский), Болгарский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Басарбовский (Бассарабовский), Болгарский; преподобный; 11-08"
+    },
+    {
+      "id": "dimitrij-belyaev",
+      "slug": "dimitrij-belyaev",
+      "name": "Димитрий Беляев",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Беляев"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Беляев; священномученик, пресвитер; 12-10"
+    },
+    {
+      "id": "dimitrij-benevolenskij",
+      "slug": "dimitrij-benevolenskij",
+      "name": "Димитрий Беневоленский",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Беневоленский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Беневоленский; священномученик, пресвитер; 11-27"
+    },
+    {
+      "id": "dimitrij-blagoveshchenskij",
+      "slug": "dimitrij-blagoveshchenskij",
+      "name": "Димитрий Благовещенский",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Благовещенский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Благовещенский; священномученик, пресвитер; 12-15;06-03:Собор Карельских святых"
+    },
+    {
+      "id": "dimitrij-vdovin",
+      "slug": "dimitrij-vdovin",
+      "name": "Димитрий Вдовин",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Вдовин"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Вдовин; мученик; 04-23;07-13:Собор святых Биробиджанской епархии"
+    },
+    {
+      "id": "dimitrij-vladimirskij",
+      "slug": "dimitrij-vladimirskij",
+      "name": "Димитрий Владимирский",
+      "rank": "благоверный князь",
+      "aliases": [
+        "Дмитрий Владимирский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Владимирский; благоверный князь; индивидуальная дата не указана"
+    },
+    {
+      "id": "dimitrij-vladimirskij-mladenec",
+      "slug": "dimitrij-vladimirskij-mladenec",
+      "name": "Димитрий Владимирский, младенец, князь",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Владимирский, младенец, князь"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Владимирский, младенец, князь; мученик; индивидуальная дата не указана"
+    },
+    {
+      "id": "dimitrij-vlasenkov",
+      "slug": "dimitrij-vlasenkov",
+      "name": "Димитрий Власенков",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Власенков"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Власенков; мученик; 05-05"
+    },
+    {
+      "id": "dimitrij-voznesenskij",
+      "slug": "dimitrij-voznesenskij",
+      "name": "Димитрий Вознесенский",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Вознесенский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Вознесенский; священномученик, пресвитер; 10-31;06-05:Собор Ростово-Ярославских святых"
+    },
+    {
+      "id": "dimitrij-volkov",
+      "slug": "dimitrij-volkov",
+      "name": "Димитрий Волков",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Волков"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Волков; мученик; 02-26:Собор святых Омской митрополии"
+    },
+    {
+      "id": "dimitrij-vorobev",
+      "slug": "dimitrij-vorobev",
+      "name": "Димитрий Воробьев",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Воробьев"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Воробьев; мученик; 08-17"
+    },
+    {
+      "id": "dimitrij-voskresenskij",
+      "slug": "dimitrij-voskresenskij",
+      "name": "Димитрий Воскресенский",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Воскресенский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Воскресенский; священномученик, пресвитер; 05-22"
+    },
+    {
+      "id": "dimitrij-galichskij",
+      "slug": "dimitrij-galichskij",
+      "name": "Димитрий Галичский, Красный",
+      "rank": "благоверный князь",
+      "aliases": [
+        "Дмитрий Галичский, Красный"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Галичский, Красный; благоверный князь; 02-05:Собор Костромских святых"
+    },
+    {
+      "id": "dimitrij-glivenko",
+      "slug": "dimitrij-glivenko",
+      "name": "Димитрий Гливенко",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Гливенко"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Гливенко; священномученик, пресвитер; 03-22"
+    },
+    {
+      "id": "dimitrij-dabudskij",
+      "slug": "dimitrij-dabudskij",
+      "name": "Димитрий Дабудский",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Дабудский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Дабудский; мученик; 11-28"
+    },
+    {
+      "id": "dimitrij-dobroserdov",
+      "slug": "dimitrij-dobroserdov",
+      "name": "Димитрий (Добросердов), Можайский",
+      "rank": "священномученик, архиепископ",
+      "aliases": [
+        "Дмитрий (Добросердов), Можайский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий (Добросердов), Можайский; священномученик, архиепископ; 10-21;09-23:Собор Липецких святых;02-05:Собор Костромских святых;12-10:Собор новомучеников и исповедников Радонежских;08-10:Собор святых Тамбовской митрополии"
+    },
+    {
+      "id": "dimitrij-donskoj",
+      "slug": "dimitrij-donskoj",
+      "name": "Димитрий Донской",
+      "rank": "благоверный князь",
+      "aliases": [
+        "Дмитрий Донской"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Донской; благоверный князь; 06-01;07-19:Собор Радонежских святых;10-05:Собор Тульских святых"
+    },
+    {
+      "id": "dimitrij-zaozerskij",
+      "slug": "dimitrij-zaozerskij",
+      "name": "Димитрий Заозерский",
+      "rank": "благоверный князь",
+      "aliases": [
+        "Дмитрий Заозерский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Заозерский; благоверный князь; индивидуальная дата не указана"
+    },
+    {
+      "id": "dimitrij-ignatenko",
+      "slug": "dimitrij-ignatenko",
+      "name": "Димитрий Игнатенко",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Игнатенко"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Игнатенко; священномученик, пресвитер; 09-28;12-28:Собор Крымских святых;12-02:Собор новомучеников и исповедников Крымской митрополии"
+    },
+    {
+      "id": "dimitrij-ilinskij",
+      "slug": "dimitrij-ilinskij",
+      "name": "Димитрий Ильинский",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Ильинский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Ильинский; мученик; 02-17"
+    },
+    {
+      "id": "dimitrij-kazamackij",
+      "slug": "dimitrij-kazamackij",
+      "name": "Димитрий Казамацкий",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Казамацкий"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Казамацкий; мученик; 02-17"
+    },
+    {
+      "id": "dimitrij-kazanskij",
+      "slug": "dimitrij-kazanskij",
+      "name": "Димитрий Казанский",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Казанский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Казанский; священномученик, пресвитер; 07-17;06-05:Собор Ростово-Ярославских святых"
+    },
+    {
+      "id": "dimitrij-kasatkin",
+      "slug": "dimitrij-kasatkin",
+      "name": "Димитрий Касаткин",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Касаткин"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Касаткин; священномученик, пресвитер; 10-28;11-01:Собор святых Архангельской митрополии"
+    },
+    {
+      "id": "dimitrij-kedrolivanskij",
+      "slug": "dimitrij-kedrolivanskij",
+      "name": "Димитрий Кедроливанский",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Кедроливанский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Кедроливанский; священномученик, пресвитер; 02-17;08-10:Собор святых Тамбовской митрополии"
+    },
+    {
+      "id": "dimitrij-kiranov",
+      "slug": "dimitrij-kiranov",
+      "name": "Димитрий Киранов, Ялтинский",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Киранов, Ялтинский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Киранов, Ялтинский; священномученик, пресвитер; 01-04;12-28:Собор Крымских святых;12-02:Собор новомучеников и исповедников Крымской митрополии"
+    },
+    {
+      "id": "dimitrij-konstantinopolskij",
+      "slug": "dimitrij-konstantinopolskij",
+      "name": "Димитрий Константинопольский",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Константинопольский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Константинопольский; мученик; 08-22"
+    },
+    {
+      "id": "dimitrij-kryuchkov",
+      "slug": "dimitrij-kryuchkov",
+      "name": "Димитрий Крючков",
+      "rank": "исповедник, пресвитер",
+      "aliases": [
+        "Дмитрий Крючков"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Крючков; исповедник, пресвитер; 10-09"
+    },
+    {
+      "id": "dimitrij-kuklin",
+      "slug": "dimitrij-kuklin",
+      "name": "Димитрий Куклин",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Куклин"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Куклин; священномученик, пресвитер; 12-02"
+    },
+    {
+      "id": "dimitrij-lebedev",
+      "slug": "dimitrij-lebedev",
+      "name": "Димитрий Лебедев",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Лебедев"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Лебедев; священномученик, пресвитер; 11-27;12-10:Собор новомучеников и исповедников Радонежских"
+    },
+    {
+      "id": "dimitrij-legejdo",
+      "slug": "dimitrij-legejdo",
+      "name": "Димитрий Легейдо",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Легейдо"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Легейдо; священномученик, пресвитер; 03-23"
+    },
+    {
+      "id": "dimitrij-milovidov",
+      "slug": "dimitrij-milovidov",
+      "name": "Димитрий Миловидов",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Миловидов"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Миловидов; священномученик, пресвитер; 08-20;06-23:Собор Рязанских святых"
+    },
+    {
+      "id": "dimitrij-tripolickij",
+      "slug": "dimitrij-tripolickij",
+      "name": "Димитрий (Митр) Триполицкий",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий (Митр) Триполицкий"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий (Митр) Триполицкий; мученик; 06-10"
+    },
+    {
+      "id": "dimitrij-morozov",
+      "slug": "dimitrij-morozov",
+      "name": "Димитрий Морозов",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Морозов"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Морозов; мученик; 09-08;10-21:Собор Вятских святых"
+    },
+    {
+      "id": "dimitrij-nevedomskij",
+      "slug": "dimitrij-nevedomskij",
+      "name": "Димитрий Неведомский",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Неведомский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Неведомский; священномученик, пресвитер; 12-17"
+    },
+    {
+      "id": "dimitrij-neroveckij",
+      "slug": "dimitrij-neroveckij",
+      "name": "Димитрий Неровецкий",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Неровецкий"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Неровецкий; священномученик, пресвитер; 06-11:Собор святых Красноярской митрополии"
+    },
+    {
+      "id": "dimitrij-ovechkin",
+      "slug": "dimitrij-ovechkin",
+      "name": "Димитрий Овечкин",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Овечкин"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Овечкин; священномученик, пресвитер; 11-14"
+    },
+    {
+      "id": "dimitrij-ostroumov",
+      "slug": "dimitrij-ostroumov",
+      "name": "Димитрий Остроумов",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Остроумов"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Остроумов; священномученик, пресвитер; 08-30"
+    },
+    {
+      "id": "dimitrij-pavskij",
+      "slug": "dimitrij-pavskij",
+      "name": "Димитрий Павский",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Павский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Павский; священномученик, пресвитер; 08-14"
+    },
+    {
+      "id": "dimitrij-peloponnesskij",
+      "slug": "dimitrij-peloponnesskij",
+      "name": "Димитрий Пелопонесский, Трипольский",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Пелопонесский, Трипольский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Пелопонесский, Трипольский; мученик; 04-26"
+    },
+    {
+      "id": "dimitrij-plyshevskij",
+      "slug": "dimitrij-plyshevskij",
+      "name": "Димитрий Плышевский",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Плышевский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Плышевский; священномученик, пресвитер; 01-21"
+    },
+    {
+      "id": "dimitrij-priluckij",
+      "slug": "dimitrij-priluckij",
+      "name": "Димитрий Прилуцкий, Вологодский",
+      "rank": "преподобный, игумен",
+      "aliases": [
+        "Дмитрий Прилуцкий, Вологодский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Прилуцкий, Вологодский; преподобный, игумен; 02-24;06-05:Собор Ростово-Ярославских святых;07-19:Собор Радонежских святых"
+    },
+    {
+      "id": "dimitrij-rozhdestvenskij",
+      "slug": "dimitrij-rozhdestvenskij",
+      "name": "Димитрий Рождественский",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Рождественский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Рождественский; священномученик, пресвитер; 02-19;09-08:Собор святых Среднеазиатского митрополичьего округа"
+    },
+    {
+      "id": "dimitrij-rozanov-march",
+      "slug": "dimitrij-rozanov-march",
+      "name": "Димитрий Розанов",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Розанов"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Розанов; священномученик, пресвитер; 03-31;07-13:Собор святых Биробиджанской епархии"
+    },
+    {
+      "id": "dimitrij-rozanov-october",
+      "slug": "dimitrij-rozanov-october",
+      "name": "Димитрий Розанов",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Розанов"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Розанов; священномученик, пресвитер; 10-09"
+    },
+    {
+      "id": "dimitrij-rozanov-november",
+      "slug": "dimitrij-rozanov-november",
+      "name": "Димитрий Розанов",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Розанов"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Розанов; священномученик, пресвитер; 11-25"
+    },
+    {
+      "id": "dimitrij-rostovskij",
+      "slug": "dimitrij-rostovskij",
+      "name": "Димитрий Ростовский",
+      "rank": "святитель, митрополит",
+      "aliases": [
+        "Дмитрий Ростовский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Ростовский; святитель, митрополит; 11-10;10-04:Обретение мощей;06-05:Собор Ростово-Ярославских святых"
+    },
+    {
+      "id": "dimitrij-rudakov",
+      "slug": "dimitrij-rudakov",
+      "name": "Димитрий Рудаков",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Рудаков"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Рудаков; мученик; 11-27;07-06:Собор Владимирских святых"
+    },
+    {
+      "id": "dimitrij-rusinov",
+      "slug": "dimitrij-rusinov",
+      "name": "Димитрий Русинов",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Русинов"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Русинов; священномученик, пресвитер; 11-22"
+    },
+    {
+      "id": "dimitrij-samopozhertvovatel",
+      "slug": "dimitrij-samopozhertvovatel",
+      "name": "Димитрий II, Самопожертвователь",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий II, Самопожертвователь"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий II, Самопожертвователь; мученик; 03-25;11-08"
+    },
+    {
+      "id": "dimitrij-semenov",
+      "slug": "dimitrij-semenov",
+      "name": "Димитрий Семенов",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Семенов"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Семенов; священномученик, пресвитер; 06-27"
+    },
+    {
+      "id": "dimitrij-skepsijskij",
+      "slug": "dimitrij-skepsijskij",
+      "name": "Димитрий Скепсийский (Геллеспонтийский), князь",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Скепсийский (Геллеспонтийский), князь"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Скепсийский (Геллеспонтийский), князь; мученик; 09-24"
+    },
+    {
+      "id": "dimitrij-smirnov",
+      "slug": "dimitrij-smirnov",
+      "name": "Димитрий Смирнов",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Смирнов"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Смирнов; священномученик, пресвитер; 09-13"
+    },
+    {
+      "id": "dimitrij-sozinov",
+      "slug": "dimitrij-sozinov",
+      "name": "Димитрий Созинов, Белогорский",
+      "rank": "преподобномученик, послушник",
+      "aliases": [
+        "Дмитрий Созинов, Белогорский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Созинов, Белогорский; преподобномученик, послушник; 08-25"
+    },
+    {
+      "id": "dimitrij-solunskij",
+      "slug": "dimitrij-solunskij",
+      "name": "Димитрий Солунский (Фессалоникийский), Мироточивый",
+      "rank": "великомученик",
+      "aliases": [
+        "Дмитрий Солунский (Фессалоникийский), Мироточивый"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Солунский (Фессалоникийский), Мироточивый; великомученик; 11-08"
+    },
+    {
+      "id": "dimitrij-spasskij",
+      "slug": "dimitrij-spasskij",
+      "name": "Димитрий Спасский",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Спасский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Спасский; священномученик, пресвитер; 09-19;02-11:Собор Коми святых"
+    },
+    {
+      "id": "dimitrij-spiridonov",
+      "slug": "dimitrij-spiridonov",
+      "name": "Димитрий Спиридонов",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Спиридонов"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Спиридонов; мученик; 11-29;12-28:Собор Крымских святых;12-02:Собор новомучеников и исповедников Крымской митрополии"
+    },
+    {
+      "id": "dimitrij-tornara",
+      "slug": "dimitrij-tornara",
+      "name": "Димитрий Торнара",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Торнара"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Торнара; мученик; 04-01"
+    },
+    {
+      "id": "dimitrij-troickij-presviter",
+      "slug": "dimitrij-troickij-presviter",
+      "name": "Димитрий Троицкий",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Троицкий"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Троицкий; священномученик, пресвитер; 11-03"
+    },
+    {
+      "id": "dimitrij-troickij-diakon",
+      "slug": "dimitrij-troickij-diakon",
+      "name": "Димитрий Троицкий",
+      "rank": "священномученик, диакон",
+      "aliases": [
+        "Дмитрий Троицкий"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Троицкий; священномученик, диакон; 09-22"
+    },
+    {
+      "id": "dimitrij-uglichskij",
+      "slug": "dimitrij-uglichskij",
+      "name": "Димитрий Угличский и Московский, царевич",
+      "rank": "благоверный",
+      "aliases": [
+        "Дмитрий Угличский и Московский, царевич"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Угличский и Московский, царевич; благоверный; 05-28;06-16:Перенесение мощей;06-05:Собор Ростово-Ярославских святых"
+    },
+    {
+      "id": "dimitrij-uglichskij-priluckij",
+      "slug": "dimitrij-uglichskij-priluckij",
+      "name": "Димитрий Угличский, Прилуцкий",
+      "rank": "благоверный князь",
+      "aliases": [
+        "Дмитрий Угличский, Прилуцкий"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Угличский, Прилуцкий; благоверный князь; индивидуальная дата не указана"
+    },
+    {
+      "id": "dimitrij-filadelfijskij",
+      "slug": "dimitrij-filadelfijskij",
+      "name": "Димитрий Филадельфийский",
+      "rank": "мученик",
+      "aliases": [
+        "Дмитрий Филадельфийский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Филадельфийский; мученик; 06-15"
+    },
+    {
+      "id": "dimitrij-cilibinskij",
+      "slug": "dimitrij-cilibinskij",
+      "name": "Димитрий Цилибинский (Вологодский)",
+      "rank": "преподобный",
+      "aliases": [
+        "Дмитрий Цилибинский (Вологодский)"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Цилибинский (Вологодский); преподобный; индивидуальная дата не указана"
+    },
+    {
+      "id": "dimitrij-chistoserdov",
+      "slug": "dimitrij-chistoserdov",
+      "name": "Димитрий Чистосердов",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Чистосердов"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Чистосердов; священномученик, пресвитер; 01-08;12-01:Собор святых Эстонской земли"
+    },
+    {
+      "id": "dimitrij-shishokin",
+      "slug": "dimitrij-shishokin",
+      "name": "Димитрий Шишокин",
+      "rank": "священномученик, пресвитер",
+      "aliases": [
+        "Дмитрий Шишокин"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Шишокин; священномученик, пресвитер; 10-10;10-17:Собор Казанских святых"
+    },
+    {
+      "id": "dimitrij-yurevich",
+      "slug": "dimitrij-yurevich",
+      "name": "Димитрий Юрьевич Красный, Бежецкий",
+      "rank": "благоверный князь",
+      "aliases": [
+        "Дмитрий Юрьевич Красный, Бежецкий"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Юрьевич Красный, Бежецкий; благоверный князь; индивидуальная дата не указана"
+    },
+    {
+      "id": "dimitrij-yurevskij",
+      "slug": "dimitrij-yurevskij",
+      "name": "Димитрий Юрьевский",
+      "rank": "благоверный князь",
+      "aliases": [
+        "Дмитрий Юрьевский"
+      ],
+      "sourceId": "azbyka-directory",
+      "sourceLocator": "Димитрий Юрьевский; благоверный князь; 07-06:Собор Владимирских святых"
+    }
+  ],
+  "venerations": [
+    {
+      "saintId": "dimitrij-alexandrovich",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-basarbovskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-belyaev",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-benevolenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-blagoveshchenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-vdovin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-vladimirskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-vladimirskij-mladenec",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-vlasenkov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-voznesenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-volkov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-vorobev",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-voskresenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-galichskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-glivenko",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-dabudskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-dobroserdov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-donskoj",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-zaozerskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-ignatenko",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-ilinskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-kazamackij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-kazanskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-kasatkin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-kedrolivanskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-kiranov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-konstantinopolskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-kryuchkov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-kuklin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-lebedev",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-legejdo",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-milovidov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-tripolickij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-morozov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-nevedomskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-neroveckij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-ovechkin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-ostroumov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-pavskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-peloponnesskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-plyshevskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-priluckij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-rozhdestvenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-rozanov-march",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-rozanov-october",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-rozanov-november",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-rostovskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-rudakov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-rusinov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-samopozhertvovatel",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-semenov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-skepsijskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-smirnov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-sozinov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-solunskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-spasskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-spiridonov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-tornara",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-troickij-presviter",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-troickij-diakon",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-uglichskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-uglichskij-priluckij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-filadelfijskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-cilibinskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-chistoserdov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-shishokin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-yurevich",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    },
+    {
+      "saintId": "dimitrij-yurevskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "note": "Запись в православном месяцеслове «Азбуки веры». Не заменяет документ о канонизации."
+    }
+  ],
+  "commemorations": [
+    {
+      "id": "dimitrij-basarbovskij-fixed-0",
+      "saintId": "dimitrij-basarbovskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 10,
+        "day": 26
+      }
+    },
+    {
+      "id": "dimitrij-belyaev-fixed-0",
+      "saintId": "dimitrij-belyaev",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 27
+      }
+    },
+    {
+      "id": "dimitrij-belyaev-movable-0",
+      "saintId": "dimitrij-belyaev",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-belyaev-movable-1",
+      "saintId": "dimitrij-belyaev",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников, в Бутове пострадавших",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-benevolenskij-fixed-0",
+      "saintId": "dimitrij-benevolenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 14
+      }
+    },
+    {
+      "id": "dimitrij-benevolenskij-movable-0",
+      "saintId": "dimitrij-benevolenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-benevolenskij-movable-1",
+      "saintId": "dimitrij-benevolenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Тверских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-blagoveshchenskij-fixed-0",
+      "saintId": "dimitrij-blagoveshchenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 12,
+        "day": 2
+      }
+    },
+    {
+      "id": "dimitrij-blagoveshchenskij-fixed-1",
+      "saintId": "dimitrij-blagoveshchenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Карельских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 5,
+        "day": 21
+      }
+    },
+    {
+      "id": "dimitrij-blagoveshchenskij-movable-0",
+      "saintId": "dimitrij-blagoveshchenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-blagoveshchenskij-movable-1",
+      "saintId": "dimitrij-blagoveshchenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников земли Карельской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-blagoveshchenskij-movable-2",
+      "saintId": "dimitrij-blagoveshchenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-vdovin-fixed-0",
+      "saintId": "dimitrij-vdovin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 4,
+        "day": 10
+      }
+    },
+    {
+      "id": "dimitrij-vdovin-fixed-1",
+      "saintId": "dimitrij-vdovin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Биробиджанской епархии",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 6,
+        "day": 30
+      }
+    },
+    {
+      "id": "dimitrij-vdovin-movable-0",
+      "saintId": "dimitrij-vdovin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-vdovin-movable-1",
+      "saintId": "dimitrij-vdovin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-vlasenkov-fixed-0",
+      "saintId": "dimitrij-vlasenkov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 4,
+        "day": 22
+      }
+    },
+    {
+      "id": "dimitrij-vlasenkov-movable-0",
+      "saintId": "dimitrij-vlasenkov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-vlasenkov-movable-1",
+      "saintId": "dimitrij-vlasenkov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Белорусских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-voznesenskij-fixed-0",
+      "saintId": "dimitrij-voznesenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 10,
+        "day": 18
+      }
+    },
+    {
+      "id": "dimitrij-voznesenskij-fixed-1",
+      "saintId": "dimitrij-voznesenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Ростово-Ярославских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 5,
+        "day": 23
+      }
+    },
+    {
+      "id": "dimitrij-voznesenskij-movable-0",
+      "saintId": "dimitrij-voznesenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-volkov-fixed-0",
+      "saintId": "dimitrij-volkov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Омской митрополии",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 2,
+        "day": 13
+      }
+    },
+    {
+      "id": "dimitrij-volkov-movable-0",
+      "saintId": "dimitrij-volkov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Личный день памяти (в источнике отмечен как переходящий)",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-volkov-movable-1",
+      "saintId": "dimitrij-volkov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-volkov-movable-2",
+      "saintId": "dimitrij-volkov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-vorobev-fixed-0",
+      "saintId": "dimitrij-vorobev",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 8,
+        "day": 4
+      }
+    },
+    {
+      "id": "dimitrij-vorobev-movable-0",
+      "saintId": "dimitrij-vorobev",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-vorobev-movable-1",
+      "saintId": "dimitrij-vorobev",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Тверских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-voskresenskij-fixed-0",
+      "saintId": "dimitrij-voskresenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 5,
+        "day": 9
+      }
+    },
+    {
+      "id": "dimitrij-voskresenskij-movable-0",
+      "saintId": "dimitrij-voskresenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-voskresenskij-movable-1",
+      "saintId": "dimitrij-voskresenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Чувашской митрополии",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-galichskij-fixed-0",
+      "saintId": "dimitrij-galichskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Костромских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 1,
+        "day": 23
+      }
+    },
+    {
+      "id": "dimitrij-galichskij-movable-0",
+      "saintId": "dimitrij-galichskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Тверских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-glivenko-fixed-0",
+      "saintId": "dimitrij-glivenko",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 3,
+        "day": 9
+      }
+    },
+    {
+      "id": "dimitrij-glivenko-movable-0",
+      "saintId": "dimitrij-glivenko",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников, в Бутове пострадавших",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-glivenko-movable-1",
+      "saintId": "dimitrij-glivenko",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-dabudskij-fixed-0",
+      "saintId": "dimitrij-dabudskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 15
+      }
+    },
+    {
+      "id": "dimitrij-dobroserdov-fixed-0",
+      "saintId": "dimitrij-dobroserdov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 10,
+        "day": 8
+      }
+    },
+    {
+      "id": "dimitrij-dobroserdov-fixed-1",
+      "saintId": "dimitrij-dobroserdov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Липецких святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 9,
+        "day": 10
+      }
+    },
+    {
+      "id": "dimitrij-dobroserdov-fixed-2",
+      "saintId": "dimitrij-dobroserdov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Костромских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 1,
+        "day": 23
+      }
+    },
+    {
+      "id": "dimitrij-dobroserdov-fixed-3",
+      "saintId": "dimitrij-dobroserdov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Радонежских",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 27
+      }
+    },
+    {
+      "id": "dimitrij-dobroserdov-fixed-4",
+      "saintId": "dimitrij-dobroserdov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Тамбовской митрополии",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 7,
+        "day": 28
+      }
+    },
+    {
+      "id": "dimitrij-dobroserdov-movable-0",
+      "saintId": "dimitrij-dobroserdov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников, в Бутове пострадавших",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-dobroserdov-movable-1",
+      "saintId": "dimitrij-dobroserdov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-donskoj-fixed-0",
+      "saintId": "dimitrij-donskoj",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 5,
+        "day": 19
+      }
+    },
+    {
+      "id": "dimitrij-donskoj-fixed-1",
+      "saintId": "dimitrij-donskoj",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Радонежских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 7,
+        "day": 6
+      }
+    },
+    {
+      "id": "dimitrij-donskoj-fixed-2",
+      "saintId": "dimitrij-donskoj",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Тульских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 9,
+        "day": 22
+      }
+    },
+    {
+      "id": "dimitrij-donskoj-movable-0",
+      "saintId": "dimitrij-donskoj",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-zaozerskij-movable-0",
+      "saintId": "dimitrij-zaozerskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Вологодских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-ignatenko-fixed-0",
+      "saintId": "dimitrij-ignatenko",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 9,
+        "day": 15
+      }
+    },
+    {
+      "id": "dimitrij-ignatenko-fixed-1",
+      "saintId": "dimitrij-ignatenko",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Крымских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 12,
+        "day": 15
+      }
+    },
+    {
+      "id": "dimitrij-ignatenko-fixed-2",
+      "saintId": "dimitrij-ignatenko",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Крымской митрополии",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 19
+      }
+    },
+    {
+      "id": "dimitrij-ignatenko-movable-0",
+      "saintId": "dimitrij-ignatenko",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-ilinskij-fixed-0",
+      "saintId": "dimitrij-ilinskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 2,
+        "day": 4
+      }
+    },
+    {
+      "id": "dimitrij-ilinskij-movable-0",
+      "saintId": "dimitrij-ilinskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-ilinskij-movable-1",
+      "saintId": "dimitrij-ilinskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-kazamackij-fixed-0",
+      "saintId": "dimitrij-kazamackij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 2,
+        "day": 4
+      }
+    },
+    {
+      "id": "dimitrij-kazamackij-movable-0",
+      "saintId": "dimitrij-kazamackij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников, в Бутове пострадавших",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-kazamackij-movable-1",
+      "saintId": "dimitrij-kazamackij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-kazanskij-fixed-0",
+      "saintId": "dimitrij-kazanskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 7,
+        "day": 4
+      }
+    },
+    {
+      "id": "dimitrij-kazanskij-fixed-1",
+      "saintId": "dimitrij-kazanskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Ростово-Ярославских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 5,
+        "day": 23
+      }
+    },
+    {
+      "id": "dimitrij-kazanskij-movable-0",
+      "saintId": "dimitrij-kazanskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-kasatkin-fixed-0",
+      "saintId": "dimitrij-kasatkin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 10,
+        "day": 15
+      }
+    },
+    {
+      "id": "dimitrij-kasatkin-fixed-1",
+      "saintId": "dimitrij-kasatkin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Архангельской митрополии",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 10,
+        "day": 19
+      }
+    },
+    {
+      "id": "dimitrij-kasatkin-movable-0",
+      "saintId": "dimitrij-kasatkin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-kasatkin-movable-1",
+      "saintId": "dimitrij-kasatkin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-kedrolivanskij-fixed-0",
+      "saintId": "dimitrij-kedrolivanskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 2,
+        "day": 4
+      }
+    },
+    {
+      "id": "dimitrij-kedrolivanskij-fixed-1",
+      "saintId": "dimitrij-kedrolivanskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Тамбовской митрополии",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 7,
+        "day": 28
+      }
+    },
+    {
+      "id": "dimitrij-kedrolivanskij-movable-0",
+      "saintId": "dimitrij-kedrolivanskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников, в Бутове пострадавших",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-kedrolivanskij-movable-1",
+      "saintId": "dimitrij-kedrolivanskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-kiranov-fixed-0",
+      "saintId": "dimitrij-kiranov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 12,
+        "day": 22
+      }
+    },
+    {
+      "id": "dimitrij-kiranov-fixed-1",
+      "saintId": "dimitrij-kiranov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Крымских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 12,
+        "day": 15
+      }
+    },
+    {
+      "id": "dimitrij-kiranov-fixed-2",
+      "saintId": "dimitrij-kiranov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Крымской митрополии",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 19
+      }
+    },
+    {
+      "id": "dimitrij-kiranov-movable-0",
+      "saintId": "dimitrij-kiranov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-konstantinopolskij-fixed-0",
+      "saintId": "dimitrij-konstantinopolskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 8,
+        "day": 9
+      }
+    },
+    {
+      "id": "dimitrij-kryuchkov-fixed-0",
+      "saintId": "dimitrij-kryuchkov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 9,
+        "day": 26
+      }
+    },
+    {
+      "id": "dimitrij-kryuchkov-movable-0",
+      "saintId": "dimitrij-kryuchkov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-kryuchkov-movable-1",
+      "saintId": "dimitrij-kryuchkov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-kuklin-fixed-0",
+      "saintId": "dimitrij-kuklin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 19
+      }
+    },
+    {
+      "id": "dimitrij-kuklin-movable-0",
+      "saintId": "dimitrij-kuklin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-kuklin-movable-1",
+      "saintId": "dimitrij-kuklin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Вологодских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-lebedev-fixed-0",
+      "saintId": "dimitrij-lebedev",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 14
+      }
+    },
+    {
+      "id": "dimitrij-lebedev-fixed-1",
+      "saintId": "dimitrij-lebedev",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Радонежских",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 27
+      }
+    },
+    {
+      "id": "dimitrij-lebedev-movable-0",
+      "saintId": "dimitrij-lebedev",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников, в Бутове пострадавших",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-lebedev-movable-1",
+      "saintId": "dimitrij-lebedev",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-legejdo-fixed-0",
+      "saintId": "dimitrij-legejdo",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 3,
+        "day": 10
+      }
+    },
+    {
+      "id": "dimitrij-legejdo-movable-0",
+      "saintId": "dimitrij-legejdo",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-legejdo-movable-1",
+      "saintId": "dimitrij-legejdo",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Кубанской митрополии",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-milovidov-fixed-0",
+      "saintId": "dimitrij-milovidov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 8,
+        "day": 7
+      }
+    },
+    {
+      "id": "dimitrij-milovidov-fixed-1",
+      "saintId": "dimitrij-milovidov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Рязанских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 6,
+        "day": 10
+      }
+    },
+    {
+      "id": "dimitrij-milovidov-movable-0",
+      "saintId": "dimitrij-milovidov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников, в Бутове пострадавших",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-milovidov-movable-1",
+      "saintId": "dimitrij-milovidov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-tripolickij-fixed-0",
+      "saintId": "dimitrij-tripolickij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 5,
+        "day": 28
+      }
+    },
+    {
+      "id": "dimitrij-morozov-fixed-0",
+      "saintId": "dimitrij-morozov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 8,
+        "day": 26
+      }
+    },
+    {
+      "id": "dimitrij-morozov-fixed-1",
+      "saintId": "dimitrij-morozov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Вятских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 10,
+        "day": 8
+      }
+    },
+    {
+      "id": "dimitrij-morozov-movable-0",
+      "saintId": "dimitrij-morozov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-nevedomskij-fixed-0",
+      "saintId": "dimitrij-nevedomskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 12,
+        "day": 4
+      }
+    },
+    {
+      "id": "dimitrij-nevedomskij-movable-0",
+      "saintId": "dimitrij-nevedomskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-nevedomskij-movable-1",
+      "saintId": "dimitrij-nevedomskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Тверских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-neroveckij-fixed-0",
+      "saintId": "dimitrij-neroveckij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Красноярской митрополии",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 5,
+        "day": 29
+      }
+    },
+    {
+      "id": "dimitrij-neroveckij-movable-0",
+      "saintId": "dimitrij-neroveckij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-ovechkin-fixed-0",
+      "saintId": "dimitrij-ovechkin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 1
+      }
+    },
+    {
+      "id": "dimitrij-ovechkin-movable-0",
+      "saintId": "dimitrij-ovechkin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-ovechkin-movable-1",
+      "saintId": "dimitrij-ovechkin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Пермской митрополии",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-ostroumov-fixed-0",
+      "saintId": "dimitrij-ostroumov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 8,
+        "day": 17
+      }
+    },
+    {
+      "id": "dimitrij-ostroumov-movable-0",
+      "saintId": "dimitrij-ostroumov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников, в Бутове пострадавших",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-ostroumov-movable-1",
+      "saintId": "dimitrij-ostroumov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-pavskij-fixed-0",
+      "saintId": "dimitrij-pavskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 8,
+        "day": 1
+      }
+    },
+    {
+      "id": "dimitrij-pavskij-movable-0",
+      "saintId": "dimitrij-pavskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Соборы Вологодских и Белорусских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-pavskij-movable-1",
+      "saintId": "dimitrij-pavskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-pavskij-movable-2",
+      "saintId": "dimitrij-pavskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Тверских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-peloponnesskij-fixed-0",
+      "saintId": "dimitrij-peloponnesskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 4,
+        "day": 13
+      }
+    },
+    {
+      "id": "dimitrij-plyshevskij-fixed-0",
+      "saintId": "dimitrij-plyshevskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 1,
+        "day": 8
+      }
+    },
+    {
+      "id": "dimitrij-plyshevskij-movable-0",
+      "saintId": "dimitrij-plyshevskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Белорусских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-plyshevskij-movable-1",
+      "saintId": "dimitrij-plyshevskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-priluckij-fixed-0",
+      "saintId": "dimitrij-priluckij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 2,
+        "day": 11
+      }
+    },
+    {
+      "id": "dimitrij-priluckij-fixed-1",
+      "saintId": "dimitrij-priluckij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Ростово-Ярославских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 5,
+        "day": 23
+      }
+    },
+    {
+      "id": "dimitrij-priluckij-fixed-2",
+      "saintId": "dimitrij-priluckij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Радонежских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 7,
+        "day": 6
+      }
+    },
+    {
+      "id": "dimitrij-priluckij-movable-0",
+      "saintId": "dimitrij-priluckij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Вологодских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-rozhdestvenskij-fixed-0",
+      "saintId": "dimitrij-rozhdestvenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 2,
+        "day": 6
+      }
+    },
+    {
+      "id": "dimitrij-rozhdestvenskij-fixed-1",
+      "saintId": "dimitrij-rozhdestvenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Среднеазиатского митрополичьего округа",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 8,
+        "day": 26
+      }
+    },
+    {
+      "id": "dimitrij-rozhdestvenskij-movable-0",
+      "saintId": "dimitrij-rozhdestvenskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-rozanov-march-fixed-0",
+      "saintId": "dimitrij-rozanov-march",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 3,
+        "day": 18
+      }
+    },
+    {
+      "id": "dimitrij-rozanov-march-fixed-1",
+      "saintId": "dimitrij-rozanov-march",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Биробиджанской епархии",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 6,
+        "day": 30
+      }
+    },
+    {
+      "id": "dimitrij-rozanov-march-movable-0",
+      "saintId": "dimitrij-rozanov-march",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-rozanov-march-movable-1",
+      "saintId": "dimitrij-rozanov-march",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-rozanov-october-fixed-0",
+      "saintId": "dimitrij-rozanov-october",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 9,
+        "day": 26
+      }
+    },
+    {
+      "id": "dimitrij-rozanov-october-movable-0",
+      "saintId": "dimitrij-rozanov-october",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-rozanov-october-movable-1",
+      "saintId": "dimitrij-rozanov-october",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников, в Бутове пострадавших",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-rozanov-november-fixed-0",
+      "saintId": "dimitrij-rozanov-november",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 12
+      }
+    },
+    {
+      "id": "dimitrij-rozanov-november-movable-0",
+      "saintId": "dimitrij-rozanov-november",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников, в Бутове пострадавших",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-rozanov-november-movable-1",
+      "saintId": "dimitrij-rozanov-november",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-rostovskij-fixed-0",
+      "saintId": "dimitrij-rostovskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 10,
+        "day": 28
+      }
+    },
+    {
+      "id": "dimitrij-rostovskij-fixed-1",
+      "saintId": "dimitrij-rostovskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Обретение мощей",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 9,
+        "day": 21
+      }
+    },
+    {
+      "id": "dimitrij-rostovskij-fixed-2",
+      "saintId": "dimitrij-rostovskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Ростово-Ярославских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 5,
+        "day": 23
+      }
+    },
+    {
+      "id": "dimitrij-rudakov-fixed-0",
+      "saintId": "dimitrij-rudakov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 14
+      }
+    },
+    {
+      "id": "dimitrij-rudakov-fixed-1",
+      "saintId": "dimitrij-rudakov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Владимирских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 6,
+        "day": 23
+      }
+    },
+    {
+      "id": "dimitrij-rudakov-movable-0",
+      "saintId": "dimitrij-rudakov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников, в Бутове пострадавших",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-rudakov-movable-1",
+      "saintId": "dimitrij-rudakov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-rusinov-fixed-0",
+      "saintId": "dimitrij-rusinov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 9
+      }
+    },
+    {
+      "id": "dimitrij-rusinov-movable-0",
+      "saintId": "dimitrij-rusinov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников, в Бутове пострадавших",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-rusinov-movable-1",
+      "saintId": "dimitrij-rusinov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-samopozhertvovatel-fixed-0",
+      "saintId": "dimitrij-samopozhertvovatel",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 3,
+        "day": 12
+      }
+    },
+    {
+      "id": "dimitrij-samopozhertvovatel-fixed-1",
+      "saintId": "dimitrij-samopozhertvovatel",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 10,
+        "day": 26
+      }
+    },
+    {
+      "id": "dimitrij-semenov-fixed-0",
+      "saintId": "dimitrij-semenov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 6,
+        "day": 14
+      }
+    },
+    {
+      "id": "dimitrij-semenov-movable-0",
+      "saintId": "dimitrij-semenov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-semenov-movable-1",
+      "saintId": "dimitrij-semenov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Новосибирской митрополии",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-skepsijskij-fixed-0",
+      "saintId": "dimitrij-skepsijskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 9,
+        "day": 11
+      }
+    },
+    {
+      "id": "dimitrij-smirnov-fixed-0",
+      "saintId": "dimitrij-smirnov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 8,
+        "day": 31
+      }
+    },
+    {
+      "id": "dimitrij-smirnov-movable-0",
+      "saintId": "dimitrij-smirnov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-smirnov-movable-1",
+      "saintId": "dimitrij-smirnov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-sozinov-fixed-0",
+      "saintId": "dimitrij-sozinov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 8,
+        "day": 12
+      }
+    },
+    {
+      "id": "dimitrij-sozinov-movable-0",
+      "saintId": "dimitrij-sozinov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-sozinov-movable-1",
+      "saintId": "dimitrij-sozinov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Пермской митрополии",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-solunskij-fixed-0",
+      "saintId": "dimitrij-solunskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 10,
+        "day": 26
+      }
+    },
+    {
+      "id": "dimitrij-spasskij-fixed-0",
+      "saintId": "dimitrij-spasskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 9,
+        "day": 6
+      }
+    },
+    {
+      "id": "dimitrij-spasskij-fixed-1",
+      "saintId": "dimitrij-spasskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Коми святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 1,
+        "day": 29
+      }
+    },
+    {
+      "id": "dimitrij-spasskij-movable-0",
+      "saintId": "dimitrij-spasskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-spiridonov-fixed-0",
+      "saintId": "dimitrij-spiridonov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 16
+      }
+    },
+    {
+      "id": "dimitrij-spiridonov-fixed-1",
+      "saintId": "dimitrij-spiridonov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Крымских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 12,
+        "day": 15
+      }
+    },
+    {
+      "id": "dimitrij-spiridonov-fixed-2",
+      "saintId": "dimitrij-spiridonov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Крымской митрополии",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 19
+      }
+    },
+    {
+      "id": "dimitrij-spiridonov-movable-0",
+      "saintId": "dimitrij-spiridonov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-tornara-fixed-0",
+      "saintId": "dimitrij-tornara",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 3,
+        "day": 19
+      }
+    },
+    {
+      "id": "dimitrij-troickij-presviter-fixed-0",
+      "saintId": "dimitrij-troickij-presviter",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 10,
+        "day": 21
+      }
+    },
+    {
+      "id": "dimitrij-troickij-presviter-movable-0",
+      "saintId": "dimitrij-troickij-presviter",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-troickij-presviter-movable-1",
+      "saintId": "dimitrij-troickij-presviter",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Тверских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-troickij-diakon-fixed-0",
+      "saintId": "dimitrij-troickij-diakon",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 9,
+        "day": 9
+      }
+    },
+    {
+      "id": "dimitrij-troickij-diakon-movable-0",
+      "saintId": "dimitrij-troickij-diakon",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников, в Бутове пострадавших",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-troickij-diakon-movable-1",
+      "saintId": "dimitrij-troickij-diakon",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-uglichskij-fixed-0",
+      "saintId": "dimitrij-uglichskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 5,
+        "day": 15
+      }
+    },
+    {
+      "id": "dimitrij-uglichskij-fixed-1",
+      "saintId": "dimitrij-uglichskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Перенесение мощей",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 6,
+        "day": 3
+      }
+    },
+    {
+      "id": "dimitrij-uglichskij-fixed-2",
+      "saintId": "dimitrij-uglichskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Ростово-Ярославских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 5,
+        "day": 23
+      }
+    },
+    {
+      "id": "dimitrij-uglichskij-movable-0",
+      "saintId": "dimitrij-uglichskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Московских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-uglichskij-priluckij-movable-0",
+      "saintId": "dimitrij-uglichskij-priluckij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Вологодских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-filadelfijskij-fixed-0",
+      "saintId": "dimitrij-filadelfijskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 6,
+        "day": 2
+      }
+    },
+    {
+      "id": "dimitrij-chistoserdov-fixed-0",
+      "saintId": "dimitrij-chistoserdov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 12,
+        "day": 26
+      }
+    },
+    {
+      "id": "dimitrij-chistoserdov-fixed-1",
+      "saintId": "dimitrij-chistoserdov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор святых Эстонской земли",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 11,
+        "day": 18
+      }
+    },
+    {
+      "id": "dimitrij-chistoserdov-movable-0",
+      "saintId": "dimitrij-chistoserdov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-chistoserdov-movable-1",
+      "saintId": "dimitrij-chistoserdov",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Санкт-Петербургских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-shishokin-fixed-0",
+      "saintId": "dimitrij-shishokin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "День памяти",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 9,
+        "day": 27
+      }
+    },
+    {
+      "id": "dimitrij-shishokin-fixed-1",
+      "saintId": "dimitrij-shishokin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Казанских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 10,
+        "day": 4
+      }
+    },
+    {
+      "id": "dimitrij-shishokin-movable-0",
+      "saintId": "dimitrij-shishokin",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор новомучеников и исповедников Церкви Русской",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-yurevich-movable-0",
+      "saintId": "dimitrij-yurevich",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Тверских святых",
+      "rule": {
+        "kind": "unresolved",
+        "note": "Источник отмечает дату как переходящую. Правило ещё не сверено; в календарную сетку не включено."
+      }
+    },
+    {
+      "id": "dimitrij-yurevskij-fixed-0",
+      "saintId": "dimitrij-yurevskij",
+      "traditionId": "russian-orthodox",
+      "sourceId": "azbyka-directory",
+      "label": "Собор Владимирских святых",
+      "rule": {
+        "kind": "fixed",
+        "calendar": "julian",
+        "month": 6,
+        "day": 23
+      }
+    }
+  ]
+}

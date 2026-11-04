@@ -1,0 +1,33 @@
+{
+  "name": "saints-life",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1 --port 3100",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1 --port 3100",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "test:e2e": "npm run build && playwright test",
+    "check": "npm run lint && npm run typecheck && npm test",
+    "data:build": "tsx scripts/build-directory.ts",
+    "sources:export": "tsx scripts/export-sources.ts",
+    "sources:archive": "python3 scripts/archive-sources.py"
+  },
+  "dependencies": {
+    "next": "16.4.5",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "@types/node": "26.6.6",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.4.5",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3"
+  }
+}
