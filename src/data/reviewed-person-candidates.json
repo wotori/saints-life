@@ -67781,5 +67781,44 @@
     "rejectedSaintIds": [
       "ermogen-moskovskij-patriarh"
     ]
+  },
+  {
+    "book": 4,
+    "page": 45,
+    "offset": 925,
+    "text": "Еленой",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "9d949fb91d04aa2ffe722470626d7fc31e375accbd07109ead8b48761aa4edd0",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elena-mat-stefana-urosha"
+    ],
+    "note": "Мать Стефана Уроша V, супруга Стефана Душана. Родство прямо указано в полном контексте книжных страниц. Почитание подтверждено разделом о святой Елене на сайте церковной общины Котора. Архив: reviews/jelena-mother-of-uros.json."
+  },
+  {
+    "book": 4,
+    "page": 46,
+    "offset": 1787,
+    "text": "Елену",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "6a09ce39b526c66b0feb7816e152108b5812a874a178507f95b4e38b3d973c63",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elena-mat-stefana-urosha"
+    ],
+    "note": "Мать Стефана Уроша V, супруга Стефана Душана. Родство прямо указано в полном контексте книжных страниц. Почитание подтверждено разделом о святой Елене на сайте церковной общины Котора. Архив: reviews/jelena-mother-of-uros.json."
+  },
+  {
+    "book": 4,
+    "page": 47,
+    "offset": 252,
+    "text": "Елена",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "0572fd94ecceaa082c644d242ecb5ba980e93fd2e2fc0b3c2d984d75cdeb1b08",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elena-mat-stefana-urosha"
+    ],
+    "note": "Мать Стефана Уроша V, супруга Стефана Душана. Родство прямо указано в полном контексте книжных страниц. Почитание подтверждено разделом о святой Елене на сайте церковной общины Котора. Архив: reviews/jelena-mother-of-uros.json."
   }
 ]

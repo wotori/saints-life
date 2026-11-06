@@ -21,7 +21,7 @@ test('home, search aliases, pagination, clear filters and missing results', asyn
   await page.getByRole('button', { name: 'Искать', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Пока не нашли это имя' })).toBeVisible();
   await page.getByRole('link', { name: 'Сбросить фильтры' }).click();
-  await expect(page.locator('.results-bar')).toContainText('2468');
+  await expect(page.locator('.results-bar')).toContainText('2469');
   await expect(page.getByRole('searchbox', { name: 'Поиск святых' })).toHaveValue('');
   await expect(page.getByLabel('Традиция', { exact: true })).toHaveValue('');
   await expect(page.getByText('ИМЕНА В ПЕЧАТНЫХ УКАЗАТЕЛЯХ', { exact: false })).toBeVisible();
@@ -260,7 +260,7 @@ test('sources, actual 404 status and responsive layouts', async ({ page }, testI
     if (route === '/' || route.startsWith('/calendar') || route.includes('solunskij')) await page.screenshot({ path: `test-results/${testInfo.project.name}-${route === '/' ? 'home' : route.startsWith('/calendar') ? 'calendar' : 'reader'}.png`, fullPage: true });
   }
   await page.goto('/sources');
-  await expect(page.locator('.source-row')).toHaveCount(561);
+  await expect(page.locator('.source-row')).toHaveCount(562);
   const response = await page.goto('/saints/no-such-saint');
   expect(response?.status()).toBe(404);
   await expect(page.getByRole('heading', { name: 'Этот лист пока пуст.' })).toBeVisible();
@@ -577,6 +577,25 @@ test('Armenian veneration is searchable without inheriting Russian collective me
   await expect(collective).toHaveCount(0);
   await page.getByLabel('Традиция календаря').selectOption('russian-orthodox');
   await expect(collective).toContainText('120 мучеников в Персии');
+});
+
+test('Serbian source is visible and its calendar does not inherit another tradition', async ({ page }) => {
+  await page.goto('/saints?tradition=serbian-orthodox');
+  await expect(page.getByLabel('Традиция', { exact: true })).toHaveValue('serbian-orthodox');
+  const card = page.locator('.saint-card').filter({ hasText: 'Елена, мать Стефана Уроша V' });
+  await expect(card).toHaveCount(1);
+  await card.click();
+  await expect(page.locator('.veneration-claim')).toHaveCount(1);
+  await expect(page.locator('.veneration-claim')).toContainText('Сербская православная церковь');
+  await expect(page.getByText('Фиксированная дата в указателе не установлена.', { exact: true })).toBeVisible();
+  await page.goto('/calendar?date=2026-12-15&tradition=russian-orthodox');
+  await expect(page.locator('.day-panel .calendar-saint').filter({ hasText: 'Стефан Урош Сербский' })).toHaveCount(1);
+  await page.getByLabel('Традиция календаря').selectOption('serbian-orthodox');
+  await expect(page.locator('.day-panel .calendar-saint')).toHaveCount(0);
+  await page.reload();
+  await expect(page.getByLabel('Традиция календаря')).toHaveValue('serbian-orthodox');
+  await page.goto('/calendar?date=2026-04-19&tradition=serbian-orthodox');
+  await expect(page.getByRole('region', { name: 'Коллективные памяти' })).toHaveCount(0);
 });
 
 test('Gabriel card opens both distinct complete book sections', async ({ page }) => {
