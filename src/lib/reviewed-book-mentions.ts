@@ -1,5 +1,7 @@
 /** Short entries without display headings are kept separate from full lives. */
 const mentions = [
+  {"book": 3, "page": 110, "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce", "anchor": " Павла из своей среды. Тогда епископ\nСредецкий? Протоген, преподобный Кудровий и другие сказали во-\nсточным:\n\n— Мы и собрались сюда именно для рассуждения — не только о\nединосущии Сына Отцу, но и о деле Афанаси", "saintIds": ["osija-korduvijskij"]},
+
   {"book": 3, "page": 455, "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce", "anchor": "анки его были перенесены в Констан-\nтинополь и здесь погребены в церкви святого Евандра“.\n\nУФ\n\nо\n\n^ 215% я\n\n' Царица Феодора известна в истории своими заслугами в пользу Православия.\nКогд", "saintIds": ["evandr-svjatoj-konstantinopolskogo-hrama"]},
   {"book": 11, "page": 13, "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df", "anchor": "пре-\nжде всего некоторое время прожил при устроенной им церкви, име-\nновавшейся Евандрийской. Затем, удалившись в уединенное без-\nмолвное место, устроил себе здесь небольшую келию, в которой и", "saintIds": ["evandr-svjatoj-konstantinopolskogo-hrama"]},
 

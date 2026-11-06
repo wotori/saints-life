@@ -68275,5 +68275,32 @@
       "evandr-svjatoj-konstantinopolskogo-hrama"
     ],
     "note": "Посвящение храма святому Евандру, подтверждено статьёй Православной энциклопедии 186885. Не дата памяти Лазаря или Петра; житие Евандра неизвестно. Исследование: reviews/evander-church.json."
+  },
+  {
+    "book": 3,
+    "page": 110,
+    "offset": 1814,
+    "text": "Кудровий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "8e1465ffd148454df220cd5aa9c4a4033b34efc22b32af222f8bf2c0f52379cd",
+    "decision": "identity-linked",
+    "saintIds": [
+      "osija-korduvijskij"
+    ],
+    "note": "Редакционное отождествление по параллельному рассказу Сократа Схоластика, Церковная история II.20: рядом с Протогеном Сардикийским назван Осия Кордубский, защищающий участие Афанасия и Павла. Книжное написание Кудровий сохранено; это не новое имя в календаре. Исследование: reviews/kudroviy-sardica-pending.json."
+  },
+  {
+    "book": 3,
+    "page": 110,
+    "offset": 1792,
+    "text": "Протоген",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "8e1465ffd148454df220cd5aa9c4a4033b34efc22b32af222f8bf2c0f52379cd",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "rejectedSaintIds": [
+      "protogen-karrijskij"
+    ],
+    "note": "В книге прямо указан епископ Средецкий, то есть Сардикийский. Это не Протоген Каррийский. Подтверждено параллельным рассказом Сократа Схоластика II.20."
   }
 ]
