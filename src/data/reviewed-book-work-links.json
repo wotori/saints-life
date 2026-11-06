@@ -85,7 +85,8 @@
         "stefan-za-ikony-28-nojabrja",
         "grigorij-pervyj-za-ikony-28-nojabrja",
         "grigorij-vtoroj-za-ikony-28-nojabrja",
-        "ioann-za-ikony-28-nojabrja"
+        "ioann-za-ikony-28-nojabrja",
+        "stefan-novyj-ispovednik"
       ]
     },
     {
@@ -9902,7 +9903,9 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ОТЦА НАШЕГО АКАКИЯ СИНАЙСКОГО",
       "saintIds": [
-        "akakij-sinajskij"
+        "akakij-sinajskij",
+        "ioann-lestvichnik",
+        "ioann-molchalnik-kolonijskij"
       ]
     },
     {
