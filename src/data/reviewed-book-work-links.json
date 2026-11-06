@@ -179,7 +179,13 @@
         "tertij-apostol",
         "mark-plemjannik-varnavy",
         "iust-elevferopolskij-apostol",
-        "artema-listrijskij-apostol"
+        "artema-listrijskij-apostol",
+        "pavel-apostol-pervoverhovnyj",
+        "sosipatr-apostol",
+        "varnava-apostol",
+        "aristarh-apostol",
+        "tit-kritskij-apostol",
+        "tihik-apostol"
       ]
     },
     {
@@ -188,7 +194,8 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО МАРКИАНА,",
       "saintIds": [
-        "markian-sirakuzskij"
+        "markian-sirakuzskij",
+        "petr-apostol-pervoverhovnyj"
       ]
     },
     {
@@ -10720,7 +10727,8 @@
         "zinovija-egejskaja",
         "klavdij-kilikijskij",
         "asterij-kilikijskij",
-        "neon-kilikijskij"
+        "neon-kilikijskij",
+        "david-car-prorok"
       ]
     },
     {
