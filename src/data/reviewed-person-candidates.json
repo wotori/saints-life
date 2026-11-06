@@ -68731,5 +68731,46 @@
       "dimitrij-solunskij"
     ],
     "note": "Посвящение Печского храма Димитрию Солунскому подтверждено полным материалом СПЦ: https://www.spc.rs/sr/news/patrijarh/-/1220.pecka-patrijarsija-%25E2%2580%2593-cuvar-nase-buducnosti.html . Архив: reviews/daniel-church-dedications.json. Это упоминание, не полное житие."
+  },
+  {
+    "book": 1,
+    "page": 9,
+    "offset": 464,
+    "text": "Климеин",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "dcf0353c46c495cba0a1bd84d7ab5025df2525cb2ff3469193be295926eafba6",
+    "decision": "identity-linked",
+    "saintIds": [
+      "kliment-rimskij-papa"
+    ],
+    "note": "Написание сохранено по OCR и скану PDF 9 (печатная с. 8). Контекст назначения писцов в округах Рима сопоставлен с рассказом о Клименте Римском в книге 3, PDF 668. Редакционное отождествление, без глобального псевдонима и исправления оригинала. Архив: reviews/roman-introduction-and-boniface.json."
+  },
+  {
+    "book": 7,
+    "page": 330,
+    "offset": 1463,
+    "text": "Бонифатия",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "38d751176ca613400efdeb3a3eae8f7f0bd8dd0ea7629940cef71e530b2e261e",
+    "decision": "identity-linked",
+    "saintIds": [
+      "vonifatij-tarsijskij"
+    ],
+    "note": "Примечание о погребении Алексия в храме на Авентине. Идентичность патрона подтверждена статьёй Августина Соколовски: https://cathedral.kz/ru/articles/svyatoy-muchenik-vonifatiy . Не епископ Ферентийский и не правитель Тавромении. Архив: reviews/roman-introduction-and-boniface.json."
+  },
+  {
+    "book": 11,
+    "page": 178,
+    "offset": 471,
+    "text": "Бонифатий",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "61e4051fa6ae38471e31c7cfa8db5b4e5ac59a4357a3d5886186c3d398b4c983",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "rejectedSaintIds": [
+      "vonifatij-tarsijskij",
+      "vonifatij-ferentijskij"
+    ],
+    "note": "Правитель Тавромении, крещённый Панкратием; не мученик Тарсийский и не епископ Ферентийский. Крещение не доказывает отдельную память святого. Архив: reviews/roman-introduction-and-boniface.json."
   }
 ]
