@@ -207,8 +207,8 @@ test('untrusted calendar dates are validated, not silently normalized', () => {
 });
 
 test('Dmitry and Dimitry aliases and diacritics find the same matching entries', () => {
-  assert.equal(searchSaints({ q: 'Дмитрий' }).length, 74);
-  assert.equal(searchSaints({ q: 'Дими́трий' }).length, 74);
+  assert.equal(searchSaints({ q: 'Дмитрий' }).length, 75);
+  assert.equal(searchSaints({ q: 'Дими́трий' }).length, 75);
   assert.equal(searchSaints({ q: 'Дмитрий Солунский' })[0].id, 'dimitrij-solunskij');
   assert.equal(searchSaints({ q: 'неизвестноеимя' }).length, 0);
 });
