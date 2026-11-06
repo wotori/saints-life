@@ -69487,5 +69487,33 @@
       "makarij-moskovskij-mitropolit"
     ],
     "note": "Проверено по полному житию Иоанна Новгородского и внешнему источнику карточки. Доказательства: reviews/john-novgorod-person-coverage.json."
+  },
+  {
+    "book": 1,
+    "page": 203,
+    "offset": 538,
+    "text": "На-\nфана",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "d384328655e9feb07b6a662afeef0944ef49fde993c857be3ef54285dc10e0d4",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "rejectedSaintIds": [
+      "nafan-prorok"
+    ],
+    "note": "Родословие Иоакима: прямо назван сын Давида, а не пророк Нафан. Отвержена только предложенная личность пророка; вопрос об отдельной карточке сына Давида остаётся открытым."
+  },
+  {
+    "book": 1,
+    "page": 206,
+    "offset": 1735,
+    "text": "Соломон",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "9f77a6e5900cae87e3edeaf87554d71b82715b1f991a270b50dc7bc6bcb31f23",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "rejectedSaintIds": [
+      "solomon-tsar-prorok"
+    ],
+    "note": "В цитате Дамаскина сразу дано пояснение: Премудрый Творец мира. Это богословский образ, не буквальное действие царя Соломона. Другие буквальные упоминания царя в том же произведении остаются связанными."
   }
 ]
