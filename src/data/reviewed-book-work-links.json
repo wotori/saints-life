@@ -426,7 +426,12 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО ПРЕПОДОБНОМУЧЕНИКА АНДРЕЯ КРИТСКОГО",
       "saintIds": [
-        "andrej-kritskij-prepodobnomuchenik"
+        "andrej-kritskij-prepodobnomuchenik",
+        "konstantin-velikij-imperator",
+        "david-car-prorok",
+        "mamant-kesarijskij",
+        "moisej-prorok-bogovidec",
+        "iosif-pesnopisec"
       ]
     },
     {
@@ -435,7 +440,16 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ПРОРОКА ОСИИ",
       "saintIds": [
-        "osija-prorok"
+        "osija-prorok",
+        "ezekija-tsar-iudejskij",
+        "mihej-morasfitjanin",
+        "amos-prorok",
+        "isaija-prorok",
+        "efrem-sirin",
+        "aaron-pervosvjashhennik",
+        "matfej-apostol-evangelist",
+        "iakov-praotec",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
@@ -448,7 +462,12 @@
         "damian-aravijskij",
         "leontij-brat-bessrebrenikov",
         "anfim-brat-bessrebrenikov",
-        "evtropij-brat-bessrebrenikov"
+        "evtropij-brat-bessrebrenikov",
+        "kosma-azijskij",
+        "damian-azijskij",
+        "feodotija-mat-bessrebrenikov",
+        "kosma-rimskij-bessrebrenik",
+        "damian-rimskij-bessrebrenik"
       ]
     },
     {
@@ -457,7 +476,10 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ПРАВЕДНОГО ЛАЗАРЯ ЧЕТВЕРОДНЕВНОГО",
       "saintIds": [
-        "lazar-chetverodnevnyj"
+        "lazar-chetverodnevnyj",
+        "marfa-sestra-lazarja",
+        "marija-sestra-lazarja",
+        "presvjataja-bogorodica"
       ]
     },
     {
