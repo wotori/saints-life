@@ -10427,7 +10427,11 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОЙ ФЕОКТИСТЫ",
       "saintIds": [
-        "feoktista-lesboskaja"
+        "feoktista-lesboskaja",
+        "presvjataja-bogorodica",
+        "dimitrij-rostovskij",
+        "ioann-zlatoust",
+        "ekaterina-aleksandrijskaja"
       ]
     },
     {
@@ -10436,7 +10440,12 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ИОАННА КОЛОВА",
       "saintIds": [
-        "ioann-kolov"
+        "ioann-kolov",
+        "pimen-velikij",
+        "arsenij-velikij",
+        "feodosij-i-velikij-imperator",
+        "taisija-blazhennaja",
+        "paisij-velikij"
       ]
     },
     {
@@ -10446,7 +10455,8 @@
       "expectedHeading": "ПАМЯТЬ СВЯТЫХ МУЧЕНИКОВ ОНИСИФОРА и ПОРФИРИЯ",
       "saintIds": [
         "onisifor-pangianskij",
-        "porfirij-s-onisiforom"
+        "porfirij-s-onisiforom",
+        "iosif-pesnopisec"
       ]
     },
     {
