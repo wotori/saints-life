@@ -9481,7 +9481,12 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО СТЕФАНА НОВОСИЯТЕЛЯ!",
       "saintIds": [
-        "stefan-novosijatel"
+        "stefan-novosijatel",
+        "stefan-pervomuchenik",
+        "mefodij-konstantinopolskij-patriarh",
+        "petr-apostol-pervoverhovnyj",
+        "antipa-pergamskij",
+        "feodosij-i-velikij-imperator"
       ]
     },
     {
@@ -9501,7 +9506,11 @@
       "saintIds": [
         "mina-aleksandrijskij-krasnorechivyj",
         "ermogen-aleksandrijskij",
-        "evgraf-s-minoj"
+        "evgraf-s-minoj",
+        "konstantin-velikij-imperator",
+        "pavel-apostol-pervoverhovnyj",
+        "tit-kritskij-apostol",
+        "iosif-pesnopisec"
       ]
     },
     {
@@ -9519,7 +9528,9 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО",
       "saintIds": [
-        "foma-defurkin"
+        "foma-defurkin",
+        "ioann-bogoslov",
+        "petr-apostol-pervoverhovnyj"
       ]
     },
     {
