@@ -31,6 +31,18 @@ export function sectionHeadings(body: string): SectionHeading[] {
   const result: SectionHeading[] = [];
   for (let i = 0; i < lines.length; i++) {
     const first = lines[i].trim().replace(/^_\s+(?=[А-ЯЁ])/u, '');
+    // Praise sermons have a sentence-case label, display subject and author line.
+    // Require all three so running headers and prose cannot split a work.
+    if (first === 'Похвальное слово') {
+      const subject = lines[i + 1]?.trim() ?? '';
+      const author = lines[i + 2]?.trim() ?? '';
+      if (/^СВЯТОМУ АПОСТОЛУ [А-ЯЁ]+(?: [А-ЯЁ]+)*$/u.test(subject)
+        && /^святого [А-ЯЁ][а-яё]+(?: [А-ЯЁ][а-яё]+){1,2}$/u.test(author)) {
+        result.push({ offset: offsets[i], title: [first, subject, author].join(' ') });
+        i += 2;
+      }
+      continue;
+    }
     if (!/^[А-ЯЁ]/u.test(first) || !headingStart.test(first)) continue;
     // An author line is a heading only when followed by a separate display subject.
     // This excludes running headers, which include a page number or the subject inline.

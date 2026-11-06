@@ -39,3 +39,16 @@ test('uppercase sentence ending does not truncate the Agathopous and Theodulus a
   }, 74, 'Феодул'), { page: 73, section: 0 });
   assert.equal(sectionHeadings('ЖИЗНЬ\nСВЯТОГО ПАВЛА\n\nРассказ.').length, 1);
 });
+
+test('praise sermon is separate from the preceding life and retains its author', () => {
+  const title = 'Похвальное слово\nСВЯТОМУ АПОСТОЛУ АНДРЕЮ ПЕРВОЗВАННОМУ\nсвятого Иоанна Златоустого';
+  const body = 'Конец жития. Аминь.\n\n' + title + '\n\nКрепка сеть апостольского ловления.';
+  assert.deepEqual(sectionHeadings(body), [{ offset: body.indexOf('Похвальное'), title: title.replaceAll('\n', ' ') }]);
+  assert.equal(body.slice(0, sectionHeadings(body)[0].offset).trim(), 'Конец жития. Аминь.');
+  for (const text of [
+    'Похвальное слово Андрею Первозванному 771\n\nТекст.',
+    'Похвальное слово\nСВЯТОМУ АПОСТОЛУ АНДРЕЮ ПЕРВОЗВАННОМУ\nОбычное предложение.',
+    'Похвальное слово\nСвятому апостолу Андрею\nсвятого Иоанна Златоустого',
+    title.replace('святого Иоанна Златоустого', 'святого Иоанна Златоустого 770'),
+  ]) assert.deepEqual(sectionHeadings(text), []);
+});
