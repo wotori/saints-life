@@ -10321,7 +10321,18 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ СВЯТОГО АПОСТОЛА ФИЛИППА",
       "saintIds": [
-        "filipp-apostol-iz-dvenadcati"
+        "filipp-apostol-iz-dvenadcati",
+        "petr-apostol-pervoverhovnyj",
+        "andrej-pervozvannyj",
+        "moisej-prorok-bogovidec",
+        "iosif-obruchnik",
+        "aaron-pervosvjashhennik",
+        "konstantin-velikij-imperator",
+        "varfolomej-apostol",
+        "mariamna-sestra-filippa",
+        "ioann-bogoslov",
+        "luka-apostol-evangelist",
+        "presvjataja-bogorodica"
       ]
     },
     {
