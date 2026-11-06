@@ -69383,5 +69383,109 @@
       "vasilij-glubokorechenskij"
     ],
     "note": "Основатель Глубокореченской обители в примечании к памяти Луки; статья Православной энциклопедии 150499 подтверждает личность. Не Василий Великий."
+  },
+  {
+    "book": 1,
+    "page": 189,
+    "offset": 232,
+    "text": "Гавриил",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "462305ac6643d3519cff1c96f2a2378af19685df1ec0f9fbcf999e3f149af17c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "gavriil-grigorij-novgorodskij"
+    ],
+    "note": "Проверено по полному житию Иоанна Новгородского и внешнему источнику карточки. Доказательства: reviews/john-novgorod-person-coverage.json."
+  },
+  {
+    "book": 1,
+    "page": 189,
+    "offset": 763,
+    "text": "Гавриилом",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "462305ac6643d3519cff1c96f2a2378af19685df1ec0f9fbcf999e3f149af17c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "gavriil-grigorij-novgorodskij"
+    ],
+    "note": "Проверено по полному житию Иоанна Новгородского и внешнему источнику карточки. Доказательства: reviews/john-novgorod-person-coverage.json."
+  },
+  {
+    "book": 1,
+    "page": 189,
+    "offset": 1292,
+    "text": "Гавриил",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "462305ac6643d3519cff1c96f2a2378af19685df1ec0f9fbcf999e3f149af17c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "gavriil-grigorij-novgorodskij"
+    ],
+    "note": "Проверено по полному житию Иоанна Новгородского и внешнему источнику карточки. Доказательства: reviews/john-novgorod-person-coverage.json."
+  },
+  {
+    "book": 1,
+    "page": 191,
+    "offset": 441,
+    "text": "Гавриил",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "d173950b31a9a73ad80f996ac5728e23ebf1d6849a1d0567a3b961846a161862",
+    "decision": "identity-linked",
+    "saintIds": [
+      "gavriil-grigorij-novgorodskij"
+    ],
+    "note": "Проверено по полному житию Иоанна Новгородского и внешнему источнику карточки. Доказательства: reviews/john-novgorod-person-coverage.json."
+  },
+  {
+    "book": 1,
+    "page": 191,
+    "offset": 451,
+    "text": "Григорием",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "d173950b31a9a73ad80f996ac5728e23ebf1d6849a1d0567a3b961846a161862",
+    "decision": "identity-linked",
+    "saintIds": [
+      "gavriil-grigorij-novgorodskij"
+    ],
+    "note": "Проверено по полному житию Иоанна Новгородского и внешнему источнику карточки. Доказательства: reviews/john-novgorod-person-coverage.json."
+  },
+  {
+    "book": 1,
+    "page": 199,
+    "offset": 719,
+    "text": "Григорий",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "dd54abf47ff80057c83f817e0fe23843d7df7134cb208908ffe0934856e30ece",
+    "decision": "identity-linked",
+    "saintIds": [
+      "gavriil-grigorij-novgorodskij"
+    ],
+    "note": "Проверено по полному житию Иоанна Новгородского и внешнему источнику карточки. Доказательства: reviews/john-novgorod-person-coverage.json."
+  },
+  {
+    "book": 1,
+    "page": 191,
+    "offset": 612,
+    "text": "Аркадий",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "d173950b31a9a73ad80f996ac5728e23ebf1d6849a1d0567a3b961846a161862",
+    "decision": "identity-linked",
+    "saintIds": [
+      "arkadij-novgorodskij"
+    ],
+    "note": "Проверено по полному житию Иоанна Новгородского и внешнему источнику карточки. Доказательства: reviews/john-novgorod-person-coverage.json."
+  },
+  {
+    "book": 1,
+    "page": 199,
+    "offset": 1567,
+    "text": "Макарием",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "dd54abf47ff80057c83f817e0fe23843d7df7134cb208908ffe0934856e30ece",
+    "decision": "identity-linked",
+    "saintIds": [
+      "makarij-moskovskij-mitropolit"
+    ],
+    "note": "Проверено по полному житию Иоанна Новгородского и внешнему источнику карточки. Доказательства: reviews/john-novgorod-person-coverage.json."
   }
 ]

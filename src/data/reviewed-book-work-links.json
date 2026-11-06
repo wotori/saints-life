@@ -1736,7 +1736,20 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ОТЦА НАШЕГО ИОАННА,",
       "saintIds": [
-        "ioann-novgorodskij-arhiepiskop"
+        "ioann-novgorodskij-arhiepiskop",
+        "presvjataja-bogorodica",
+        "arkadij-novgorodskij",
+        "gavriil-grigorij-novgorodskij",
+        "ilija-fesvitjanin-prorok",
+        "feodor-studit",
+        "ananija-vavilonskij",
+        "azarija-vavilonskij",
+        "misail-vavilonskij",
+        "daniil-prorok",
+        "lazar-chetverodnevnyj",
+        "stefan-pervomuchenik",
+        "evfimij-novgorodskij",
+        "makarij-moskovskij-mitropolit"
       ]
     },
     {
