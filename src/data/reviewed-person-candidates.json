@@ -67276,5 +67276,239 @@
       "eva-pramater"
     ],
     "note": "Богословское сопоставление праматери Евы с мироносицами, не утверждение её личного присутствия при воскресении. Сверено с полным контекстом страницы и словом 45 Григория Богослова, раздел XXIV. Архив: reviews/eve-myrrhbearers-typology.json."
+  },
+  {
+    "book": 3,
+    "page": 557,
+    "offset": 1424,
+    "text": "Иероним",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "899df16a5ef37a76a2414d26812d27d6662c14283bda96bd4b72c6f3f0acec34",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "В сказании о Введении цитируется блаженный Иероним. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 4,
+    "page": 7,
+    "offset": 873,
+    "text": "Иероним",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "7045618c1abd33ccf140b45a76c746c681057697ce062d69ffd21869984c212e",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Толкователь Наума и предания о селении Елкоша. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 4,
+    "page": 7,
+    "offset": 1081,
+    "text": "Иеронимом",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "7045618c1abd33ccf140b45a76c746c681057697ce062d69ffd21869984c212e",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Толкователь Наума и предания о селении Елкоша. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 4,
+    "page": 433,
+    "offset": 1836,
+    "text": "Иероним",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "d4c8896887b0b10755d6d4f97ef138cf20e52e4710aa1fea08e772d90a45bb71",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Блаженный Иероним назван среди толковников книги Даниила. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 4,
+    "page": 650,
+    "offset": 2231,
+    "text": "Иероним",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "3e2437a9210b416b216c305d89c4b050c397d1eeebc8bb29ac193b8878aad0fe",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Примечание прямо описывает вифлеемского подвижника и толкователя, скончавшегося в 420 году. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 4,
+    "page": 673,
+    "offset": 330,
+    "text": "Иероним",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "085a88b86eacb5035835f2c13babb4da9c38d772e9dd961a2d9dd36e43ca77e8",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Иероним как автор послания к Фабиоле, которая в примечании названа его ученицей. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 4,
+    "page": 673,
+    "offset": 2358,
+    "text": "Иеронима",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "085a88b86eacb5035835f2c13babb4da9c38d772e9dd961a2d9dd36e43ca77e8",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Иероним как автор послания к Фабиоле, которая в примечании названа его ученицей. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 4,
+    "page": 682,
+    "offset": 2117,
+    "text": "Иероним",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "d7a9cd0aded7797cbf87275eceafbe3327f07347663e3cd5655e406468ccdc4c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Иероним назван вместе с Иустином, Златоустом и Григорием Нисским среди толкователей рассказа о Рождестве. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 5,
+    "page": 204,
+    "offset": 65,
+    "text": "Иероним",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "cadd556e7fe8fc5d62be53a46f341d8718677487574ff00fd8f897376ff8e4c2",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Блаженный Иероним как переводчик Священного Писания. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 5,
+    "page": 538,
+    "offset": 2199,
+    "text": "Иероним",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "a2e52f6923f4917c0a2ac0a641155ab6371762561b9a9d2f24d42221ca6e1e6d",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Блаженный Иероним как автор описания Нитрийской пустыни. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 6,
+    "page": 366,
+    "offset": 2545,
+    "text": "Иеронима",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "58a7c4eb09a014699c9028fecc783d9610599bea16f9a7921d7620bf74d90861",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Прямая библиографическая ссылка на творения Иеронима Стридонского. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 6,
+    "page": 367,
+    "offset": 1348,
+    "text": "Иероним",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "8f8a8635cb804910fd61bde7432228430ce574bba9e0f2154e71f6c0c11bdd18",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Святой Иероним и его Хроника как источник о ссылке Евстафия Антиохийского. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 6,
+    "page": 367,
+    "offset": 1418,
+    "text": "Иеронима",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "8f8a8635cb804910fd61bde7432228430ce574bba9e0f2154e71f6c0c11bdd18",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Святой Иероним и его Хроника как источник о ссылке Евстафия Антиохийского. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 6,
+    "page": 369,
+    "offset": 93,
+    "text": "Иероним",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "e6982743f419882e05d9e1337c9af0e7f5f534e22e52b2f4ef7bcde81d88bb7c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Примечание прямо называет Иеронима Стридонского, приводит биографию и ссылки на письма. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 6,
+    "page": 369,
+    "offset": 481,
+    "text": "Иероним",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "e6982743f419882e05d9e1337c9af0e7f5f534e22e52b2f4ef7bcde81d88bb7c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Примечание прямо называет Иеронима Стридонского, приводит биографию и ссылки на письма. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 6,
+    "page": 369,
+    "offset": 624,
+    "text": "Иероним",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "e6982743f419882e05d9e1337c9af0e7f5f534e22e52b2f4ef7bcde81d88bb7c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Примечание прямо называет Иеронима Стридонского, приводит биографию и ссылки на письма. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 6,
+    "page": 369,
+    "offset": 873,
+    "text": "Иероним",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "e6982743f419882e05d9e1337c9af0e7f5f534e22e52b2f4ef7bcde81d88bb7c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Примечание прямо называет Иеронима Стридонского, приводит биографию и ссылки на письма. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 6,
+    "page": 369,
+    "offset": 1021,
+    "text": "Иеронима",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "e6982743f419882e05d9e1337c9af0e7f5f534e22e52b2f4ef7bcde81d88bb7c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ieronim-stridonskij"
+    ],
+    "note": "Примечание прямо называет Иеронима Стридонского, приводит биографию и ссылки на письма. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
   }
 ]
