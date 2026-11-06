@@ -909,7 +909,10 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОГО АПОСТОЛА ФОМЫ",
       "saintIds": [
-        "foma-apostol-iz-dvenadcati"
+        "foma-apostol-iz-dvenadcati",
+        "pelagija-kreshhennaja-fomoj",
+        "presvjataja-bogorodica",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
