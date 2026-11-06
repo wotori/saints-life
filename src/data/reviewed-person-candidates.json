@@ -67820,5 +67820,135 @@
       "elena-mat-stefana-urosha"
     ],
     "note": "Мать Стефана Уроша V, супруга Стефана Душана. Родство прямо указано в полном контексте книжных страниц. Почитание подтверждено разделом о святой Елене на сайте церковной общины Котора. Архив: reviews/jelena-mother-of-uros.json."
+  },
+  {
+    "book": 3,
+    "page": 249,
+    "offset": 293,
+    "text": "Никодиму",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "706dccc2e98160e3328be9ed95390c29c1a233c874d351da79d8931e2e040eae",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nikodim-i-serbskij"
+    ],
+    "note": "Хиландарский игумен, преемник Саввы III на Сербской кафедре и предшественник Даниила. В книге указана смерть 13 мая 1323 года, церковная публикация относит её к 1324 году. Расхождение сохранено; ни дата смерти, ни день юбилейного вечера не назначены ежегодной памятью. Полный контекст: reviews/three-nicodemus-identities.json."
+  },
+  {
+    "book": 3,
+    "page": 249,
+    "offset": 454,
+    "text": "Никодима",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "706dccc2e98160e3328be9ed95390c29c1a233c874d351da79d8931e2e040eae",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nikodim-i-serbskij"
+    ],
+    "note": "Хиландарский игумен, преемник Саввы III на Сербской кафедре и предшественник Даниила. В книге указана смерть 13 мая 1323 года, церковная публикация относит её к 1324 году. Расхождение сохранено; ни дата смерти, ни день юбилейного вечера не назначены ежегодной памятью. Полный контекст: reviews/three-nicodemus-identities.json."
+  },
+  {
+    "book": 3,
+    "page": 250,
+    "offset": 482,
+    "text": "Никодимом",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "732357b5fb5e20606d014be023dff8928f20c80e2c3ca5564bbf0accfa24e111",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nikodim-i-serbskij"
+    ],
+    "note": "Хиландарский игумен, преемник Саввы III на Сербской кафедре и предшественник Даниила. В книге указана смерть 13 мая 1323 года, церковная публикация относит её к 1324 году. Расхождение сохранено; ни дата смерти, ни день юбилейного вечера не назначены ежегодной памятью. Полный контекст: reviews/three-nicodemus-identities.json."
+  },
+  {
+    "book": 4,
+    "page": 543,
+    "offset": 1210,
+    "text": "Никодиму",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "87b1bd257614e60c053925dc8a64e1307b3b03b3cfccb81bd8785e8306146730",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nikodim-i-serbskij"
+    ],
+    "note": "Хиландарский игумен, преемник Саввы III на Сербской кафедре и предшественник Даниила. В книге указана смерть 13 мая 1323 года, церковная публикация относит её к 1324 году. Расхождение сохранено; ни дата смерти, ни день юбилейного вечера не назначены ежегодной памятью. Полный контекст: reviews/three-nicodemus-identities.json."
+  },
+  {
+    "book": 4,
+    "page": 545,
+    "offset": 174,
+    "text": "Никодим",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "1b1a31b7c45752ce96a33c39393a73b0d40bb0ce41862bd885e64a026c6c2dd2",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nikodim-i-serbskij"
+    ],
+    "note": "Хиландарский игумен, преемник Саввы III на Сербской кафедре и предшественник Даниила. В книге указана смерть 13 мая 1323 года, церковная публикация относит её к 1324 году. Расхождение сохранено; ни дата смерти, ни день юбилейного вечера не назначены ежегодной памятью. Полный контекст: reviews/three-nicodemus-identities.json."
+  },
+  {
+    "book": 4,
+    "page": 546,
+    "offset": 497,
+    "text": "Никодима",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "b5186649bcbdfb004619e2e3b8f097c5541a656d549332fcff5ab633a6a51d66",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nikodim-i-serbskij"
+    ],
+    "note": "Хиландарский игумен, преемник Саввы III на Сербской кафедре и предшественник Даниила. В книге указана смерть 13 мая 1323 года, церковная публикация относит её к 1324 году. Расхождение сохранено; ни дата смерти, ни день юбилейного вечера не назначены ежегодной памятью. Полный контекст: reviews/three-nicodemus-identities.json."
+  },
+  {
+    "book": 3,
+    "page": 368,
+    "offset": 257,
+    "text": "Никодиму",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "20ccbaa89e7ef063126b2e3c74432317a9185e80f85695c9d08da20b1f6401b4",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nikodim-vatopedskij-nastavnik-palamy"
+    ],
+    "note": "Ватопедский старец начала XIV века, постригший Григория Паламу. Книга прямо называет его святым; монастырская публикация подтверждает личность наставника. Не позднейший Никодим Святогорец, автор Синаксаря. Полный контекст: reviews/three-nicodemus-identities.json."
+  },
+  {
+    "book": 3,
+    "page": 368,
+    "offset": 357,
+    "text": "Никодима",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "20ccbaa89e7ef063126b2e3c74432317a9185e80f85695c9d08da20b1f6401b4",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nikodim-vatopedskij-nastavnik-palamy"
+    ],
+    "note": "Ватопедский старец начала XIV века, постригший Григория Паламу. Книга прямо называет его святым; монастырская публикация подтверждает личность наставника. Не позднейший Никодим Святогорец, автор Синаксаря. Полный контекст: reviews/three-nicodemus-identities.json."
+  },
+  {
+    "book": 3,
+    "page": 368,
+    "offset": 996,
+    "text": "Никодима",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "20ccbaa89e7ef063126b2e3c74432317a9185e80f85695c9d08da20b1f6401b4",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nikodim-vatopedskij-nastavnik-palamy"
+    ],
+    "note": "Ватопедский старец начала XIV века, постригший Григория Паламу. Книга прямо называет его святым; монастырская публикация подтверждает личность наставника. Не позднейший Никодим Святогорец, автор Синаксаря. Полный контекст: reviews/three-nicodemus-identities.json."
+  },
+  {
+    "book": 4,
+    "page": 490,
+    "offset": 1598,
+    "text": "Никодима",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "f08c99f3df8c4f6ebd3412449a306c9c0a68afb145f0a04e06c45b94d603541c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nikodim-svjatogorec"
+    ],
+    "note": "Книга 4, PDF 490: автор греческого Синаксаря в примечании об Аглаиде. Статья Антиохийского патриархата подтверждает агиографические труды Никодима Святогорца XVIII-XIX веков. Это библиографическое упоминание, не полное житие и не наставник Григория Паламы. Полный контекст: reviews/three-nicodemus-identities.json."
   }
 ]
