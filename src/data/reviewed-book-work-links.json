@@ -9906,7 +9906,15 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ОТЦА НАШЕГО АМФИЛОХИЯ,",
       "saintIds": [
-        "amfilohij-ikonijskij"
+        "amfilohij-ikonijskij",
+        "vasilij-velikij",
+        "grigorij-bogoslov",
+        "nonna-mat-grigorija-bogoslova",
+        "pavel-apostol-pervoverhovnyj",
+        "varnava-apostol",
+        "feodosij-i-velikij-imperator",
+        "isaija-prorok",
+        "olimpiada-konstantinopolskaja-diakonissa"
       ]
     },
     {
