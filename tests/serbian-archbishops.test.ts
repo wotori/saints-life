@@ -7,7 +7,7 @@ import { reviewedMentionLocations, reviewedMentionRecords, reviewedMentionForPag
 test('Sava III and Eustathius II retain their own Serbian memories and book references', () => {
   const cases = [
     { id: 'savva-iii-serbskij', first: 'savva-serbskij', query: 'Сава III', day: 8, pages: [544, 545] },
-    { id: 'evstafij-ii-serbskij', first: 'evstafij-serbskij', query: 'Евстатије II', day: 29, pages: [539, 540] },
+    { id: 'evstafij-ii-serbskij', first: 'evstafij-serbskij', query: 'Евстатије II', day: 29, pages: [539, 540, 541] },
   ];
   for (const item of cases) {
     assert.ok(getSaint(item.first));
@@ -22,11 +22,17 @@ test('Sava III and Eustathius II retain their own Serbian memories and book refe
       }
       assert.equal(matchesCommemoration(dates[0], { year, month: 1, day: 2 }), false);
     }
-    assert.deepEqual(reviewedMentionLocations(item.id), item.pages.map(page => ({ book: 4, page })));
+    assert.deepEqual(reviewedMentionLocations(item.id).sort((a, b) => a.page - b.page), item.pages.map(page => ({ book: 4, page })));
     for (const tradition of ['russian-orthodox', 'old-believer', 'armenian-apostolic']) {
       assert.ok(!searchSaints({ q: item.query, tradition }).some(s => s.id === item.id));
     }
   }
+});
+
+test('Milutin references stop before the later reigns in Daniel life', () => {
+  const pages = reviewedMentionLocations('stefan-milutin-serbskij').filter(r => r.book === 4).map(r => r.page).sort((a, b) => a - b);
+  assert.deepEqual(pages, [537, 538, 539, 540, 541, 542, 543, 544, 545]);
+  assert.ok(!saintCommemorations('stefan-milutin-serbskij').some(c => matchesCommemoration(c, { year: 2026, month: 1, day: 2 })));
 });
 
 test('Sava I and Sava III on the same page require their own textual anchors', () => {

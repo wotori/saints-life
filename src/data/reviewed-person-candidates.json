@@ -68302,5 +68302,369 @@
       "protogen-karrijskij"
     ],
     "note": "В книге прямо указан епископ Средецкий, то есть Сардикийский. Это не Протоген Каррийский. Подтверждено параллельным рассказом Сократа Схоластика II.20."
+  },
+  {
+    "book": 4,
+    "page": 537,
+    "offset": 680,
+    "text": "Милутине",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "f46ab063ce9c4f3d334bbbf112d5e6535ab14b670ebf715f68a1678d65f206ad",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 537,
+    "offset": 1564,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "f46ab063ce9c4f3d334bbbf112d5e6535ab14b670ebf715f68a1678d65f206ad",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 538,
+    "offset": 1215,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "2a18ac5fba642e1ecdd7d73656d7b54c4e4eca294f0a1c810f8f16f2848c0e0d",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 538,
+    "offset": 1519,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "2a18ac5fba642e1ecdd7d73656d7b54c4e4eca294f0a1c810f8f16f2848c0e0d",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 539,
+    "offset": 330,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "b91f52fa4d324bb352f554d7e1769e2477b38755fd8ee2abdaeed0d635fc968b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 539,
+    "offset": 1540,
+    "text": "Милутину",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "b91f52fa4d324bb352f554d7e1769e2477b38755fd8ee2abdaeed0d635fc968b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 540,
+    "offset": 788,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a0b0eef65d0af5984f5c079d8e57320c27a7a3e82233f20ed59bb2b60f0f9bf0",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 540,
+    "offset": 961,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a0b0eef65d0af5984f5c079d8e57320c27a7a3e82233f20ed59bb2b60f0f9bf0",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 540,
+    "offset": 1187,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a0b0eef65d0af5984f5c079d8e57320c27a7a3e82233f20ed59bb2b60f0f9bf0",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 540,
+    "offset": 1964,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a0b0eef65d0af5984f5c079d8e57320c27a7a3e82233f20ed59bb2b60f0f9bf0",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 541,
+    "offset": 823,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "289a98061bb65dadc352332e13ca07dd56036c7637bf7367ba5f6471a1bb8cbb",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 541,
+    "offset": 845,
+    "text": "Евстафий",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "289a98061bb65dadc352332e13ca07dd56036c7637bf7367ba5f6471a1bb8cbb",
+    "decision": "identity-linked",
+    "saintIds": [
+      "evstafij-ii-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 542,
+    "offset": 572,
+    "text": "Милутину",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "374c95789454b24af8ad8ece8f3e50a7b732ef536cb40be34db079d14189bd23",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 542,
+    "offset": 950,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "374c95789454b24af8ad8ece8f3e50a7b732ef536cb40be34db079d14189bd23",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 542,
+    "offset": 1080,
+    "text": "Милутину",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "374c95789454b24af8ad8ece8f3e50a7b732ef536cb40be34db079d14189bd23",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 543,
+    "offset": 955,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "87b1bd257614e60c053925dc8a64e1307b3b03b3cfccb81bd8785e8306146730",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 543,
+    "offset": 1768,
+    "text": "Милутина",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "87b1bd257614e60c053925dc8a64e1307b3b03b3cfccb81bd8785e8306146730",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 543,
+    "offset": 1860,
+    "text": "Милутина",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "87b1bd257614e60c053925dc8a64e1307b3b03b3cfccb81bd8785e8306146730",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 543,
+    "offset": 1913,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "87b1bd257614e60c053925dc8a64e1307b3b03b3cfccb81bd8785e8306146730",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 544,
+    "offset": 47,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a45ba1954e19f67e3d0afcb994fcef594b410083e29a41d3a814929478891c20",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 544,
+    "offset": 330,
+    "text": "Милутину",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a45ba1954e19f67e3d0afcb994fcef594b410083e29a41d3a814929478891c20",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 544,
+    "offset": 618,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a45ba1954e19f67e3d0afcb994fcef594b410083e29a41d3a814929478891c20",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 544,
+    "offset": 779,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a45ba1954e19f67e3d0afcb994fcef594b410083e29a41d3a814929478891c20",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 544,
+    "offset": 1472,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a45ba1954e19f67e3d0afcb994fcef594b410083e29a41d3a814929478891c20",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 544,
+    "offset": 2069,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a45ba1954e19f67e3d0afcb994fcef594b410083e29a41d3a814929478891c20",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 545,
+    "offset": 297,
+    "text": "Милутин",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "1b1a31b7c45752ce96a33c39393a73b0d40bb0ce41862bd885e64a026c6c2dd2",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 545,
+    "offset": 510,
+    "text": "Милутина",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "1b1a31b7c45752ce96a33c39393a73b0d40bb0ce41862bd885e64a026c6c2dd2",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 545,
+    "offset": 625,
+    "text": "Милутина",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "1b1a31b7c45752ce96a33c39393a73b0d40bb0ce41862bd885e64a026c6c2dd2",
+    "decision": "identity-linked",
+    "saintIds": [
+      "stefan-milutin-serbskij"
+    ],
+    "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
   }
 ]
