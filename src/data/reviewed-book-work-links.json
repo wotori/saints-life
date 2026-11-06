@@ -12949,6 +12949,34 @@
         "georgij-pobedonosec",
         "konstantin-velikij-imperator"
       ]
+    },
+    {
+      "book": 3,
+      "page": 507,
+      "expectedHeading": "Слово святого Василия Великого О СВЯТОМ МУЧЕНИКЕ ВАРЛААМЕ",
+      "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+      "saintIds": [
+        "varlaam-antiohijskij-muchenik",
+        "vasilij-velikij",
+        "iosif-prekrasnyj",
+        "iakov-praotec",
+        "moisej-prorok-bogovidec",
+        "samuil-prorok",
+        "pavel-apostol-pervoverhovnyj"
+      ]
+    },
+    {
+      "book": 3,
+      "page": 510,
+      "expectedHeading": "Слово святого Иоанна Златоуста О СВЯТОМ МУЧЕНИКЕ ВАРЛААМЕ",
+      "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+      "saintIds": [
+        "varlaam-antiohijskij-muchenik",
+        "ioann-zlatoust",
+        "pavel-apostol-pervoverhovnyj",
+        "moisej-prorok-bogovidec",
+        "solomon-tsar-prorok"
+      ]
     }
   ]
 }

@@ -32,7 +32,11 @@ export function sectionHeadings(body: string): SectionHeading[] {
   for (let i = 0; i < lines.length; i++) {
     const first = lines[i].trim().replace(/^_\s+(?=[А-ЯЁ])/u, '');
     if (!/^[А-ЯЁ]/u.test(first) || !headingStart.test(first)) continue;
-    if (!isDisplayLine(first) || first.length > 160) continue;
+    // An author line is a heading only when followed by a separate display subject.
+    // This excludes running headers, which include a page number or the subject inline.
+    const authoredSermon = /^Слово святого [А-ЯЁ][а-яё]+(?: [А-ЯЁ][а-яё]+){1,2}$/u.test(first)
+      && lines.slice(i + 1, i + 4).find(line => line.trim())?.trim().match(/^О СВЯТОМ МУЧЕНИКЕ [А-ЯЁ]+$/u);
+    if ((!isDisplayLine(first) && !authoredSermon) || first.length > 160) continue;
     // OCR capitalised the end of a sentence in the April account of Agathopous.
     if (/^ЖИЗНЬ\s+СВОЮ[.!]?$/u.test(first)) continue;
     const title = [first];

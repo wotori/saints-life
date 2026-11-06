@@ -2,6 +2,18 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { sectionHeadings, sectionForIndexedName } from '../src/lib/book-sections';
 
+test('authored martyr sermons retain their author and separate adjacent works', () => {
+  for (const author of ['Василия Великого', 'Иоанна Златоуста']) {
+    const title = `Слово святого ${author}`;
+    const body = `Конец предыдущего слова.\n\n${title}\n\nО СВЯТОМ МУЧЕНИКЕ ВАРЛААМЕ\n\n1. Начало слова.`;
+    assert.deepEqual(sectionHeadings(body), [{ offset: body.indexOf(title), title: `${title} О СВЯТОМ МУЧЕНИКЕ ВАРЛААМЕ` }]);
+    assert.deepEqual(sectionHeadings(`${title}\n\nОбычное предложение.`), []);
+    assert.deepEqual(sectionHeadings(`${title} 505\n\nО СВЯТОМ МУЧЕНИКЕ ВАРЛААМЕ`), []);
+    assert.deepEqual(sectionHeadings(`${title} о мученике Варлааме 505\n\nТекст.`), []);
+    assert.deepEqual(sectionHeadings(`${title}\n\nО СВЯТОМ МУЧЕНИКЕ ВАРЛААМЕ говорится далее.`), []);
+  }
+});
+
 test('church dedication starts a separate work without swallowing the previous life', () => {
   const text = 'Конец страдания.\n\nОСВЯЩЕНИЕ ХРАМА СВЯТОГО ВЕЛИКОМУЧЕНИКА\n\nГЕОРГИЯ\nв Лидде\n\nТретьего ноября...';
   assert.deepEqual(sectionHeadings(text), [{ offset: text.indexOf('ОСВЯЩЕНИЕ'), title: 'ОСВЯЩЕНИЕ ХРАМА СВЯТОГО ВЕЛИКОМУЧЕНИКА ГЕОРГИЯ' }]);
