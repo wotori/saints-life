@@ -685,7 +685,11 @@
       "expectedHeading": "СТРАДАНИЕ СВЯТЫХ МУЧЕНИКОВ ЕВЛАМПИЯ и ЕВЛАМПИИ",
       "saintIds": [
         "evlampij-nikomidijskij",
-        "evlampija-nikomidijskaja"
+        "evlampija-nikomidijskaja",
+        "ananija-vavilonskij",
+        "azarija-vavilonskij",
+        "misail-vavilonskij",
+        "feofan-nachertannyj"
       ]
     },
     {
@@ -825,7 +829,9 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ПЕТРА",
       "saintIds": [
-        "petr-galatijskij-9-oktjabrja"
+        "petr-galatijskij-9-oktjabrja",
+        "konstantin-velikij-imperator",
+        "foka-sinopskij-episkop"
       ]
     },
     {
@@ -834,7 +840,9 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ СВЯТОЙ ПОПЛИИ",
       "saintIds": [
-        "poplija-antiohijskaja"
+        "poplija-antiohijskaja",
+        "iuventin-antiohijskij-voin",
+        "maksim-antiohijskij-voin"
       ]
     },
     {
