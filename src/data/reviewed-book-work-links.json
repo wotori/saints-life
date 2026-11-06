@@ -815,7 +815,11 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "СТРАДАНИЕ СВЯТОЙ МУЧЕНИЦЫ ХАРИТИНЫ",
       "saintIds": [
-        "haritina-amissijskaja"
+        "haritina-amissijskaja",
+        "presvjataja-bogorodica",
+        "ananija-vavilonskij",
+        "azarija-vavilonskij",
+        "misail-vavilonskij"
       ]
     },
     {
@@ -10288,7 +10292,8 @@
         "gaij-aleksandrijskij",
         "favst-aleksandrijskij",
         "evsevij-laodikijskij",
-        "herimon-aleksandrijskij"
+        "herimon-aleksandrijskij",
+        "dionisij-aleksandrijskij"
       ]
     },
     {
@@ -10298,7 +10303,8 @@
       "expectedHeading": "ПАМЯТЬ СВЯТОГО МУЧЕНИКА ДАВИКТА",
       "saintIds": [
         "davikt-efesskij",
-        "kallisfenija-efesskaja"
+        "kallisfenija-efesskaja",
+        "konstantin-velikij-imperator"
       ]
     },
     {
@@ -10318,7 +10324,9 @@
       "saintIds": [
         "domnina-antiohijskaja",
         "virineja-antiohijskaja",
-        "proskudija-antiohijskaja"
+        "proskudija-antiohijskaja",
+        "ioann-zlatoust",
+        "lazar-chetverodnevnyj"
       ]
     },
     {
