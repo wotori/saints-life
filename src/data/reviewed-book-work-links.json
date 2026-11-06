@@ -54,7 +54,8 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ СВЯТЫХ МУЧЕНИКОВ,",
       "saintIds": [
-        "anfisa-rimskaja"
+        "anfisa-rimskaja",
+        "amvrosij-mediolanskij"
       ]
     },
     {
@@ -9466,7 +9467,12 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ СВЯТОЙ ПРОРОЧИЦЫ АННЫ,",
       "saintIds": [
-        "anna-prorochica-mat-samuila"
+        "anna-prorochica-mat-samuila",
+        "samuil-prorok",
+        "moisej-prorok-bogovidec",
+        "aaron-pervosvjashhennik",
+        "iakov-praotec",
+        "iuda-syn-iakova"
       ]
     },
     {
@@ -9673,7 +9679,8 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО НИЛА СТОЛОБЕНСКОГО,",
       "saintIds": [
-        "nil-stolobenskij"
+        "nil-stolobenskij",
+        "presvjataja-bogorodica"
       ]
     },
     {
@@ -9691,7 +9698,8 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО",
       "saintIds": [
-        "pavel-poslushlivyj"
+        "pavel-poslushlivyj",
+        "moisej-prorok-bogovidec"
       ]
     },
     {
@@ -9700,7 +9708,9 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО ПАТАПИЯ",
       "saintIds": [
-        "patapij-fivanskij"
+        "patapij-fivanskij",
+        "ioann-predtecha",
+        "andrej-kritskij-arhiepiskop"
       ]
     },
     {
@@ -12186,10 +12196,17 @@
       "expectedHeading": "ПАМЯТЬ СВЯТЫХ АПОСТОЛОВ СОСФЕНА, АПОЛЛОСА, КИФЫ, ТИХИКА, ЕПАФРОДИТА и КЕСАРЯ",
       "saintIds": [
         "sosfen-apostol",
+        "apollos-kesarijskij-apostol",
         "kifa-apostol",
         "tihik-apostol",
         "epafrodit-apostol",
-        "kesar-apostol"
+        "kesar-apostol",
+        "pavel-apostol-pervoverhovnyj",
+        "akila-apostol-iz-semidesjati",
+        "ioann-predtecha",
+        "petr-apostol-pervoverhovnyj",
+        "kornilij-sotnik",
+        "onisifor-apostol"
       ]
     },
     {
