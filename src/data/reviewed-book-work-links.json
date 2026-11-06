@@ -9923,7 +9923,20 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ОТЦА НАШЕГО ГРИГОРИЯ,",
       "saintIds": [
-        "grigorij-akragantijskij"
+        "grigorij-akragantijskij",
+        "david-car-prorok",
+        "petr-apostol-pervoverhovnyj",
+        "pavel-apostol-pervoverhovnyj",
+        "samuil-prorok",
+        "ilija-fesvitjanin-prorok",
+        "elisej-prorok",
+        "sergij-rimskij-s-vakhom",
+        "vakh-rimskij-s-sergiem",
+        "evtihij-konstantinopolskij",
+        "presvjataja-bogorodica",
+        "grigorij-neokesarijskij",
+        "kikilija-rimskaja",
+        "moisej-prorok-bogovidec"
       ]
     },
     {
@@ -9941,7 +9954,9 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО МУЧЕНИКА ФЕОДОРА",
       "saintIds": [
-        "feodor-antiohijskij-23-nojabrja"
+        "feodor-antiohijskij-23-nojabrja",
+        "vavila-antiohijskij",
+        "david-car-prorok"
       ]
     },
     {
