@@ -1326,7 +1326,9 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО МУЧЕНИКА ЗОСИМЫ ПУСТЫННИКА",
       "saintIds": [
-        "zosima-kilikijskij"
+        "zosima-kilikijskij",
+        "afanasij-kommentarisij",
+        "dimitrij-rostovskij"
       ]
     },
     {
@@ -1480,7 +1482,8 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ОТЦА НАШЕГО ЕВМЕНИЯ,",
       "saintIds": [
-        "evmenij-gortinskij"
+        "evmenij-gortinskij",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
