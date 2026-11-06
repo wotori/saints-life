@@ -69620,5 +69620,31 @@
       "iosif-pesnopisec"
     ],
     "note": "В последнем примечании назван автор канона трём мученицам, Иосиф Песнописец. Это библиографическое упоминание, не отдельное житие."
+  },
+  {
+    "book": 1,
+    "page": 244,
+    "offset": 2015,
+    "text": "Львом Великим",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "d915f3d84b15ec89f7a9df6cc19fef5d1bb64863b9ae4b651c16615c58798116",
+    "decision": "identity-linked",
+    "saintIds": [
+      "lev-i-vizantijskij-imperator"
+    ],
+    "note": "Император, строитель Влахернского храма; не папа Римский."
+  },
+  {
+    "book": 1,
+    "page": 246,
+    "offset": 162,
+    "text": "святого Прокла",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "152d6a79b652ac2fa0e44ca3797335f4b249f6ab3c5511c9fe36d59c33f994df",
+    "decision": "identity-linked",
+    "saintIds": [
+      "prokl-konstantinopolskij"
+    ],
+    "note": "Предшественник патриарха Флавиана, Прокл Константинопольский."
   }
 ]
