@@ -289,7 +289,24 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОГО АПОСТОЛА ИАКОВА,",
       "saintIds": [
-        "iakov-brat-gospoden"
+        "iakov-brat-gospoden",
+        "iosif-obruchnik",
+        "presvjataja-bogorodica",
+        "iakov-zevedeev",
+        "iakov-alfeev-apostol",
+        "iuda-brat-gospoden-apostol",
+        "pavel-apostol-pervoverhovnyj",
+        "vasilij-velikij",
+        "ioann-zlatoust",
+        "petr-apostol-pervoverhovnyj",
+        "ioann-bogoslov",
+        "varnava-apostol",
+        "aaron-pervosvjashhennik",
+        "moisej-prorok-bogovidec",
+        "solomon-tsar-prorok",
+        "david-car-prorok",
+        "feofan-nachertannyj",
+        "georgij-nikomidijskij-pesnopisec"
       ]
     },
     {
@@ -298,7 +315,10 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ИАКОВА БОРОВИЦКОГО",
       "saintIds": [
-        "iakov-borovichskij"
+        "iakov-borovichskij",
+        "iakov-brat-gospoden",
+        "makarij-moskovskij-mitropolit",
+        "presvjataja-bogorodica"
       ]
     },
     {
@@ -307,7 +327,10 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ИГНАТИЯ,",
       "saintIds": [
-        "ignatij-konstantinopolskij-patriarh"
+        "ignatij-konstantinopolskij-patriarh",
+        "fotij-konstantinopolskij-patriarh",
+        "stefan-konstantinopolskij-17maja",
+        "feodora-carica-11-fevralja"
       ]
     },
     {
