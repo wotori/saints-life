@@ -1254,7 +1254,8 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ПЕТРА,",
       "saintIds": [
-        "petr-mytar-afrikanskij"
+        "petr-mytar-afrikanskij",
+        "iosif-prekrasnyj"
       ]
     },
     {
@@ -1263,7 +1264,20 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "СЛОВО НА ЗАЧАТИЕ ЧЕСТНОГО И СЛАВНОГО ПРОРОКА, ПРЕДТЕЧИ И КРЕСТИТЕЛЯ ГОСПОДНЯ ИОАННА",
       "saintIds": [
-        "ioann-predtecha"
+        "ioann-predtecha",
+        "anna-bogomatereva",
+        "elisaveta-mat-predtechi",
+        "presvjataja-bogorodica",
+        "gavriil-arhangel",
+        "zaharija-otec-predtechi",
+        "avraam-praotec",
+        "adam-praotec",
+        "eva-pramater",
+        "sarra-supruga-avraama",
+        "isaak-praotec",
+        "daniil-prorok",
+        "ieremija-prorok",
+        "ilija-fesvitjanin-prorok"
       ]
     },
     {
