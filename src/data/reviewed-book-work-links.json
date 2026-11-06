@@ -10407,7 +10407,18 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ И ПОДВИГИ ПРЕПОДОБНОЙ МАТЕРИ НАШЕЙ МАТРОНЫ",
       "saintIds": [
-        "matrona-konstantinopolskaja"
+        "matrona-konstantinopolskaja",
+        "vassian-konstantinopolskij",
+        "pavel-apostol-pervoverhovnyj",
+        "ioann-predtecha",
+        "david-car-prorok",
+        "presvjataja-bogorodica",
+        "marija-sestra-lazarja",
+        "lev-i-vizantijskij-imperator",
+        "susanna-nastavnica-matrony",
+        "evgenija-nastavnica-matrony",
+        "sofronija-spodvizhnica-matrony",
+        "akakij-igumen-avraamieva-monastyrja"
       ]
     },
     {
