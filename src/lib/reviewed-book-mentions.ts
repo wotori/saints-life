@@ -1,5 +1,11 @@
 /** Short entries without display headings are kept separate from full lives. */
 const mentions = [
+  {"book": 1, "page": 510, "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c", "anchor": " ее зовут. Евфросиния отвечала, что имя\nее — Измарагд.\n\n— Чадо Измарагд, — сказал ей настоятель, — ты молод и потому\nне можешь один жить в", "saintIds": ["evfrosinija-aleksandrijskaja"]},
+  {"book": 1, "page": 511, "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c", "anchor": "и Агапит, мужа свя-\nтой жизни, и поручил ему Измарагда со следующими словами:\n\n— Пусть этот юноша отныне будет твоим духовным сыном и\nучени", "saintIds": ["evfrosinija-aleksandrijskaja"]},
+  {"book": 1, "page": 514, "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c", "anchor": "твечал Пафнутий.\n\nТогда игумен, не зная, что Измарагд — дочь Пафнутия, призвал\nАгапита и сказал ему:\n\n— Отведи Пафнутия к Измарагду, чтобы", "saintIds": ["evfrosinija-aleksandrijskaja"]},
+  {"book": 1, "page": 515, "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c", "anchor": " сердце\nего пламенело естественною любовию к Измарагду и много пользы\nполучил он от бесед с ним; затем он пошел к игумену и сказал ему:\n\n— ", "saintIds": ["evfrosinija-aleksandrijskaja"]},
+  {"book": 1, "page": 516, "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c", "anchor": "инии 515\n\nВидя, как неутешно рыдал Пафнутий, Измарагд сказал ему:\n\n— Зачем ты смущаешься и убиваешься от сильной печали? Разве\nне крепка р", "saintIds": ["evfrosinija-aleksandrijskaja"]},
+
   {"book": 5, "page": 528, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": " Марк, еше другие Аммоний и Марк, Драконтий, Аделфий,\nАфинодор и пресвитеры Иеракс и Диоскор; мучители так жестоко\nугнетали их, что некот", "saintIds": ["adelfij-onufisskij-ispovednik"]},
 
   {"book": 11, "page": 637, "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df", "anchor": "боих языках: латинском и греческом,\nпо имени Кратона, поступили к нему в\nучение и жили в его доме. Случилось\nодному из сыновей Кратона, и", "saintIds": ["kraton-rimskij-otec-herimona"]},
