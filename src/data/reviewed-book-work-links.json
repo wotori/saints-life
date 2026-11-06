@@ -10410,7 +10410,15 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ СВЯТОГО СТЕФАНА ДЕЧАНСКОГО,",
       "saintIds": [
-        "stefan-dechanskij"
+        "stefan-dechanskij",
+        "stefan-milutin-serbskij",
+        "stefan-pervovenchannyj-serbskij",
+        "savva-serbskij",
+        "simeon-serbskij-mirotochivyj",
+        "nikolaj-mirlikijskij",
+        "daniil-serbskij-arhiepiskop",
+        "nikodim-i-serbskij",
+        "georgij-pobedonosec"
       ]
     },
     {
@@ -10419,7 +10427,11 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ПАМЯТЬ БЛАЖЕННОГО МАКСИМА,",
       "saintIds": [
-        "maksim-moskovskij-blazhennyj"
+        "maksim-moskovskij-blazhennyj",
+        "avraam-praotec",
+        "boris-strastoterpec",
+        "gleb-strastoterpec",
+        "maksim-ispovednik"
       ]
     },
     {
