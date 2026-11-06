@@ -68262,5 +68262,18 @@
       "elij-iliopolskij-episkop-evgenii"
     ],
     "note": "Епископ Илиополя из жития Евгении, не император Елий Адриан и не автоматически одноимённый египетский монах. Контекст и расхождение даты: reviews/elius-bishop-eugenia.json."
+  },
+  {
+    "book": 3,
+    "page": 455,
+    "offset": 775,
+    "text": "Евандра",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "33ce80e605282e746a39811300e186c945118ae478f5c37a725c905c9d63d29f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "evandr-svjatoj-konstantinopolskogo-hrama"
+    ],
+    "note": "Посвящение храма святому Евандру, подтверждено статьёй Православной энциклопедии 186885. Не дата памяти Лазаря или Петра; житие Евандра неизвестно. Исследование: reviews/evander-church.json."
   }
 ]
