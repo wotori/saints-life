@@ -64615,5 +64615,148 @@
       "longin-karenijskij-s-eliozom"
     ],
     "note": "Каренийский спутник Елиоза. Основание почитания: монастырское житие Сидонии, Saint Longinoz of Charsani. Не Лонгин Сотник и не игумен из жития Евфимия."
+  },
+  {
+    "book": 5,
+    "page": 420,
+    "offset": 659,
+    "text": "Сидония",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "1409948ba49655c579e268aa3987d1c27163d8116a510df73e702520edbc9314",
+    "decision": "identity-linked",
+    "saintIds": [
+      "sidonija-doch-aviafara"
+    ],
+    "note": "Участники проповеди Нины, отец и дочь, IV век. Родство прямо указано в книге и монастырском календаре. Не Сидония из рассказа о распятии и не ветхозаветный Авиафар."
+  },
+  {
+    "book": 5,
+    "page": 420,
+    "offset": 711,
+    "text": "Авиафара",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "1409948ba49655c579e268aa3987d1c27163d8116a510df73e702520edbc9314",
+    "decision": "identity-linked",
+    "saintIds": [
+      "aviafar-mchetskij-otec-sidonii"
+    ],
+    "note": "Участники проповеди Нины, отец и дочь, IV век. Родство прямо указано в книге и монастырском календаре. Не Сидония из рассказа о распятии и не ветхозаветный Авиафар."
+  },
+  {
+    "book": 5,
+    "page": 420,
+    "offset": 787,
+    "text": "Авиафар",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "1409948ba49655c579e268aa3987d1c27163d8116a510df73e702520edbc9314",
+    "decision": "identity-linked",
+    "saintIds": [
+      "aviafar-mchetskij-otec-sidonii"
+    ],
+    "note": "Участники проповеди Нины, отец и дочь, IV век. Родство прямо указано в книге и монастырском календаре. Не Сидония из рассказа о распятии и не ветхозаветный Авиафар."
+  },
+  {
+    "book": 5,
+    "page": 420,
+    "offset": 943,
+    "text": "Авиафар",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "1409948ba49655c579e268aa3987d1c27163d8116a510df73e702520edbc9314",
+    "decision": "identity-linked",
+    "saintIds": [
+      "aviafar-mchetskij-otec-sidonii"
+    ],
+    "note": "Участники проповеди Нины, отец и дочь, IV век. Родство прямо указано в книге и монастырском календаре. Не Сидония из рассказа о распятии и не ветхозаветный Авиафар."
+  },
+  {
+    "book": 5,
+    "page": 420,
+    "offset": 1690,
+    "text": "Авиафаром",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "1409948ba49655c579e268aa3987d1c27163d8116a510df73e702520edbc9314",
+    "decision": "identity-linked",
+    "saintIds": [
+      "aviafar-mchetskij-otec-sidonii"
+    ],
+    "note": "Участники проповеди Нины, отец и дочь, IV век. Родство прямо указано в книге и монастырском календаре. Не Сидония из рассказа о распятии и не ветхозаветный Авиафар."
+  },
+  {
+    "book": 5,
+    "page": 423,
+    "offset": 134,
+    "text": "Сидония",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "7c71937e6906e92d6bb4eec4c567510dab774c341cd792fffa9ba6ec7b335eaf",
+    "decision": "identity-linked",
+    "saintIds": [
+      "sidonija-doch-aviafara"
+    ],
+    "note": "Участники проповеди Нины, отец и дочь, IV век. Родство прямо указано в книге и монастырском календаре. Не Сидония из рассказа о распятии и не ветхозаветный Авиафар."
+  },
+  {
+    "book": 5,
+    "page": 423,
+    "offset": 152,
+    "text": "Авиафар",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "7c71937e6906e92d6bb4eec4c567510dab774c341cd792fffa9ba6ec7b335eaf",
+    "decision": "identity-linked",
+    "saintIds": [
+      "aviafar-mchetskij-otec-sidonii"
+    ],
+    "note": "Участники проповеди Нины, отец и дочь, IV век. Родство прямо указано в книге и монастырском календаре. Не Сидония из рассказа о распятии и не ветхозаветный Авиафар."
+  },
+  {
+    "book": 5,
+    "page": 424,
+    "offset": 514,
+    "text": "Сидонию",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "d9c13996955b7968ed2727b9a910e5f2bceb3db1e2d5e3b2abda09be8e567894",
+    "decision": "identity-linked",
+    "saintIds": [
+      "sidonija-doch-aviafara"
+    ],
+    "note": "Участники проповеди Нины, отец и дочь, IV век. Родство прямо указано в книге и монастырском календаре. Не Сидония из рассказа о распятии и не ветхозаветный Авиафар."
+  },
+  {
+    "book": 5,
+    "page": 424,
+    "offset": 494,
+    "text": "Авиафара",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "d9c13996955b7968ed2727b9a910e5f2bceb3db1e2d5e3b2abda09be8e567894",
+    "decision": "identity-linked",
+    "saintIds": [
+      "aviafar-mchetskij-otec-sidonii"
+    ],
+    "note": "Участники проповеди Нины, отец и дочь, IV век. Родство прямо указано в книге и монастырском календаре. Не Сидония из рассказа о распятии и не ветхозаветный Авиафар."
+  },
+  {
+    "book": 5,
+    "page": 425,
+    "offset": 2056,
+    "text": "Сидония",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "0444791fff9c82a268100b8cb0f31fe4341a11b0a019b7f48cca620d55c5021f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "sidonija-doch-aviafara"
+    ],
+    "note": "Участники проповеди Нины, отец и дочь, IV век. Родство прямо указано в книге и монастырском календаре. Не Сидония из рассказа о распятии и не ветхозаветный Авиафар."
+  },
+  {
+    "book": 5,
+    "page": 428,
+    "offset": 423,
+    "text": "Авиафара",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "19c230f68cbed303d98ee54afdacee051acd00d6bd9cfe0a45db892220b72f38",
+    "decision": "identity-linked",
+    "saintIds": [
+      "aviafar-mchetskij-otec-sidonii"
+    ],
+    "note": "Участники проповеди Нины, отец и дочь, IV век. Родство прямо указано в книге и монастырском календаре. Не Сидония из рассказа о распятии и не ветхозаветный Авиафар."
   }
 ]
