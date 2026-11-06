@@ -11477,7 +11477,18 @@
       "expectedHeading": "ВОСПОМИНАНИЕ УП ВСЕЛЕНСКОГО СОБОРА",
       "saintIds": [
         "tarasij-konstantinopolskij",
-        "ioann-damaskin"
+        "ioann-damaskin",
+        "presvjataja-bogorodica",
+        "grigorij-ii-papa-rimskij",
+        "grigorij-iii-papa-rimskij",
+        "avgar-v-edesskij",
+        "evfimija-vsehvalnaja-halkidonskaja",
+        "petr-apostol-pervoverhovnyj",
+        "vasilij-velikij",
+        "stefan-bostrijskij-episkop",
+        "anastasij-persjanin",
+        "moisej-prorok-bogovidec",
+        "afanasij-velikij-aleksandrijskij"
       ]
     },
     {
@@ -12266,6 +12277,15 @@
         "iisus-navin",
         "isaija-prorok",
         "ioann-zlatoust"
+      ]
+    },
+    {
+      "book": 2,
+      "page": 245,
+      "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+      "expectedHeading": "ВОСПОМИНАНИЕ ЧУДА, БЫВШЕГО ОТ ИКОНЫ ГОСПОДА ИИСУСА ХРИСТА",
+      "saintIds": [
+        "pavel-apostol-pervoverhovnyj"
       ]
     }
   ]
