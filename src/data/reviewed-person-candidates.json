@@ -69568,5 +69568,31 @@
       "pavel-apostol-pervoverhovnyj"
     ],
     "note": "Апостол Павел как автор цитируемого Флп. 1, 21; не участник страданий Севириана в IV веке."
+  },
+  {
+    "book": 1,
+    "page": 224,
+    "offset": 2145,
+    "text": "Львом Великим",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "aa6f00e20e2d6c42f48579b0261b4d8066b83623c26f651766c949cb9f11d78b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "lev-i-vizantijskij-imperator"
+    ],
+    "note": "Император прямо определён книжным контекстом; свидетельство местного почитания сверено по статье «Благоверный» (Православная энциклопедия). Архив: reviews/nikita-council-joseph-theophan.json."
+  },
+  {
+    "book": 1,
+    "page": 226,
+    "offset": 136,
+    "text": "Феодосия Млад-\n\nшего",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "911c1808ebfcd98e8021c59e758341055d03c71c958923460f38268c40b60863",
+    "decision": "identity-linked",
+    "saintIds": [
+      "feodosij-ii-mladshij-imperator"
+    ],
+    "note": "Император прямо определён книжным контекстом; свидетельство местного почитания сверено по статье «Благоверный» (Православная энциклопедия). Архив: reviews/nikita-council-joseph-theophan.json."
   }
 ]
