@@ -773,7 +773,10 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ЖИТИЕ СВЯТОГО АПОСТОЛА ИАКОВА АЛФЕЕВА",
       "saintIds": [
-        "iakov-alfeev-apostol"
+        "iakov-alfeev-apostol",
+        "matfej-apostol-evangelist",
+        "andrej-pervozvannyj",
+        "alfej-apostol-26maja"
       ]
     },
     {
@@ -783,7 +786,12 @@
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНЫХ АНДРОНИКА и АФАНАСИИ",
       "saintIds": [
         "andronik-s-afanasiej",
-        "afanasija-s-andronikom"
+        "afanasija-s-andronikom",
+        "feodosij-i-velikij-imperator",
+        "iov-mnogostradalnyj",
+        "avraam-praotec",
+        "sarra-supruga-avraama",
+        "daniil-skitskij-nastavnik-andronika"
       ]
     },
     {
