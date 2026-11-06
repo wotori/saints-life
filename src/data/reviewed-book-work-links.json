@@ -96,7 +96,14 @@
       "saintIds": [
         "kosma-azijskij",
         "damian-azijskij",
-        "feodotija-mat-bessrebrenikov"
+        "feodotija-mat-bessrebrenikov",
+        "pavel-apostol-pervoverhovnyj",
+        "avraam-praotec",
+        "isaak-praotec",
+        "iakov-praotec",
+        "ananija-vavilonskij",
+        "azarija-vavilonskij",
+        "misail-vavilonskij"
       ]
     },
     {
@@ -105,7 +112,9 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО МУЧЕНИКА ЕРМИНИНГЕЛЬДА,",
       "saintIds": [
-        "erminingeld-gotskij"
+        "erminingeld-gotskij",
+        "leandr-episkop-nastavnik-erminingselda",
+        "afanasij-velikij-aleksandrijskij"
       ]
     },
     {
@@ -130,7 +139,8 @@
       "expectedHeading": "ПАМЯТЬ СВЯТЫХ МУЧЕНИЦ КИРИЕНЫ и ИУЛИАНИИ",
       "saintIds": [
         "kiriena-tarsijskaja",
-        "iulianija-rossonskaja"
+        "iulianija-rossonskaja",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
