@@ -25,8 +25,14 @@ test('Lazarus mentions keep the three distinct lives and their continuations sep
   }
 });
 
-test('unresolved monastery dedications do not inherit the identity of a namesake', () => {
-  for (const id of ['lazar-chetverodnevnyj', 'lazar-galisijskij', 'lazar-ikonopisec', 'lazar-s-ionoj-persidskim']) {
+test('sourced monastery dedications belong to Lazarus of Bethany without being assigned to namesakes', () => {
+  for (const [book, page] of [[5, 367], [5, 372], [11, 512]]) {
+    assert.ok(reviewedMentionLocations('lazar-chetverodnevnyj').some(r => r.book === book && r.page === page));
+    const matches = reviews.filter(r => r.book === book && r.page === page && r.text === 'Лазаря');
+    assert.equal(matches.length, book === 5 && page === 367 ? 2 : 1);
+    for (const match of matches) assert.deepEqual(match.saintIds, ['lazar-chetverodnevnyj']);
+  }
+  for (const id of ['lazar-galisijskij', 'lazar-ikonopisec', 'lazar-s-ionoj-persidskim']) {
     for (const [book, page] of [[5, 367], [5, 372], [11, 512]]) {
       assert.ok(!reviewedMentionLocations(id).some(r => r.book === book && r.page === page));
     }

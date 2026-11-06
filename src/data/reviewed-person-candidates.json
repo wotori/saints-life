@@ -69292,5 +69292,57 @@
       "lazar-galisijskij"
     ],
     "note": "Проверено по полному тексту страницы и контексту жития. Лазарь Четверодневный, Галисийский и Иконописец различаются. Архив: reviews/lazarus-contexts.json."
+  },
+  {
+    "book": 5,
+    "page": 367,
+    "offset": 1846,
+    "text": "Лазаря",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "2203890f12146a3d5dfd7b2af7b92168d0cdab66758cebde400e579adf9c9c3c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "lazar-chetverodnevnyj"
+    ],
+    "note": "Посвящение монастыря сопоставлено с Лазарем Четверодневным по источнику: https://www.rostmuseum.ru/museum/biblioteka/istoriya-i-kultura-rostovskoy-zemli/materialy-konferentsii-2002g-rostov-2003/ . Архив: reviews/lazarus-dedications.json. Календарная дата не назначается по дню жития другого святого."
+  },
+  {
+    "book": 5,
+    "page": 367,
+    "offset": 2119,
+    "text": "Лазаря",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "2203890f12146a3d5dfd7b2af7b92168d0cdab66758cebde400e579adf9c9c3c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "lazar-chetverodnevnyj"
+    ],
+    "note": "Посвящение монастыря сопоставлено с Лазарем Четверодневным по источнику: https://www.rostmuseum.ru/museum/biblioteka/istoriya-i-kultura-rostovskoy-zemli/materialy-konferentsii-2002g-rostov-2003/ . Архив: reviews/lazarus-dedications.json. Календарная дата не назначается по дню жития другого святого."
+  },
+  {
+    "book": 5,
+    "page": 372,
+    "offset": 2176,
+    "text": "Лазаря",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "68fd737a355b310b7bb60ca31a4ae6b944c686c4855ae13588479c261b824ca1",
+    "decision": "identity-linked",
+    "saintIds": [
+      "lazar-chetverodnevnyj"
+    ],
+    "note": "Посвящение монастыря сопоставлено с Лазарем Четверодневным по источнику: https://www.rostmuseum.ru/museum/biblioteka/istoriya-i-kultura-rostovskoy-zemli/materialy-konferentsii-2002g-rostov-2003/ . Архив: reviews/lazarus-dedications.json. Календарная дата не назначается по дню жития другого святого."
+  },
+  {
+    "book": 11,
+    "page": 512,
+    "offset": 148,
+    "text": "Лазаря",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "6ba7a5d1421a6c3346089f7f8d9d8e1267e3f82e4d771bac5735fbe47c3f6a2b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "lazar-chetverodnevnyj"
+    ],
+    "note": "Посвящение монастыря сопоставлено с Лазарем Четверодневным по источнику: https://www.pravmir.ru/svyataya-ravnoapostolnaya-mariya-magdalina/ . Архив: reviews/lazarus-dedications.json. Календарная дата не назначается по дню жития другого святого."
   }
 ]
