@@ -1221,7 +1221,8 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО СВЯЩЕННОМУЧЕНИКА ФОКИ,",
       "saintIds": [
-        "foka-sinopskij-episkop"
+        "foka-sinopskij-episkop",
+        "david-car-prorok"
       ]
     },
     {
@@ -1230,7 +1231,9 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОГО МУЧЕНИКА ФОКИ,",
       "saintIds": [
-        "foka-vertogradar"
+        "foka-vertogradar",
+        "eva-pramater",
+        "petr-apostol-pervoverhovnyj"
       ]
     },
     {
@@ -1239,7 +1242,10 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ИОНЫ ПРЕСВИТЕРА",
       "saintIds": [
-        "iona-presviter-otec-nachertannyh"
+        "iona-presviter-otec-nachertannyh",
+        "feodor-nachertannyj",
+        "feofan-nachertannyj",
+        "savva-osvjashhennyj"
       ]
     },
     {
@@ -10727,7 +10733,11 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ПРОРОКА ИОНЫ",
       "saintIds": [
-        "iona-prorok"
+        "iona-prorok",
+        "ilija-fesvitjanin-prorok",
+        "elisej-prorok",
+        "iisus-navin",
+        "ioann-predtecha"
       ]
     },
     {
