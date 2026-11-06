@@ -10630,7 +10630,11 @@
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТЫХ ПРЕПОДОБНОМУЧЕНИКОВ ГАЛАКТИОНА и ЕПИСТИМЫ",
       "saintIds": [
         "galaktion-emesskij",
-        "epistimija-emesskaja"
+        "epistimija-emesskaja",
+        "onufrij-emesskij-nastavnik-galaktiona",
+        "simeon-metafrast",
+        "isaija-prorok",
+        "fekla-ikonijskaja-pervomuchenica"
       ]
     },
     {
@@ -10639,7 +10643,21 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ИОНЫ,",
       "saintIds": [
-        "iona-novgorodskij"
+        "iona-novgorodskij",
+        "mihail-klopskij",
+        "evfimij-novgorodskij",
+        "iona-mitropolit-moskovskij",
+        "iov-mnogostradalnyj",
+        "varlaam-hutynskij",
+        "sergij-radonezhskij",
+        "ioann-predtecha",
+        "dimitrij-donskoj",
+        "presvjataja-bogorodica",
+        "simeon-bogopriimec",
+        "zosima-soloveckij",
+        "vasilij-velikij",
+        "grigorij-bogoslov",
+        "ioann-zlatoust"
       ]
     },
     {
