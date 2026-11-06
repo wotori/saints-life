@@ -1476,7 +1476,18 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ЖИТИЕ СВЯЩЕННОМУЧЕНИКА КОРНИЛИЯ СОТНИКА",
       "saintIds": [
-        "kornilij-sotnik"
+        "kornilij-sotnik",
+        "luka-apostol-evangelist",
+        "petr-apostol-pervoverhovnyj",
+        "amos-prorok",
+        "timofej-apostol-efesskij",
+        "daniil-prorok",
+        "dimitrij-skepsijskij",
+        "evanfija-skepsijskaja",
+        "dimitrian-skepsijskij",
+        "matfej-apostol-evangelist",
+        "mark-evangelist",
+        "ioann-bogoslov"
       ]
     },
     {
@@ -1485,7 +1496,8 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ПЕТРА",
       "saintIds": [
-        "petr-atrojskij"
+        "petr-atrojskij",
+        "tarasij-konstantinopolskij"
       ]
     },
     {

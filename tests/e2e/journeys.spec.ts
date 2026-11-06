@@ -7,7 +7,7 @@ test('home, search aliases, pagination, clear filters and missing results', asyn
   await expect(page.getByRole('heading', { level: 1 })).toContainText('У каждой жизни');
   await page.getByRole('textbox', { name: 'Имя святого' }).fill('Дмитрий');
   await page.getByRole('button', { name: 'Найти святого', exact: true }).click();
-  await expect(page.locator('.results-bar')).toContainText('72');
+  await expect(page.locator('.results-bar')).toContainText('74');
   await page.getByRole('navigation', { name: 'Страницы каталога' }).getByRole('link', { name: '2', exact: true }).click();
   await expect(page).toHaveURL(/page=2/);
   await expect(page.locator('.saint-card')).toHaveCount(12);
@@ -21,7 +21,7 @@ test('home, search aliases, pagination, clear filters and missing results', asyn
   await page.getByRole('button', { name: 'Искать', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Пока не нашли это имя' })).toBeVisible();
   await page.getByRole('link', { name: 'Сбросить фильтры' }).click();
-  await expect(page.locator('.results-bar')).toContainText('2484');
+  await expect(page.locator('.results-bar')).toContainText('2486');
   await expect(page.getByRole('searchbox', { name: 'Поиск святых' })).toHaveValue('');
   await expect(page.getByLabel('Традиция', { exact: true })).toHaveValue('');
   await expect(page.getByText('ИМЕНА В ПЕЧАТНЫХ УКАЗАТЕЛЯХ', { exact: false })).toBeVisible();
