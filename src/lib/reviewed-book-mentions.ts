@@ -1,5 +1,6 @@
 /** Short entries without display headings are kept separate from full lives. */
 const mentions = [
+  {"book": 5, "page": 421, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": "Елиоз вместе с Каренийским Лонгином пришел в Иерусалим", "saintIds": ["longin-karenijskij-s-eliozom"]},
   {"book": 5, "page": 421, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": "после этого тридцать лет, — и вот прадед мой Елиоз по-\nлучил из Иерусалима от первосвященника Анны письмо такого со-\nдержания:\n\n«Тот, к", "saintIds": ["elioz-brat-sidonii"]},
   {"book": 5, "page": 421, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": " жребию, и принес его в Михет. Сестра Елиоза Сидония,\nприветствуя брата с благополучным возвращением, рассказала ему о\nчудной и внезапной", "saintIds": ["sidonija-sestra-elioza"]},
   {"book": 5, "page": 422, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": "к ее одежду Христову. Спустя некоторое\nвремя Елиоз предал земле тело своей сестры, вместе же с нею схоро-\nНил и хитон Христов и сделал ", "saintIds": ["elioz-brat-sidonii"]},
