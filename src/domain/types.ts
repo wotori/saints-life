@@ -1,4 +1,4 @@
-export type TraditionId = 'russian-orthodox' | 'old-believer' | 'armenian-apostolic' | 'serbian-orthodox';
+export type TraditionId = 'russian-orthodox' | 'old-believer' | 'armenian-apostolic' | 'serbian-orthodox' | 'roman-catholic';
 export type CalendarSystem = 'gregorian' | 'julian';
 export type CivilDate = { year: number; month: number; day: number };
 

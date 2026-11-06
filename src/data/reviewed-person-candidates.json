@@ -69344,5 +69344,18 @@
       "lazar-chetverodnevnyj"
     ],
     "note": "Посвящение монастыря сопоставлено с Лазарем Четверодневным по источнику: https://www.pravmir.ru/svyataya-ravnoapostolnaya-mariya-magdalina/ . Архив: reviews/lazarus-dedications.json. Календарная дата не назначается по дню жития другого святого."
+  },
+  {
+    "book": 1,
+    "page": 150,
+    "offset": 666,
+    "text": "Евагрия",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "fe005da768b78be8a5c2bd7aa04e1aa311a7458a06bdfc261102793cd28da8c4",
+    "decision": "identity-linked",
+    "saintIds": [
+      "evagrij-konstantinopolskij"
+    ],
+    "note": "Епископ Константинопольский, изгнанный при Валенте; сверено по https://pravenc.ru/text/180851.html . Архив: reviews/evagrius-constantinople.json."
   }
 ]
