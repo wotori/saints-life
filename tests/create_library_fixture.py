@@ -99,6 +99,16 @@ CREATE VIRTUAL TABLE pages_fts USING fts5(body, book_number UNINDEXED, page UNIN
         if page == 43:
             body = 'ДЕНЬ ВТОРОЙ\n\nТекст следующего дня.'
         db.execute('INSERT INTO pages VALUES (4, ?, ?, ?, NULL)', (page, body, 'ok'))
+    # Synthetic navigation fixtures only. Edition hashes enable reviewed links;
+    # the fixture PDFs must not be treated as scans of those real editions.
+    archangel_sections = [
+        (7, 457, '569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9', 'СОБОР СВЯТОГО АРХАНГЕЛА ГАВРИИЛА!'),
+        (11, 317, 'b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df', 'СОБОР СВЯТОГО АРХАНГЕЛА ГАВРИИЛА'),
+    ]
+    for book, start, edition_hash, heading in archangel_sections:
+        db.execute('INSERT INTO books VALUES (?, ?, ?, ?, ?)', (book, 'Тест раздела архангела', str(pdf), start + 2, edition_hash))
+        for number, content in [(start, heading + '\n\nНачало тестового раздела.'), (start + 1, 'Продолжение тестового раздела.'), (start + 2, 'ЖИТИЕ ДРУГОГО СВЯТОГО\n\nСоседний раздел.')]:
+            db.execute('INSERT INTO pages VALUES (?, ?, ?, ?, NULL)', (book, number, content, 'ok'))
     db.execute('INSERT INTO pages_fts(rowid,body,book_number,page) SELECT rowid,body,book_number,page FROM pages')
 
 with sqlite3.connect(destination / 'epub.sqlite3') as db:

@@ -557,6 +557,18 @@ test('Domitian appears on Cheesefare Saturday in both calendar styles', async ({
   }
 });
 
+test('Gabriel card opens both distinct complete book sections', async ({ page }) => {
+  for (const [id, book, start] of [['gavriil-arhangel', 7, 457], ['gavriil-arhangel', 11, 317]] as const) {
+    await page.goto(`/saints/${id}`);
+    const path = `/library/book/${book}/${start}/work/0`;
+    const link = page.locator(`a[href="${path}"]`);
+    await expect(link).toHaveCount(1);
+    await link.click();
+    await expect(page).toHaveURL(new RegExp(`${path}$`));
+    await expect(page.locator(`a[href="/api/library/book/${book}/${start}"]`).first()).toBeVisible();
+  }
+});
+
 test('Myrrhbearers memories follow the year and calendar style without assigning another tradition', async ({ page }) => {
   const ids = ['salomija-mironositsa', 'marija-kleopova', 'marija-magdalina', 'iosif-arimafejskij', 'nikodim-pravednyj-ierusalimskij', 'tamara-tsaritsa-gruzii', 'ioanna-zhena-huzy', 'marfa-sestra-lazarja', 'marija-sestra-lazarja'];
   await page.goto('/saints/salomija-mironositsa');
