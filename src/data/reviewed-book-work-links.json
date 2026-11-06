@@ -1184,7 +1184,18 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ЖИТИЕ И ЧУДЕСА ПРЕПОДОБНОГО И БОГОНОСНОГО ОТЦА НАШЕГО СЕРГИЯ",
       "saintIds": [
-        "sergij-radonezhskij"
+        "sergij-radonezhskij",
+        "kirill-radonezhskij",
+        "marija-radonezhskaja",
+        "presvjataja-bogorodica",
+        "ioann-predtecha",
+        "feognost-mitropolit-kievskij",
+        "aleksij-moskovskij-mitropolit",
+        "sergij-rimskij-s-vakhom",
+        "vakh-rimskij-s-sergiem",
+        "david-car-prorok",
+        "pavel-apostol-pervoverhovnyj",
+        "feodor-rostovskij-arhiepiskop"
       ]
     },
     {
