@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
-import { sources } from '../src/data/library';
+import { sources } from '../src/lib/repository';
 
 const destination = resolve(process.cwd(), '../staints-life-sources');
 mkdirSync(destination, { recursive: true });

@@ -13,7 +13,16 @@
     "check": "npm run lint && npm run typecheck && npm test",
     "data:build": "tsx scripts/build-directory.ts",
     "sources:export": "tsx scripts/export-sources.ts",
-    "sources:archive": "python3 scripts/archive-sources.py"
+    "sources:archive": "python3 scripts/archive-sources.py",
+    "test:import": "python3 -m unittest discover -s tests -p 'test_*.py'",
+    "data:book-index": "tsx scripts/build-printed-index.ts",
+    "data:review-index": "tsx scripts/review-printed-index.ts",
+    "data:register-index-lines": "tsx scripts/register-index-lines.ts",
+    "data:exclude-index-lines": "tsx scripts/exclude-index-lines.ts",
+    "data:audit-coverage": "tsx scripts/audit-book-coverage.ts",
+    "data:review-people": "tsx scripts/build-person-review-queue.ts",
+    "data:match-names": "tsx scripts/match-catalogue-names.ts",
+    "data:scan-titled-names": "tsx scripts/scan-titled-names.ts"
   },
   "dependencies": {
     "next": "16.4.5",

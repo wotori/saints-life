@@ -59,10 +59,42 @@ export function today(): CivilDate {
   return parseDate(value)!;
 }
 
+export function commemorationDateForYear(item: Commemoration, year: number): CivilDate | undefined {
+  if (item.rule.kind === 'cheesefare-saturday' || item.rule.kind === 'second-sunday-lent' || item.rule.kind === 'second-sunday-after-pentecost' || item.rule.kind === 'myrrhbearers') {
+    if (!Number.isInteger(year) || year < 1600 || year > 2199) return undefined;
+    // Julian computus; offsets are elapsed days from Pascha, not inclusive counts.
+    const lunar = (19 * (year % 19) + 15) % 30;
+    const weekday = (2 * (year % 4) + 4 * (year % 7) - lunar + 34) % 7;
+    const pascha = { year, month: Math.floor((lunar + weekday + 114) / 31), day: (lunar + weekday + 114) % 31 + 1 };
+    const offsets = { 'cheesefare-saturday': -50, 'second-sunday-lent': -35, 'second-sunday-after-pentecost': 63, myrrhbearers: 14 };
+    const offset = offsets[item.rule.kind];
+    return fromJdn(toJdn(pascha, 'julian') + offset, 'julian');
+  }
+  if (item.rule.kind === 'forefathers') {
+    const first = toJdn({ year, month: 12, day: 11 }, 'julian');
+    const date = fromJdn(first + (6 - first % 7 + 7) % 7, 'julian');
+    return isValidDate(date, 'julian') ? date : undefined;
+  }
+  if (item.rule.kind === 'after-nativity') {
+    const christmas = toJdn({ year, month: 12, day: 25 }, 'julian');
+    const daysUntilSunday = (6 - christmas % 7 + 7) % 7;
+    // If Christmas is Sunday, the Fathers are commemorated on Monday, December 26.
+    const date = fromJdn(christmas + (daysUntilSunday || 1), 'julian');
+    return isValidDate(date, 'julian') ? date : undefined;
+  }
+  if (item.rule.kind === 'unresolved') return undefined;
+  const { calendar, month, day, nonLeapDay } = item.rule;
+  const actualDay = day > daysInMonth(year, month, calendar) ? nonLeapDay : day;
+  if (actualDay === undefined) return undefined;
+  const date = { year, month, day: actualDay };
+  return isValidDate(date, calendar) ? date : undefined;
+}
+
 export function matchesCommemoration(item: Commemoration, civil: CivilDate) {
-  if (item.rule.kind !== 'fixed') return false;
+  if (item.rule.kind === 'unresolved') return false;
   const date = convertDate(civil, 'gregorian', item.rule.calendar);
-  return date.month === item.rule.month && date.day === item.rule.day;
+  const expected = commemorationDateForYear(item, date.year);
+  return expected !== undefined && date.month === expected.month && date.day === expected.day;
 }
 
 export function monthCells(year: number, month: number, calendar: CalendarSystem) {
@@ -72,4 +104,9 @@ export function monthCells(year: number, month: number, calendar: CalendarSystem
     const jdn = start - offset + i;
     return { display: fromJdn(jdn, calendar), civil: fromJdn(jdn), inMonth: fromJdn(jdn, calendar).month === month };
   });
+}
+
+/** Preserve fixed-date behaviour; December Julian movable feasts fall in the next civil year. */
+export function commemorationDateForDisplayYear(item: Commemoration, civilYear: number): CivilDate | undefined {
+  return commemorationDateForYear(item, item.rule.kind === 'after-nativity' ? civilYear - 1 : civilYear);
 }

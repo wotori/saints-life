@@ -36,6 +36,8 @@ class PlainText(HTMLParser):
         if not self.skip: self.parts.append(data)
 
 def fetch(source):
+    if source['url'].startswith('/'):
+        return dict(source, status='local-only', localPath=None, scope='see-user-books-manifest')
     ext = '.pdf' if '.pdf' in source['url'].lower() else '.html'
     target = ORIGINALS / (source['id'] + ext)
     record = dict(source)

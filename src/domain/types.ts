@@ -31,7 +31,13 @@ export interface Commemoration {
   sourceId: string;
   label: string;
   rule:
-    | { kind: 'fixed'; calendar: CalendarSystem; month: number; day: number }
+    | { kind: 'fixed'; calendar: CalendarSystem; month: number; day: number; nonLeapDay?: number }
+    | { kind: 'after-nativity'; calendar: 'julian' }
+    | { kind: 'forefathers'; calendar: 'julian' }
+    | { kind: 'cheesefare-saturday'; calendar: 'julian' }
+    | { kind: 'second-sunday-lent'; calendar: 'julian' }
+    | { kind: 'second-sunday-after-pentecost'; calendar: 'julian' }
+    | { kind: 'myrrhbearers'; calendar: 'julian' }
     | { kind: 'unresolved'; note: string };
 }
 

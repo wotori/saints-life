@@ -1,0 +1,190 @@
+{
+  "method": "Visual inspection of each rendered PDF page; OCR text remains unchanged. Illustration pages may contain labels.",
+  "reviewed": "2026-11-04",
+  "books": [
+    {
+      "book": 1,
+      "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+      "pages": [
+        {
+          "page": 156,
+          "kind": "illustration"
+        },
+        {
+          "page": 371,
+          "kind": "illustration"
+        },
+        {
+          "page": 377,
+          "kind": "illustration"
+        },
+        {
+          "page": 674,
+          "kind": "cover"
+        }
+      ]
+    },
+    {
+      "book": 2,
+      "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+      "pages": [
+        {
+          "page": 1,
+          "kind": "cover"
+        },
+        {
+          "page": 627,
+          "kind": "cover"
+        }
+      ]
+    },
+    {
+      "book": 3,
+      "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+      "pages": [
+        {
+          "page": 1,
+          "kind": "cover"
+        },
+        {
+          "page": 787,
+          "kind": "cover"
+        }
+      ]
+    },
+    {
+      "book": 4,
+      "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+      "pages": [
+        {
+          "page": 835,
+          "kind": "cover"
+        }
+      ]
+    },
+    {
+      "book": 5,
+      "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+      "pages": [
+        {
+          "page": 851,
+          "kind": "cover"
+        }
+      ]
+    },
+    {
+      "book": 6,
+      "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+      "pages": [
+        {
+          "page": 483,
+          "kind": "cover"
+        }
+      ]
+    },
+    {
+      "book": 7,
+      "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+      "pages": [
+        {
+          "page": 1,
+          "kind": "cover"
+        },
+        {
+          "page": 445,
+          "kind": "illustration"
+        },
+        {
+          "page": 723,
+          "kind": "cover"
+        }
+      ]
+    },
+    {
+      "book": 8,
+      "sourceSha256": "34cad51db160ddb198289ea09aa9cd1745abb00e2f2eba61e6bb229cdc078e90",
+      "pages": [
+        {
+          "page": 1,
+          "kind": "cover"
+        },
+        {
+          "page": 483,
+          "kind": "cover"
+        }
+      ]
+    },
+    {
+      "book": 9,
+      "sourceSha256": "82b1215c68f31643b8eb01894d4ace63f2ff7a1caf45f8893122a038ba88d8ac",
+      "pages": [
+        {
+          "page": 279,
+          "kind": "illustration"
+        },
+        {
+          "page": 787,
+          "kind": "cover"
+        }
+      ]
+    },
+    {
+      "book": 10,
+      "sourceSha256": "5d6ad1d1f29953b1f717fcc709ec01032ad6928b642e5b4664378b70284fb152",
+      "pages": [
+        {
+          "page": 1,
+          "kind": "cover"
+        },
+        {
+          "page": 488,
+          "kind": "illustration"
+        },
+        {
+          "page": 534,
+          "kind": "illustration"
+        },
+        {
+          "page": 560,
+          "kind": "illustration"
+        },
+        {
+          "page": 643,
+          "kind": "cover"
+        }
+      ]
+    },
+    {
+      "book": 11,
+      "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+      "pages": [
+        {
+          "page": 1,
+          "kind": "cover"
+        },
+        {
+          "page": 174,
+          "kind": "illustration"
+        },
+        {
+          "page": 691,
+          "kind": "cover"
+        }
+      ]
+    },
+    {
+      "book": 12,
+      "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+      "pages": [
+        {
+          "page": 1,
+          "kind": "cover"
+        },
+        {
+          "page": 691,
+          "kind": "cover"
+        }
+      ]
+    }
+  ]
+}

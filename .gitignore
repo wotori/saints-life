@@ -5,3 +5,11 @@ playwright-report/
 test-results/
 .DS_Store
 .env*
+__pycache__/
+*.py[cod]
+# Local editions and databases belong in the sibling source archive.
+*.pdf
+*.epub
+*.djvu
+*.sqlite*
+*.db
