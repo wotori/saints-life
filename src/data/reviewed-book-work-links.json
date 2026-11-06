@@ -10670,7 +10670,13 @@
         "erm-filippopolskij-apostol",
         "lin-rimskij-apostol",
         "gaij-efesskij-apostol",
-        "filolog-sinopskij-apostol"
+        "filolog-sinopskij-apostol",
+        "pavel-apostol-pervoverhovnyj",
+        "petr-apostol-pervoverhovnyj",
+        "timofej-apostol-efesskij",
+        "andrej-pervozvannyj",
+        "ioann-predtecha",
+        "ioann-bogoslov"
       ]
     },
     {
@@ -10679,7 +10685,8 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ГРИГОРИЯ,",
       "saintIds": [
-        "grigorij-aleksandrijskij-5-nojabrja"
+        "grigorij-aleksandrijskij-5-nojabrja",
+        "feodor-studit"
       ]
     },
     {
