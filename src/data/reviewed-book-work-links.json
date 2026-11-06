@@ -1077,7 +1077,20 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ВЯЧЕСЛАВА,",
       "saintIds": [
-        "vjacheslav-cheshskij"
+        "vjacheslav-cheshskij",
+        "ljudmila-cheshskaja",
+        "presvjataja-bogorodica",
+        "avraam-praotec",
+        "isaak-praotec",
+        "iakov-praotec",
+        "kirill-solunskij",
+        "mefodij-moravskij",
+        "prokopij-cheshskij",
+        "konstantin-velikij-imperator",
+        "elena-mat-konstantina",
+        "pavel-apostol-pervoverhovnyj",
+        "david-car-prorok",
+        "vit-rimskij"
       ]
     },
     {
@@ -1086,7 +1099,32 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО КИРИАКА",
       "saintIds": [
-        "kiriak-otshelnik-palestinskij"
+        "kiriak-otshelnik-palestinskij",
+        "feodosij-ii-mladshij-imperator",
+        "pavel-apostol-pervoverhovnyj",
+        "enoh-pravednyj",
+        "noj-praotec",
+        "avraam-praotec",
+        "melhisedek-tsar-salima",
+        "iosif-prekrasnyj",
+        "iov-mnogostradalnyj",
+        "moisej-prorok-bogovidec",
+        "iisus-navin",
+        "david-car-prorok",
+        "ananija-vavilonskij",
+        "azarija-vavilonskij",
+        "misail-vavilonskij",
+        "presvjataja-bogorodica",
+        "adam-praotec",
+        "sarra-supruga-avraama",
+        "isaak-praotec",
+        "iakov-praotec",
+        "lev-i-vizantijskij-imperator",
+        "anastasij-i-ierusalimskij",
+        "evfimij-velikij",
+        "gerasim-iordanskij",
+        "feoktist-palestinskij",
+        "hariton-ispovednik"
       ]
     },
     {

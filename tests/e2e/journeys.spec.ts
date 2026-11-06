@@ -21,7 +21,7 @@ test('home, search aliases, pagination, clear filters and missing results', asyn
   await page.getByRole('button', { name: 'Искать', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Пока не нашли это имя' })).toBeVisible();
   await page.getByRole('link', { name: 'Сбросить фильтры' }).click();
-  await expect(page.locator('.results-bar')).toContainText('2496');
+  await expect(page.locator('.results-bar')).toContainText('2497');
   await expect(page.getByRole('searchbox', { name: 'Поиск святых' })).toHaveValue('');
   await expect(page.getByLabel('Традиция', { exact: true })).toHaveValue('');
   await expect(page.getByText('ИМЕНА В ПЕЧАТНЫХ УКАЗАТЕЛЯХ', { exact: false })).toBeVisible();
