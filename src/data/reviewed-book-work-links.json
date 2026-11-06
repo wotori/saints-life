@@ -10031,7 +10031,17 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОГО СВЯЩЕННОМУЧЕНИКА КЛИМЕНТА,",
       "saintIds": [
-        "kliment-rimskij-papa"
+        "kliment-rimskij-papa",
+        "petr-apostol-pervoverhovnyj",
+        "varnava-apostol",
+        "lin-rimskij-apostol",
+        "anaklet-rimskij",
+        "vladimir-svjatoslavich-kievskij",
+        "kirill-solunskij",
+        "mefodij-moravskij",
+        "ignatij-konstantinopolskij-patriarh",
+        "presvjataja-bogorodica",
+        "aleksandr-nevskij"
       ]
     },
     {
