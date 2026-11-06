@@ -21,7 +21,7 @@ test('home, search aliases, pagination, clear filters and missing results', asyn
   await page.getByRole('button', { name: 'Искать', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Пока не нашли это имя' })).toBeVisible();
   await page.getByRole('link', { name: 'Сбросить фильтры' }).click();
-  await expect(page.locator('.results-bar')).toContainText('2465');
+  await expect(page.locator('.results-bar')).toContainText('2467');
   await expect(page.getByRole('searchbox', { name: 'Поиск святых' })).toHaveValue('');
   await expect(page.getByLabel('Традиция', { exact: true })).toHaveValue('');
   await expect(page.getByText('ИМЕНА В ПЕЧАТНЫХ УКАЗАТЕЛЯХ', { exact: false })).toBeVisible();
@@ -260,7 +260,7 @@ test('sources, actual 404 status and responsive layouts', async ({ page }, testI
     if (route === '/' || route.startsWith('/calendar') || route.includes('solunskij')) await page.screenshot({ path: `test-results/${testInfo.project.name}-${route === '/' ? 'home' : route.startsWith('/calendar') ? 'calendar' : 'reader'}.png`, fullPage: true });
   }
   await page.goto('/sources');
-  await expect(page.locator('.source-row')).toHaveCount(558);
+  await expect(page.locator('.source-row')).toHaveCount(559);
   const response = await page.goto('/saints/no-such-saint');
   expect(response?.status()).toBe(404);
   await expect(page.getByRole('heading', { name: 'Этот лист пока пуст.' })).toBeVisible();
@@ -634,7 +634,7 @@ test('sourced synaxes open on their computed Sundays in both styles', async ({ p
 });
 
 test('Noah, Rahab, Nathan and Aaron follow Forefathers Sunday without inheriting another tradition', async ({ page }) => {
-  const addedForefathers = ["iessej-otets-davida", "sarra-supruga-avraama", "solomon-tsar-prorok", "revekka-supruga-isaaka", "mariam-sestra-moiseja", "susanna-vethozavetnaja", "rahil-supruga-iakova", "asenefa-supruga-iosifa", "esfir-tsaritsa", "ezekija-tsar-iudejskij", "iosafat-tsar-iudejskij", "lija-supruga-iakova", "vooz-suprug-rufi", "levij-syn-iakova", "zavulon-syn-iakova", "ruvim-syn-iakova", "iuda-syn-iakova", "simeon-syn-iakova"];
+  const addedForefathers = ["adam-praotec", "eva-pramater", "iessej-otets-davida", "sarra-supruga-avraama", "solomon-tsar-prorok", "revekka-supruga-isaaka", "mariam-sestra-moiseja", "susanna-vethozavetnaja", "rahil-supruga-iakova", "asenefa-supruga-iosifa", "esfir-tsaritsa", "ezekija-tsar-iudejskij", "iosafat-tsar-iudejskij", "lija-supruga-iakova", "vooz-suprug-rufi", "levij-syn-iakova", "zavulon-syn-iakova", "ruvim-syn-iakova", "iuda-syn-iakova", "simeon-syn-iakova"];
   for (const date of ['2025-12-28', '2026-12-27']) {
     await page.goto(`/calendar?date=${date}&tradition=russian-orthodox`);
     await expect(page.locator('a[href="/saints/noj-praotec"]')).toBeVisible();

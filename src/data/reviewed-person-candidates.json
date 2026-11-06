@@ -65326,5 +65326,1020 @@
       "evfrosinija-aleksandrijskaja"
     ],
     "note": "Имя Евфросинии Александрийской в мужской обители; тождество прямо раскрыто на PDF 510, 514 и 516. Не отдельный святой."
+  },
+  {
+    "book": 1,
+    "page": 233,
+    "offset": 1630,
+    "text": "Еву",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "97cbd342d5c1b949e68420c12c89eadaf6d50ba72cfff7e99142fa2e1786c1a7",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 1,
+    "page": 353,
+    "offset": 1462,
+    "text": "Евы",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "67497e0ef7cb7bce832aee03e2ef1e4c9f3e91029cc4d9e694b44ce5a05b9161",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 1,
+    "page": 464,
+    "offset": 502,
+    "text": "Еву",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "3735a19739e553172fee2d6fb3c3f248f772b18b6e71d3915941a2ca35b3704d",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 1,
+    "page": 464,
+    "offset": 476,
+    "text": "Адама",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "3735a19739e553172fee2d6fb3c3f248f772b18b6e71d3915941a2ca35b3704d",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 2,
+    "page": 46,
+    "offset": 552,
+    "text": "Ева",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "pageTextSha256": "5e2c9841733f49428ae077110cdb858a67d586acf57186acc7c99c1138f356c5",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 2,
+    "page": 46,
+    "offset": 1027,
+    "text": "Ева",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "pageTextSha256": "5e2c9841733f49428ae077110cdb858a67d586acf57186acc7c99c1138f356c5",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 2,
+    "page": 577,
+    "offset": 2099,
+    "text": "Еву",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "pageTextSha256": "f1e604850b70a6e5654cd874811db5f9410bef2de4049c53c720713153157134",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 556,
+    "offset": 1843,
+    "text": "Еве",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "5bbcc3849f479ecc015c75074e62894ac92c474092b2ffe9330b065737579274",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 656,
+    "offset": 73,
+    "text": "Еву",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "d71fe1d9e998db125a5bf775fb36ccea1100fa2aadc5722f5cb807f8ed8cd14f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 656,
+    "offset": 222,
+    "text": "Еву",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "d71fe1d9e998db125a5bf775fb36ccea1100fa2aadc5722f5cb807f8ed8cd14f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 656,
+    "offset": 50,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "d71fe1d9e998db125a5bf775fb36ccea1100fa2aadc5722f5cb807f8ed8cd14f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 656,
+    "offset": 119,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "d71fe1d9e998db125a5bf775fb36ccea1100fa2aadc5722f5cb807f8ed8cd14f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 656,
+    "offset": 227,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "d71fe1d9e998db125a5bf775fb36ccea1100fa2aadc5722f5cb807f8ed8cd14f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 669,
+    "offset": 1218,
+    "text": "Ева",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "edfcf1054cbcca3c7d37423d69c0dc43a35a485867cb642d8d6ddbad26e7d843",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 669,
+    "offset": 522,
+    "text": "Адама",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "edfcf1054cbcca3c7d37423d69c0dc43a35a485867cb642d8d6ddbad26e7d843",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 669,
+    "offset": 1203,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "edfcf1054cbcca3c7d37423d69c0dc43a35a485867cb642d8d6ddbad26e7d843",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 670,
+    "offset": 2208,
+    "text": "Ева",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "d3c50ee4e14bbf6a88d0b4f83d01a18b988f5767264ce91c4bd2347effab7424",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 670,
+    "offset": 2101,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "d3c50ee4e14bbf6a88d0b4f83d01a18b988f5767264ce91c4bd2347effab7424",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 670,
+    "offset": 2201,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "d3c50ee4e14bbf6a88d0b4f83d01a18b988f5767264ce91c4bd2347effab7424",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 670,
+    "offset": 2339,
+    "text": "Адаму",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "d3c50ee4e14bbf6a88d0b4f83d01a18b988f5767264ce91c4bd2347effab7424",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 673,
+    "offset": 1644,
+    "text": "Еву",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "085a88b86eacb5035835f2c13babb4da9c38d772e9dd961a2d9dd36e43ca77e8",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 673,
+    "offset": 44,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "085a88b86eacb5035835f2c13babb4da9c38d772e9dd961a2d9dd36e43ca77e8",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Выражение новый Адам относится ко Христу, не к праотцу.",
+    "rejectedSaintIds": [
+      "adam-praotec"
+    ]
+  },
+  {
+    "book": 4,
+    "page": 673,
+    "offset": 1150,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "085a88b86eacb5035835f2c13babb4da9c38d772e9dd961a2d9dd36e43ca77e8",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 673,
+    "offset": 1532,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "085a88b86eacb5035835f2c13babb4da9c38d772e9dd961a2d9dd36e43ca77e8",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 673,
+    "offset": 1589,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "085a88b86eacb5035835f2c13babb4da9c38d772e9dd961a2d9dd36e43ca77e8",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 712,
+    "offset": 1812,
+    "text": "Евою",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "9e6c9a835c3ac1fe7181a12b8a7d12b0074ea859050d2b0db456aa21d857fed5",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 4,
+    "page": 712,
+    "offset": 1803,
+    "text": "Адама",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "9e6c9a835c3ac1fe7181a12b8a7d12b0074ea859050d2b0db456aa21d857fed5",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 5,
+    "page": 122,
+    "offset": 1708,
+    "text": "Евы",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "02681cb1f213d2685d6e525fbacbc8aee95e569b5f13f08b17f9a719b67b41ad",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 5,
+    "page": 122,
+    "offset": 1678,
+    "text": "Адама",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "02681cb1f213d2685d6e525fbacbc8aee95e569b5f13f08b17f9a719b67b41ad",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 5,
+    "page": 805,
+    "offset": 2291,
+    "text": "Еву",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "062858f7d677e6dddff78515f51c182714ffa5613ee6879c6ccbea9882a2f3d5",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 6,
+    "page": 259,
+    "offset": 467,
+    "text": "Еву",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "5ad40c3554026e360bddb71b449b343863ed53201f347df3fb824dbc774cc5cc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 6,
+    "page": 259,
+    "offset": 459,
+    "text": "Адама",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "5ad40c3554026e360bddb71b449b343863ed53201f347df3fb824dbc774cc5cc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 6,
+    "page": 280,
+    "offset": 1420,
+    "text": "Еву",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "72188e23bd446358847f29cd3649b87ca473d08da2f6a9a6df648eebafd57ca6",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 98,
+    "offset": 610,
+    "text": "Еву",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "e16b2db2d39fe93636940dac1511039e31b6a6816224c55d3aac8c1aff49025a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 98,
+    "offset": 688,
+    "text": "Ева",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "e16b2db2d39fe93636940dac1511039e31b6a6816224c55d3aac8c1aff49025a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 98,
+    "offset": 633,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "e16b2db2d39fe93636940dac1511039e31b6a6816224c55d3aac8c1aff49025a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 98,
+    "offset": 681,
+    "text": "Адам",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "e16b2db2d39fe93636940dac1511039e31b6a6816224c55d3aac8c1aff49025a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 98,
+    "offset": 949,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "e16b2db2d39fe93636940dac1511039e31b6a6816224c55d3aac8c1aff49025a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 98,
+    "offset": 1007,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "e16b2db2d39fe93636940dac1511039e31b6a6816224c55d3aac8c1aff49025a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 98,
+    "offset": 1218,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "e16b2db2d39fe93636940dac1511039e31b6a6816224c55d3aac8c1aff49025a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 451,
+    "offset": 82,
+    "text": "Ева",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "a0ff5a33adb615ea92e7fbcdc85e1d6dc827c2707876445092ecbe8997d3d1ca",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 462,
+    "offset": 201,
+    "text": "Евы",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "0fc65f8436ef402f04271327a4f14c3baade4934781f6d094bc7f2bf1a801eae",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 471,
+    "offset": 723,
+    "text": "Евы",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "d0bc9f81efa2379fb8dcd67fa1e8d0ce422c1c8a9d8d10a4a8a59b1431d91fda",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 471,
+    "offset": 715,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "d0bc9f81efa2379fb8dcd67fa1e8d0ce422c1c8a9d8d10a4a8a59b1431d91fda",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 637,
+    "offset": 1265,
+    "text": "Евой",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "c272a57c30bfcaa924847d19208a1ddc76048b30593f29d4676fccc39aa08d83",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 637,
+    "offset": 187,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "c272a57c30bfcaa924847d19208a1ddc76048b30593f29d4676fccc39aa08d83",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 637,
+    "offset": 252,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "c272a57c30bfcaa924847d19208a1ddc76048b30593f29d4676fccc39aa08d83",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 637,
+    "offset": 1063,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "c272a57c30bfcaa924847d19208a1ddc76048b30593f29d4676fccc39aa08d83",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 7,
+    "page": 637,
+    "offset": 1258,
+    "text": "Адам",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "c272a57c30bfcaa924847d19208a1ddc76048b30593f29d4676fccc39aa08d83",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 9,
+    "page": 173,
+    "offset": 1820,
+    "text": "Еву",
+    "sourceSha256": "82b1215c68f31643b8eb01894d4ace63f2ff7a1caf45f8893122a038ba88d8ac",
+    "pageTextSha256": "825e614494b5ea24662499232f201b395d3cdcdf62aa39f97b11d32d5ba86e9c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 10,
+    "page": 110,
+    "offset": 1277,
+    "text": "Еве",
+    "sourceSha256": "5d6ad1d1f29953b1f717fcc709ec01032ad6928b642e5b4664378b70284fb152",
+    "pageTextSha256": "8597f6c9a9efbdca4738499b4dc84e4f9d8b5832f4826cb73f50506ddc71988a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 10,
+    "page": 497,
+    "offset": 264,
+    "text": "Ева",
+    "sourceSha256": "5d6ad1d1f29953b1f717fcc709ec01032ad6928b642e5b4664378b70284fb152",
+    "pageTextSha256": "800bdcd1cafd9f6e15d6b50895da78c1108b26a42a94b7f7acbd2a7099d60f57",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 10,
+    "page": 497,
+    "offset": 254,
+    "text": "Адам",
+    "sourceSha256": "5d6ad1d1f29953b1f717fcc709ec01032ad6928b642e5b4664378b70284fb152",
+    "pageTextSha256": "800bdcd1cafd9f6e15d6b50895da78c1108b26a42a94b7f7acbd2a7099d60f57",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 11,
+    "page": 12,
+    "offset": 1338,
+    "text": "Евы",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "382dd10a31f557fffd9a226c28f288f598141fabb9189609e1556151050cd308",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 11,
+    "page": 12,
+    "offset": 1330,
+    "text": "Адама",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "382dd10a31f557fffd9a226c28f288f598141fabb9189609e1556151050cd308",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 11,
+    "page": 359,
+    "offset": 733,
+    "text": "Еве",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "a65b617ceb4742fde8d78dec934f93b99ed12c970d84db48cec803ad981788a7",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 11,
+    "page": 585,
+    "offset": 1925,
+    "text": "Еве",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "5ab25cd3c29d284e9fca7ecf13f5e105ca5cfc8ba500b1d18bbb74ed9cacac47",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 12,
+    "page": 377,
+    "offset": 1272,
+    "text": "Еву",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "8343690bde38f44532d848a534a50676ea41dcb03f623d5a358dc4457a16f489",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 264,
+    "offset": 1939,
+    "text": "Ева",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "f9d71291160108a7df59a6334ed85ca511c74552e01e946a8a767b520d2b8428",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 264,
+    "offset": 1904,
+    "text": "Адам",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "f9d71291160108a7df59a6334ed85ca511c74552e01e946a8a767b520d2b8428",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 274,
+    "offset": 457,
+    "text": "Еву",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "9353fec17eb708b82e1667929d2dfd24a3d4c08433b66154df7909a02294a9ca",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 274,
+    "offset": 449,
+    "text": "Адама",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "9353fec17eb708b82e1667929d2dfd24a3d4c08433b66154df7909a02294a9ca",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 321,
+    "offset": 306,
+    "text": "Еву",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "7b9e24615111054f9d0dc50aab1c3cf25225b41dd59aeae5fb0e60fa66e0620c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 322,
+    "offset": 229,
+    "text": "Евы",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "1fa1ccc898d722461dac8ccf70bd9a607c32177a2456afced90568f1b63d2652",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 322,
+    "offset": 221,
+    "text": "Адама",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "1fa1ccc898d722461dac8ccf70bd9a607c32177a2456afced90568f1b63d2652",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 326,
+    "offset": 582,
+    "text": "Ева",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "f2d50d01fbfac2f675177754cead609f72bf8b54d920dc6a61326e6e8c528cfc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 326,
+    "offset": 1382,
+    "text": "Ева",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "f2d50d01fbfac2f675177754cead609f72bf8b54d920dc6a61326e6e8c528cfc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 326,
+    "offset": 464,
+    "text": "Адама",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "f2d50d01fbfac2f675177754cead609f72bf8b54d920dc6a61326e6e8c528cfc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 326,
+    "offset": 495,
+    "text": "Адама",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "f2d50d01fbfac2f675177754cead609f72bf8b54d920dc6a61326e6e8c528cfc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 326,
+    "offset": 575,
+    "text": "Адам",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "f2d50d01fbfac2f675177754cead609f72bf8b54d920dc6a61326e6e8c528cfc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 326,
+    "offset": 1359,
+    "text": "Адам",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "f2d50d01fbfac2f675177754cead609f72bf8b54d920dc6a61326e6e8c528cfc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 327,
+    "offset": 669,
+    "text": "Ева",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "da555dd6441cd1974cd5f6cd3242a325beef891247c573f3c6dd5c58d71ef9cc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 327,
+    "offset": 645,
+    "text": "Адам",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "da555dd6441cd1974cd5f6cd3242a325beef891247c573f3c6dd5c58d71ef9cc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 334,
+    "offset": 1237,
+    "text": "Ева",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "9bc2f2d191800cf421efa3c96ef974b3d9d1a90be512c561922fb9c5cf76919c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 347,
+    "offset": 1876,
+    "text": "Ева",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "f81d4480d7527a652dee9b46cb4abfe3faf10fc9aa16822f255099e8a58388e9",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 347,
+    "offset": 2039,
+    "text": "Еву",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "f81d4480d7527a652dee9b46cb4abfe3faf10fc9aa16822f255099e8a58388e9",
+    "decision": "identity-linked",
+    "saintIds": [
+      "eva-pramater"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 347,
+    "offset": 1869,
+    "text": "Адам",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "f81d4480d7527a652dee9b46cb4abfe3faf10fc9aa16822f255099e8a58388e9",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 13,
+    "page": 347,
+    "offset": 2017,
+    "text": "Адам",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "f81d4480d7527a652dee9b46cb4abfe3faf10fc9aa16822f255099e8a58388e9",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
   }
 ]
