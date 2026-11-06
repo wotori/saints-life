@@ -10503,7 +10503,20 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ПАВЛА ИСПОВЕДНИКА,",
       "saintIds": [
-        "pavel-ispovednik-konstantinopolskij"
+        "pavel-ispovednik-konstantinopolskij",
+        "konstantin-velikij-imperator",
+        "afanasij-velikij-aleksandrijskij",
+        "aleksandr-konstantinopolskij",
+        "pavel-apostol-pervoverhovnyj",
+        "timofej-apostol-efesskij",
+        "sila-apostol-iz-semidesjati",
+        "iulij-i-papa-rimskij",
+        "apollos-kesarijskij-apostol",
+        "presvjataja-bogorodica",
+        "luka-apostol-evangelist",
+        "markian-konstantinopolskij-notarij",
+        "martirij-konstantinopolskij-notarij",
+        "feodosij-i-velikij-imperator"
       ]
     },
     {
@@ -10512,7 +10525,8 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО ВАРЛААМА ХУТЫНСКОГО,",
       "saintIds": [
-        "varlaam-hutynskij"
+        "varlaam-hutynskij",
+        "david-car-prorok"
       ]
     },
     {
