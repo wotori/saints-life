@@ -10108,7 +10108,9 @@
         "kikilija-rimskaja",
         "valerian-s-kikiliej",
         "tivurtij-s-kikiliej",
-        "maksim-s-kikiliej"
+        "maksim-s-kikiliej",
+        "kliment-rimskij-papa",
+        "kirill-ierusalimskij"
       ]
     },
     {
@@ -10119,7 +10121,9 @@
       "saintIds": [
         "filimon-apostol",
         "arhipp-apostol",
-        "apfija-ravnoapostolnaja"
+        "apfija-ravnoapostolnaja",
+        "pavel-apostol-pervoverhovnyj",
+        "mihail-arhangel"
       ]
     },
     {
@@ -10128,7 +10132,9 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ПАМЯТЬ ПРАВЕДНОГО МИХАИЛА ВОИНА:",
       "saintIds": [
-        "mihail-voin-bolgarskij"
+        "mihail-voin-bolgarskij",
+        "georgij-pobedonosec",
+        "evfimij-tyrnovskij"
       ]
     },
     {
