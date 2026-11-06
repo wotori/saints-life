@@ -67510,5 +67510,276 @@
       "ieronim-stridonskij"
     ],
     "note": "Примечание прямо называет Иеронима Стридонского, приводит биографию и ссылки на письма. Полная страница и обоснование: reviews/jerome-commentator-contexts.json. Решение об имени не подтверждает независимо авторство каждой цитаты."
+  },
+  {
+    "book": 1,
+    "page": 565,
+    "offset": 921,
+    "text": "Гермоген",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "5e6fc2c31925ec3eac3cfe1aee7e25bf14d527731afeb1931dd79a53f6fc3f75",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ermogen-moskovskij-patriarh"
+    ],
+    "note": "Казанский митрополит и Московский патриарх. Личность сверена с полным контекстом страницы и статьёй Евгения Липакова на сайте Татарстанской митрополии. Архив: reviews/hermogenes-patriarch-and-namesakes.json."
+  },
+  {
+    "book": 1,
+    "page": 565,
+    "offset": 1956,
+    "text": "Гермоген",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "5e6fc2c31925ec3eac3cfe1aee7e25bf14d527731afeb1931dd79a53f6fc3f75",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ermogen-moskovskij-patriarh"
+    ],
+    "note": "Казанский митрополит и Московский патриарх. Личность сверена с полным контекстом страницы и статьёй Евгения Липакова на сайте Татарстанской митрополии. Архив: reviews/hermogenes-patriarch-and-namesakes.json."
+  },
+  {
+    "book": 2,
+    "page": 94,
+    "offset": 1013,
+    "text": "Гермогену",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "pageTextSha256": "28b55159df1f39fc047f325061b705f8340528d3a920d5ebebc824e48563fc95",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ermogen-moskovskij-patriarh"
+    ],
+    "note": "Казанский митрополит и Московский патриарх. Личность сверена с полным контекстом страницы и статьёй Евгения Липакова на сайте Татарстанской митрополии. Архив: reviews/hermogenes-patriarch-and-namesakes.json."
+  },
+  {
+    "book": 2,
+    "page": 94,
+    "offset": 1853,
+    "text": "Гермоген",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "pageTextSha256": "28b55159df1f39fc047f325061b705f8340528d3a920d5ebebc824e48563fc95",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ermogen-moskovskij-patriarh"
+    ],
+    "note": "Казанский митрополит и Московский патриарх. Личность сверена с полным контекстом страницы и статьёй Евгения Липакова на сайте Татарстанской митрополии. Архив: reviews/hermogenes-patriarch-and-namesakes.json."
+  },
+  {
+    "book": 2,
+    "page": 94,
+    "offset": 2014,
+    "text": "Гермоген",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "pageTextSha256": "28b55159df1f39fc047f325061b705f8340528d3a920d5ebebc824e48563fc95",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ermogen-moskovskij-patriarh"
+    ],
+    "note": "Казанский митрополит и Московский патриарх. Личность сверена с полным контекстом страницы и статьёй Евгения Липакова на сайте Татарстанской митрополии. Архив: reviews/hermogenes-patriarch-and-namesakes.json."
+  },
+  {
+    "book": 2,
+    "page": 94,
+    "offset": 2258,
+    "text": "Гермоген",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "pageTextSha256": "28b55159df1f39fc047f325061b705f8340528d3a920d5ebebc824e48563fc95",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ermogen-moskovskij-patriarh"
+    ],
+    "note": "Казанский митрополит и Московский патриарх. Личность сверена с полным контекстом страницы и статьёй Евгения Липакова на сайте Татарстанской митрополии. Архив: reviews/hermogenes-patriarch-and-namesakes.json."
+  },
+  {
+    "book": 5,
+    "page": 380,
+    "offset": 465,
+    "text": "Гермогена",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "7c0729d83feec2effb7b59c296c2004cd872c33c1488e641e2b933649dff8f92",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ermogen-moskovskij-patriarh"
+    ],
+    "note": "Казанский митрополит и Московский патриарх. Личность сверена с полным контекстом страницы и статьёй Евгения Липакова на сайте Татарстанской митрополии. Архив: reviews/hermogenes-patriarch-and-namesakes.json."
+  },
+  {
+    "book": 6,
+    "page": 36,
+    "offset": 822,
+    "text": "Гермогену",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "aa21ae887847ded5afddab387e2f11161526c7662154bcd27e38e4e58670858c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ermogen-moskovskij-patriarh"
+    ],
+    "note": "Казанский митрополит и Московский патриарх. Личность сверена с полным контекстом страницы и статьёй Евгения Липакова на сайте Татарстанской митрополии. Архив: reviews/hermogenes-patriarch-and-namesakes.json."
+  },
+  {
+    "book": 6,
+    "page": 39,
+    "offset": 1561,
+    "text": "Гермогену",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "25b60129caffab3bdcc3f68ecb461cc039358f137e7d27a2e7a8f5a8632bbca3",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ermogen-moskovskij-patriarh"
+    ],
+    "note": "Казанский митрополит и Московский патриарх. Личность сверена с полным контекстом страницы и статьёй Евгения Липакова на сайте Татарстанской митрополии. Архив: reviews/hermogenes-patriarch-and-namesakes.json."
+  },
+  {
+    "book": 2,
+    "page": 613,
+    "offset": 191,
+    "text": "Гермоген",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "pageTextSha256": "b2d86d2772ebad50c89ceb7bc6c82fe69f3eeeddefab45485c49e29f06df58e0",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Пресвитер, погребавший мучеников III века. Это не Московский патриарх. Архив: reviews/hermogenes-patriarch-and-namesakes.json.",
+    "rejectedSaintIds": [
+      "ermogen-moskovskij-patriarh"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 107,
+    "offset": 375,
+    "text": "Гермогена",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "3e37a4ba360a2f34fefefd52c38daccd6604482751248c102ca8ba20611ba17a",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Полководец императора Констанция, посланный изгнать Павла из Константинополя. Это не Московский патриарх. Архив: reviews/hermogenes-patriarch-and-namesakes.json.",
+    "rejectedSaintIds": [
+      "ermogen-moskovskij-patriarh"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 107,
+    "offset": 482,
+    "text": "Гермоген",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "3e37a4ba360a2f34fefefd52c38daccd6604482751248c102ca8ba20611ba17a",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Полководец императора Констанция, посланный изгнать Павла из Константинополя. Это не Московский патриарх. Архив: reviews/hermogenes-patriarch-and-namesakes.json.",
+    "rejectedSaintIds": [
+      "ermogen-moskovskij-patriarh"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 107,
+    "offset": 665,
+    "text": "Гермоген",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "3e37a4ba360a2f34fefefd52c38daccd6604482751248c102ca8ba20611ba17a",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Полководец императора Констанция, посланный изгнать Павла из Константинополя. Это не Московский патриарх. Архив: reviews/hermogenes-patriarch-and-namesakes.json.",
+    "rejectedSaintIds": [
+      "ermogen-moskovskij-patriarh"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 107,
+    "offset": 770,
+    "text": "Гермоген",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "3e37a4ba360a2f34fefefd52c38daccd6604482751248c102ca8ba20611ba17a",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Полководец императора Констанция, посланный изгнать Павла из Константинополя. Это не Московский патриарх. Архив: reviews/hermogenes-patriarch-and-namesakes.json.",
+    "rejectedSaintIds": [
+      "ermogen-moskovskij-patriarh"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 107,
+    "offset": 849,
+    "text": "Гермогена",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "3e37a4ba360a2f34fefefd52c38daccd6604482751248c102ca8ba20611ba17a",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Полководец императора Констанция, посланный изгнать Павла из Константинополя. Это не Московский патриарх. Архив: reviews/hermogenes-patriarch-and-namesakes.json.",
+    "rejectedSaintIds": [
+      "ermogen-moskovskij-patriarh"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 107,
+    "offset": 1019,
+    "text": "Гермогена",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "3e37a4ba360a2f34fefefd52c38daccd6604482751248c102ca8ba20611ba17a",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Полководец императора Констанция, посланный изгнать Павла из Константинополя. Это не Московский патриарх. Архив: reviews/hermogenes-patriarch-and-namesakes.json.",
+    "rejectedSaintIds": [
+      "ermogen-moskovskij-patriarh"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 107,
+    "offset": 2231,
+    "text": "Гермогена",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "3e37a4ba360a2f34fefefd52c38daccd6604482751248c102ca8ba20611ba17a",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Полководец императора Констанция, посланный изгнать Павла из Константинополя. Это не Московский патриарх. Архив: reviews/hermogenes-patriarch-and-namesakes.json.",
+    "rejectedSaintIds": [
+      "ermogen-moskovskij-patriarh"
+    ]
+  },
+  {
+    "book": 5,
+    "page": 372,
+    "offset": 626,
+    "text": "Гермоген",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "68fd737a355b310b7bb60ca31a4ae6b944c686c4855ae13588479c261b824ca1",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Игумен Борисоглебского монастыря в житии Иринарха. Это не Московский патриарх. Архив: reviews/hermogenes-patriarch-and-namesakes.json.",
+    "rejectedSaintIds": [
+      "ermogen-moskovskij-patriarh"
+    ]
+  },
+  {
+    "book": 5,
+    "page": 372,
+    "offset": 1135,
+    "text": "Гермогену",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "68fd737a355b310b7bb60ca31a4ae6b944c686c4855ae13588479c261b824ca1",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Игумен Борисоглебского монастыря в житии Иринарха. Это не Московский патриарх. Архив: reviews/hermogenes-patriarch-and-namesakes.json.",
+    "rejectedSaintIds": [
+      "ermogen-moskovskij-patriarh"
+    ]
+  },
+  {
+    "book": 5,
+    "page": 373,
+    "offset": 62,
+    "text": "Гермоген",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "5b4a7737136b1e0f5cb655ed31514e3dfdcbb065cd7506c3fdf88984aa8aa47c",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Тот же игумен Борисоглебского монастыря, возвративший Иринарха. Это не Московский патриарх. Архив: reviews/hermogenes-patriarch-and-namesakes.json.",
+    "rejectedSaintIds": [
+      "ermogen-moskovskij-patriarh"
+    ]
   }
 ]
