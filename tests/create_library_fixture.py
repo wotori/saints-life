@@ -109,6 +109,7 @@ CREATE VIRTUAL TABLE pages_fts USING fts5(body, book_number UNINDEXED, page UNIN
         db.execute('INSERT INTO books VALUES (?, ?, ?, ?, ?)', (book, 'Тест раздела архангела', str(pdf), start + 2, edition_hash))
         for number, content in [(start, heading + '\n\nНачало тестового раздела.'), (start + 1, 'Продолжение тестового раздела.'), (start + 2, 'ЖИТИЕ ДРУГОГО СВЯТОГО\n\nСоседний раздел.')]:
             db.execute('INSERT INTO pages VALUES (?, ?, ?, ?, NULL)', (book, number, content, 'ok'))
+    db.execute('INSERT INTO pages VALUES (8, 119, ?, ?, NULL)', ('В тот же день память ста двадцати мучеников в Персии, тестовая запись для проверки фильтра традиции.', 'ok'))
     db.execute('INSERT INTO pages_fts(rowid,body,book_number,page) SELECT rowid,body,book_number,page FROM pages')
 
 with sqlite3.connect(destination / 'epub.sqlite3') as db:

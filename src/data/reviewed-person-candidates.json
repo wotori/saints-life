@@ -61950,5 +61950,447 @@
       "nearh-drug-polievkta"
     ],
     "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 12,
+    "page": 252,
+    "offset": 380,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "669040275d2e2fde71d820180e41d3b0e62af6f84afb2fcd44b05346d7e0712f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 252,
+    "offset": 537,
+    "text": "Авгаря",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "669040275d2e2fde71d820180e41d3b0e62af6f84afb2fcd44b05346d7e0712f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 252,
+    "offset": 717,
+    "text": "Авгарем",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "669040275d2e2fde71d820180e41d3b0e62af6f84afb2fcd44b05346d7e0712f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 252,
+    "offset": 1148,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "669040275d2e2fde71d820180e41d3b0e62af6f84afb2fcd44b05346d7e0712f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 252,
+    "offset": 1189,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "669040275d2e2fde71d820180e41d3b0e62af6f84afb2fcd44b05346d7e0712f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 252,
+    "offset": 1565,
+    "text": "Авгарю",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "669040275d2e2fde71d820180e41d3b0e62af6f84afb2fcd44b05346d7e0712f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 253,
+    "offset": 74,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "d4a69d97d55de662571c6f040a2bc5ca54e7b51acf9469c3fb3cd689c3d17447",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 253,
+    "offset": 343,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "d4a69d97d55de662571c6f040a2bc5ca54e7b51acf9469c3fb3cd689c3d17447",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 253,
+    "offset": 630,
+    "text": "Авгаря",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "d4a69d97d55de662571c6f040a2bc5ca54e7b51acf9469c3fb3cd689c3d17447",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 253,
+    "offset": 691,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "d4a69d97d55de662571c6f040a2bc5ca54e7b51acf9469c3fb3cd689c3d17447",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 253,
+    "offset": 1668,
+    "text": "Авгаря",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "d4a69d97d55de662571c6f040a2bc5ca54e7b51acf9469c3fb3cd689c3d17447",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 254,
+    "offset": 328,
+    "text": "Авгаря",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "87529f0a7309ec26c0660ad060f32a9a634829360c69a2cc0f38e4f13da09dcc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 254,
+    "offset": 534,
+    "text": "Авгарю",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "87529f0a7309ec26c0660ad060f32a9a634829360c69a2cc0f38e4f13da09dcc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 254,
+    "offset": 565,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "87529f0a7309ec26c0660ad060f32a9a634829360c69a2cc0f38e4f13da09dcc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 254,
+    "offset": 1090,
+    "text": "Авгарю",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "87529f0a7309ec26c0660ad060f32a9a634829360c69a2cc0f38e4f13da09dcc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 254,
+    "offset": 1271,
+    "text": "Авгаря",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "87529f0a7309ec26c0660ad060f32a9a634829360c69a2cc0f38e4f13da09dcc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 254,
+    "offset": 1713,
+    "text": "Авгаря",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "87529f0a7309ec26c0660ad060f32a9a634829360c69a2cc0f38e4f13da09dcc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 254,
+    "offset": 1756,
+    "text": "Авгарю",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "87529f0a7309ec26c0660ad060f32a9a634829360c69a2cc0f38e4f13da09dcc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 254,
+    "offset": 2432,
+    "text": "Авгаре",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "87529f0a7309ec26c0660ad060f32a9a634829360c69a2cc0f38e4f13da09dcc",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 330,
+    "offset": 346,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "084455d28dca692ecb2e5156cbd2cb000d6b1c7bde1f1027b563c3415aa1c173",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 330,
+    "offset": 427,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "084455d28dca692ecb2e5156cbd2cb000d6b1c7bde1f1027b563c3415aa1c173",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 330,
+    "offset": 541,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "084455d28dca692ecb2e5156cbd2cb000d6b1c7bde1f1027b563c3415aa1c173",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 330,
+    "offset": 719,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "084455d28dca692ecb2e5156cbd2cb000d6b1c7bde1f1027b563c3415aa1c173",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 330,
+    "offset": 833,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "084455d28dca692ecb2e5156cbd2cb000d6b1c7bde1f1027b563c3415aa1c173",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 330,
+    "offset": 1234,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "084455d28dca692ecb2e5156cbd2cb000d6b1c7bde1f1027b563c3415aa1c173",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 330,
+    "offset": 1611,
+    "text": "Авгаря",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "084455d28dca692ecb2e5156cbd2cb000d6b1c7bde1f1027b563c3415aa1c173",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 330,
+    "offset": 1750,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "084455d28dca692ecb2e5156cbd2cb000d6b1c7bde1f1027b563c3415aa1c173",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 331,
+    "offset": 33,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "17a84c27f01c9412778bf16298061cdbdd05452d77307619c7c161c76825c302",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 331,
+    "offset": 218,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "17a84c27f01c9412778bf16298061cdbdd05452d77307619c7c161c76825c302",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 331,
+    "offset": 391,
+    "text": "Авгаря",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "17a84c27f01c9412778bf16298061cdbdd05452d77307619c7c161c76825c302",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 331,
+    "offset": 494,
+    "text": "Авгаря",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "17a84c27f01c9412778bf16298061cdbdd05452d77307619c7c161c76825c302",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 331,
+    "offset": 657,
+    "text": "Авгарю",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "17a84c27f01c9412778bf16298061cdbdd05452d77307619c7c161c76825c302",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 331,
+    "offset": 1161,
+    "text": "Авгарю",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "17a84c27f01c9412778bf16298061cdbdd05452d77307619c7c161c76825c302",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
+  },
+  {
+    "book": 12,
+    "page": 331,
+    "offset": 1267,
+    "text": "Авгарь",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "17a84c27f01c9412778bf16298061cdbdd05452d77307619c7c161c76825c302",
+    "decision": "identity-linked",
+    "saintIds": [
+      "avgar-v-edesskij"
+    ],
+    "note": "Правитель Эдессы из предания о письме Христу и исцелении; Авгарь V по энциклопедической статье. Не другие правители этого имени и не Авгарский монастырь."
   }
 ]

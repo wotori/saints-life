@@ -2,6 +2,7 @@
 import Link from 'next/link';
 import { useMemo, useState } from 'react';
 import { Icon } from '@/components/icon';
+import { traditions } from '@/domain/traditions';
 import type { CalendarSystem, CivilDate, Commemoration, Saint, TraditionId } from '@/domain/types';
 import type { PrintedIndexHit } from '@/lib/book-index-db';
 import type { CollectiveReading } from '@/lib/collective-memories';
@@ -25,7 +26,7 @@ export function CalendarBrowser({ initialDate, initialStyle, initialTradition, s
   const indexDays = useMemo(() => new Set(matchingEntries.map(entry => `${entry.julianMonth}:${entry.calendarDay}`)), [matchingEntries]);
   const indexSaints = matchingEntries.filter(entry => entry.julianMonth === old.month && entry.calendarDay === old.day);
   const bookDay = !tradition && !query.trim() ? bookDays.find(entry => entry.month === old.month && entry.day === old.day) : undefined;
-  const matchingCollectives = tradition === 'old-believer' ? [] : collectiveReadings.filter(item => matchesSearch(item.title, query.trim()));
+  const matchingCollectives = tradition && tradition !== 'russian-orthodox' ? [] : collectiveReadings.filter(item => matchesSearch(item.title, query.trim()));
   const dayCollectives = matchingCollectives.filter(item => item.month === old.month && item.day === old.day);
   const monthSaints = saints.filter(s => matches(s) && relevant.some(c => c.saintId === s.id && cells.some(cell => cell.inMonth && matchesCommemoration(c, cell.civil))));
   const setSelection = (nextDate: CivilDate, nextStyle = style, nextTradition = tradition) => {
@@ -42,7 +43,7 @@ export function CalendarBrowser({ initialDate, initialStyle, initialTradition, s
     const next = convertDate({ year, month, day: Math.min(display.day, daysInMonth(year, month, style)) }, style, 'gregorian');
     setSelection(next);
   }
-  return <><div className="calendar-filters"><div className="segmented" aria-label="Календарный стиль"><button aria-pressed={style === 'gregorian'} className={style === 'gregorian' ? 'selected' : ''} onClick={() => setSelection(date, 'gregorian')}>Новый стиль</button><button aria-pressed={style === 'julian'} className={style === 'julian' ? 'selected' : ''} onClick={() => setSelection(date, 'julian')}>Старый стиль</button></div><label className="calendar-tradition"><span className="sr-only">Традиция календаря</span><select value={tradition} onChange={e => setSelection(date, style, e.target.value)}><option value="">Все традиции</option><option value="russian-orthodox">Православный месяцеслов</option><option value="old-believer">Старообрядческая традиция</option></select></label></div>
+  return <><div className="calendar-filters"><div className="segmented" aria-label="Календарный стиль"><button aria-pressed={style === 'gregorian'} className={style === 'gregorian' ? 'selected' : ''} onClick={() => setSelection(date, 'gregorian')}>Новый стиль</button><button aria-pressed={style === 'julian'} className={style === 'julian' ? 'selected' : ''} onClick={() => setSelection(date, 'julian')}>Старый стиль</button></div><label className="calendar-tradition"><span className="sr-only">Традиция календаря</span><select value={tradition} onChange={e => setSelection(date, style, e.target.value)}><option value="">Все традиции</option>{traditions.map(item => <option key={item.id} value={item.id}>{item.label}</option>)}</select></label></div>
     <div className="calendar-layout"><section className="calendar-panel" aria-label="Календарь памятей"><div className="month-navigation"><h2>{MONTHS[display.month - 1]} <span>{display.year}</span></h2><div><button onClick={() => changeMonth(-1)} aria-label="Предыдущий месяц"><Icon name="chevron-left" size={17}/></button><button onClick={() => setSelection(todayDate)} className="today-button">Сегодня</button><button onClick={() => changeMonth(1)} aria-label="Следующий месяц"><Icon name="chevron-right" size={17}/></button></div></div><div className="weekday-grid">{['Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб', 'Вс'].map(d => <span key={d}>{d}</span>)}</div><div className="month-grid">{cells.map(cell => {
       const hits = relevant.filter(c => matchesCommemoration(c, cell.civil) && saints.some(s => s.id === c.saintId && matches(s)));
       const hasModern = hits.some(c => c.traditionId === 'russian-orthodox');
@@ -64,7 +65,7 @@ function IndexSaints({ entries }: { entries: PrintedIndexHit[] }) {
 
 function CalendarSaint({ saint, items }: { saint: Saint; items: Commemoration[] }) {
   const traditionIds = [...new Set(items.map(c => c.traditionId))] as TraditionId[];
-  return <Link href={`/saints/${saint.slug}`} className="calendar-saint"><div className="calendar-initial" aria-hidden="true">{saint.name.charAt(0)}</div><div><span className="card-rank">{saint.rank.split(',')[0]}</span><h3>{saint.name}</h3><p>{[...new Set(items.map(c => c.label))].join(' · ')}</p><small>{traditionIds.map(t => t === 'old-believer' ? 'Старообрядческая' : 'Православный месяцеслов').join(' · ')}</small></div><Icon name="arrow" size={17}/></Link>;
+  return <Link href={`/saints/${saint.slug}`} className="calendar-saint"><div className="calendar-initial" aria-hidden="true">{saint.name.charAt(0)}</div><div><span className="card-rank">{saint.rank.split(',')[0]}</span><h3>{saint.name}</h3><p>{[...new Set(items.map(c => c.label))].join(' · ')}</p><small>{traditionIds.map(t => traditions.find(item => item.id === t)?.short ?? t).join(' · ')}</small></div><Icon name="arrow" size={17}/></Link>;
 }
 
 function CollectiveMemories({ entries }: { entries: CollectiveReading[] }) {

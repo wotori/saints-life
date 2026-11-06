@@ -6,14 +6,11 @@ import { amorionSaints, amorionSources, amorionVenerations, amorionCommemoration
 import { bookSaints, bookSaintSources, bookSaintVenerations, bookSaintCommemorations } from '@/data/book-saints';
 import { pomorSaints, pomorSources, pomorVenerations, pomorCommemorations } from '@/data/pomor-calendar';
 import { rostovAppendixSaints, rostovAppendixVenerations, rostovAppendixCommemorations } from '@/data/rostov-appendix-saints';
-import type { Commemoration, Saint, TraditionId, Veneration } from '@/domain/types';
+import type { Commemoration, Saint, Veneration } from '@/domain/types';
 import { commemorationDateForDisplayYear, convertDate, formatDate } from '@/lib/calendar';
 import { matchesSearch } from '@/lib/search-terms';
 
-export const traditions: { id: TraditionId; label: string; short: string; note: string }[] = [
-  { id: 'russian-orthodox', label: 'Православный месяцеслов', short: 'Православный месяцеслов', note: 'Сведения из месяцеслова «Азбуки веры». Не охватывает автоматически все поместные церкви.' },
-  { id: 'old-believer', label: 'Старообрядческая традиция', short: 'Старообрядческая', note: 'Источники разных старообрядческих общин. Точная область подтверждения указана у каждой записи.' },
-];
+export { traditions } from '@/domain/traditions';
 
 export const saints: Saint[] = [
   ...directory.saints.map(s => ({ ...s, ...curated[s.id] })), avvakum, ioannShanghai, ...childrenSaints, ...amorionSaints, ...bookSaints, ...pomorSaints, ...rostovAppendixSaints, ...councilSaints,

@@ -21,7 +21,7 @@ test('home, search aliases, pagination, clear filters and missing results', asyn
   await page.getByRole('button', { name: 'Искать', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Пока не нашли это имя' })).toBeVisible();
   await page.getByRole('link', { name: 'Сбросить фильтры' }).click();
-  await expect(page.locator('.results-bar')).toContainText('2451');
+  await expect(page.locator('.results-bar')).toContainText('2452');
   await expect(page.getByRole('searchbox', { name: 'Поиск святых' })).toHaveValue('');
   await expect(page.getByLabel('Традиция', { exact: true })).toHaveValue('');
   await expect(page.getByText('ИМЕНА В ПЕЧАТНЫХ УКАЗАТЕЛЯХ', { exact: false })).toBeVisible();
@@ -260,7 +260,7 @@ test('sources, actual 404 status and responsive layouts', async ({ page }, testI
     if (route === '/' || route.startsWith('/calendar') || route.includes('solunskij')) await page.screenshot({ path: `test-results/${testInfo.project.name}-${route === '/' ? 'home' : route.startsWith('/calendar') ? 'calendar' : 'reader'}.png`, fullPage: true });
   }
   await page.goto('/sources');
-  await expect(page.locator('.source-row')).toHaveCount(541);
+  await expect(page.locator('.source-row')).toHaveCount(543);
   const response = await page.goto('/saints/no-such-saint');
   expect(response?.status()).toBe(404);
   await expect(page.getByRole('heading', { name: 'Этот лист пока пуст.' })).toBeVisible();
@@ -555,6 +555,28 @@ test('Domitian appears on Cheesefare Saturday in both calendar styles', async ({
     await page.goto(`/calendar?${query}`);
     await expect(page.locator('a[href="/saints/dometian-palestinskij"]')).toHaveCount(0);
   }
+});
+
+test('Armenian veneration is searchable without inheriting Russian collective memories', async ({ page }) => {
+  await page.goto('/saints?tradition=armenian-apostolic');
+  await expect(page.getByLabel('Традиция', { exact: true })).toHaveValue('armenian-apostolic');
+  const card = page.locator('.saint-card').filter({ hasText: 'Авгарь V Эдесский' });
+  await expect(card).toHaveCount(1);
+  await card.click();
+  await expect(page.locator('.veneration-claim')).toHaveCount(1);
+  await expect(page.locator('.veneration-claim')).toContainText('Армянская апостольская церковь');
+  await expect(page.getByText('Фиксированная дата в указателе не установлена.', { exact: true })).toBeVisible();
+  await page.goto('/calendar?date=2026-04-19');
+  const collective = page.getByRole('region', { name: 'Коллективные памяти' });
+  await expect(collective).toContainText('120 мучеников в Персии');
+  await page.getByLabel('Традиция календаря').selectOption('armenian-apostolic');
+  await expect(collective).toHaveCount(0);
+  await expect(page.locator('.day-panel .calendar-saint')).toHaveCount(0);
+  await page.reload();
+  await expect(page.getByLabel('Традиция календаря')).toHaveValue('armenian-apostolic');
+  await expect(collective).toHaveCount(0);
+  await page.getByLabel('Традиция календаря').selectOption('russian-orthodox');
+  await expect(collective).toContainText('120 мучеников в Персии');
 });
 
 test('Gabriel card opens both distinct complete book sections', async ({ page }) => {
