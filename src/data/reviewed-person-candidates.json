@@ -68666,5 +68666,57 @@
       "stefan-milutin-serbskij"
     ],
     "note": "Сверено по полному рассказу о Данииле Сербском. Милутин здесь Стефан Урош II, не Дечанский и не Душан; Евстафий относится к архиепископу II. Книжная хронология не исправлена. Архив: reviews/daniel-milutin-eustathius-contexts.json."
+  },
+  {
+    "book": 4,
+    "page": 547,
+    "offset": 575,
+    "text": "Ар-\nсения",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "6e4072eca5f0648cc7c2e1ae6bb47d5c6ebcdd34878380e21331b42a1547e826",
+    "decision": "identity-linked",
+    "saintIds": [
+      "arsenij-i-serbskij"
+    ],
+    "note": "Посвящение храма или придела в рассказе о строительстве Даниила Сербского; не полный текст жития упомянутого святого. Разорванное переносом написание сохранено. Архив: reviews/daniel-church-dedications.json."
+  },
+  {
+    "book": 4,
+    "page": 547,
+    "offset": 549,
+    "text": "Иоанна Предтечи",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "6e4072eca5f0648cc7c2e1ae6bb47d5c6ebcdd34878380e21331b42a1547e826",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ioann-predtecha"
+    ],
+    "note": "Посвящение храма или придела в рассказе о строительстве Даниила Сербского; не полный текст жития упомянутого святого. Разорванное переносом написание сохранено. Архив: reviews/daniel-church-dedications.json."
+  },
+  {
+    "book": 4,
+    "page": 547,
+    "offset": 654,
+    "text": "Николая Чудотворца",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "6e4072eca5f0648cc7c2e1ae6bb47d5c6ebcdd34878380e21331b42a1547e826",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nikolaj-mirlikijskij"
+    ],
+    "note": "Посвящение храма или придела в рассказе о строительстве Даниила Сербского; не полный текст жития упомянутого святого. Разорванное переносом написание сохранено. Архив: reviews/daniel-church-dedications.json."
+  },
+  {
+    "book": 4,
+    "page": 547,
+    "offset": 1206,
+    "text": "Да-\nниила Столпника",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "6e4072eca5f0648cc7c2e1ae6bb47d5c6ebcdd34878380e21331b42a1547e826",
+    "decision": "identity-linked",
+    "saintIds": [
+      "daniil-stolpnik"
+    ],
+    "note": "Посвящение храма или придела в рассказе о строительстве Даниила Сербского; не полный текст жития упомянутого святого. Разорванное переносом написание сохранено. Архив: reviews/daniel-church-dedications.json."
   }
 ]
