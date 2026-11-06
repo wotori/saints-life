@@ -2,6 +2,13 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { sectionHeadings, sectionForIndexedName } from '../src/lib/book-sections';
 
+test('church dedication starts a separate work without swallowing the previous life', () => {
+  const text = 'Конец страдания.\n\nОСВЯЩЕНИЕ ХРАМА СВЯТОГО ВЕЛИКОМУЧЕНИКА\n\nГЕОРГИЯ\nв Лидде\n\nТретьего ноября...';
+  assert.deepEqual(sectionHeadings(text), [{ offset: text.indexOf('ОСВЯЩЕНИЕ'), title: 'ОСВЯЩЕНИЕ ХРАМА СВЯТОГО ВЕЛИКОМУЧЕНИКА ГЕОРГИЯ' }]);
+  assert.deepEqual(sectionHeadings('Освящение храма состоялось в ноябре.'), []);
+  assert.equal(sectionHeadings('ПАМЯТЬ СВЯТОГО\nОСВЯЩЕНИЕ ХРАМА\n\nГЕОРГИЯ\n\nТекст.').length, 2);
+});
+
 test('Protection sermon preserves a lowercase preposition inside its display heading', () => {
   const body = 'ДЕНЬ ПЕРВЫЙ\n\nСЛОВО на ПОКРОВ\nПРЕСВЯТОЙ БОГОРОДИЦЫ\n\nВ последние тяжкие времена,';
   assert.deepEqual(sectionHeadings(body), [{ offset: body.indexOf('СЛОВО'), title: 'СЛОВО на ПОКРОВ ПРЕСВЯТОЙ БОГОРОДИЦЫ' }]);

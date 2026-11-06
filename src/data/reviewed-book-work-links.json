@@ -10674,7 +10674,10 @@
       "saintIds": [
         "akepsim-naessonskij",
         "iosif-persidskij-s-akepsimom",
-        "aifal-persidskij-s-akepsimom"
+        "aifal-persidskij-s-akepsimom",
+        "snandulija-persidskaja",
+        "daniil-prorok",
+        "matfej-apostol-evangelist"
       ]
     },
     {
@@ -10683,7 +10686,8 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО АКЕПСИМА",
       "saintIds": [
-        "akepsim-antiohijskij"
+        "akepsim-antiohijskij",
+        "feodosij-i-velikij-imperator"
       ]
     },
     {
@@ -12626,6 +12630,16 @@
       "expectedHeading": "ВОСПОМИНАНИЕ ЧУДА, БЫВШЕГО ОТ ИКОНЫ ГОСПОДА ИИСУСА ХРИСТА",
       "saintIds": [
         "pavel-apostol-pervoverhovnyj"
+      ]
+    },
+    {
+      "book": 3,
+      "page": 46,
+      "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+      "expectedHeading": "ОСВЯЩЕНИЕ ХРАМА СВЯТОГО ВЕЛИКОМУЧЕНИКА ГЕОРГИЯ",
+      "saintIds": [
+        "georgij-pobedonosec",
+        "konstantin-velikij-imperator"
       ]
     }
   ]
