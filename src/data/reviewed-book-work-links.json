@@ -10453,7 +10453,10 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ПРОРОКА АХИИ",
       "saintIds": [
-        "ahija-prorok-silomljanin"
+        "ahija-prorok-silomljanin",
+        "solomon-tsar-prorok",
+        "david-car-prorok",
+        "moisej-prorok-bogovidec"
       ]
     },
     {
@@ -10462,7 +10465,12 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ БЛАЖЕННОГО ИОАННА ВЛАСАТОГО,",
       "saintIds": [
-        "ioann-vlasatyj-rostovskij"
+        "ioann-vlasatyj-rostovskij",
+        "irinarh-rostovskij-zatvornik",
+        "ioann-moskovskij-jurodivyj",
+        "presvjataja-bogorodica",
+        "ioann-predtecha",
+        "dimitrij-rostovskij"
       ]
     },
     {
