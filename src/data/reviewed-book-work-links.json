@@ -10777,7 +10777,13 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОГО МУЧЕНИКА ЛОНГИНА СОТНИКА",
       "saintIds": [
-        "longin-sotnik"
+        "longin-sotnik",
+        "matfej-apostol-evangelist",
+        "pavel-apostol-pervoverhovnyj",
+        "petr-apostol-pervoverhovnyj",
+        "isihij-ierusalimskij-presviter",
+        "isavr-s-longinom",
+        "afrodisij-s-longinom"
       ]
     },
     {
