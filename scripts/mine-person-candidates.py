@@ -42,14 +42,23 @@ def chunks(body, size=3500, overlap=250):
 def prepare(args):
     if any((DEST / f'{args.run}-{suffix}.json').exists() for suffix in ['input', 'output', 'run']):
         raise FileExistsError('Run already exists; resume its batch or choose a new --run name')
+    selected_books = sorted(set(args.books))
+    if not selected_books or any(book < 1 for book in selected_books):
+        raise ValueError('Select positive book numbers')
     db = sqlite3.connect(f'file:{ROOT / "rostovskij-ocr.sqlite3"}?mode=ro', uri=True)
+    available_books = {row[0] for row in db.execute('SELECT number FROM books')}
+    unknown_books = set(selected_books) - available_books
+    if unknown_books:
+        db.close()
+        raise ValueError(f'Unknown books: {sorted(unknown_books)}')
     candidates = []
-    for book, page, body, sha, source in db.execute('''
+    placeholders = ','.join('?' for _ in selected_books)
+    for book, page, body, sha, source in db.execute(f'''
         SELECT p.book_number,p.page,p.body,b.sha256,b.source_path
         FROM pages p JOIN books b ON b.number=p.book_number
-        WHERE p.book_number BETWEEN 1 AND 12 AND p.status='ok'
+        WHERE p.book_number IN ({placeholders}) AND p.status='ok'
         ORDER BY p.book_number,p.page
-    '''):
+    ''', selected_books):
         if not body or not body.strip():
             continue
         for start, text in chunks(body):
@@ -57,12 +66,14 @@ def prepare(args):
                 book=book, page=page, offset=start, text=text,
                 sourceSha256=sha, pageTextSha256=digest(body), sourcePath=source))
     db.close()
+    if not candidates:
+        raise ValueError('Selected books have no non-empty successfully processed pages')
     random.Random(args.seed).shuffle(candidates)
     selected = candidates[:args.limit] if args.limit else candidates
     save(DEST / f'{args.run}-input.json', selected)
     prompt = Path(__file__).with_name('person-candidates-prompt.txt').read_text()
     (DEST / f'{args.run}-prompt.txt').write_text(prompt)
-    save(DEST / f'{args.run}-run.json', dict(seed=args.seed, model=args.model,
+    save(DEST / f'{args.run}-run.json', dict(seed=args.seed, model=args.model, books=selected_books,
         availableChunks=len(candidates), selectedChunks=len(selected),
         promptSha256=digest(prompt), status='prepared', purpose='unverified literal person-name candidates'))
     print(json.dumps(dict(available=len(candidates), selected=len(selected), output=str(DEST / f'{args.run}-input.json'))))
@@ -147,6 +158,8 @@ if __name__ == '__main__':
     parser.add_argument('--limit', type=int, default=20)
     parser.add_argument('--seed', type=int, default=20261105)
     parser.add_argument('--model', default='gemma3:12b')
+    parser.add_argument('--books', nargs='+', type=int, default=list(range(1, 13)),
+        help='Book numbers for prepare; defaults to the twelve Rostov volumes')
     args = parser.parse_args()
     if not args.run.replace('-', '').replace('_', '').isalnum():
         parser.error('run must be a simple filename component')

@@ -14,6 +14,36 @@ spec.loader.exec_module(mining)
 
 
 class PersonCandidatesTest(unittest.TestCase):
+    def test_prepare_selects_additional_books_and_rejects_unknown_or_empty_inputs(self):
+        with tempfile.TemporaryDirectory() as directory:
+            old_root, old_dest = mining.ROOT, mining.DEST
+            try:
+                mining.ROOT = Path(directory)
+                mining.DEST = Path(directory) / 'reports'
+                with sqlite3.connect(mining.ROOT / 'rostovskij-ocr.sqlite3') as db:
+                    db.executescript('CREATE TABLE books(number INTEGER,sha256 TEXT,source_path TEXT); CREATE TABLE pages(book_number INTEGER,page INTEGER,body TEXT,status TEXT);')
+                    db.executemany('INSERT INTO books VALUES(?,?,?)', [(1, 'rostov', 'one.pdf'), (13, 'john', 'john.pdf'), (14, 'empty', 'empty.pdf')])
+                    db.executemany('INSERT INTO pages VALUES(?,?,?,?)', [(1, 1, 'Rostov text', 'ok'), (13, 1, 'John text', 'ok'), (13, 2, 'Failed OCR', 'error'), (13, 3, '  ', 'ok')])
+                args = SimpleNamespace(run='john', books=[13, 13], seed=1, limit=0, model='test-model')
+                with contextlib.redirect_stdout(io.StringIO()):
+                    mining.prepare(args)
+                prepared = json.loads((mining.DEST / 'john-input.json').read_text())
+                self.assertEqual([(r['book'], r['page'], r['text']) for r in prepared], [(13, 1, 'John text')])
+                self.assertEqual(prepared[0]['sourceSha256'], 'john')
+                self.assertEqual(prepared[0]['pageTextSha256'], mining.digest('John text'))
+                self.assertEqual(json.loads((mining.DEST / 'john-run.json').read_text())['books'], [13])
+                before = (mining.DEST / 'john-input.json').read_bytes()
+                with self.assertRaises(FileExistsError):
+                    mining.prepare(args)
+                self.assertEqual((mining.DEST / 'john-input.json').read_bytes(), before)
+                for books in [[99], [14], [0], []]:
+                    args.run, args.books = 'invalid', books
+                    with self.assertRaises(ValueError):
+                        mining.prepare(args)
+                    self.assertFalse((mining.DEST / 'invalid-input.json').exists())
+            finally:
+                mining.ROOT, mining.DEST = old_root, old_dest
+
     def test_book_progress_keeps_split_pages_and_invalid_chunks_distinct(self):
         inputs = [dict(id='a', book=1, page=1), dict(id='b', book=1, page=1),
                   dict(id='c', book=1, page=2), dict(id='d', book=2, page=1),
