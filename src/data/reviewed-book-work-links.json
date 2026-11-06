@@ -9650,7 +9650,13 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ПРОРОКА НАУМА",
       "saintIds": [
-        "naum-prorok"
+        "naum-prorok",
+        "ieronim-stridonskij",
+        "kirill-ierusalimskij",
+        "iona-prorok",
+        "isaija-prorok",
+        "ezekija-tsar-iudejskij",
+        "adam-praotec"
       ]
     },
     {
@@ -9659,7 +9665,16 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ПРАВЕДНОГО ФИЛАРЕТА МИЛОСТИВОГО",
       "saintIds": [
-        "filaret-milostivyj"
+        "filaret-milostivyj",
+        "feozva-supruga-filareta",
+        "iov-mnogostradalnyj",
+        "david-car-prorok",
+        "avraam-praotec",
+        "ioann-zlatoust",
+        "irina-afinjanka-imperatrica",
+        "iosif-prekrasnyj",
+        "iakov-praotec",
+        "presvjataja-bogorodica"
       ]
     },
     {
