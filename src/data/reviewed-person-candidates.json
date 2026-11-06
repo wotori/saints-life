@@ -64940,5 +64940,144 @@
       "kraton-rimskij-otec-herimona"
     ],
     "note": "Отец Херимона в житии Валентина; последующее мученичество подтверждено статьёй Православной энциклопедии. Не тёзка из рассказа об Иоанне."
+  },
+  {
+    "book": 5,
+    "page": 528,
+    "offset": 1915,
+    "text": "Аделфий",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "b0c21bfdca0f450a6260b0aa12e657e0fc1c2b6ac8af434987cad977a6d432da",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adelfij-onufisskij-ispovednik"
+    ],
+    "note": "Египетский изгнанник из перечня Афанасия, не епископ Кукуза из жития Златоуста."
+  },
+  {
+    "book": 3,
+    "page": 345,
+    "offset": 1174,
+    "text": "Аделфий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "20c135773be399b47b7ccf803c1701f177a80422adb6bc3d998dcc40adb1e5bb",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Египетский изгнанник из перечня Афанасия, не епископ Кукуза из жития Златоуста.",
+    "rejectedSaintIds": [
+      "adelfij-onufisskij-ispovednik"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 351,
+    "offset": 1034,
+    "text": "Аделфий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "67ae028bd7ff851a13424b2724e08a9d8b1b8fb3b0b3ed086004230c362985a6",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Египетский изгнанник из перечня Афанасия, не епископ Кукуза из жития Златоуста.",
+    "rejectedSaintIds": [
+      "adelfij-onufisskij-ispovednik"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 351,
+    "offset": 1344,
+    "text": "Аделфия",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "67ae028bd7ff851a13424b2724e08a9d8b1b8fb3b0b3ed086004230c362985a6",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Египетский изгнанник из перечня Афанасия, не епископ Кукуза из жития Златоуста.",
+    "rejectedSaintIds": [
+      "adelfij-onufisskij-ispovednik"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 351,
+    "offset": 1468,
+    "text": "Аделфий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "67ae028bd7ff851a13424b2724e08a9d8b1b8fb3b0b3ed086004230c362985a6",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Египетский изгнанник из перечня Афанасия, не епископ Кукуза из жития Златоуста.",
+    "rejectedSaintIds": [
+      "adelfij-onufisskij-ispovednik"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 351,
+    "offset": 1529,
+    "text": "Аделфию",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "67ae028bd7ff851a13424b2724e08a9d8b1b8fb3b0b3ed086004230c362985a6",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Египетский изгнанник из перечня Афанасия, не епископ Кукуза из жития Златоуста.",
+    "rejectedSaintIds": [
+      "adelfij-onufisskij-ispovednik"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 351,
+    "offset": 1632,
+    "text": "Аделфий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "67ae028bd7ff851a13424b2724e08a9d8b1b8fb3b0b3ed086004230c362985a6",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Египетский изгнанник из перечня Афанасия, не епископ Кукуза из жития Златоуста.",
+    "rejectedSaintIds": [
+      "adelfij-onufisskij-ispovednik"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 352,
+    "offset": 225,
+    "text": "Аделфий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "b636c6c4994c53154febdef87e006e8adb5d85030fdd72adcb3ed139f62d936f",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Египетский изгнанник из перечня Афанасия, не епископ Кукуза из жития Златоуста.",
+    "rejectedSaintIds": [
+      "adelfij-onufisskij-ispovednik"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 352,
+    "offset": 416,
+    "text": "Аделфий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "b636c6c4994c53154febdef87e006e8adb5d85030fdd72adcb3ed139f62d936f",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Египетский изгнанник из перечня Афанасия, не епископ Кукуза из жития Златоуста.",
+    "rejectedSaintIds": [
+      "adelfij-onufisskij-ispovednik"
+    ]
+  },
+  {
+    "book": 3,
+    "page": 352,
+    "offset": 633,
+    "text": "Аделфий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "b636c6c4994c53154febdef87e006e8adb5d85030fdd72adcb3ed139f62d936f",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Египетский изгнанник из перечня Афанасия, не епископ Кукуза из жития Златоуста.",
+    "rejectedSaintIds": [
+      "adelfij-onufisskij-ispovednik"
+    ]
   }
 ]

@@ -1,5 +1,7 @@
 /** Short entries without display headings are kept separate from full lives. */
 const mentions = [
+  {"book": 5, "page": 528, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": " Марк, еше другие Аммоний и Марк, Драконтий, Аделфий,\nАфинодор и пресвитеры Иеракс и Диоскор; мучители так жестоко\nугнетали их, что некот", "saintIds": ["adelfij-onufisskij-ispovednik"]},
+
   {"book": 11, "page": 637, "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df", "anchor": "боих языках: латинском и греческом,\nпо имени Кратона, поступили к нему в\nучение и жили в его доме. Случилось\nодному из сыновей Кратона, и", "saintIds": ["kraton-rimskij-otec-herimona"]},
   {"book": 11, "page": 638, "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df", "anchor": " привязался к нему любовью. Услышав все\nэто, Кратон послал к епископу некоторых почетных, верных и пре-\nданных ему мужей с просьбой, что", "saintIds": ["kraton-rimskij-otec-herimona"]},
   {"book": 11, "page": 639, "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df", "anchor": "шая эти и подобные им речи епископа, учитель Кратон пал к\nногам его и сказал:\n\n— Верую в Проповедуемого тобой, что Он есть Истинный Бог\n", "saintIds": ["kraton-rimskij-otec-herimona"]},
