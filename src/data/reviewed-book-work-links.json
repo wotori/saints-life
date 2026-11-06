@@ -1136,7 +1136,13 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО САВВАТИЯ,",
       "saintIds": [
-        "savvatij-soloveckij"
+        "savvatij-soloveckij",
+        "fotij-mitropolit-moskovskij",
+        "kirill-belozerskij",
+        "sergij-valaamskij",
+        "german-valaamskij",
+        "german-soloveckij",
+        "david-car-prorok"
       ]
     },
     {
@@ -1146,7 +1152,11 @@
       "expectedHeading": "ПАМЯТЬ СВЯТЫХ АПОСТОЛОВ МАРКА, АРИСТАРХА и ЗИНЫ",
       "saintIds": [
         "aristarh-apostol",
-        "zina-zakonnik-apostol"
+        "zina-zakonnik-apostol",
+        "luka-apostol-evangelist",
+        "pavel-apostol-pervoverhovnyj",
+        "varnava-apostol",
+        "tit-kritskij-apostol"
       ]
     },
     {
@@ -1164,7 +1174,9 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ИГНАТИЯ",
       "saintIds": [
-        "ignatij-glubokorechenskij"
+        "ignatij-glubokorechenskij",
+        "samuil-prorok",
+        "ilija-fesvitjanin-prorok"
       ]
     },
     {
