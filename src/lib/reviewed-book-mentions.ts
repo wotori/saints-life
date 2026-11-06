@@ -1,5 +1,11 @@
 /** Short entries without display headings are kept separate from full lives. */
 const mentions = [
+  {"book": 5, "page": 247, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": "не, в земле Армянской?, жили два уважаемых воина, Неарх и\nПолиевкт, которые питали такую взаимную любовь друг к другу, ка-\nкая редко бывает даже между единоутробными брат", "saintIds": ["nearh-drug-polievkta"]},
+  {"book": 5, "page": 248, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": " об этом и плача о\nпогибели, ожидавшей его друга,\nНеарх изменился даже в лице и\nвсем видом своим выдавал свое\nдушевное смущение. Полиевкт,\nвидя своего друга столь смущен-", "saintIds": ["nearh-drug-polievkta"]},
+  {"book": 5, "page": 249, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": ", благоразумный Полиевкт тотчас понял, чего хочет\nНеарх, и, будучи просвещен благодатью Божией, стал помышлять о\nБожественном. Он припомнил бывшее ему за несколько дней п", "saintIds": ["nearh-drug-polievkta"]},
+  {"book": 5, "page": 250, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": "248 День девятый (22 января по н. ст.)\n\nНеарх ответил:\n\n— Мне кажется, Полиевкт, что ты еще не представляешь себе ис-\nтинной чести и славы и непрестанного блаже", "saintIds": ["nearh-drug-polievkta"]},
+  {"book": 5, "page": 252, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": ", не видел. Увидев также среди толпы блажен-\nного Неарха, своего друга и отца по вере в истинного Бога, он закри-\nчал ему:\n\n— Прощай, возлюбленный друг мой, и помни скреп", "saintIds": ["nearh-drug-polievkta"]},
+
   {"book": 1, "page": 646, "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c", "anchor": "Святые мученики Дада, Гаведдай, Каздоя и Гаргал", "saintIds": ["gargal-muchenik-s-gaveddaem"]},
   {"book": 1, "page": 647, "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c", "anchor": "В то время сидел в темнице иной Гаргал, волхв", "saintIds": ["gargal-muchenik-s-gaveddaem"]},
 

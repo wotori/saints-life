@@ -61703,5 +61703,252 @@
     "rejectedSaintIds": [
       "gargal-muchenik-s-gaveddaem"
     ]
+  },
+  {
+    "book": 5,
+    "page": 247,
+    "offset": 166,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "9d327d754fcc5d1bb823821bff1a81be20d660c8ae758912270f56c468aec62a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 247,
+    "offset": 352,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "9d327d754fcc5d1bb823821bff1a81be20d660c8ae758912270f56c468aec62a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 247,
+    "offset": 692,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "9d327d754fcc5d1bb823821bff1a81be20d660c8ae758912270f56c468aec62a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 247,
+    "offset": 1192,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "9d327d754fcc5d1bb823821bff1a81be20d660c8ae758912270f56c468aec62a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 248,
+    "offset": 200,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "246b57b70bd4828f6308214cc3fceaf97389d674b45cef21e7cda7b0c45e5eec",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 248,
+    "offset": 519,
+    "text": "Неарха",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "246b57b70bd4828f6308214cc3fceaf97389d674b45cef21e7cda7b0c45e5eec",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 248,
+    "offset": 651,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "246b57b70bd4828f6308214cc3fceaf97389d674b45cef21e7cda7b0c45e5eec",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 248,
+    "offset": 1057,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "246b57b70bd4828f6308214cc3fceaf97389d674b45cef21e7cda7b0c45e5eec",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 248,
+    "offset": 1196,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "246b57b70bd4828f6308214cc3fceaf97389d674b45cef21e7cda7b0c45e5eec",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 248,
+    "offset": 1277,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "246b57b70bd4828f6308214cc3fceaf97389d674b45cef21e7cda7b0c45e5eec",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 248,
+    "offset": 1495,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "246b57b70bd4828f6308214cc3fceaf97389d674b45cef21e7cda7b0c45e5eec",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 249,
+    "offset": 198,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "dc859f619c7ee32c7615d7d559394e830ae7452ee0aa820e6471f9a36cb7fb9e",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 249,
+    "offset": 379,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "dc859f619c7ee32c7615d7d559394e830ae7452ee0aa820e6471f9a36cb7fb9e",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 249,
+    "offset": 639,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "dc859f619c7ee32c7615d7d559394e830ae7452ee0aa820e6471f9a36cb7fb9e",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 249,
+    "offset": 1390,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "dc859f619c7ee32c7615d7d559394e830ae7452ee0aa820e6471f9a36cb7fb9e",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 249,
+    "offset": 1443,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "dc859f619c7ee32c7615d7d559394e830ae7452ee0aa820e6471f9a36cb7fb9e",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 250,
+    "offset": 40,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "c233f87e1367374baf9c7519d13259caa6d1fabdb9f5c3d0c17256259e94ef51",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 250,
+    "offset": 631,
+    "text": "Неарх",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "c233f87e1367374baf9c7519d13259caa6d1fabdb9f5c3d0c17256259e94ef51",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
+  },
+  {
+    "book": 5,
+    "page": 252,
+    "offset": 881,
+    "text": "Неарха",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "0a495616d8c90cc8f2c63954357f591d1b8795d238ee066ffe43eb18f2cb9436",
+    "decision": "identity-linked",
+    "saintIds": [
+      "nearh-drug-polievkta"
+    ],
+    "note": "Друг Полиевкта в одном непрерывном рассказе. Карточка сохраняет различие источников о его отождествлении с почитаемым мучеником; дата главы Полиевкта Неарху не присваивается."
   }
 ]
