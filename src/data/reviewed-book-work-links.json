@@ -1338,7 +1338,17 @@
       "expectedHeading": "СТРАДАНИЕ СВЯТЫХ МУЧЕНИКОВ МИХАИЛА,",
       "saintIds": [
         "mihail-chernigovskij-knyaz",
-        "feodor-boyarin-chernigovskij"
+        "feodor-boyarin-chernigovskij",
+        "isaija-prorok",
+        "david-car-prorok",
+        "presvjataja-bogorodica",
+        "antonij-pecherskij",
+        "feodosij-pecherskij",
+        "stefan-vladimiro-volynskij",
+        "nikon-pecherskij-igumen",
+        "vasilko-konstantinovich-rostovskij",
+        "adam-praotec",
+        "ieremija-prorok"
       ]
     },
     {
@@ -1347,7 +1357,9 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО АПОСТОЛА КОДРАТА",
       "saintIds": [
-        "kodrat-apostol-afinskij"
+        "kodrat-apostol-afinskij",
+        "stefan-pervomuchenik",
+        "amos-prorok"
       ]
     },
     {
