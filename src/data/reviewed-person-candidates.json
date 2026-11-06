@@ -61463,5 +61463,109 @@
       "kornilij-rimskij-papa"
     ],
     "note": "Прямо назван папой Римским. Отделён от Корнилия Сотника и Комельского. Архив: reviews/cornelius-pope-book.json."
+  },
+  {
+    "book": 11,
+    "page": 158,
+    "offset": 81,
+    "text": "Неаний",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "3055ce7f719df8b9070437cf1b9a8fbee96195951749d4e56b98c729fe8accfa",
+    "decision": "identity-linked",
+    "saintIds": [
+      "prokopij-velikomuchenik-8ijulja"
+    ],
+    "note": "Рассказ о Неании продолжается прямым переименованием в Прокопия на PDF 160. Не отождествляется с другими Прокопиями."
+  },
+  {
+    "book": 11,
+    "page": 160,
+    "offset": 1038,
+    "text": "Неанием",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "b45e27f8b0b7b5da0f34d3182ea6bb75911f0e608d6ec9e8e9eb7da596a125f3",
+    "decision": "identity-linked",
+    "saintIds": [
+      "prokopij-velikomuchenik-8ijulja"
+    ],
+    "note": "Прямая фраза рассказа: теперь будет называться не Неанием, а Прокопием."
+  },
+  {
+    "book": 11,
+    "page": 601,
+    "offset": 766,
+    "text": "Пантолеон",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "94aa45d71448b377b91a488592bc7396973831ea3b0002b4b59636f5179d0998",
+    "decision": "identity-linked",
+    "saintIds": [
+      "panteleimon-nikomidijskij"
+    ],
+    "note": "Имя героя того же жития; PDF 595 прямо объясняет прежнее имя Пантолеон и переименование в Пантелеимона."
+  },
+  {
+    "book": 11,
+    "page": 595,
+    "offset": 436,
+    "text": "Пантолеоном",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "7fba3a8556cf2741cfab7f17139ac8b687f29551e3697ab4eaf71fd78d5531c4",
+    "decision": "identity-linked",
+    "saintIds": [
+      "panteleimon-nikomidijskij"
+    ],
+    "note": "Прежнее имя прямо объяснено при рождении героя жития Пантелеимона."
+  },
+  {
+    "book": 1,
+    "page": 188,
+    "offset": 581,
+    "text": "Евписихий",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "034869169d876ebfe327b3120dfa71a971387708ec2450a8c806f32cec7c969a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "evpsihij-kesarijskij-pri-adriane"
+    ],
+    "note": "Тот же герой рассказа на PDF 187-188 при Адриане, не Евпсихий при Юлиане. Необычное написание OCR сохранено, в поисковые имена не добавлено."
+  },
+  {
+    "book": 5,
+    "page": 160,
+    "offset": 246,
+    "text": "Ерофей",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "8e00921ce243795b2b45638b204c5ef4edc6f42012e51ac3812915a7dc900d21",
+    "decision": "identity-linked",
+    "saintIds": [
+      "ierofej-afinskij"
+    ],
+    "note": "Начало того же абзаца называет Иерофея, епископа Афинского. Вариант сохранён в тексте, без утверждения о причине различия."
+  },
+  {
+    "book": 6,
+    "page": 465,
+    "offset": 815,
+    "text": "Киралла",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "8bbee650acc4099d64795e4cb91bb6c2d5adf07e48fa6b74ce8764496e50f4f4",
+    "decision": "identity-linked",
+    "saintIds": [
+      "kirill-aleksandrijskij-arhiepiskop"
+    ],
+    "note": "В той же сноске прямо указан Кирилл Александрийский, скончавшийся в 444 году. Написание не внесено в поисковые имена."
+  },
+  {
+    "book": 9,
+    "page": 519,
+    "offset": 16,
+    "text": "Солоха",
+    "sourceSha256": "82b1215c68f31643b8eb01894d4ace63f2ff7a1caf45f8893122a038ba88d8ac",
+    "pageTextSha256": "366c6c9a724ac033319e02bec21b77a6f861db5c894ccb3d4bdf55988763e7ba",
+    "decision": "identity-linked",
+    "saintIds": [
+      "solohon-muchenik"
+    ],
+    "note": "Колонтитул относится к разделу о Солохоне, который начинается ниже на этой же странице. Написание колонтитула не внесено в поисковые имена."
   }
 ]
