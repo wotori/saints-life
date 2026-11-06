@@ -61567,5 +61567,141 @@
       "solohon-muchenik"
     ],
     "note": "Колонтитул относится к разделу о Солохоне, который начинается ниже на этой же странице. Написание колонтитула не внесено в поисковые имена."
+  },
+  {
+    "book": 1,
+    "page": 645,
+    "offset": 1722,
+    "text": "Гаргалу",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "a5c55ef2a82a7911d4fe18c065875b31e9128c458a507d657521506394da8192",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Это судья и мучитель Гаведдая, не заключённый мученик: книга прямо различает двух Гаргалов.",
+    "rejectedSaintIds": [
+      "gargal-muchenik-s-gaveddaem"
+    ]
+  },
+  {
+    "book": 1,
+    "page": 645,
+    "offset": 1867,
+    "text": "Гаргал",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "a5c55ef2a82a7911d4fe18c065875b31e9128c458a507d657521506394da8192",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Это судья и мучитель Гаведдая, не заключённый мученик: книга прямо различает двух Гаргалов.",
+    "rejectedSaintIds": [
+      "gargal-muchenik-s-gaveddaem"
+    ]
+  },
+  {
+    "book": 1,
+    "page": 646,
+    "offset": 87,
+    "text": "Гаргал",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "207d80aa53cce053c480ec846c46346bb330910a2aba2663df608f8bb67f59e9",
+    "decision": "identity-linked",
+    "saintIds": [
+      "gargal-muchenik-s-gaveddaem"
+    ],
+    "note": "Мученик, бывший волхв, прямо отделён от судьи словами «иной Гаргал» на PDF 647."
+  },
+  {
+    "book": 1,
+    "page": 646,
+    "offset": 147,
+    "text": "Гаргал",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "207d80aa53cce053c480ec846c46346bb330910a2aba2663df608f8bb67f59e9",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Это судья и мучитель Гаведдая, не заключённый мученик: книга прямо различает двух Гаргалов.",
+    "rejectedSaintIds": [
+      "gargal-muchenik-s-gaveddaem"
+    ]
+  },
+  {
+    "book": 1,
+    "page": 646,
+    "offset": 407,
+    "text": "Гаргал",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "207d80aa53cce053c480ec846c46346bb330910a2aba2663df608f8bb67f59e9",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Это судья и мучитель Гаведдая, не заключённый мученик: книга прямо различает двух Гаргалов.",
+    "rejectedSaintIds": [
+      "gargal-muchenik-s-gaveddaem"
+    ]
+  },
+  {
+    "book": 1,
+    "page": 646,
+    "offset": 597,
+    "text": "Гаргал",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "207d80aa53cce053c480ec846c46346bb330910a2aba2663df608f8bb67f59e9",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Это судья и мучитель Гаведдая, не заключённый мученик: книга прямо различает двух Гаргалов.",
+    "rejectedSaintIds": [
+      "gargal-muchenik-s-gaveddaem"
+    ]
+  },
+  {
+    "book": 1,
+    "page": 647,
+    "offset": 1171,
+    "text": "Гаргал",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "e9fbc77f91d6b3ded611d3b2d6950908ec6cdc51bc6e4c5f89f6cfde1278f9f1",
+    "decision": "identity-linked",
+    "saintIds": [
+      "gargal-muchenik-s-gaveddaem"
+    ],
+    "note": "Мученик, бывший волхв, прямо отделён от судьи словами «иной Гаргал» на PDF 647."
+  },
+  {
+    "book": 1,
+    "page": 647,
+    "offset": 1472,
+    "text": "Гаргал",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "e9fbc77f91d6b3ded611d3b2d6950908ec6cdc51bc6e4c5f89f6cfde1278f9f1",
+    "decision": "identity-linked",
+    "saintIds": [
+      "gargal-muchenik-s-gaveddaem"
+    ],
+    "note": "Мученик, бывший волхв, прямо отделён от судьи словами «иной Гаргал» на PDF 647."
+  },
+  {
+    "book": 1,
+    "page": 647,
+    "offset": 1639,
+    "text": "Гаргала",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "e9fbc77f91d6b3ded611d3b2d6950908ec6cdc51bc6e4c5f89f6cfde1278f9f1",
+    "decision": "identity-linked",
+    "saintIds": [
+      "gargal-muchenik-s-gaveddaem"
+    ],
+    "note": "Мученик, бывший волхв, прямо отделён от судьи словами «иной Гаргал» на PDF 647."
+  },
+  {
+    "book": 1,
+    "page": 649,
+    "offset": 331,
+    "text": "Гаргал",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "b203a2feaffec4dc305c8186d67b3a685f4ba5071ac21a2189d0ffbc39f7731d",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Это судья и мучитель Гаведдая, не заключённый мученик: книга прямо различает двух Гаргалов.",
+    "rejectedSaintIds": [
+      "gargal-muchenik-s-gaveddaem"
+    ]
   }
 ]

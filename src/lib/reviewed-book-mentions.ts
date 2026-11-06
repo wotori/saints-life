@@ -1,5 +1,8 @@
 /** Short entries without display headings are kept separate from full lives. */
 const mentions = [
+  {"book": 1, "page": 646, "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c", "anchor": "Святые мученики Дада, Гаведдай, Каздоя и Гаргал", "saintIds": ["gargal-muchenik-s-gaveddaem"]},
+  {"book": 1, "page": 647, "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c", "anchor": "В то время сидел в темнице иной Гаргал, волхв", "saintIds": ["gargal-muchenik-s-gaveddaem"]},
+
   {"book": 11, "page": 158, "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df", "anchor": "июля по н. ст.)\n\nНо ответа от них не было.\n\nТогда блаженный Неаний, держа в руке крест, исполнился боже-\nственною ревностью, сняв верхнюю одежду и отстранив мать от и", "saintIds": ["prokopij-velikomuchenik-8ijulja"]},
   {"book": 11, "page": 160, "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df", "anchor": "л его водою и сказал:\n\n— Теперь уже ты будешь называться не Неанием, а Прокопием'.\nМужайся и крепись, ибо ты совершишь великие дела и приведешь к\nОтцу Моему большое ст", "saintIds": ["prokopij-velikomuchenik-8ijulja"]},
   {"book": 11, "page": 601, "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df", "anchor": " своем доме всех идолов, в\nчем помогал ему и сын его святой Пантолеон; раздробив идолов на\nчасти, они бросили последние в один глубокий ров и засыпали зем-\nлею. Прожив п", "saintIds": ["panteleimon-nikomidijskij"]},
