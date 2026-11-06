@@ -11,6 +11,7 @@ import { reviewedBookSupplements, reviewedBookSupplement } from '../src/lib/revi
 import { collectiveMemories, collectiveReading } from '../src/lib/collective-memories';
 import { saints } from '../src/lib/repository';
 import { reviewedSaintLinkErrors } from '../src/lib/reviewed-saint-links';
+import { reviewedWorkPersonCoverage, reviewedWorkPersons } from '../src/lib/reviewed-work-person-coverage';
 
 // This is a reproducible editorial queue, not proof that every saint has been identified.
 const archive = resolve(process.env.SAINTS_SOURCES_DIR ?? '../staints-life-sources');
@@ -28,6 +29,7 @@ const shortMemories: Record<string, unknown>[] = [];
 const errors: string[] = [];
 const verifiedNarratives = new Set<number>();
 const verifiedSectionTypes = new Set<string>();
+const verifiedPersonReviews = new Set<string>();
 const narrativeKeys = narrativeReviews.map(record => key(record.book, record.page, record.anchor));
 if (new Set(narrativeKeys).size !== narrativeKeys.length) throw new Error('Duplicate narrative review keys');
 function suggestedKind(heading: string) {
@@ -105,16 +107,21 @@ try {
         const work = linked.get(id);
         const sectionReview = reviewedSectionType(book.number, page.page, heading.title, book.sha256, number => pages.find(row => row.page === number)?.body ?? undefined);
         if (sectionReview) verifiedSectionTypes.add(id);
+        const personReview = reviewedWorkPersons(book.number, page.page, heading.title, book.sha256,
+          number => pages.find(row => row.page === number && row.status === 'ok')?.body,
+          work?.sourceSha256 === book.sha256 ? work.saintIds : [], knownSaintIds);
+        if (personReview) verifiedPersonReviews.add(id);
         // A valid navigation link is not evidence that every person in the text was reviewed.
         personCoverageItems.push({
           book: book.number, page: page.page, heading: heading.title, sourceSha256: book.sha256,
           textUrl: `/library/book/${book.number}/${page.page}/work/${section}`,
           scanUrl: `/api/library/book/${book.number}/${page.page}`, sourcePath: book.source_path,
           linkedSaintIds: work?.sourceSha256 === book.sha256 ? work.saintIds : [],
-          coverageStatus: sectionReview?.personCoverage === 'no-named-saints'
+          coverageStatus: personReview ? 'reviewed-named-saints' : sectionReview?.personCoverage === 'no-named-saints'
             ? 'reviewed-no-named-saints'
             : sectionReview ? 'persons-unresolved' : 'full-person-review-not-recorded',
           ...(sectionReview ? { reviewNote: sectionReview.note, reviewedPages: sectionReview.pages } : {}),
+          ...(personReview ? { reviewNote: personReview.note, reviewedPages: personReview.pages, reviewedSaintIds: personReview.saintIds } : {}),
         });
         if (work && work.sourceSha256 === book.sha256) {
           reviewed++;
@@ -141,6 +148,7 @@ try {
       detectedHeadings: detected, reviewedPersonLinks: reviewed, pendingHeadings: detected - reviewed });
   }
   for (const work of works) if (!verified.has(key(work.book, work.page, work.expectedHeading))) errors.push(`Unverified reviewed link: ${key(work.book, work.page, work.expectedHeading)}`);
+  for (const record of reviewedWorkPersonCoverage) if (!verifiedPersonReviews.has(key(record.book, record.page, record.heading))) errors.push(`Unverified full person review: ${key(record.book, record.page, record.heading)}`);
   for (const record of reviewedSectionTypes) if (!verifiedSectionTypes.has(key(record.book, record.page, record.heading))) errors.push(`Unverified section type: ${key(record.book, record.page, record.heading)}`);
   const narrativeErrors = narrativeReviews.flatMap((record, index) => verifiedNarratives.has(index) ? [] : [`Unverified narrative review: ${key(record.book, record.page, record.anchor)}`]);
   const report = {
@@ -157,7 +165,7 @@ try {
   writeFileSync(`${target}.tmp`, JSON.stringify(report, null, 2) + '\n');
   renameSync(`${target}.tmp`, target);
   const coverageTarget = resolve(reports, 'person-coverage.json');
-  const coverageStatuses = ['reviewed-no-named-saints', 'persons-unresolved', 'full-person-review-not-recorded'];
+  const coverageStatuses = ['reviewed-named-saints', 'reviewed-no-named-saints', 'persons-unresolved', 'full-person-review-not-recorded'];
   writeFileSync(`${coverageTarget}.tmp`, JSON.stringify({
     generatedAt: report.generatedAt,
     scope: 'All automatically detected Rostovsky headings, including those with person links. This is a review inventory, not proof of complete coverage of saints. Separate roster and individual link reviews remain valid but do not certify every person in a whole work.',
