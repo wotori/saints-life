@@ -69594,5 +69594,31 @@
       "feodosij-ii-mladshij-imperator"
     ],
     "note": "Император прямо определён книжным контекстом; свидетельство местного почитания сверено по статье «Благоверный» (Православная энциклопедия). Архив: reviews/nikita-council-joseph-theophan.json."
+  },
+  {
+    "book": 1,
+    "page": 234,
+    "offset": 2471,
+    "text": "Архангела Михаила",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "7ed762e9f537632f82c85bb284e804853ef038202fac0af922c966fac680ec7e",
+    "decision": "identity-linked",
+    "saintIds": [
+      "mihail-arhangel"
+    ],
+    "note": "Посвящение храма в историческом примечании о пифиях. Не Михаил, человек или мученик."
+  },
+  {
+    "book": 1,
+    "page": 242,
+    "offset": 2133,
+    "text": "Иоси-\nфом песнописцем",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "8ed14efa17de7afa4737f1505fdaec918af2ff772f003f062da7e7d410efc7f6",
+    "decision": "identity-linked",
+    "saintIds": [
+      "iosif-pesnopisec"
+    ],
+    "note": "В последнем примечании назван автор канона трём мученицам, Иосиф Песнописец. Это библиографическое упоминание, не отдельное житие."
   }
 ]
