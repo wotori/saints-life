@@ -1766,7 +1766,8 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ПАМЯТЬ СВЯЩЕННОМУЧЕНИКА КИРИЛЛА,",
       "saintIds": [
-        "kirill-gortinskij"
+        "kirill-gortinskij",
+        "filoksen-iz-zhitija-kirilla-gortinskogo"
       ]
     },
     {
@@ -1836,7 +1837,9 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ПРАЗДНОВАНИЕ СВЯТОМУ АПОСТОЛУ ПЕТРУ,",
       "saintIds": [
-        "petr-apostol-pervoverhovnyj"
+        "petr-apostol-pervoverhovnyj",
+        "evtihij-konstantinopolskij",
+        "iustinian-vizantijskij"
       ]
     },
     {
@@ -1846,7 +1849,10 @@
       "expectedHeading": "ПАМЯТЬ СВЯТЫХ МУЧЕНИКОВ ИУВЕНТИНА и МАКСИМА",
       "saintIds": [
         "iuventin-antiohijskij-voin",
-        "maksim-antiohijskij-voin"
+        "maksim-antiohijskij-voin",
+        "ananija-vavilonskij",
+        "azarija-vavilonskij",
+        "misail-vavilonskij"
       ]
     },
     {
@@ -10401,7 +10407,11 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "УБИЕНИЕ СВЯТОГО КНЯЗЯ ГЛЕБА",
       "saintIds": [
-        "gleb-strastoterpec"
+        "gleb-strastoterpec",
+        "boris-strastoterpec",
+        "vladimir-svjatoslavich-kievskij",
+        "jaroslav-mudryj-kievskij",
+        "stefan-pervomuchenik"
       ]
     },
     {
