@@ -1124,7 +1124,10 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОГО МУЧЕНИКА КАЛЛИСТРАТА",
       "saintIds": [
-        "kallistrat-karfagenskij"
+        "kallistrat-karfagenskij",
+        "iona-prorok",
+        "adam-praotec",
+        "eva-pramater"
       ]
     },
     {
@@ -1259,7 +1262,10 @@
         "pavel-apostol-pervoverhovnyj",
         "timofej-apostol-efesskij",
         "irinej-lionskij",
-        "moisej-prorok-bogovidec"
+        "moisej-prorok-bogovidec",
+        "matfej-apostol-evangelist",
+        "mark-evangelist",
+        "luka-apostol-evangelist"
       ]
     },
     {
