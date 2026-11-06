@@ -66341,5 +66341,927 @@
       "adam-praotec"
     ],
     "note": "Библейские прародители в контексте сотворения, грехопадения и искупления; не отдельные одноимённые святые."
+  },
+  {
+    "book": 1,
+    "page": 269,
+    "offset": 1875,
+    "text": "Адам",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "607ec6557776257c8d23fa65e3f89dc56bb06761a6dd084415c2cd8d760519ab",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 1,
+    "page": 404,
+    "offset": 1568,
+    "text": "Адама",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "3f851db695808729ec4319a3317b6ea31a16e3f2e1db935fb835f83dd6079600",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 1,
+    "page": 632,
+    "offset": 888,
+    "text": "Адама",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "bc345dc0df146412cb516015deac83b592c41d697ff589b1148badb7be0b2d68",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 2,
+    "page": 210,
+    "offset": 2103,
+    "text": "Адама",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "pageTextSha256": "43765fee9638dcf7cdfdef8b1cba571a99e0782dd7bfd0af9717af59a0b6b884",
+    "decision": "not-person",
+    "saintIds": [],
+    "note": "Название города Адама в перечне Содома и соседних городов, не имя человека."
+  },
+  {
+    "book": 2,
+    "page": 219,
+    "offset": 608,
+    "text": "Адаму",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "pageTextSha256": "45dff6f523bfbcbf6600595be68b2d7f540c11a239f6e58202917481d0e970bf",
+    "decision": "not-person",
+    "saintIds": [],
+    "note": "Название города Адама в перечне Содома и соседних городов, не имя человека."
+  },
+  {
+    "book": 2,
+    "page": 561,
+    "offset": 686,
+    "text": "Адаме",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "pageTextSha256": "f01ffe0ea74f779ffc01a1ef354e3f3eaa07b65ba19cf5dc087a9070a40935a1",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 3,
+    "page": 223,
+    "offset": 2434,
+    "text": "Адама",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "3221c70616587448055728babc38f15740ce8259cf75b5838114a75a9f72ce14",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 3,
+    "page": 480,
+    "offset": 631,
+    "text": "Адама",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "4ae8f276bdd6e91b96fc8cc64437b5389b39a297ce11aa0a6c1096210ea00a0b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 3,
+    "page": 558,
+    "offset": 893,
+    "text": "Адама",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "9c1e9a6519d5a722a79ad84529b46db798e2bf5ac1789b68b3cdfc3d28b2ec64",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 3,
+    "page": 623,
+    "offset": 481,
+    "text": "Адама",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "3fc8123e078544b448c3c317ee15c4faf7bc1d6ccad9db1bb6d3b4d21b09fc04",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 4,
+    "page": 9,
+    "offset": 1271,
+    "text": "Адама",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "e11a6dce36c742706f641e6c92109ef95d159061d58502a28d58a265c6f6d35d",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 4,
+    "page": 55,
+    "offset": 2145,
+    "text": "Адама",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "688f3ed01b2e2fb8e855c9b880246870ba0a138afeb71a317019f858d7cd5866",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 4,
+    "page": 111,
+    "offset": 877,
+    "text": "Адама",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "e0a34984ff35c8a03db9b4d33fc266c868cb874b4cd1c7f51afa00972175a6de",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 4,
+    "page": 111,
+    "offset": 971,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "e0a34984ff35c8a03db9b4d33fc266c868cb874b4cd1c7f51afa00972175a6de",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 4,
+    "page": 121,
+    "offset": 380,
+    "text": "Адама",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "8e41b0fdee4cc963e7a75dcab39f89f0372ebcde1e7f8c88c3fff5823512c70b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 4,
+    "page": 207,
+    "offset": 1769,
+    "text": "Адаму",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "e64858026edd9dc3aeada00e6261b69d2194b4db7291cb51c7fdb7185859a891",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 4,
+    "page": 667,
+    "offset": 1205,
+    "text": "Адама",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "b58fe6c37281d26a12a02e28212da45257ca40c7640cb249af9292f55aa7f4c4",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 4,
+    "page": 671,
+    "offset": 258,
+    "text": "Адаму",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "033343728388d997899b14c0239bde77a7ed8f5dbef9f593a7b596e6232729bf",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 4,
+    "page": 671,
+    "offset": 506,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "033343728388d997899b14c0239bde77a7ed8f5dbef9f593a7b596e6232729bf",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Второй или новый Адам означает Христа, не библейского праотца.",
+    "rejectedSaintIds": [
+      "adam-praotec"
+    ]
+  },
+  {
+    "book": 4,
+    "page": 671,
+    "offset": 1901,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "033343728388d997899b14c0239bde77a7ed8f5dbef9f593a7b596e6232729bf",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 4,
+    "page": 671,
+    "offset": 2175,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "033343728388d997899b14c0239bde77a7ed8f5dbef9f593a7b596e6232729bf",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 4,
+    "page": 671,
+    "offset": 2216,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "033343728388d997899b14c0239bde77a7ed8f5dbef9f593a7b596e6232729bf",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Второй или новый Адам означает Христа, не библейского праотца.",
+    "rejectedSaintIds": [
+      "adam-praotec"
+    ]
+  },
+  {
+    "book": 4,
+    "page": 672,
+    "offset": 1243,
+    "text": "Адама",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "db78c80ef3b7f03bed237ca7be6fd74fb1e041def4848233b03ceb6d2dedb61b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 4,
+    "page": 672,
+    "offset": 1814,
+    "text": "Адам",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "db78c80ef3b7f03bed237ca7be6fd74fb1e041def4848233b03ceb6d2dedb61b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 5,
+    "page": 115,
+    "offset": 461,
+    "text": "Адама",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "c00c090f5ef4f9981a8c9ea01e3fd0d22de03931689cca6087d4e82234c4f503",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 5,
+    "page": 125,
+    "offset": 262,
+    "text": "Адам",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "5204738973d9b9ece0ccd88ee23ec1a3d67e52db552064fecb396ec3b8d0e444",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 5,
+    "page": 125,
+    "offset": 315,
+    "text": "Адам",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "5204738973d9b9ece0ccd88ee23ec1a3d67e52db552064fecb396ec3b8d0e444",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 5,
+    "page": 192,
+    "offset": 498,
+    "text": "Адама",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "5cee14708b5d4f0137146c97965d625ddfa31d4cac1ce88b49cf5c330385e932",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 5,
+    "page": 365,
+    "offset": 1974,
+    "text": "Адама",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "4374aa76034c13dab9efb4082155e58dd7777390bfa45dd1c1420a82ae89d57c",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 5,
+    "page": 400,
+    "offset": 446,
+    "text": "Адам",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "946e6c472c927693de602e4c0b2489f4536ec589bb95eb03aee495f00cbb489d",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-raifskij"
+    ],
+    "note": "Адам Раифский, наставник Сергия, не библейский праотец."
+  },
+  {
+    "book": 5,
+    "page": 600,
+    "offset": 515,
+    "text": "Адам",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pageTextSha256": "ef651b6187e7f77e3ecfd6ca836adf10283b139fc8d2e8e6c0fa6352fe636542",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 6,
+    "page": 26,
+    "offset": 437,
+    "text": "Адаму",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "2097e5c363649cff10dbc9428701ebe42b8e5858c99befcdca309c2cb8b32c65",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 6,
+    "page": 245,
+    "offset": 262,
+    "text": "Адама",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pageTextSha256": "86fa861e3737755661442a690f7f23d0a4f8b49430c8ef8cf40972a6b14c2131",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 7,
+    "page": 83,
+    "offset": 396,
+    "text": "Адаму",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "c2009e54244f96b975fbd2929ad66be56115e4f9685ba363b19097def28e6ae5",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 7,
+    "page": 350,
+    "offset": 2377,
+    "text": "Адам",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "8aa14037e5a9a27496661394d6c4ec2ffb33958fe3c72fbb73263a438328927b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 7,
+    "page": 455,
+    "offset": 1931,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "f3b3fb9910d6a7d1a5bc2cf3ac88a544daf313f18255ae56a1d2c7ef1c29d588",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 7,
+    "page": 491,
+    "offset": 2231,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "b5ae331186ed5fcafde85bc2c0d0779e818096fdb9b58b46260b1a8a32763e73",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 7,
+    "page": 638,
+    "offset": 2590,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "b4ab6c090d149b473f32964763bccf52ca032ebadfdcdc2ba2e5317b58738bf7",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 7,
+    "page": 639,
+    "offset": 686,
+    "text": "Адаме",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "b1dc436a54f7a435db88da0a6e005cfaca4fcc390d327c97c467cdd19f2020f8",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 7,
+    "page": 701,
+    "offset": 1718,
+    "text": "Адам",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "b3a20d53cc19bc6e0e16d19c2dc227cc12e80458ebc12fa181c3f561f3f50bdb",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 7,
+    "page": 702,
+    "offset": 1390,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "8ab7d7be9694ab18dcec189971dc6cc1670653a24f7a5e8a81a54386a58de8ac",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 7,
+    "page": 702,
+    "offset": 1732,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "8ab7d7be9694ab18dcec189971dc6cc1670653a24f7a5e8a81a54386a58de8ac",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 7,
+    "page": 711,
+    "offset": 1004,
+    "text": "Адама",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "1c58dcc166ad947ba250f7ff3e9f10827e071d57c4e0cdc278c62612c8c7c10b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 7,
+    "page": 712,
+    "offset": 66,
+    "text": "Адамом",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pageTextSha256": "9c63d4b9dbf1d1a383506be048962e5435cffadeb0a3738f7ac4ad693d8e6375",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Второй или новый Адам означает Христа, не библейского праотца.",
+    "rejectedSaintIds": [
+      "adam-praotec"
+    ]
+  },
+  {
+    "book": 8,
+    "page": 88,
+    "offset": 2150,
+    "text": "Адама",
+    "sourceSha256": "34cad51db160ddb198289ea09aa9cd1745abb00e2f2eba61e6bb229cdc078e90",
+    "pageTextSha256": "edb497635f6ff490990808a30eb342ce86bfdfa5114c3396924342ded3535fe8",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 8,
+    "page": 111,
+    "offset": 2170,
+    "text": "Адама",
+    "sourceSha256": "34cad51db160ddb198289ea09aa9cd1745abb00e2f2eba61e6bb229cdc078e90",
+    "pageTextSha256": "fc68fb8d1f2abeb0aaeeafd861681fdf6fedace600e1e46186ac9ed9bc3edf1e",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 9,
+    "page": 230,
+    "offset": 1821,
+    "text": "Адам",
+    "sourceSha256": "82b1215c68f31643b8eb01894d4ace63f2ff7a1caf45f8893122a038ba88d8ac",
+    "pageTextSha256": "bc3a3e22bf763a206ecb4f2c03a487711d7ebdf6eab78120e9ff2fe547dac85b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 9,
+    "page": 325,
+    "offset": 1958,
+    "text": "Адама",
+    "sourceSha256": "82b1215c68f31643b8eb01894d4ace63f2ff7a1caf45f8893122a038ba88d8ac",
+    "pageTextSha256": "632d1fa118eafaabd518c1e7b6807dd51245e970696d28cfc016bc74dd992b44",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 9,
+    "page": 326,
+    "offset": 655,
+    "text": "Адам",
+    "sourceSha256": "82b1215c68f31643b8eb01894d4ace63f2ff7a1caf45f8893122a038ba88d8ac",
+    "pageTextSha256": "ebaead529b436c8ddd2cf0d59946942ad76a117b27082bd7eeffb3c90b81a873",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 9,
+    "page": 328,
+    "offset": 190,
+    "text": "Адама",
+    "sourceSha256": "82b1215c68f31643b8eb01894d4ace63f2ff7a1caf45f8893122a038ba88d8ac",
+    "pageTextSha256": "b77129e1008b124bcbe3df1fb11686f1ea3def05fd08043aaef3059f2a206835",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 9,
+    "page": 329,
+    "offset": 1352,
+    "text": "Адаму",
+    "sourceSha256": "82b1215c68f31643b8eb01894d4ace63f2ff7a1caf45f8893122a038ba88d8ac",
+    "pageTextSha256": "169d618888eda6ca5d9bf0752366d39cedf1f23614f84fc2030eb772ae1029b4",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 9,
+    "page": 335,
+    "offset": 686,
+    "text": "Адама",
+    "sourceSha256": "82b1215c68f31643b8eb01894d4ace63f2ff7a1caf45f8893122a038ba88d8ac",
+    "pageTextSha256": "0bbc37e946cbe343ea9a950b2d10b6f26a6faf94d6876d78ce7cecb29f97dd8a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 9,
+    "page": 348,
+    "offset": 475,
+    "text": "Адама",
+    "sourceSha256": "82b1215c68f31643b8eb01894d4ace63f2ff7a1caf45f8893122a038ba88d8ac",
+    "pageTextSha256": "0ebb480611261fa2166a98bacbd0d5e613fe60491762b5cfa927da3fbe168a75",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 9,
+    "page": 651,
+    "offset": 1000,
+    "text": "Адама",
+    "sourceSha256": "82b1215c68f31643b8eb01894d4ace63f2ff7a1caf45f8893122a038ba88d8ac",
+    "pageTextSha256": "7bef7bbaefbe321f3021cde2f922ced4d9ef1bc1f7f00cec179d10cc4b2fd449",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 10,
+    "page": 69,
+    "offset": 1087,
+    "text": "Адама",
+    "sourceSha256": "5d6ad1d1f29953b1f717fcc709ec01032ad6928b642e5b4664378b70284fb152",
+    "pageTextSha256": "4afd25eed35a902c0b79cac0288ea494c58ae449c9412f6161e9e8094ff80ca9",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 10,
+    "page": 244,
+    "offset": 90,
+    "text": "Адама",
+    "sourceSha256": "5d6ad1d1f29953b1f717fcc709ec01032ad6928b642e5b4664378b70284fb152",
+    "pageTextSha256": "bf06d053189e43880721ec45e8f97d44dc8b4ea01ed5d7254bb2d7bd39a1639d",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 10,
+    "page": 361,
+    "offset": 1943,
+    "text": "Адамом",
+    "sourceSha256": "5d6ad1d1f29953b1f717fcc709ec01032ad6928b642e5b4664378b70284fb152",
+    "pageTextSha256": "26ebbb77ca3b9945506100a07417b31b22b1d5af96009551de7523dd89de9981",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 10,
+    "page": 361,
+    "offset": 2025,
+    "text": "Адама",
+    "sourceSha256": "5d6ad1d1f29953b1f717fcc709ec01032ad6928b642e5b4664378b70284fb152",
+    "pageTextSha256": "26ebbb77ca3b9945506100a07417b31b22b1d5af96009551de7523dd89de9981",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 11,
+    "page": 199,
+    "offset": 2022,
+    "text": "Адам",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "a5bbb746cfb74ff0c443abe811b1ddcaab2f5cab2a60a1b0e0956055266072f3",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 11,
+    "page": 317,
+    "offset": 629,
+    "text": "Адама",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "400dfc62f7cae299f91cfce2d24dbd8a3a01e9be5b5ebb2a1a96b7116abcb2cf",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 11,
+    "page": 452,
+    "offset": 2400,
+    "text": "Адам",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "5329b16ab6b705db9caff05b8b7aaab0b29b76d23a6612bf7bd06d2b9d96cedf",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 11,
+    "page": 584,
+    "offset": 203,
+    "text": "Адам",
+    "sourceSha256": "b36fd4ff7ec4ba22854e5f55c566d0f4e7661394995e9586e207f42e8f4876df",
+    "pageTextSha256": "f98425e81a07fae9ead1dcdb6372766aa79006afefa3b3a7cd08504cb822c0f2",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 12,
+    "page": 356,
+    "offset": 677,
+    "text": "Адаме",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "54bd4263af3468a22ed64903d57f0dbfc416ae511244de5c9ee2931b6ca20a13",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 12,
+    "page": 475,
+    "offset": 508,
+    "text": "Адама",
+    "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee",
+    "pageTextSha256": "1fb53fdc3ea87d8abb7c6f2af47c7547dc2d6cc9743ed940eca9f91c175b7c67",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 13,
+    "page": 262,
+    "offset": 1609,
+    "text": "Адам",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "1daefbd26109664c4899196f7007b3df271c319aec7ef39c86877bff79471c56",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 13,
+    "page": 272,
+    "offset": 1509,
+    "text": "Адам",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "345ea4794d7aef316e52c7014514bc9b9abe2a3b24df09b00b486cefa628739d",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 13,
+    "page": 272,
+    "offset": 1668,
+    "text": "Адам",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "345ea4794d7aef316e52c7014514bc9b9abe2a3b24df09b00b486cefa628739d",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 13,
+    "page": 344,
+    "offset": 2325,
+    "text": "Адама",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "ec081bd2c5b71e5010c02400bccb8eca6c5c9a82b06888901ba889114b8f1c71",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 13,
+    "page": 455,
+    "offset": 155,
+    "text": "Адама",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "e13585d42ffdd3dbea10ac46b2380f0c68e03c7375c1b8a57a687b1761e369df",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 13,
+    "page": 455,
+    "offset": 414,
+    "text": "Адама",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "e13585d42ffdd3dbea10ac46b2380f0c68e03c7375c1b8a57a687b1761e369df",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библейский праотец в контексте сотворения, грехопадения, родословия или искупления. Не тёзка из Раифы и не именование Христа."
+  },
+  {
+    "book": 13,
+    "page": 799,
+    "offset": 814,
+    "text": "Адам",
+    "sourceSha256": "665c0cf88bc65e63bc068bdd4ed1d1c9ba1fc4d9e149b628ce50ac18188e2d54",
+    "pageTextSha256": "799846dc064826d1c3845282490c98567bcf312c580fd2748d25b96d1bf9a98f",
+    "decision": "identity-linked",
+    "saintIds": [
+      "adam-praotec"
+    ],
+    "note": "Библиографический указатель прямо уточняет: Адам, праотец (библ.). Не самостоятельный биографический текст."
   }
 ]
