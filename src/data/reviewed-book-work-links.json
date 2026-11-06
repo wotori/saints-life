@@ -9965,7 +9965,18 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОЙ ВЕЛИКОМУЧЕНИЦЫ ЕКАТЕРИНЫ",
       "saintIds": [
-        "ekaterina-aleksandrijskaja"
+        "ekaterina-aleksandrijskaja",
+        "presvjataja-bogorodica",
+        "adam-praotec",
+        "isaija-prorok",
+        "pavel-apostol-pervoverhovnyj",
+        "varnava-apostol",
+        "mihail-arhangel",
+        "avgusta-carica-s-ekaterinoj",
+        "porfirij-voevoda-s-ekaterinoj",
+        "iustinian-vizantijskij",
+        "pavla-rimskaja-vifleemskaja",
+        "epifanij-kiprskij"
       ]
     },
     {
