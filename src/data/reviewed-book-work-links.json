@@ -519,7 +519,12 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ИУЛИАНА",
       "saintIds": [
-        "iulian-pustynnik"
+        "iulian-pustynnik",
+        "david-car-prorok",
+        "pavel-apostol-pervoverhovnyj",
+        "petr-apostol-pervoverhovnyj",
+        "ioann-bogoslov",
+        "marin-tarsijskij-starec"
       ]
     },
     {
@@ -528,7 +533,10 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ПРОРОКА ИОИЛЯ",
       "saintIds": [
-        "ioil-prorok"
+        "ioil-prorok",
+        "efrem-sirin",
+        "petr-apostol-pervoverhovnyj",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
