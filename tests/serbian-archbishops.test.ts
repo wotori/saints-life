@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { searchSaints, saintCommemorations, saintVenerations, getSaint } from '../src/lib/repository';
 import { matchesCommemoration } from '../src/lib/calendar';
-import { reviewedMentionLocations } from '../src/lib/reviewed-book-mentions';
+import { reviewedMentionLocations, reviewedMentionRecords, reviewedMentionForPage } from '../src/lib/reviewed-book-mentions';
 
 test('Sava III and Eustathius II retain their own Serbian memories and book references', () => {
   const cases = [
@@ -27,4 +27,24 @@ test('Sava III and Eustathius II retain their own Serbian memories and book refe
       assert.ok(!searchSaints({ q: item.query, tradition }).some(s => s.id === item.id));
     }
   }
+});
+
+test('Sava I and Sava III on the same page require their own textual anchors', () => {
+  const first = reviewedMentionRecords().find(r => r.book === 4 && r.page === 544 && (r.saintIds as readonly string[]).includes('savva-serbskij'))!;
+  const third = reviewedMentionRecords().find(r => r.book === 4 && r.page === 544 && (r.saintIds as readonly string[]).includes('savva-iii-serbskij'))!;
+  assert.ok(first);
+  assert.ok(third);
+  assert.notEqual(first.anchor, third.anchor);
+  for (const [id, own, other] of [
+    ['savva-serbskij', first, third],
+    ['savva-iii-serbskij', third, first],
+  ] as const) {
+    assert.ok(reviewedMentionForPage(id, 4, 544, own.sourceSha256, own.anchor));
+    assert.equal(reviewedMentionForPage(id, 4, 544, other.sourceSha256, other.anchor), undefined);
+    assert.equal(reviewedMentionForPage(id, 4, 544, 'changed-edition', own.anchor), undefined);
+  }
+  for (const page of [540, 543, 544]) {
+    assert.ok(reviewedMentionLocations('savva-serbskij').some(r => r.book === 4 && r.page === page));
+  }
+  assert.ok(!reviewedMentionLocations('savva-serbskij').some(r => r.book === 4 && r.page === 545));
 });

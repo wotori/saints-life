@@ -68049,11 +68049,75 @@
     "text": "Саввы",
     "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
     "pageTextSha256": "a45ba1954e19f67e3d0afcb994fcef594b410083e29a41d3a814929478891c20",
-    "decision": "identity-rejected",
-    "saintIds": [],
-    "rejectedSaintIds": [
-      "savva-iii-serbskij"
+    "decision": "identity-linked",
+    "saintIds": [
+      "savva-serbskij"
     ],
-    "note": "Престол святого Саввы означает кафедру первого Сербского архиепископа, не Савву III, упомянутого выше на той же странице."
+    "note": "Савва I: первый архиепископ, сын Симеона Немани, устроитель афонских обителей и Карейского устава; на PDF 544 упомянут его престол, не Савва III. Полные контексты сохранены в reviews/sava-i-daniel-life.json."
+  },
+  {
+    "book": 4,
+    "page": 540,
+    "offset": 536,
+    "text": "Саввы",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a0b0eef65d0af5984f5c079d8e57320c27a7a3e82233f20ed59bb2b60f0f9bf0",
+    "decision": "identity-linked",
+    "saintIds": [
+      "savva-serbskij"
+    ],
+    "note": "Савва I: первый архиепископ, сын Симеона Немани, устроитель афонских обителей и Карейского устава; на PDF 544 упомянут его престол, не Савва III. Полные контексты сохранены в reviews/sava-i-daniel-life.json."
+  },
+  {
+    "book": 4,
+    "page": 540,
+    "offset": 680,
+    "text": "Савва",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a0b0eef65d0af5984f5c079d8e57320c27a7a3e82233f20ed59bb2b60f0f9bf0",
+    "decision": "identity-linked",
+    "saintIds": [
+      "savva-serbskij"
+    ],
+    "note": "Савва I: первый архиепископ, сын Симеона Немани, устроитель афонских обителей и Карейского устава; на PDF 544 упомянут его престол, не Савва III. Полные контексты сохранены в reviews/sava-i-daniel-life.json."
+  },
+  {
+    "book": 4,
+    "page": 543,
+    "offset": 506,
+    "text": "Саввою",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "87b1bd257614e60c053925dc8a64e1307b3b03b3cfccb81bd8785e8306146730",
+    "decision": "identity-linked",
+    "saintIds": [
+      "savva-serbskij"
+    ],
+    "note": "Савва I: первый архиепископ, сын Симеона Немани, устроитель афонских обителей и Карейского устава; на PDF 544 упомянут его престол, не Савва III. Полные контексты сохранены в reviews/sava-i-daniel-life.json."
+  },
+  {
+    "book": 4,
+    "page": 543,
+    "offset": 1288,
+    "text": "Саввы",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "87b1bd257614e60c053925dc8a64e1307b3b03b3cfccb81bd8785e8306146730",
+    "decision": "identity-linked",
+    "saintIds": [
+      "savva-serbskij"
+    ],
+    "note": "Савва I: первый архиепископ, сын Симеона Немани, устроитель афонских обителей и Карейского устава; на PDF 544 упомянут его престол, не Савва III. Полные контексты сохранены в reviews/sava-i-daniel-life.json."
+  },
+  {
+    "book": 4,
+    "page": 543,
+    "offset": 1348,
+    "text": "Саввы",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "87b1bd257614e60c053925dc8a64e1307b3b03b3cfccb81bd8785e8306146730",
+    "decision": "identity-linked",
+    "saintIds": [
+      "savva-serbskij"
+    ],
+    "note": "Савва I: первый архиепископ, сын Симеона Немани, устроитель афонских обителей и Карейского устава; на PDF 544 упомянут его престол, не Савва III. Полные контексты сохранены в reviews/sava-i-daniel-life.json."
   }
 ]
