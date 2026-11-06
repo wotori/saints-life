@@ -1029,7 +1029,16 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО САВВЫ ВИШЕРСКОГО",
       "saintIds": [
-        "savva-visherskij"
+        "savva-visherskij",
+        "savva-tverskoj-osnovatel",
+        "varsonofij-tverskoj-osnovatel",
+        "presvjataja-bogorodica",
+        "petr-apostol-pervoverhovnyj",
+        "pavel-apostol-pervoverhovnyj",
+        "efrem-perekomskij",
+        "simeon-novgorodskij-arhiepiskop",
+        "simeon-stolpnik-starshij",
+        "iona-novgorodskij"
       ]
     },
     {
