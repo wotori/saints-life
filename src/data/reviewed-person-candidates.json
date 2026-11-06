@@ -64082,5 +64082,135 @@
       "irinarh-rostovskij-zatvornik"
     ],
     "note": "Илия и Илья здесь относятся к Иринарху Ростовскому: крещальное имя указано на PDF 362, пострижение с именем Иринарх на PDF 364 книги 5. Не отождествлять другие книжные упоминания Илии по одному имени."
+  },
+  {
+    "book": 3,
+    "page": 778,
+    "offset": 329,
+    "text": "Едессий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "1a8787f502914faf58c3187560999212c3399a35e15646283154170f569bb265",
+    "decision": "identity-linked",
+    "saintIds": [
+      "edessij-tirskij-s-frumentiem"
+    ],
+    "note": "Спутник Фрументия, вернувшийся в Тир. Не Едесий Александрийский, брат Амфиана. Источники и расхождения сохранены в reviews/aedesius-tyre.json."
+  },
+  {
+    "book": 3,
+    "page": 778,
+    "offset": 747,
+    "text": "Едессий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "1a8787f502914faf58c3187560999212c3399a35e15646283154170f569bb265",
+    "decision": "identity-linked",
+    "saintIds": [
+      "edessij-tirskij-s-frumentiem"
+    ],
+    "note": "Спутник Фрументия, вернувшийся в Тир. Не Едесий Александрийский, брат Амфиана. Источники и расхождения сохранены в reviews/aedesius-tyre.json."
+  },
+  {
+    "book": 3,
+    "page": 778,
+    "offset": 1131,
+    "text": "Едессий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "1a8787f502914faf58c3187560999212c3399a35e15646283154170f569bb265",
+    "decision": "identity-linked",
+    "saintIds": [
+      "edessij-tirskij-s-frumentiem"
+    ],
+    "note": "Спутник Фрументия, вернувшийся в Тир. Не Едесий Александрийский, брат Амфиана. Источники и расхождения сохранены в reviews/aedesius-tyre.json."
+  },
+  {
+    "book": 3,
+    "page": 778,
+    "offset": 1468,
+    "text": "Едессием",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "1a8787f502914faf58c3187560999212c3399a35e15646283154170f569bb265",
+    "decision": "identity-linked",
+    "saintIds": [
+      "edessij-tirskij-s-frumentiem"
+    ],
+    "note": "Спутник Фрументия, вернувшийся в Тир. Не Едесий Александрийский, брат Амфиана. Источники и расхождения сохранены в reviews/aedesius-tyre.json."
+  },
+  {
+    "book": 3,
+    "page": 779,
+    "offset": 110,
+    "text": "Едессий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "f907bd22e980e6a0a441177c84c0df6b74b70a05b77a9cb48bcf01c738ce7add",
+    "decision": "identity-linked",
+    "saintIds": [
+      "edessij-tirskij-s-frumentiem"
+    ],
+    "note": "Спутник Фрументия, вернувшийся в Тир. Не Едесий Александрийский, брат Амфиана. Источники и расхождения сохранены в reviews/aedesius-tyre.json."
+  },
+  {
+    "book": 3,
+    "page": 779,
+    "offset": 340,
+    "text": "Едессия",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "f907bd22e980e6a0a441177c84c0df6b74b70a05b77a9cb48bcf01c738ce7add",
+    "decision": "identity-linked",
+    "saintIds": [
+      "edessij-tirskij-s-frumentiem"
+    ],
+    "note": "Спутник Фрументия, вернувшийся в Тир. Не Едесий Александрийский, брат Амфиана. Источники и расхождения сохранены в reviews/aedesius-tyre.json."
+  },
+  {
+    "book": 3,
+    "page": 779,
+    "offset": 464,
+    "text": "Едессий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "f907bd22e980e6a0a441177c84c0df6b74b70a05b77a9cb48bcf01c738ce7add",
+    "decision": "identity-linked",
+    "saintIds": [
+      "edessij-tirskij-s-frumentiem"
+    ],
+    "note": "Спутник Фрументия, вернувшийся в Тир. Не Едесий Александрийский, брат Амфиана. Источники и расхождения сохранены в reviews/aedesius-tyre.json."
+  },
+  {
+    "book": 3,
+    "page": 779,
+    "offset": 630,
+    "text": "Едессий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "f907bd22e980e6a0a441177c84c0df6b74b70a05b77a9cb48bcf01c738ce7add",
+    "decision": "identity-linked",
+    "saintIds": [
+      "edessij-tirskij-s-frumentiem"
+    ],
+    "note": "Спутник Фрументия, вернувшийся в Тир. Не Едесий Александрийский, брат Амфиана. Источники и расхождения сохранены в reviews/aedesius-tyre.json."
+  },
+  {
+    "book": 3,
+    "page": 779,
+    "offset": 677,
+    "text": "Едессий",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "f907bd22e980e6a0a441177c84c0df6b74b70a05b77a9cb48bcf01c738ce7add",
+    "decision": "identity-linked",
+    "saintIds": [
+      "edessij-tirskij-s-frumentiem"
+    ],
+    "note": "Спутник Фрументия, вернувшийся в Тир. Не Едесий Александрийский, брат Амфиана. Источники и расхождения сохранены в reviews/aedesius-tyre.json."
+  },
+  {
+    "book": 3,
+    "page": 779,
+    "offset": 1438,
+    "text": "Едессием",
+    "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+    "pageTextSha256": "f907bd22e980e6a0a441177c84c0df6b74b70a05b77a9cb48bcf01c738ce7add",
+    "decision": "identity-linked",
+    "saintIds": [
+      "edessij-tirskij-s-frumentiem"
+    ],
+    "note": "Спутник Фрументия, вернувшийся в Тир. Не Едесий Александрийский, брат Амфиана. Источники и расхождения сохранены в reviews/aedesius-tyre.json."
   }
 ]

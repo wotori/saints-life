@@ -1,5 +1,8 @@
 /** Short entries without display headings are kept separate from full lives. */
 const mentions = [
+  {"book": 3, "page": 778, "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce", "anchor": "\nного моря. У Меропия были два племянника: Фрументий и Едессий,\nкоторых он взял с собою, желая познакомить и этих юношей с неиз-\nвестными им странами, иной п", "saintIds": ["edessij-tirskij-s-frumentiem"]},
+  {"book": 3, "page": 779, "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce", "anchor": "кие и греческие купцы, по большей ча-\nсти — христиане. Едессий и Фрументий знакомились с приезжав-\nшими по торговым делам купцами и устраивали с ними богослу", "saintIds": ["edessij-tirskij-s-frumentiem"]},
+
   {"book": 5, "page": 362, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": " имени Ирина. В святом крещении младенцу дано было\nимя Илия. Радовались родители, видя, как быстро растет ребенок:\nдвадцати недель он уже встал ", "saintIds": ["irinarh-rostovskij-zatvornik"]},
   {"book": 5, "page": 363, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": "ского 361\n\nОколо того же времени слу-\nчилось, что отец Ильи Акиндин\nпозвал к себе на обед своего\nсельского священника, именем\nВасилия. За обедом", "saintIds": ["irinarh-rostovskij-zatvornik"]},
   {"book": 5, "page": 364, "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f", "anchor": "его необычные\nречи.\n\nТеперь, после смерти своего отца, Илья с матерью и старшим бра-\nтом Андреем переселились в город Ростов, купили дом и завел", "saintIds": ["irinarh-rostovskij-zatvornik"]},
