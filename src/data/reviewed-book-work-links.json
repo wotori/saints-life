@@ -221,7 +221,9 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО СВЯЩЕННОМУЧЕНИКА КИРИАКА,",
       "saintIds": [
-        "kiriak-ierusalimskij"
+        "kiriak-ierusalimskij",
+        "anna-mat-kiriaka-ierusalimskogo",
+        "elena-mat-konstantina"
       ]
     },
     {
@@ -247,7 +249,11 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ СВЯТОЙ ВЕЛИКОМУЧЕНИЦЫ АНАСТАСИИ РИМЛЯНЫНИ",
       "saintIds": [
-        "anastasija-rimljanynja-29-oktjabrja"
+        "anastasija-rimljanynja-29-oktjabrja",
+        "sofija-igumenija-anastasii-rimljanyni",
+        "kirill-s-anastasiej-rimljanynej",
+        "eva-pramater",
+        "david-car-prorok"
       ]
     },
     {
