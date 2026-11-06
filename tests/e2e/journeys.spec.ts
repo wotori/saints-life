@@ -260,7 +260,7 @@ test('sources, actual 404 status and responsive layouts', async ({ page }, testI
     if (route === '/' || route.startsWith('/calendar') || route.includes('solunskij')) await page.screenshot({ path: `test-results/${testInfo.project.name}-${route === '/' ? 'home' : route.startsWith('/calendar') ? 'calendar' : 'reader'}.png`, fullPage: true });
   }
   await page.goto('/sources');
-  await expect(page.locator('.source-row')).toHaveCount(569);
+  await expect(page.locator('.source-row')).toHaveCount(570);
   const response = await page.goto('/saints/no-such-saint');
   expect(response?.status()).toBe(404);
   await expect(page.getByRole('heading', { name: 'Этот лист пока пуст.' })).toBeVisible();

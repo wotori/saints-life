@@ -68718,5 +68718,18 @@
       "daniil-stolpnik"
     ],
     "note": "Посвящение храма или придела в рассказе о строительстве Даниила Сербского; не полный текст жития упомянутого святого. Разорванное переносом написание сохранено. Архив: reviews/daniel-church-dedications.json."
+  },
+  {
+    "book": 4,
+    "page": 547,
+    "offset": 943,
+    "text": "Димитрия",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "6e4072eca5f0648cc7c2e1ae6bb47d5c6ebcdd34878380e21331b42a1547e826",
+    "decision": "identity-linked",
+    "saintIds": [
+      "dimitrij-solunskij"
+    ],
+    "note": "Посвящение Печского храма Димитрию Солунскому подтверждено полным материалом СПЦ: https://www.spc.rs/sr/news/patrijarh/-/1220.pecka-patrijarsija-%25E2%2580%2593-cuvar-nase-buducnosti.html . Архив: reviews/daniel-church-dedications.json. Это упоминание, не полное житие."
   }
 ]
