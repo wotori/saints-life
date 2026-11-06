@@ -9985,7 +9985,12 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО ВЕЛИКОМУЧЕНИКА МЕРКУРИЯ",
       "saintIds": [
-        "merkurij-kesarijskij"
+        "merkurij-kesarijskij",
+        "iov-mnogostradalnyj",
+        "presvjataja-bogorodica",
+        "vasilij-velikij",
+        "grigorij-bogoslov",
+        "afanasij-velikij-aleksandrijskij"
       ]
     },
     {
@@ -9994,7 +9999,9 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО МУЧЕНИКА МЕРКУРИЯ СМОЛЕНСКОГО",
       "saintIds": [
-        "merkurij-smolenskij"
+        "merkurij-smolenskij",
+        "presvjataja-bogorodica",
+        "avraamij-smolenskij"
       ]
     },
     {
@@ -10003,7 +10010,10 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО СИМОНА СОЙГИНСКОГО",
       "saintIds": [
-        "simon-sojginskij"
+        "simon-sojginskij",
+        "kornilij-komelskij",
+        "longin-korjazhemskij",
+        "ekaterina-aleksandrijskaja"
       ]
     },
     {
