@@ -68119,5 +68119,148 @@
       "savva-serbskij"
     ],
     "note": "Савва I: первый архиепископ, сын Симеона Немани, устроитель афонских обителей и Карейского устава; на PDF 544 упомянут его престол, не Савва III. Полные контексты сохранены в reviews/sava-i-daniel-life.json."
+  },
+  {
+    "book": 4,
+    "page": 619,
+    "offset": 2170,
+    "text": "Елий",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "2c204ba1b9824546141d9383287b09baf175e11c680e0dfa849d9937d9cd8dd0",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elij-iliopolskij-episkop-evgenii"
+    ],
+    "note": "Епископ Илиополя из жития Евгении, не император Елий Адриан и не автоматически одноимённый египетский монах. Контекст и расхождение даты: reviews/elius-bishop-eugenia.json."
+  },
+  {
+    "book": 4,
+    "page": 620,
+    "offset": 1111,
+    "text": "Елия",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "64f82fff91ce1a9f474b9f905b7b2d4536061a60740cbe9b7fdbc913b5a88792",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elij-iliopolskij-episkop-evgenii"
+    ],
+    "note": "Епископ Илиополя из жития Евгении, не император Елий Адриан и не автоматически одноимённый египетский монах. Контекст и расхождение даты: reviews/elius-bishop-eugenia.json."
+  },
+  {
+    "book": 4,
+    "page": 620,
+    "offset": 1286,
+    "text": "Елием",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "64f82fff91ce1a9f474b9f905b7b2d4536061a60740cbe9b7fdbc913b5a88792",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elij-iliopolskij-episkop-evgenii"
+    ],
+    "note": "Епископ Илиополя из жития Евгении, не император Елий Адриан и не автоматически одноимённый египетский монах. Контекст и расхождение даты: reviews/elius-bishop-eugenia.json."
+  },
+  {
+    "book": 4,
+    "page": 621,
+    "offset": 161,
+    "text": "Елий",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "70be189a0497da5070e4ddc503a1ee08733eb2b6eb5543c40197a19a6d9ec0ad",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elij-iliopolskij-episkop-evgenii"
+    ],
+    "note": "Епископ Илиополя из жития Евгении, не император Елий Адриан и не автоматически одноимённый египетский монах. Контекст и расхождение даты: reviews/elius-bishop-eugenia.json."
+  },
+  {
+    "book": 4,
+    "page": 621,
+    "offset": 580,
+    "text": "Елия",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "70be189a0497da5070e4ddc503a1ee08733eb2b6eb5543c40197a19a6d9ec0ad",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elij-iliopolskij-episkop-evgenii"
+    ],
+    "note": "Епископ Илиополя из жития Евгении, не император Елий Адриан и не автоматически одноимённый египетский монах. Контекст и расхождение даты: reviews/elius-bishop-eugenia.json."
+  },
+  {
+    "book": 4,
+    "page": 621,
+    "offset": 991,
+    "text": "Елий",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "70be189a0497da5070e4ddc503a1ee08733eb2b6eb5543c40197a19a6d9ec0ad",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elij-iliopolskij-episkop-evgenii"
+    ],
+    "note": "Епископ Илиополя из жития Евгении, не император Елий Адриан и не автоматически одноимённый египетский монах. Контекст и расхождение даты: reviews/elius-bishop-eugenia.json."
+  },
+  {
+    "book": 4,
+    "page": 621,
+    "offset": 1656,
+    "text": "Елий",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "70be189a0497da5070e4ddc503a1ee08733eb2b6eb5543c40197a19a6d9ec0ad",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elij-iliopolskij-episkop-evgenii"
+    ],
+    "note": "Епископ Илиополя из жития Евгении, не император Елий Адриан и не автоматически одноимённый египетский монах. Контекст и расхождение даты: reviews/elius-bishop-eugenia.json."
+  },
+  {
+    "book": 4,
+    "page": 622,
+    "offset": 526,
+    "text": "Елий",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "1bf06f7a37f7550ae12c21433d397dc2e4595365803b0822fb8be5f56c7f94ed",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elij-iliopolskij-episkop-evgenii"
+    ],
+    "note": "Епископ Илиополя из жития Евгении, не император Елий Адриан и не автоматически одноимённый египетский монах. Контекст и расхождение даты: reviews/elius-bishop-eugenia.json."
+  },
+  {
+    "book": 4,
+    "page": 622,
+    "offset": 1773,
+    "text": "Елий",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "1bf06f7a37f7550ae12c21433d397dc2e4595365803b0822fb8be5f56c7f94ed",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elij-iliopolskij-episkop-evgenii"
+    ],
+    "note": "Епископ Илиополя из жития Евгении, не император Елий Адриан и не автоматически одноимённый египетский монах. Контекст и расхождение даты: reviews/elius-bishop-eugenia.json."
+  },
+  {
+    "book": 4,
+    "page": 623,
+    "offset": 1220,
+    "text": "Елий",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "7fe871bb0acffb5c6c2bf55e53bddeb80c7d95b84b5dde66b58c85a44329846b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elij-iliopolskij-episkop-evgenii"
+    ],
+    "note": "Епископ Илиополя из жития Евгении, не император Елий Адриан и не автоматически одноимённый египетский монах. Контекст и расхождение даты: reviews/elius-bishop-eugenia.json."
+  },
+  {
+    "book": 4,
+    "page": 624,
+    "offset": 769,
+    "text": "Елий",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "5647243a2222b1400c2face734b791a384f37a1b5b7ad1f2bb2b49c90c8e4582",
+    "decision": "identity-linked",
+    "saintIds": [
+      "elij-iliopolskij-episkop-evgenii"
+    ],
+    "note": "Епископ Илиополя из жития Евгении, не император Елий Адриан и не автоматически одноимённый египетский монах. Контекст и расхождение даты: reviews/elius-bishop-eugenia.json."
   }
 ]
