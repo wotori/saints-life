@@ -2,6 +2,13 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { sectionHeadings, sectionForIndexedName } from '../src/lib/book-sections';
 
+test('Protection sermon preserves a lowercase preposition inside its display heading', () => {
+  const body = 'ДЕНЬ ПЕРВЫЙ\n\nСЛОВО на ПОКРОВ\nПРЕСВЯТОЙ БОГОРОДИЦЫ\n\nВ последние тяжкие времена,';
+  assert.deepEqual(sectionHeadings(body), [{ offset: body.indexOf('СЛОВО'), title: 'СЛОВО на ПОКРОВ ПРЕСВЯТОЙ БОГОРОДИЦЫ' }]);
+  assert.deepEqual(sectionHeadings('СЛОВО на обычную тему\n\nТекст.'), []);
+  assert.deepEqual(sectionHeadings('СЛОВО на ПОКРОВ объясняет праздник.\n\nТекст.'), []);
+});
+
 test('uppercase sentence ending does not truncate the Agathopous and Theodulus account', () => {
   const first = 'СТРАДАНИЕ СВЯТЫХ МУЧЕНИКОВ\nАГАФОПОДА и ФЕОДУЛА\n\nТекст рассказа.';
   const continued = 'если не хочешь в мучениях окончить\nЖИЗНЬ СВОЮ.\n\nСвятой же Феодул отвечал ему:\nРассказ продолжается.';

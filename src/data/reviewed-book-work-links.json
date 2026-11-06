@@ -12074,6 +12074,30 @@
         "dionisij-areopagit",
         "markian-vizantijskij-imperator"
       ]
+    },
+    {
+      "book": 2,
+      "page": 7,
+      "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+      "expectedHeading": "СЛОВО на ПОКРОВ ПРЕСВЯТОЙ БОГОРОДИЦЫ",
+      "saintIds": [
+        "presvjataja-bogorodica",
+        "pavel-apostol-pervoverhovnyj",
+        "andrej-caregradskij-jurodivyj",
+        "ioann-bogoslov",
+        "david-car-prorok",
+        "amvrosij-mediolanskij",
+        "anastasij-sinajskij-igumen",
+        "marija-egipetskaja",
+        "iakov-praotec",
+        "ioann-predtecha",
+        "ioann-damaskin",
+        "moisej-prorok-bogovidec",
+        "aaron-pervosvjashhennik",
+        "iisus-navin",
+        "isaija-prorok",
+        "ioann-zlatoust"
+      ]
     }
   ]
 }

@@ -5,6 +5,7 @@ const headingStart = /^(УСПЕНИЕ|О СОЗДАНИИ|ЖИТИЕ|ЖИЗНЕ
 
 // OCR sometimes reads small capitals and conjunctions as ordinary lowercase.
 function isDisplayLine(line: string): boolean {
+  line = line.replace(/^СЛОВО на(?=\s+[А-ЯЁ])/u, 'СЛОВО НА');
   const corrected = line.replace(headingStart, word => word.toLocaleUpperCase('ru')).replace(/(?<![\p{L}])(?:святых|святого|святой|святому|святые|святаго|мучеников|мучениц|преподобного|отца|нашего|сестры|сына|сыновей|их|чад|его|родных|ее|братьев)(?![\p{L}])/gu, word => word.toLocaleUpperCase('ru'));
   return /^[А-ЯЁA-Z0-9\s.,:;!()«»'’\-и]+$/u.test(corrected);
 }
