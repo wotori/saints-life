@@ -10442,7 +10442,9 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО НИЛА ПОСТНИКА",
       "saintIds": [
-        "nil-postnik"
+        "nil-postnik",
+        "ioann-zlatoust",
+        "feodul-sinajskij-syn-nila"
       ]
     },
     {
@@ -11033,7 +11035,20 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ ИОАННА МИЛОСТИВОГО,",
       "saintIds": [
-        "ioann-milostivyj"
+        "ioann-milostivyj",
+        "prokl-konstantinopolskij",
+        "ioann-zlatoust",
+        "sofronij-ierusalimskij",
+        "elisej-prorok",
+        "iov-mnogostradalnyj",
+        "petr-apostol-pervoverhovnyj",
+        "kir-aleksandrijskij",
+        "ioann-aleksandrijskij-bessrebrenik",
+        "presvjataja-bogorodica",
+        "avraam-praotec",
+        "mina-kotuanskij",
+        "feodor-studit",
+        "tihon-amafuntskij"
       ]
     },
     {
