@@ -204,7 +204,8 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО МУЧЕНИКА ЕПИМАХА",
       "saintIds": [
-        "epimah-aleksandrijskij-31-oktjabrja"
+        "epimah-aleksandrijskij-31-oktjabrja",
+        "ioann-predtecha"
       ]
     },
     {
@@ -214,7 +215,9 @@
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНЫХ СПИРИДОНА и НИКОДИМА",
       "saintIds": [
         "spiridon-pecherskij-prosfornik",
-        "nikodim-pecherskij-prosfornik"
+        "nikodim-pecherskij-prosfornik",
+        "pavel-apostol-pervoverhovnyj",
+        "david-car-prorok"
       ]
     },
     {
@@ -11515,7 +11518,9 @@
         "amplij-apostol",
         "urvan-apostol",
         "narkiss-apostol",
-        "aristovul-apostol"
+        "aristovul-apostol",
+        "apellij-iraklijskij-apostol",
+        "andrej-pervozvannyj"
       ]
     },
     {
