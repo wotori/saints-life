@@ -9683,7 +9683,16 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ПРОРОКА АВВАКУМА",
       "saintIds": [
-        "avvakum-prorok"
+        "avvakum-prorok",
+        "epifanij-kiprskij",
+        "ieronim-stridonskij",
+        "avgustin-ipponijskij",
+        "ezekija-tsar-iudejskij",
+        "isaija-prorok",
+        "avraam-praotec",
+        "presvjataja-bogorodica",
+        "daniil-prorok",
+        "feodosij-ii-mladshij-imperator"
       ]
     },
     {
@@ -9692,7 +9701,12 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "СТРАДАНИЕ СВЯТОЙ МУЧЕНИЦЫ МИРОПИИ",
       "saintIds": [
-        "miropija-hiosskaja"
+        "miropija-hiosskaja",
+        "ermionija-efesskaja",
+        "isidor-hiosskij",
+        "ioann-predtecha",
+        "pavel-apostol-pervoverhovnyj",
+        "ioann-bogoslov"
       ]
     },
     {
@@ -9701,7 +9715,12 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО АФАНАСИЯ ПЕЧЕРСКОГО",
       "saintIds": [
-        "afanasij-pecherskij-blizhnie"
+        "afanasij-pecherskij-blizhnie",
+        "lazar-chetverodnevnyj",
+        "presvjataja-bogorodica",
+        "antonij-pecherskij",
+        "feodosij-pecherskij",
+        "simon-vladimirskij"
       ]
     },
     {
@@ -9710,7 +9729,9 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ СВЯТОГО СТЕФАНА,",
       "saintIds": [
-        "stefan-urosh-serbskij"
+        "stefan-urosh-serbskij",
+        "elena-mat-stefana-urosha",
+        "presvjataja-bogorodica"
       ]
     },
     {
