@@ -1386,7 +1386,14 @@
       "saintIds": [
         "evfimija-vsehvalnaja-halkidonskaja",
         "viktor-s-evfimiej",
-        "sosfen-s-evfimiej"
+        "sosfen-s-evfimiej",
+        "eva-pramater",
+        "ananija-vavilonskij",
+        "azarija-vavilonskij",
+        "misail-vavilonskij",
+        "iona-prorok",
+        "daniil-prorok",
+        "feodosij-i-velikij-imperator"
       ]
     },
     {
@@ -1395,7 +1402,8 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ПАМЯТЬ СВЯТОЙ МУЧЕНИЦЫ СЕВАСТИАНЫ",
       "saintIds": [
-        "sevastiana-markianopolskaja"
+        "sevastiana-markianopolskaja",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
@@ -1413,7 +1421,10 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ПАМЯТЬ СВЯТОЙ МУЧЕНИЦЫ ЛЮДМИЛЫ",
       "saintIds": [
-        "ljudmila-cheshskaja"
+        "ljudmila-cheshskaja",
+        "vjacheslav-cheshskij",
+        "mefodij-moravskij",
+        "georgij-pobedonosec"
       ]
     },
     {
