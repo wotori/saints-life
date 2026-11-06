@@ -1056,7 +1056,8 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО МИХАИЛА ЗОВИЙСКОГО",
       "saintIds": [
-        "mihail-zovijskij"
+        "mihail-zovijskij",
+        "avraam-praotec"
       ]
     },
     {
@@ -10472,7 +10473,9 @@
       "saintIds": [
         "kiprian-antiohijskij",
         "iustina-antiohijskaja",
-        "feoktist-s-kiprianom"
+        "feoktist-s-kiprianom",
+        "presvjataja-bogorodica",
+        "eva-pramater"
       ]
     },
     {
