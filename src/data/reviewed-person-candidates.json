@@ -67950,5 +67950,110 @@
       "nikodim-svjatogorec"
     ],
     "note": "Книга 4, PDF 490: автор греческого Синаксаря в примечании об Аглаиде. Статья Антиохийского патриархата подтверждает агиографические труды Никодима Святогорца XVIII-XIX веков. Это библиографическое упоминание, не полное житие и не наставник Григория Паламы. Полный контекст: reviews/three-nicodemus-identities.json."
+  },
+  {
+    "book": 4,
+    "page": 539,
+    "offset": 1218,
+    "text": "Евстафию",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "b91f52fa4d324bb352f554d7e1769e2477b38755fd8ee2abdaeed0d635fc968b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "evstafij-ii-serbskij"
+    ],
+    "note": "Сверено в полном контексте жития Даниила Сербского. Отдельный архиепископ, не одноимённый первый святитель. Исследование: reviews/sava-iii-eustathius-ii.json."
+  },
+  {
+    "book": 4,
+    "page": 539,
+    "offset": 1336,
+    "text": "Евстафий",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "b91f52fa4d324bb352f554d7e1769e2477b38755fd8ee2abdaeed0d635fc968b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "evstafij-ii-serbskij"
+    ],
+    "note": "Сверено в полном контексте жития Даниила Сербского. Отдельный архиепископ, не одноимённый первый святитель. Исследование: reviews/sava-iii-eustathius-ii.json."
+  },
+  {
+    "book": 4,
+    "page": 539,
+    "offset": 1632,
+    "text": "Евстафием",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "b91f52fa4d324bb352f554d7e1769e2477b38755fd8ee2abdaeed0d635fc968b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "evstafij-ii-serbskij"
+    ],
+    "note": "Сверено в полном контексте жития Даниила Сербского. Отдельный архиепископ, не одноимённый первый святитель. Исследование: reviews/sava-iii-eustathius-ii.json."
+  },
+  {
+    "book": 4,
+    "page": 539,
+    "offset": 1952,
+    "text": "Евстафий",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "b91f52fa4d324bb352f554d7e1769e2477b38755fd8ee2abdaeed0d635fc968b",
+    "decision": "identity-linked",
+    "saintIds": [
+      "evstafij-ii-serbskij"
+    ],
+    "note": "Сверено в полном контексте жития Даниила Сербского. Отдельный архиепископ, не одноимённый первый святитель. Исследование: reviews/sava-iii-eustathius-ii.json."
+  },
+  {
+    "book": 4,
+    "page": 540,
+    "offset": 1168,
+    "text": "Евста-\nфий",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a0b0eef65d0af5984f5c079d8e57320c27a7a3e82233f20ed59bb2b60f0f9bf0",
+    "decision": "identity-linked",
+    "saintIds": [
+      "evstafij-ii-serbskij"
+    ],
+    "note": "Сверено в полном контексте жития Даниила Сербского. Отдельный архиепископ, не одноимённый первый святитель. Исследование: reviews/sava-iii-eustathius-ii.json."
+  },
+  {
+    "book": 4,
+    "page": 544,
+    "offset": 1987,
+    "text": "Савве",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a45ba1954e19f67e3d0afcb994fcef594b410083e29a41d3a814929478891c20",
+    "decision": "identity-linked",
+    "saintIds": [
+      "savva-iii-serbskij"
+    ],
+    "note": "Сверено в полном контексте жития Даниила Сербского. Отдельный архиепископ, не одноимённый первый святитель. Исследование: reviews/sava-iii-eustathius-ii.json."
+  },
+  {
+    "book": 4,
+    "page": 545,
+    "offset": 37,
+    "text": "Савва",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "1b1a31b7c45752ce96a33c39393a73b0d40bb0ce41862bd885e64a026c6c2dd2",
+    "decision": "identity-linked",
+    "saintIds": [
+      "savva-iii-serbskij"
+    ],
+    "note": "Сверено в полном контексте жития Даниила Сербского. Отдельный архиепископ, не одноимённый первый святитель. Исследование: reviews/sava-iii-eustathius-ii.json."
+  },
+  {
+    "book": 4,
+    "page": 544,
+    "offset": 2182,
+    "text": "Саввы",
+    "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+    "pageTextSha256": "a45ba1954e19f67e3d0afcb994fcef594b410083e29a41d3a814929478891c20",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "rejectedSaintIds": [
+      "savva-iii-serbskij"
+    ],
+    "note": "Престол святого Саввы означает кафедру первого Сербского архиепископа, не Савву III, упомянутого выше на той же странице."
   }
 ]
