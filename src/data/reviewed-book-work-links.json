@@ -10030,7 +10030,15 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ПРОКЛА,",
       "saintIds": [
-        "prokl-konstantinopolskij"
+        "prokl-konstantinopolskij",
+        "ioann-zlatoust",
+        "pavel-apostol-pervoverhovnyj",
+        "elisej-prorok",
+        "feodosij-i-velikij-imperator",
+        "maksimian-konstantinopolskij",
+        "feodosij-ii-mladshij-imperator",
+        "pulherija-carica",
+        "vasilij-velikij"
       ]
     },
     {
@@ -10041,7 +10049,13 @@
       "saintIds": [
         "evstafij-nikejskij",
         "fespesij-nikejskij",
-        "anatolij-nikejskij"
+        "anatolij-nikejskij",
+        "lukian-antiohijskij-presviter",
+        "anfim-nikomidijskij",
+        "konstantin-velikij-imperator",
+        "david-car-prorok",
+        "stefan-pervomuchenik",
+        "daniil-prorok"
       ]
     },
     {
