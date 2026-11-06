@@ -1,5 +1,6 @@
 /** Short entries without display headings are kept separate from full lives. */
 const mentions = [
+  {"book": 8, "page": 453, "sourceSha256": "34cad51db160ddb198289ea09aa9cd1745abb00e2f2eba61e6bb229cdc078e90", "anchor": "слова) это произошло не без особенного смотрения Бо-\nжия, потому что «Еве, которая пала первая, первой надлежало при-\nветствовать Христа» — Искупителя падшего человечества.\n\nП", "saintIds": ["eva-pramater"]},
   {"book": 1, "page": 269, "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c", "anchor": "ца, она села у монастырских врат, рыдая, как\nАдам, изгнанный из рая. Против монастыря устроила она для мла-\nденца маленькую хижинку и,", "saintIds": ["adam-praotec"]},
   {"book": 1, "page": 404, "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c", "anchor": "ре и сушу; Он же сотворил и\nпервого человека Адама и отдал ему на служение все сотворенное.\nГосподь же дал людям закон, чтобы они не по", "saintIds": ["adam-praotec"]},
   {"book": 1, "page": 632, "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c", "anchor": "м ад и, поправ обольстителя-змия, снова\nввел Адама в рай. Размышляя об этом и читая жития святых, Ки-\nриак возгорелся духом, и в сердце", "saintIds": ["adam-praotec"]},
