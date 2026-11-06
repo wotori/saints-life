@@ -10579,7 +10579,23 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО ИОАННИКИЯ ВЕЛИКОГО",
       "saintIds": [
-        "ioannikij-velikij"
+        "ioannikij-velikij",
+        "david-car-prorok",
+        "moisej-prorok-bogovidec",
+        "ioann-bogoslov",
+        "georgij-amastridskij",
+        "presvjataja-bogorodica",
+        "pavel-apostol-pervoverhovnyj",
+        "evstratij-avgarskij-uchenik-ioannikija",
+        "feodor-studit",
+        "ioann-predtecha",
+        "mefodij-konstantinopolskij-patriarh",
+        "feodora-carica-11-fevralja",
+        "petr-apostol-pervoverhovnyj",
+        "avraam-praotec",
+        "ananija-vavilonskij",
+        "azarija-vavilonskij",
+        "misail-vavilonskij"
       ]
     },
     {
@@ -10589,7 +10605,9 @@
       "expectedHeading": "СТРАДАНИЕ СВЯТЫХ МУЧЕНИКОВ НИКАНДРА ЕПИСКОПА и ЕРМЕЯ ПРЕСВИТЕРА",
       "saintIds": [
         "nikandr-mirskij",
-        "ermej-presviter-s-nikandrom"
+        "ermej-presviter-s-nikandrom",
+        "tit-kritskij-apostol",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
@@ -10598,7 +10616,11 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ПРЕСТАВЛЕНИЕ БЛАЖЕННОГО СИМОНА ЮРЬЕВЕЦКОГО",
       "saintIds": [
-        "simon-jureveckij"
+        "simon-jureveckij",
+        "presvjataja-bogorodica",
+        "georgij-pobedonosec",
+        "ilija-fesvitjanin-prorok",
+        "makarij-zheltovodskij-unzhenskij"
       ]
     },
     {
