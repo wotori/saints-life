@@ -207,7 +207,12 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "СТРАДАНИЕ СВЯТОЙ ВЕЛИКОМУЧЕНИЦЫ ПАРАСКЕВЫ",
       "saintIds": [
-        "paraskeva-ikonijskaja"
+        "paraskeva-ikonijskaja",
+        "adam-praotec",
+        "fekla-ikonijskaja-pervomuchenica",
+        "ananija-vavilonskij",
+        "azarija-vavilonskij",
+        "misail-vavilonskij"
       ]
     },
     {
@@ -282,7 +287,8 @@
       "expectedHeading": "ПАМЯТЬ СВЯТЫХ МУЧЕНИЦ КАПЕТОЛИНЫ и ЕРОТИИДЫ",
       "saintIds": [
         "kapitolina-kappadokijskaja",
-        "erotiida-kappadokijskaja"
+        "erotiida-kappadokijskaja",
+        "mark-azijskij-muchenik"
       ]
     },
     {
@@ -10851,7 +10857,14 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО НЕСТОРА ЛЕТОПИСЦА",
       "saintIds": [
-        "nestor-letopisec"
+        "nestor-letopisec",
+        "moisej-prorok-bogovidec",
+        "adam-praotec",
+        "antonij-pecherskij",
+        "feodosij-pecherskij",
+        "boris-strastoterpec",
+        "gleb-strastoterpec",
+        "stefan-vladimiro-volynskij"
       ]
     },
     {
