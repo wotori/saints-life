@@ -677,7 +677,14 @@
         "karp-fiatirskij",
         "papila-pergamskij",
         "agafodor-s-karpom",
-        "agafonika-pergamskaja"
+        "agafonika-pergamskaja",
+        "pavel-apostol-pervoverhovnyj",
+        "ioann-bogoslov",
+        "adam-praotec",
+        "david-car-prorok",
+        "naum-prorok",
+        "elena-mat-konstantina",
+        "konstantin-velikij-imperator"
       ]
     },
     {
@@ -695,7 +702,8 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО НИКИТЫ ИСПОВЕДНИКА!",
       "saintIds": [
-        "nikita-patrikij-ispovednik"
+        "nikita-patrikij-ispovednik",
+        "feodora-carica-11-fevralja"
       ]
     },
     {
@@ -704,7 +712,8 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО МУЧЕНИКА ВЕНИАМИНА ДИАКОНА",
       "saintIds": [
-        "veniamin-persidskij-diakon"
+        "veniamin-persidskij-diakon",
+        "avda-persidskij"
       ]
     },
     {
