@@ -298,5 +298,35 @@
     "pageTextSha256": "c09aca7c8a7e29144ad9210f4ab9afe31ab524e1fb83e5bc246b37a947f4ebb8",
     "start": "Бостра — город в Аравии.",
     "end": "Время кончины святого Петра полагают в Ш или начале ГУ века."
+  },
+  {
+    "book": 2,
+    "firstPage": 115,
+    "heading": "ЖИТИЕ ПРЕПОДОБНОГО ДАМИАНА ПЕЧЕРСКОГО",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "page": 117,
+    "pageTextSha256": "a7a8a13e36f8d04143a3d57eb2fd4c0bf04e59b41707acf27cd7f49c0b2068e1",
+    "start": "' Преподобный Дамиан преставился",
+    "end": "ниевой пещере Киево-Печерской лавры."
+  },
+  {
+    "book": 2,
+    "firstPage": 117,
+    "heading": "ЖИТИЕ ПРЕПОДОБНОГО ИЕРЕМИИ ПЕЧЕРСКОГО",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "page": 118,
+    "pageTextSha256": "f07b46ca5c0bed428b18e2cd95c534990c5fe8442b734ed19910de7748e5bf15",
+    "start": "ТВ 1074 году.",
+    "end": "ТВ 1074 году."
+  },
+  {
+    "book": 2,
+    "firstPage": 118,
+    "heading": "ЖИТИЕ ПРЕПОДОБНОГО МАТФЕЯ ПЕЧЕРСКОГО",
+    "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
+    "page": 120,
+    "pageTextSha256": "ca4bd20ae9a37c7d37fba213c55c8e0b3db883b36c1025154c665ef0aafc3e6e",
+    "start": "ТВ 1088 году.",
+    "end": "2 В Антониевой пещере."
   }
 ]
