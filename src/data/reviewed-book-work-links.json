@@ -10362,7 +10362,11 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ФИЛИППА ИРАПСКОГО",
       "saintIds": [
-        "filipp-irapskij"
+        "filipp-irapskij",
+        "kornilij-komelskij",
+        "presvjataja-bogorodica",
+        "nikolaj-mirlikijskij",
+        "david-car-prorok"
       ]
     },
     {
@@ -10372,7 +10376,10 @@
       "expectedHeading": "ПАМЯТЬ БЛАГОВЕРНОГО ЦАРЯ ЮСТИНИАНА и ЦАРИЦЫ ФЕОДОРЫ",
       "saintIds": [
         "iustinian-vizantijskij",
-        "feodora-vizantijskaja-s-iustinianom"
+        "feodora-vizantijskaja-s-iustinianom",
+        "presvjataja-bogorodica",
+        "konstantin-velikij-imperator",
+        "kirill-aleksandrijskij-arhiepiskop"
       ]
     },
     {
