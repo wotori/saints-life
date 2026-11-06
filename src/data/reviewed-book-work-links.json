@@ -10272,7 +10272,18 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО НИКОНА,",
       "saintIds": [
-        "nikon-radonezhskij"
+        "nikon-radonezhskij",
+        "sergij-radonezhskij",
+        "evfimij-velikij",
+        "savva-osvjashhennyj",
+        "feoktist-palestinskij",
+        "afanasij-vysockij-osnovatel",
+        "savva-storozhevskij",
+        "petr-moskovskij-mitropolit",
+        "aleksij-moskovskij-mitropolit",
+        "grigorij-sinait",
+        "dimitrij-donskoj",
+        "iona-mitropolit-moskovskij"
       ]
     },
     {
@@ -10281,7 +10292,11 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ЛАЗАРЯ ПИСЦА",
       "saintIds": [
-        "lazar-ikonopisec"
+        "lazar-ikonopisec",
+        "presvjataja-bogorodica",
+        "feodora-carica-11-fevralja",
+        "ioann-predtecha",
+        "evandr-svjatoj-konstantinopolskogo-hrama"
       ]
     },
     {
