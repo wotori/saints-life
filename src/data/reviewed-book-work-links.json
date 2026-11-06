@@ -946,7 +946,14 @@
       "saintIds": [
         "dionisij-areopagit",
         "rustik-s-dionisiem",
-        "elevferij-s-dionisiem"
+        "elevferij-s-dionisiem",
+        "pavel-apostol-pervoverhovnyj",
+        "presvjataja-bogorodica",
+        "petr-apostol-pervoverhovnyj",
+        "ioann-bogoslov",
+        "timofej-apostol-efesskij",
+        "ierofej-afinskij",
+        "kliment-rimskij-papa"
       ]
     },
     {
@@ -955,7 +962,11 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПОВЕСТЬ СВЯТОГО ДИОНИСИЯ О СВЯТОМ КАРПЕ",
       "saintIds": [
-        "karp-apostol"
+        "karp-apostol",
+        "dionisij-areopagit",
+        "pavel-apostol-pervoverhovnyj",
+        "timofej-apostol-efesskij",
+        "tit-kritskij-apostol"
       ]
     },
     {
