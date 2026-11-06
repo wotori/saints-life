@@ -984,7 +984,9 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ БЛАЖЕННОГО ИСИХИЯ ХОРИВИТА",
       "saintIds": [
-        "isihij-horivit"
+        "isihij-horivit",
+        "amvrosij-mediolanskij",
+        "ioann-lestvichnik"
       ]
     },
     {
@@ -994,7 +996,17 @@
       "expectedHeading": "ЖИТИЕ СВЯТЫХ ГУРИЯ,",
       "saintIds": [
         "gurij-kazanskij",
-        "varsonofij-tverskoj"
+        "varsonofij-tverskoj",
+        "presvjataja-bogorodica",
+        "iosif-volockij",
+        "makarij-moskovskij-mitropolit",
+        "german-kazanskij",
+        "aleksij-moskovskij-mitropolit",
+        "andronik-moskovskij-spasskij",
+        "sergij-radonezhskij",
+        "mefodij-peshnoshskij",
+        "filipp-mitropolit-moskovskij",
+        "dimitrij-rostovskij"
       ]
     },
     {
@@ -1003,7 +1015,9 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО СВЯЩЕННОМУЧЕНИКА ИЕРОФЕЯ,",
       "saintIds": [
-        "ierofej-afinskij"
+        "ierofej-afinskij",
+        "pavel-apostol-pervoverhovnyj",
+        "presvjataja-bogorodica"
       ]
     },
     {
