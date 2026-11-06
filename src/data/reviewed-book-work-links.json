@@ -9932,7 +9932,19 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "ПОДВИГИ И СТРАДАНИЯ СВЯТОГО АПОСТОЛА АНДРЕЯ ПЕРВОЗВАННОГО",
       "saintIds": [
-        "andrej-pervozvannyj"
+        "andrej-pervozvannyj",
+        "petr-apostol-pervoverhovnyj",
+        "ioann-predtecha",
+        "ioann-bogoslov",
+        "filipp-apostol-iz-dvenadcati",
+        "konstantin-velikij-imperator",
+        "grigorij-neokesarijskij",
+        "stahij-apostol",
+        "pavel-apostol-pervoverhovnyj",
+        "artemij-antiohijskij-velikomuchenik",
+        "luka-apostol-evangelist",
+        "timofej-apostol-efesskij",
+        "presvjataja-bogorodica"
       ]
     },
     {
@@ -13144,6 +13156,35 @@
         "pavel-apostol-pervoverhovnyj",
         "moisej-prorok-bogovidec",
         "solomon-tsar-prorok"
+      ]
+    },
+    {
+      "book": 3,
+      "page": 772,
+      "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
+      "expectedHeading": "Похвальное слово СВЯТОМУ АПОСТОЛУ АНДРЕЮ ПЕРВОЗВАННОМУ святого Иоанна Златоустого",
+      "saintIds": [
+        "andrej-pervozvannyj",
+        "ioann-zlatoust",
+        "noj-praotec",
+        "avraam-praotec",
+        "isaak-praotec",
+        "iakov-praotec",
+        "iosif-prekrasnyj",
+        "moisej-prorok-bogovidec",
+        "aaron-pervosvjashhennik",
+        "iisus-navin",
+        "samuil-prorok",
+        "anna-prorochica-mat-samuila",
+        "ilija-fesvitjanin-prorok",
+        "elisej-prorok",
+        "petr-apostol-pervoverhovnyj",
+        "isaija-prorok",
+        "iezekiil-prorok",
+        "daniil-prorok",
+        "david-car-prorok",
+        "iona-prorok",
+        "presvjataja-bogorodica"
       ]
     }
   ]
