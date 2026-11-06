@@ -10325,7 +10325,11 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО ВЕЛИКОМУЧЕНИКА МИНЫ",
       "saintIds": [
-        "mina-kotuanskij"
+        "mina-kotuanskij",
+        "konstantin-velikij-imperator",
+        "viktor-damasskij",
+        "vikentij-saragosskij",
+        "stefanida-damasskaja"
       ]
     },
     {
@@ -10335,7 +10339,20 @@
       "expectedHeading": "СТРАДАНИЕ СВЯТЫХ МУЧЕНИКОВ ВИКТОРА и СТЕФАНИДЫ",
       "saintIds": [
         "viktor-damasskij",
-        "stefanida-damasskaja"
+        "stefanida-damasskaja",
+        "enoh-pravednyj",
+        "noj-praotec",
+        "avraam-praotec",
+        "isaak-praotec",
+        "iakov-praotec",
+        "iosif-prekrasnyj",
+        "iov-mnogostradalnyj",
+        "isaija-prorok",
+        "david-car-prorok",
+        "iessej-otets-davida",
+        "ananija-vavilonskij",
+        "azarija-vavilonskij",
+        "misail-vavilonskij"
       ]
     },
     {
