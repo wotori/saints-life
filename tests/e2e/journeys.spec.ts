@@ -21,7 +21,7 @@ test('home, search aliases, pagination, clear filters and missing results', asyn
   await page.getByRole('button', { name: 'Искать', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Пока не нашли это имя' })).toBeVisible();
   await page.getByRole('link', { name: 'Сбросить фильтры' }).click();
-  await expect(page.locator('.results-bar')).toContainText('2456');
+  await expect(page.locator('.results-bar')).toContainText('2457');
   await expect(page.getByRole('searchbox', { name: 'Поиск святых' })).toHaveValue('');
   await expect(page.getByLabel('Традиция', { exact: true })).toHaveValue('');
   await expect(page.getByText('ИМЕНА В ПЕЧАТНЫХ УКАЗАТЕЛЯХ', { exact: false })).toBeVisible();
@@ -260,7 +260,7 @@ test('sources, actual 404 status and responsive layouts', async ({ page }, testI
     if (route === '/' || route.startsWith('/calendar') || route.includes('solunskij')) await page.screenshot({ path: `test-results/${testInfo.project.name}-${route === '/' ? 'home' : route.startsWith('/calendar') ? 'calendar' : 'reader'}.png`, fullPage: true });
   }
   await page.goto('/sources');
-  await expect(page.locator('.source-row')).toHaveCount(548);
+  await expect(page.locator('.source-row')).toHaveCount(549);
   const response = await page.goto('/saints/no-such-saint');
   expect(response?.status()).toBe(404);
   await expect(page.getByRole('heading', { name: 'Этот лист пока пуст.' })).toBeVisible();
