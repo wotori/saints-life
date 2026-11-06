@@ -10509,7 +10509,12 @@
       "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce",
       "expectedHeading": "СТРАДАНИЕ СВЯЩЕННОМУЧЕНИКА МИЛИЯ",
       "saintIds": [
-        "milij-persidskij"
+        "milij-persidskij",
+        "gennadij-rukopolozhivshij-milija",
+        "ammon-nitrijskij",
+        "antonij-velikij",
+        "elisej-prorok",
+        "ioann-zlatoust"
       ]
     },
     {
@@ -10522,7 +10527,11 @@
         "irodion-apostol",
         "sosipatr-apostol",
         "erast-apostol",
-        "kuart-apostol"
+        "kuart-apostol",
+        "pavel-apostol-pervoverhovnyj",
+        "petr-apostol-pervoverhovnyj",
+        "iason-apostol",
+        "tertij-apostol"
       ]
     },
     {
