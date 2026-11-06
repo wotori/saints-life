@@ -1,5 +1,9 @@
 /** Short entries without display headings are kept separate from full lives. */
 const mentions = [
+  {"book": 3, "page": 362, "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce", "anchor": "Апостол Варфоломей — он же и Нафанаил", "saintIds": ["varfolomej-apostol"]},
+  {"book": 10, "page": 202, "sourceSha256": "5d6ad1d1f29953b1f717fcc709ec01032ad6928b642e5b4664378b70284fb152", "anchor": "Некоторые думают, что Варфоломей", "saintIds": ["varfolomej-apostol"]},
+  {"book": 10, "page": 203, "sourceSha256": "5d6ad1d1f29953b1f717fcc709ec01032ad6928b642e5b4664378b70284fb152", "anchor": "повествующие о Варфоломее, ничего не говорят о Нафанаиле", "saintIds": ["varfolomej-apostol"]},
+
   {"book": 3, "page": 778, "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce", "anchor": "\nного моря. У Меропия были два племянника: Фрументий и Едессий,\nкоторых он взял с собою, желая познакомить и этих юношей с неиз-\nвестными им странами, иной п", "saintIds": ["edessij-tirskij-s-frumentiem"]},
   {"book": 3, "page": 779, "sourceSha256": "b870c6f36c1b21254de6ce6e14690bdacaa639685a03b90cd6f5d44aab4427ce", "anchor": "кие и греческие купцы, по большей ча-\nсти — христиане. Едессий и Фрументий знакомились с приезжав-\nшими по торговым делам купцами и устраивали с ними богослу", "saintIds": ["edessij-tirskij-s-frumentiem"]},
 
