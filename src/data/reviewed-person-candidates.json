@@ -69515,5 +69515,58 @@
       "solomon-tsar-prorok"
     ],
     "note": "В цитате Дамаскина сразу дано пояснение: Премудрый Творец мира. Это богословский образ, не буквальное действие царя Соломона. Другие буквальные упоминания царя в том же произведении остаются связанными."
+  },
+  {
+    "book": 1,
+    "page": 209,
+    "offset": 177,
+    "text": "Нафана",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "dc7961b8a40f0153eaa2b1528d14655af6d39929b93ec66007d37bfdc243566c",
+    "decision": "identity-rejected",
+    "saintIds": [],
+    "note": "Прямо назван сын Давида, не пророк Нафан. Отождествление с пророком отвергнуто только для этого вхождения.",
+    "rejectedSaintIds": [
+      "nafan-prorok"
+    ]
+  },
+  {
+    "book": 1,
+    "page": 213,
+    "offset": 1321,
+    "text": "Анны",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "fc374dca08afdf139ee73e984218650deeb904986e78cac9a34309cd510599e9",
+    "decision": "identity-linked",
+    "saintIds": [
+      "anna-prorochica-mat-samuila"
+    ],
+    "note": "Анна, мать Богородицы, вспоминает в молитве другую Анну, мать пророка Самуила. Контекст прямо различает двух женщин."
+  },
+  {
+    "book": 1,
+    "page": 213,
+    "offset": 1349,
+    "text": "Самуила",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "fc374dca08afdf139ee73e984218650deeb904986e78cac9a34309cd510599e9",
+    "decision": "identity-linked",
+    "saintIds": [
+      "samuil-prorok"
+    ],
+    "note": "Пророк Самуил, сын Анны, в молитвенном воспоминании; не мученик Самуил."
+  },
+  {
+    "book": 1,
+    "page": 217,
+    "offset": 407,
+    "text": "Павел",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "74a8167e28dd206c9651eb6f5572480533a28181d455dc57b71c27d310ef90e7",
+    "decision": "identity-linked",
+    "saintIds": [
+      "pavel-apostol-pervoverhovnyj"
+    ],
+    "note": "Апостол Павел как автор цитируемого Флп. 1, 21; не участник страданий Севириана в IV веке."
   }
 ]
