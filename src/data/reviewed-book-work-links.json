@@ -355,7 +355,26 @@
       "sourceSha256": "b33fb5a65d1985f7eef9fe3b0afdf3acc482cd632124240a2672f0652805f849",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО МУЧЕНИКА АРТЕМИЯ",
       "saintIds": [
-        "artemij-antiohijskij-velikomuchenik"
+        "artemij-antiohijskij-velikomuchenik",
+        "konstantin-velikij-imperator",
+        "andrej-pervozvannyj",
+        "luka-apostol-evangelist",
+        "elisej-prorok",
+        "ioann-predtecha",
+        "evgenij-ispovednik-s-makariem",
+        "makarij-ispovednik-s-evgeniem",
+        "iov-mnogostradalnyj",
+        "isaija-prorok",
+        "elena-mat-konstantina",
+        "ananija-vavilonskij",
+        "azarija-vavilonskij",
+        "misail-vavilonskij",
+        "vavila-antiohijskij",
+        "urvan-otrok-s-vaviloj",
+        "prilidian-otrok-s-vaviloj",
+        "eppolonij-otrok-s-vaviloj",
+        "david-car-prorok",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
