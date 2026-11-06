@@ -1433,7 +1433,15 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ПАМЯТЬ СВЯТИТЕЛЯ КИПРИАНА,",
       "saintIds": [
-        "kiprian-mitropolit-moskovskij"
+        "kiprian-mitropolit-moskovskij",
+        "evfimij-tyrnovskij",
+        "filofej-kokkin-konstantinopolskij",
+        "aleksij-moskovskij-mitropolit",
+        "vasilij-velikij",
+        "grigorij-bogoslov",
+        "ioann-zlatoust",
+        "petr-moskovskij-mitropolit",
+        "presvjataja-bogorodica"
       ]
     },
     {
@@ -1442,7 +1450,10 @@
       "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ДОРОФЕЯ",
       "saintIds": [
-        "dorofej-egipetskij-pustynnik"
+        "dorofej-egipetskij-pustynnik",
+        "palladij-elenopolskij",
+        "ioann-zlatoust",
+        "feodosij-i-velikij-imperator"
       ]
     },
     {
