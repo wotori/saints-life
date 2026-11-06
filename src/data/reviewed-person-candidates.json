@@ -69357,5 +69357,31 @@
       "evagrij-konstantinopolskij"
     ],
     "note": "Епископ Константинопольский, изгнанный при Валенте; сверено по https://pravenc.ru/text/180851.html . Архив: reviews/evagrius-constantinople.json."
+  },
+  {
+    "book": 1,
+    "page": 182,
+    "offset": 224,
+    "text": "Фабиан",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "3f29bc92fc7d922bb228f99b3af6af024ac2aeb05e975f6c63dc8e2dd3fc4ec7",
+    "decision": "identity-linked",
+    "saintIds": [
+      "favij-rimskij-papa"
+    ],
+    "note": "Папа Римский при Декии; Фабиан и Фавий прямо отождествлены в календарной статье Азбуки веры."
+  },
+  {
+    "book": 1,
+    "page": 188,
+    "offset": 1258,
+    "text": "Василием",
+    "sourceSha256": "d8eb94eebea46e0d07798a67d3c15f64d3bb48a85875a8c47c0daa155467fb5c",
+    "pageTextSha256": "034869169d876ebfe327b3120dfa71a971387708ec2450a8c806f32cec7c969a",
+    "decision": "identity-linked",
+    "saintIds": [
+      "vasilij-glubokorechenskij"
+    ],
+    "note": "Основатель Глубокореченской обители в примечании к памяти Луки; статья Православной энциклопедии 150499 подтверждает личность. Не Василий Великий."
   }
 ]
