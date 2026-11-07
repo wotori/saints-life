@@ -3080,3 +3080,25 @@ test('Peter chains display title is separate from prose and running headers', as
     assert.deepEqual(sectionHeadings(text), []);
   }
 });
+
+test('scan-checked index misprints retain printed references and target the actual text', async () => {
+  const { DatabaseSync } = await import('node:sqlite');
+  const { reviewedIndexDestination } = await import('../src/lib/reviewed-index-destinations');
+  const { printedIndexReference, printedIndexTextHref } = await import('../src/lib/printed-index-display');
+  const { default: corrections } = await import('../src/data/reviewed-index-destinations.json');
+  const db = new DatabaseSync('../staints-life-sources/rostovskij-ocr.sqlite3', { readOnly: true });
+  try {
+    for (const correction of corrections) {
+      const entry = { ...correction, reviewed: true };
+      const body = (page: number) => (db.prepare('SELECT body FROM pages WHERE book_number=6 AND page=?').get(page) as { body: string } | undefined)?.body;
+      assert.equal(reviewedIndexDestination(entry, body), correction.targetPage);
+      for (const changed of [{ reviewed: false }, { sourceSha256: 'other-edition' }, { fingerprint: 'changed-row' }, { printedPage: 1 }, { line: 0 }]) {
+        assert.equal(reviewedIndexDestination({ ...entry, ...changed }, body), undefined);
+      }
+      assert.equal(reviewedIndexDestination(entry, () => 'changed text'), undefined);
+      const hit = { book: 6, title: 'Name', reviewStatus: 'reviewed' as const, printedPage: correction.printedPage, sourceLine: '', pdfPage: correction.targetPage, correctedDestination: true };
+      assert.ok(printedIndexReference(hit).includes(String(correction.printedPage)));
+      assert.ok(printedIndexTextHref(hit)?.includes(`/6/${correction.targetPage}?`));
+    }
+  } finally { db.close(); }
+});

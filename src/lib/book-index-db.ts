@@ -1,4 +1,5 @@
 import 'server-only';
+import { reviewedIndexDestination } from './reviewed-index-destinations';
 import { DatabaseSync } from 'node:sqlite';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
@@ -10,7 +11,7 @@ import { reviewedRangeForIndex } from '@/lib/reviewed-book-ranges';
 
 const indexPath = process.env.SAINTS_INDEX_DB ?? path.join(archiveRoot(), 'book-indexes.sqlite3');
 const ocrPath = process.env.SAINTS_OCR_DB ?? path.join(archiveRoot(), 'rostovskij-ocr.sqlite3');
-export type PrintedIndexHit = { book: number; indexPage: number; title: string; sourceLine: string; printedPage?: number; printedDay?: number; calendarDay?: number; dayHeadingPage?: number; julianMonth?: number; pdfPage?: number; hasText?: boolean; workPage?: number; workSection?: number; contextWorkPage?: number; contextWorkSection?: number; nearbyWorkPage?: number; nearbyWorkSection?: number; recoveredNumbers?: boolean; recoveryMethod?: 'columns' | 'text'; reviewStatus: 'unreviewed' | 'reviewed'; line: number };
+export type PrintedIndexHit = { book: number; indexPage: number; title: string; sourceLine: string; printedPage?: number; printedDay?: number; calendarDay?: number; dayHeadingPage?: number; julianMonth?: number; pdfPage?: number; hasText?: boolean; workPage?: number; workSection?: number; contextWorkPage?: number; contextWorkSection?: number; nearbyWorkPage?: number; nearbyWorkSection?: number; recoveredNumbers?: boolean; correctedDestination?: boolean; recoveryMethod?: 'columns' | 'text'; reviewStatus: 'unreviewed' | 'reviewed'; line: number };
 
 type Book = { number: number; pages: number; sha256: string };
 type Header = { book_number: number; page: number; body: string };
@@ -101,7 +102,8 @@ export function printedIndexHits(query: string, options: { allowEmpty?: boolean;
           recoveryMethod = 'text';
         }
       }
-      const pdfPage = printedPage && offset !== undefined ? printedPage + offset : undefined;
+      const correctedPage = reviewedIndexDestination({ book: row.book, indexPage: row.indexPage, line: row.lineNumber, fingerprint: row.fingerprint, sourceSha256: row.sha, printedPage, reviewed: row.reviewStatus === 'reviewed' }, page => (ocr.prepare('SELECT body FROM pages WHERE book_number=? AND page=? AND status=\'ok\'').get(row.book, page) as { body: string } | undefined)?.body);
+      const pdfPage = correctedPage ?? (printedPage && offset !== undefined ? printedPage + offset : undefined);
       const pageBody = pdfPage ? bodiesByPage.get(`${row.book}:${pdfPage}`) : undefined;
       const evidence = dayForNamedPage(ranges.get(row.book) ?? [], pageBody, parsed.title);
       const work = pdfPage ? sectionForIndexedName(page => sectionPage(row.book, page), pdfPage, parsed.title) : undefined;
@@ -113,7 +115,7 @@ export function printedIndexHits(query: string, options: { allowEmpty?: boolean;
         }) : undefined;
       const calendarDay = row.reviewStatus === 'reviewed' ? printedDay : evidence?.day ?? printedDay;
       const validDay = calendarDay && calendarDay >= 1 && calendarDay <= maxDay;
-      hits.push({ book: row.book, indexPage: row.indexPage, ...parsed, reviewStatus: row.reviewStatus, ...(recoveredNumbers ? { printedDay, printedPage, recoveredNumbers, recoveryMethod } : {}), ...(validDay ? { julianMonth, calendarDay } : {}), ...(evidence ? { dayHeadingPage: evidence.firstPage } : {}), ...(pdfPage && pdfPage <= book.pages ? { pdfPage, hasText: Boolean(pageBody?.body.trim()) } : {}), ...(work ? { workPage: work.page, workSection: work.section } : {}), ...(context && (!work || context.page !== work.page || context.section !== work.section) ? { contextWorkPage: context.page, contextWorkSection: context.section } : {}), ...(nearby ? { nearbyWorkPage: nearby.page, nearbyWorkSection: nearby.section } : {}), line: row.lineNumber });
+      hits.push({ book: row.book, indexPage: row.indexPage, ...parsed, reviewStatus: row.reviewStatus, ...(correctedPage ? { correctedDestination: true } : {}), ...(recoveredNumbers ? { printedDay, printedPage, recoveredNumbers, recoveryMethod } : {}), ...(validDay ? { julianMonth, calendarDay } : {}), ...(evidence ? { dayHeadingPage: evidence.firstPage } : {}), ...(pdfPage && pdfPage <= book.pages ? { pdfPage, hasText: Boolean(pageBody?.body.trim()) } : {}), ...(work ? { workPage: work.page, workSection: work.section } : {}), ...(context && (!work || context.page !== work.page || context.section !== work.section) ? { contextWorkPage: context.page, contextWorkSection: context.section } : {}), ...(nearby ? { nearbyWorkPage: nearby.page, nearbyWorkSection: nearby.section } : {}), line: row.lineNumber });
     }
     return hits.slice(0, options.limit ?? 100);
   } finally { index.close(); ocr.close(); }

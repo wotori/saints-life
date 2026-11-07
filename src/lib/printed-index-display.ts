@@ -1,7 +1,7 @@
 /** Show the checked values first, keeping uncertain OCR clearly labelled. */
-export function printedIndexReference(entry: { reviewStatus: 'reviewed' | 'unreviewed'; printedDay?: number; printedPage?: number; sourceLine: string; recoveredNumbers?: boolean }): string {
+export function printedIndexReference(entry: { reviewStatus: 'reviewed' | 'unreviewed'; printedDay?: number; printedPage?: number; sourceLine: string; recoveredNumbers?: boolean; correctedDestination?: boolean }): string {
   if (entry.reviewStatus === 'reviewed') {
-    return `${entry.printedDay ? `день ${entry.printedDay}` : 'день не указан'}${entry.printedPage ? ` · печатная страница ${entry.printedPage}` : ''} · сверено с указателем`;
+    return `${entry.printedDay ? `день ${entry.printedDay}` : 'день не указан'}${entry.printedPage ? ` · печатная страница ${entry.printedPage}` : ''} · сверено с указателем${entry.correctedDestination ? ' · переход исправлен по тексту книги' : ''}`;
   }
   if (entry.recoveredNumbers && entry.printedDay && entry.printedPage) {
     return `день ${entry.printedDay} · печатная страница ${entry.printedPage} · восстановлено автоматически`;
