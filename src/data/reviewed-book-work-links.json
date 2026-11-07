@@ -8755,7 +8755,10 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО МУЧЕНИКА ПОЛИЕВКТА",
       "saintIds": [
-        "polievkt-melitinskij"
+        "polievkt-melitinskij",
+        "nearh-drug-polievkta",
+        "avraam-praotec",
+        "blagorazumnyj-razbojnik"
       ]
     },
     {
@@ -8890,7 +8893,12 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ФИЛИПИА,",
       "saintIds": [
-        "filipp-mitropolit-moskovskij"
+        "filipp-mitropolit-moskovskij",
+        "zosima-soloveckij",
+        "savvatij-soloveckij",
+        "petr-moskovskij-mitropolit",
+        "aleksij-moskovskij-mitropolit",
+        "iona-mitropolit-moskovskij"
       ]
     },
     {
