@@ -7917,5 +7917,40 @@
     "saintIds": [
       "pavel-prusiadskij"
     ]
+  },
+  {
+    "book": 7,
+    "page": 166,
+    "heading": "СТРАДАНИЕ СВЯТОГО СВЯЩЕННОМУЧЕНИКА ФЕОДОРИТА,",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pages": [
+      {
+        "page": 166,
+        "sha256": "0caa2be7a007d0b59cc52d5ceeef9db33c2c99d8bc1eef63bf1acec2b67e127f"
+      },
+      {
+        "page": 167,
+        "sha256": "99f5d7a7a2756c0e9adb897a5be5bb5ddadca2a11c5273f7e43cee820b2dfb54"
+      },
+      {
+        "page": 168,
+        "sha256": "242c6f78df7bafe6033697af498a5675818e4613b5fa4227b790b6121b71ae99"
+      },
+      {
+        "page": 169,
+        "sha256": "1c48033ede0b844d580194817620ef1b04e227036ed5b0336826f65d5a151608"
+      },
+      {
+        "page": 170,
+        "sha256": "9679d38576406b0dd731225cef52278a090c2885edb0d7c8ef35b399f83dc5dd"
+      }
+    ],
+    "note": "Феодорит Антиохийский пресвитер, Константин PDF 166 и 168, Петр в примечании PDF 169, Вавила Антиохийский PDF 170. Два слуги, принявшие мученический венец PDF 169, и четыре ангела без имен. Два Юлиана, Констанций, Филикс, Евзой и Симон волхв не добавлены как святые. Два Юлиана различены: император и его дядя-правитель. Рассказы о смерти гонителей сохранены как сообщения издания.",
+    "saintIds": [
+      "feodorit-antiohijskij-presviter",
+      "konstantin-velikij-imperator",
+      "petr-apostol-pervoverhovnyj",
+      "vavila-antiohijskij"
+    ]
   }
 ]

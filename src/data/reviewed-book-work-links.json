@@ -7241,7 +7241,10 @@
       "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО СВЯЩЕННОМУЧЕНИКА ФЕОДОРИТА,",
       "saintIds": [
-        "feodorit-antiohijskij-presviter"
+        "feodorit-antiohijskij-presviter",
+        "konstantin-velikij-imperator",
+        "petr-apostol-pervoverhovnyj",
+        "vavila-antiohijskij"
       ]
     },
     {
@@ -7250,7 +7253,18 @@
       "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ФЕОФИЛАКТА ИСПОВЕДНИКА,",
       "saintIds": [
-        "feofilakt-nikomidijskij"
+        "feofilakt-nikomidijskij",
+        "tarasij-konstantinopolskij",
+        "pavel-novyj-konstantinopolskij",
+        "mihail-sinadskij-ispovednik",
+        "irina-afinjanka-imperatrica",
+        "feodora-carica-11-fevralja",
+        "nikifor-konstantinopolskij-patriarh",
+        "mefodij-konstantinopolskij-patriarh",
+        "samson-sudija-izrailskij",
+        "emilian-kizicheskij",
+        "evfimij-sardijskij",
+        "iosif-solunskij-studit"
       ]
     },
     {
