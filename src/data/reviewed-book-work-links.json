@@ -7809,7 +7809,12 @@
         "ilija-s-pamfilom",
         "daniil-s-pamfilom",
         "ieremija-s-pamfilom",
-        "isaija-s-pamfilom"
+        "isaija-s-pamfilom",
+        "ieronim-stridonskij",
+        "feodor-tiron",
+        "pavel-apostol-pervoverhovnyj",
+        "konstantin-velikij-imperator",
+        "elena-mat-konstantina"
       ]
     },
     {
@@ -7818,7 +7823,10 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО МАРУФА ЕПИСКОПА",
       "saintIds": [
-        "maruf-mesopotamskij"
+        "maruf-mesopotamskij",
+        "feodosij-ii-mladshij-imperator",
+        "iustinian-vizantijskij",
+        "presvjataja-bogorodica"
       ]
     },
     {
