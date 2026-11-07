@@ -8058,7 +8058,15 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО И ПРАВЕДНОГО СИМЕОНА БОГОПРИИМЦА",
       "saintIds": [
-        "simeon-bogopriimec"
+        "simeon-bogopriimec",
+        "moisej-prorok-bogovidec",
+        "isaija-prorok",
+        "presvjataja-bogorodica",
+        "iakov-brat-gospoden",
+        "iosif-obruchnik",
+        "zaharija-otec-predtechi",
+        "afanasij-velikij-aleksandrijskij",
+        "kirill-ierusalimskij"
       ]
     },
     {
@@ -8067,7 +8075,8 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОЙ АННЫ ПРОРОЧИЦЫ",
       "saintIds": [
-        "anna-prorochica-doch-fanuila"
+        "anna-prorochica-doch-fanuila",
+        "simeon-bogopriimec"
       ]
     },
     {
@@ -13980,13 +13989,17 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "СКАЗАНИЕ О СРЕТЕНИИ ГОСПОДНЕМ",
       "saintIds": [
+        "presvjataja-bogorodica",
         "iosif-obruchnik",
         "moisej-prorok-bogovidec",
         "luka-apostol-evangelist",
         "simeon-bogopriimec",
+        "iakov-praotec",
         "daniil-prorok",
         "dimitrij-rostovskij",
         "zaharija-otec-predtechi",
+        "ioann-predtecha",
+        "adam-praotec",
         "avraam-praotec",
         "david-car-prorok",
         "isaija-prorok",
