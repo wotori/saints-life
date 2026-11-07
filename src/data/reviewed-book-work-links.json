@@ -8241,7 +8241,24 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ СВЯТОГО НИКИТЫ,",
       "saintIds": [
-        "nikita-novgorodskij"
+        "nikita-novgorodskij",
+        "isaakij-pecherskij-zatvornik",
+        "nikon-pecherskij-igumen",
+        "antonij-pecherskij",
+        "feodosij-pecherskij",
+        "pimen-postnik-pecherskij",
+        "isaija-rostovskij",
+        "matfej-pecherskij",
+        "agapit-pecherskij-vrach",
+        "grigorij-pecherskij-chudotvorec",
+        "nikolaj-tmutarakanskij",
+        "nestor-letopisec",
+        "feoktist-chernigovskij-pecherskij",
+        "onisifor-pecherskij-prozorlivyj",
+        "petr-apostol-pervoverhovnyj",
+        "ioakim-bogootec",
+        "anna-bogomatereva",
+        "makarij-moskovskij-mitropolit"
       ]
     },
     {
@@ -12254,7 +12271,10 @@
         "afanasija-kanopskaja",
         "feoktista-kanopskaja",
         "feodotija-kanopskaja",
-        "evdoksija-kanopskaja"
+        "evdoksija-kanopskaja",
+        "mark-evangelist",
+        "feodosij-ii-mladshij-imperator",
+        "kirill-aleksandrijskij-arhiepiskop"
       ]
     },
     {
