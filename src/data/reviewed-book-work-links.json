@@ -8623,7 +8623,32 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ СВЯТОЙ РАВНОАПОСТОЛЬНОЙ НИНЫ,",
       "saintIds": [
-        "nina-prosvetitelnica-gruzii"
+        "nina-prosvetitelnica-gruzii",
+        "presvjataja-bogorodica",
+        "georgij-pobedonosec",
+        "ripsimija-armjanskaja",
+        "gaianija-armjanskaja",
+        "tiridat-iii-armjanskij",
+        "grigorij-prosvetitel-armenii",
+        "ilija-fesvitjanin-prorok",
+        "moisej-prorok-bogovidec",
+        "david-car-prorok",
+        "sidonija-sestra-elioza",
+        "elioz-brat-sidonii",
+        "longin-karenijskij-s-eliozom",
+        "sidonija-doch-aviafara",
+        "aviafar-mchetskij-otec-sidonii",
+        "konstantin-velikij-imperator",
+        "evstafij-antiohijskij-arhiepiskop",
+        "elena-mat-konstantina",
+        "lot-pravednyj",
+        "andrej-pervozvannyj",
+        "simon-zilot-apostol",
+        "mirian-iii-iverijskij",
+        "nana-iverijskaja",
+        "zavulon-otec-niny",
+        "susanna-mat-niny",
+        "salomija-udzharmskaja"
       ]
     },
     {
@@ -8632,7 +8657,11 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО СТЕФАНА",
       "saintIds": [
-        "stefan-hinolakkskij"
+        "stefan-hinolakkskij",
+        "german-konstantinopolskij-patriarh",
+        "evfimij-velikij",
+        "savva-osvjashhennyj",
+        "feodosij-velikij-kinoviarh"
       ]
     },
     {

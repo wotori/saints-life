@@ -5331,5 +5331,25 @@
       "iov-mnogostradalnyj",
       "presvjataja-bogorodica"
     ]
+  },
+  {
+    "book": 5,
+    "page": 439,
+    "heading": "ПАМЯТЬ ПРЕПОДОБНОГО СТЕФАНА",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pages": [
+      {
+        "page": 439,
+        "sha256": "7864cfb019a8bbeaeacc41d6a79a529bf6176aff2763d361b8535cfc0d13038b"
+      }
+    ],
+    "note": "Прочитан весь OCR PDF 439. Герман прямо назван святым патриархом. Евфимий, Савва и Феодосий не только патроны монастырей: примечание называет их с датами кончины и памяти. Лев Исавр не Лев I. Стефан не отождествлен со Стефаном Святогорцем из жития Нины. Даты патриаршества Германа сохранены как сведения издания.",
+    "saintIds": [
+      "stefan-hinolakkskij",
+      "german-konstantinopolskij-patriarh",
+      "evfimij-velikij",
+      "savva-osvjashhennyj",
+      "feodosij-velikij-kinoviarh"
+    ]
   }
 ]
