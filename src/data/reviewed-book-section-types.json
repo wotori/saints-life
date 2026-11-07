@@ -26010,5 +26010,65 @@
     "kind": "saint-life",
     "label": "Требуется сверка имен",
     "personCoverage": "unresolved"
+  },
+  {
+    "book": 7,
+    "page": 65,
+    "heading": "СТРАДАНИЕ СВЯТЫХ МУЧЕНИКОВ ЕВТРОПИЯ, КЛЕОНИКА и ВАСИЛИСКА",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pages": [
+      {
+        "page": 65,
+        "sha256": "5ded6b1453a27c78733895d308ffa299a5380222babce92ee29903104dd89923"
+      },
+      {
+        "page": 66,
+        "sha256": "606877f54287f9e8e23557d5a2ef5d6f21b42714aa540c06200bbd6709ddaf67"
+      },
+      {
+        "page": 67,
+        "sha256": "b32215529a1a7e3226c3485319d50e3bfcba7d8ee1a4dcf3cdb356b5eb4eb758"
+      },
+      {
+        "page": 68,
+        "sha256": "ee44a694e6edd5aed428c0f26ccc7bfdb65150fa3b26412aa70ffe9c2b65f05e"
+      },
+      {
+        "page": 69,
+        "sha256": "b09b206890e47e8763efc9b5986cc9a634ab1b0dce0c00bc71ec1e94159ab67a"
+      },
+      {
+        "page": 70,
+        "sha256": "2b2e8fdbde91585d4be77e044703a3ceef80b81d374bc32c0a8e37e78556c893"
+      },
+      {
+        "page": 71,
+        "sha256": "64c3727113b97d96089c19dc8b421c46f7dfa802e27dedf239adc9693ae22aba"
+      },
+      {
+        "page": 72,
+        "sha256": "06a3e2e04ff67d9589c12c2dd10c852f0003b98f589478ca13db75236227d808"
+      },
+      {
+        "page": 73,
+        "sha256": "ca8f8964e8edbbe18e6073f0f95d4a04441471c3bd75ec33e0f9d2fc28684773"
+      },
+      {
+        "page": 74,
+        "sha256": "3ec9f67a862cb5e49d6137e0ed72f5593871206e28ac4463e6e8b0cd3e1c80ed"
+      },
+      {
+        "page": 75,
+        "sha256": "3abfdcaf2c25ef098f599793f8e5057d69a1929931a9ec9b152feb6f64e56839"
+      },
+      {
+        "page": 76,
+        "sha256": "d32f5d92febe1001bdfbd6633c7c03ff297bd3ba9a0ce0bd3f95ed20c1e30c9e"
+      }
+    ],
+    "note": "PDF 65-76: Евтропий, Клеоник и Василиск; Феодор Тирон PDF 65-70, Давид PDF 68 и 71, Исаия PDF 70, Даниил, Сусанна и Фекла PDF 73. Три отрока и ангелы без имен. Коинт и Велоник названы благочестивыми погребателями, без свидетельства почитания как святых. Зинон, Зоил и Пиама на PDF 76 относятся к отдельным памятям. Сноска о стадиях возвращена к основному произведению.",
+    "kind": "saint-life",
+    "label": "Именованные святые сверены",
+    "personCoverage": "reviewed-named-saints"
   }
 ]
