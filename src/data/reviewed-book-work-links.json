@@ -8276,7 +8276,8 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО СИМЕОНА ВЕТХОГО",
       "saintIds": [
-        "simeon-vethij"
+        "simeon-vethij",
+        "simeon-stolpnik-starshij"
       ]
     },
     {
@@ -8295,7 +8296,11 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ИОСИФА СОЛУНСКОГО",
       "saintIds": [
-        "iosif-solunskij-studit"
+        "iosif-solunskij-studit",
+        "feodor-studit",
+        "platon-studijskij",
+        "ioann-predtecha",
+        "presvjataja-bogorodica"
       ]
     },
     {
@@ -12314,7 +12319,11 @@
         "ksenofont-konstantinopolskij",
         "marija-konstantinopolskaja",
         "ioann-syn-ksenofonta",
-        "arkadij-syn-ksenofonta"
+        "arkadij-syn-ksenofonta",
+        "avraam-praotec",
+        "isaak-praotec",
+        "iakov-praotec",
+        "hariton-ispovednik"
       ]
     },
     {
