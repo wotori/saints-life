@@ -9021,7 +9021,10 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО СВЯЩЕННОМУЧЕНИКА ЕВФИМИЯ,",
       "saintIds": [
-        "evfimij-sardijskij"
+        "evfimij-sardijskij",
+        "irina-afinjanka-imperatrica",
+        "feodor-studit",
+        "nikifor-konstantinopolskij-patriarh"
       ]
     },
     {
@@ -9030,7 +9033,14 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ЕВАРЕСТА",
       "saintIds": [
-        "evarest-galatijskij"
+        "evarest-galatijskij",
+        "nikifor-konstantinopolskij-patriarh",
+        "feodor-studit",
+        "feodora-carica-11-fevralja",
+        "manuil-adrianopolskij",
+        "boris-mihail-bolgarskij",
+        "efrem-sirin",
+        "lev-i-vizantijskij-imperator"
       ]
     },
     {
@@ -9210,7 +9220,19 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОЙ МАТЕРИ НАШЕЙ МЕЛАНИИ РИМЛЯНЫНИ",
       "saintIds": [
-        "melanija-rimljanynja"
+        "melanija-rimljanynja",
+        "apinian-suprug-melanii",
+        "lavrentij-rimskij-arhidiakon",
+        "iov-mnogostradalnyj",
+        "pavlin-nolanskij",
+        "lot-pravednyj",
+        "avraam-praotec",
+        "avgustin-ipponijskij",
+        "kirill-aleksandrijskij-arhiepiskop",
+        "presvjataja-bogorodica",
+        "stefan-pervomuchenik",
+        "feodosij-ii-mladshij-imperator",
+        "prokl-konstantinopolskij"
       ]
     },
     {
