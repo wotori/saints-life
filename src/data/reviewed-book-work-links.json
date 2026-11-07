@@ -7720,7 +7720,15 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО АВКСЕНТИЯ",
       "saintIds": [
-        "avksentij-vifinskij"
+        "avksentij-vifinskij",
+        "feodosij-ii-mladshij-imperator",
+        "markian-konstantinopolskij-presviter",
+        "ioann-predtecha",
+        "stefan-novyj-ispovednik",
+        "konstantin-velikij-imperator",
+        "markian-vizantijskij-imperator",
+        "simeon-stolpnik-starshij",
+        "lev-i-vizantijskij-imperator"
       ]
     },
     {
@@ -7729,7 +7737,12 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ИСААКИЯ,",
       "saintIds": [
-        "isaakij-pecherskij-zatvornik"
+        "isaakij-pecherskij-zatvornik",
+        "antonij-pecherskij",
+        "feodosij-pecherskij",
+        "stefan-vladimiro-volynskij",
+        "nikon-pecherskij-igumen",
+        "presvjataja-bogorodica"
       ]
     },
     {
@@ -7738,7 +7751,10 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО МАРОНА",
       "saintIds": [
-        "maron-sirijskij"
+        "maron-sirijskij",
+        "iakov-otshelnik-sirijskij",
+        "domnina-sirijskaja-novaja",
+        "kirill-solunskij"
       ]
     },
     {
