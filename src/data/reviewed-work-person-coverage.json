@@ -6051,5 +6051,52 @@
       "ananija-presviter-s-petrom",
       "petr-temnichnyj-kljuchar"
     ]
+  },
+  {
+    "book": 5,
+    "page": 801,
+    "heading": "ПЕРЕНЕСЕНИЕ МОЩЕЙ СВЯТОГО ОТЦА НАШЕГО ИОАННА ЗЛАТОУСТА",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pages": [
+      {
+        "page": 801,
+        "sha256": "b29b2965f6ed0cdb34b1ee9b9c3e0316ef91057fdff573b92ce25b5e0d700dce"
+      },
+      {
+        "page": 802,
+        "sha256": "2a6b4797d4edcc03eb55e10654094fe42d44f0805a7137a0dcdd1d426cb52638"
+      },
+      {
+        "page": 803,
+        "sha256": "da5aeb8017b6b288cd2b49c78d6e89cea70a54a33016220df8e198e4cba65e18"
+      },
+      {
+        "page": 804,
+        "sha256": "cf719abfe8a3d3fd22c22c35bc4b4a64580e97a072b51a5ae7a80c51b438218c"
+      },
+      {
+        "page": 805,
+        "sha256": "062858f7d677e6dddff78515f51c182714ffa5613ee6879c6ccbea9882a2f3d5"
+      },
+      {
+        "page": 806,
+        "sha256": "cf8b24411205e0ecfac61f0014dede15581290ca060242cd08fd8b4a12991d01"
+      }
+    ],
+    "note": "PDF 801-806 прочитаны полностью. Прокл назван учеником Златоуста и патриархом; Феодосий II прямо отличен от деда Феодосия Великого. Василий и Григорий названы в примечании 801, Предтеча, Павел, Богослов и Симеон в речи 802, Фома как посвящение храма и Ева в сравнении на 805. Церковь Ирины прямо объяснена как церковь мира Христова, отдельная Ирина не подразумевается. Евдоксия, жена Аркадия, не отождествлена с Евдокией. Неназванные вдовица, епископ Коман, исцеленный и клирики не получают вымышленных имен. Связи не назначают всем упомянутым память 27 января.",
+    "saintIds": [
+      "ioann-zlatoust",
+      "prokl-konstantinopolskij",
+      "vasilij-velikij",
+      "grigorij-bogoslov",
+      "ioann-predtecha",
+      "pavel-apostol-pervoverhovnyj",
+      "ioann-bogoslov",
+      "feodosij-ii-mladshij-imperator",
+      "feodosij-i-velikij-imperator",
+      "simeon-bogopriimec",
+      "foma-apostol-iz-dvenadcati",
+      "eva-pramater"
+    ]
   }
 ]

@@ -8309,7 +8309,19 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО ЕФРЕМА СИРИНА!",
       "saintIds": [
-        "efrem-sirin"
+        "efrem-sirin",
+        "konstantin-velikij-imperator",
+        "feodosij-i-velikij-imperator",
+        "iakov-nizibijskij",
+        "faddej-apostol-iz-semidesjati",
+        "vasilij-velikij",
+        "david-car-prorok",
+        "avramij-zatvornik",
+        "marija-plemjannica-avramija",
+        "paisij-velikij",
+        "ioann-kolov",
+        "grigorij-nisskij",
+        "ieronim-stridonskij"
       ]
     },
     {
@@ -8318,7 +8330,16 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ЕФРЕМА ПЕЧЕРСКОГО,",
       "saintIds": [
-        "efrem-perejaslavskij"
+        "efrem-perejaslavskij",
+        "varlaam-pecherskij",
+        "antonij-pecherskij",
+        "nikon-pecherskij-igumen",
+        "presvjataja-bogorodica",
+        "noj-praotec",
+        "feodosij-pecherskij",
+        "feodor-studit",
+        "mihail-arhangel",
+        "andrej-pervozvannyj"
       ]
     },
     {
@@ -8345,7 +8366,18 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПЕРЕНЕСЕНИЕ МОЩЕЙ СВЯТОГО ОТЦА НАШЕГО ИОАННА ЗЛАТОУСТА",
       "saintIds": [
-        "ioann-zlatoust"
+        "ioann-zlatoust",
+        "prokl-konstantinopolskij",
+        "vasilij-velikij",
+        "grigorij-bogoslov",
+        "ioann-predtecha",
+        "pavel-apostol-pervoverhovnyj",
+        "ioann-bogoslov",
+        "feodosij-ii-mladshij-imperator",
+        "feodosij-i-velikij-imperator",
+        "simeon-bogopriimec",
+        "foma-apostol-iz-dvenadcati",
+        "eva-pramater"
       ]
     },
     {
