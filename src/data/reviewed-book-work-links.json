@@ -7182,7 +7182,19 @@
       "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
       "expectedHeading": "ЖИТИЕ ВО СВЯТЫХ ОТЦА НАШЕГО ГРИГОРИЯ ДВОЕСЛОВА,",
       "saintIds": [
-        "grigorij-dvoeslov"
+        "grigorij-dvoeslov",
+        "silvija-mat-grigorija-dvoeslova",
+        "tarsilla-tetka-grigorija-dvoeslova",
+        "emiliana-tetka-grigorija-dvoeslova",
+        "feliks-iii-papa-rimskij",
+        "andrej-pervozvannyj",
+        "pavel-apostol-pervoverhovnyj",
+        "iov-mnogostradalnyj",
+        "avgustin-ipponijskij",
+        "avgustin-prosvetitel-anglii",
+        "petr-apostol-pervoverhovnyj",
+        "sofronij-ierusalimskij",
+        "ioann-mosh-evirat"
       ]
     },
     {
@@ -7191,7 +7203,10 @@
       "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
       "expectedHeading": "ПАМЯТЬ ПРАВЕДНОГО ФИНЕЕСА",
       "saintIds": [
-        "finees-pravednyj"
+        "finees-pravednyj",
+        "aaron-pervosvjashhennik",
+        "moisej-prorok-bogovidec",
+        "lot-pravednyj"
       ]
     },
     {
