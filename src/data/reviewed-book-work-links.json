@@ -7141,7 +7141,16 @@
       "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОГО МУЧЕНИКА КОНОНА ИСАВРИЙСКОГО",
       "saintIds": [
-        "konon-isavrijskij"
+        "konon-isavrijskij",
+        "pavel-apostol-pervoverhovnyj",
+        "varnava-apostol",
+        "sila-apostol-iz-semidesjati",
+        "kliment-rimskij-papa",
+        "mihail-arhangel",
+        "nestor-otets-konona-isavrijskogo",
+        "nada-mat-konona-isavrijskogo",
+        "anna-obruchnitsa-konona-isavrijskogo",
+        "onisij-s-kononom-isavrijskim"
       ]
     },
     {
@@ -7159,7 +7168,9 @@
       "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ИСИХИЯ ПОСТНИКА",
       "saintIds": [
-        "isihij-postnik"
+        "isihij-postnik",
+        "andrej-pervozvannyj",
+        "irina-afinjanka-imperatrica"
       ]
     },
     {
@@ -7168,7 +7179,8 @@
       "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО МАРКА ПОСТНИКА",
       "saintIds": [
-        "mark-postnik"
+        "mark-postnik",
+        "ioann-zlatoust"
       ]
     },
     {
