@@ -7819,7 +7819,10 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ПРОХОРА,",
       "saintIds": [
-        "prohor-pecherskij-lebednik"
+        "prohor-pecherskij-lebednik",
+        "presvjataja-bogorodica",
+        "antonij-pecherskij",
+        "feodosij-pecherskij"
       ]
     },
     {
@@ -7839,7 +7842,9 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОГО СВЯЩЕННОМУЧЕНИКА ВЛАСИЯ,",
       "saintIds": [
-        "vlasij-sevastijskij"
+        "vlasij-sevastijskij",
+        "evstratij-sevastijskij",
+        "fekla-ikonijskaja-pervomuchenica"
       ]
     },
     {
@@ -7848,7 +7853,8 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОЙ ЦАРИЦЫ ФЕОДОРЫ",
       "saintIds": [
-        "feodora-carica-11-fevralja"
+        "feodora-carica-11-fevralja",
+        "mefodij-konstantinopolskij-patriarh"
       ]
     },
     {
