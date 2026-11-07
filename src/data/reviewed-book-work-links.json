@@ -8469,7 +8469,9 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ПАВЛИНА МИЛОСТИВОГО,",
       "saintIds": [
-        "pavlin-nolanskij"
+        "pavlin-nolanskij",
+        "feliks-nolanskij",
+        "varfolomej-apostol"
       ]
     },
     {
@@ -8478,7 +8480,11 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО ГЕННАДИЯ КОСТРОМСКОГО!",
       "saintIds": [
-        "gennadij-kostromskoj"
+        "gennadij-kostromskoj",
+        "aleksandr-svirskij",
+        "kornilij-komelskij",
+        "sergij-radonezhskij",
+        "presvjataja-bogorodica"
       ]
     },
     {
@@ -8487,7 +8493,8 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО МАВСИМЫ СИРИНА",
       "saintIds": [
-        "mavsima-sirin"
+        "mavsima-sirin",
+        "ilija-fesvitjanin-prorok"
       ]
     },
     {
