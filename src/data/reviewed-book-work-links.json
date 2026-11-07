@@ -8247,7 +8247,9 @@
         "silvan-syn-felicaty",
         "aleksandr-syn-felicaty",
         "vitalij-syn-felicaty",
-        "marcial-syn-felicaty"
+        "marcial-syn-felicaty",
+        "grigorij-dvoeslov",
+        "presvjataja-bogorodica"
       ]
     },
     {
@@ -12496,7 +12498,39 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ОТЦА НАШЕГО ГРИГОРИЯ БОГОСЛОВА,",
       "saintIds": [
-        "grigorij-bogoslov"
+        "grigorij-bogoslov",
+        "grigorij-nazianzskij-starshij",
+        "nonna-mat-grigorija-bogoslova",
+        "david-car-prorok",
+        "leontij-kesarijskij-kappadokijskij",
+        "anna-prorochica-mat-samuila",
+        "samuil-prorok",
+        "ioann-predtecha",
+        "vasilij-velikij",
+        "grigorij-nisskij",
+        "konstantin-velikij-imperator",
+        "kesarij-brat-grigorija",
+        "pamfil-kesarijskij",
+        "mark-evangelist",
+        "iona-prorok",
+        "fekla-ikonijskaja-pervomuchenica",
+        "stefan-pervomuchenik",
+        "ioann-bogoslov",
+        "petr-ii-aleksandrijskij",
+        "afanasij-velikij-aleksandrijskij",
+        "feodosij-i-velikij-imperator",
+        "solomon-tsar-prorok",
+        "meletij-antiohijskij",
+        "zaharija-serpovidec",
+        "amfilohij-ikonijskij",
+        "evlogij-edesskij",
+        "elladij-kesarijskij-preemnik-vasilija",
+        "otrij-melitinskij",
+        "nektarij-konstantinopolskij",
+        "mamant-kesarijskij",
+        "ioann-damaskin",
+        "feodosij-ii-mladshij-imperator",
+        "petr-apostol-pervoverhovnyj"
       ]
     },
     {

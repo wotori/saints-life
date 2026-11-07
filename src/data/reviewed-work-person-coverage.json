@@ -5877,5 +5877,30 @@
     "saintIds": [
       "makedonij-sirijskij"
     ]
+  },
+  {
+    "book": 5,
+    "page": 777,
+    "heading": "ПАМЯТЬ СВЯТОЙ МУЧЕНИЦЫ ФЕЛИЦАТЫ",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pages": [
+      {
+        "page": 777,
+        "sha256": "f4077118e64075406db5b7e689a490cd4f2155619ed6ed0aabb39f2391df70d7"
+      }
+    ],
+    "note": "PDF 777 прочитана: Фелицата и семь сыновей перечислены в примечании, Яннуарий соответствует существующей карточке Ианнуария. Григорий Двоеслов прямо указан как автор толкования. Богородица присутствует в цитате Мф. 12, 47. Публий префект и император Антонин не получают карточки по участию в повествовании. Дата и соотнесение способов казни с сыновьями сохранены как сведения издания без дополнительной исторической проверки.",
+    "saintIds": [
+      "felicata-rimskaja",
+      "iannarij-syn-felicaty",
+      "feliks-syn-felicaty",
+      "filipp-syn-felicaty",
+      "silvan-syn-felicaty",
+      "aleksandr-syn-felicaty",
+      "vitalij-syn-felicaty",
+      "marcial-syn-felicaty",
+      "grigorij-dvoeslov",
+      "presvjataja-bogorodica"
+    ]
   }
 ]
