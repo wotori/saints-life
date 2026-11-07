@@ -9465,7 +9465,13 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ПРОРОКА АГГЕЯ",
       "saintIds": [
-        "aggej-prorok"
+        "aggej-prorok",
+        "zaharija-serpovidec",
+        "levij-syn-iakova",
+        "iakov-praotec",
+        "lija-supruga-iakova",
+        "solomon-tsar-prorok",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
@@ -9474,7 +9480,11 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ БЛАЖЕННОЙ ЦАРИЦЫ ФЕОФАНИИ",
       "saintIds": [
-        "feofanija-carica"
+        "feofanija-carica",
+        "presvjataja-bogorodica",
+        "ilija-fesvitjanin-prorok",
+        "david-car-prorok",
+        "kliment-ankirskij"
       ]
     },
     {
