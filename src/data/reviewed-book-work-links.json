@@ -17,7 +17,8 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "СОБОР СВЯТОГО ИОАННА,",
       "saintIds": [
-        "ioann-predtecha"
+        "ioann-predtecha",
+        "luka-apostol-evangelist"
       ]
     },
     {
@@ -26,7 +27,11 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "СКАЗАНИЕ О ДЕСНОЙ РУКЕ СВЯТОГО ИОАННА ПРЕДТЕЧИ,",
       "saintIds": [
-        "ioann-predtecha"
+        "ioann-predtecha",
+        "elisej-prorok",
+        "luka-apostol-evangelist",
+        "konstantin-velikij-imperator",
+        "simeon-metafrast"
       ]
     },
     {
