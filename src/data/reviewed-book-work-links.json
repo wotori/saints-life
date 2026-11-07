@@ -7306,7 +7306,15 @@
       "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ОТЦА НАШЕГО АРСЕНИЯ,",
       "saintIds": [
-        "arsenij-tverskoj"
+        "arsenij-tverskoj",
+        "antonij-pecherskij",
+        "feodosij-pecherskij",
+        "kiprian-mitropolit-moskovskij",
+        "stefan-permskij",
+        "iezekiil-prorok",
+        "presvjataja-bogorodica",
+        "nestor-letopisec",
+        "simon-vladimirskij"
       ]
     },
     {

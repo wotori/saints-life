@@ -25942,5 +25942,73 @@
     "kind": "short-memory",
     "label": "Требуется сверка имен",
     "personCoverage": "unresolved"
+  },
+  {
+    "book": 7,
+    "page": 51,
+    "heading": "ЖИТИЕ СВЯТОГО ОТЦА НАШЕГО АРСЕНИЯ,",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pages": [
+      {
+        "page": 51,
+        "sha256": "0f05c045f408be52bce44853d846541e9f52ab7d35d51c068a540c10784074d4"
+      },
+      {
+        "page": 52,
+        "sha256": "58a2cb78854da4d18d613fe36a4deb01b67d58d7ec596319c93f8b17aa342825"
+      },
+      {
+        "page": 53,
+        "sha256": "11c80f737c03cf9b05756acd44d069fa89807361cc79595babc38b0dc79ded33"
+      },
+      {
+        "page": 54,
+        "sha256": "9bb67eca2814f68247934359fdc0412f8e4f53aa7f79b4da0713a12ac4fad57f"
+      },
+      {
+        "page": 55,
+        "sha256": "c1f9f8eecdd445ade2ab0d4be92eb1f5edf940c68c9362841d099a5db46bc2f1"
+      },
+      {
+        "page": 56,
+        "sha256": "c2689eca9a679414b4a66459e6a072844decdd1b7f12b68438e8746108684dab"
+      },
+      {
+        "page": 57,
+        "sha256": "26fc47f0b67d5e86d516619fc8b35716ec65ac9a8603794f64d5deea4e3a7914"
+      },
+      {
+        "page": 58,
+        "sha256": "93b2adc1f1853332414def23c41628f5be9ffb078110b76610f4f98a3bec8fa3"
+      },
+      {
+        "page": 59,
+        "sha256": "5d1168863a1ac6771d0e0b7a3ebf3dedbdba3a5aa3c40bfcee09640f3895c5e8"
+      },
+      {
+        "page": 60,
+        "sha256": "9ae3fcbe90980722a2c5a900d3b37ec32ef998f43b9b7c1f1743ff174a22a574"
+      },
+      {
+        "page": 61,
+        "sha256": "99322d94ef6cecc91b69b4305637e03e484f335ce7afa0fa61954b28adfcfb99"
+      },
+      {
+        "page": 62,
+        "sha256": "12f47a633402549247cbd7283b8cc6018a8c6c8e82220656c0a9f1378d44e401"
+      },
+      {
+        "page": 63,
+        "sha256": "ffcacb06fd84ac5c8cbc67f67b3ea0907600191a4932bebbb40d95efbc51d1c2"
+      },
+      {
+        "page": 64,
+        "sha256": "63e7ea2213e2d6e4487e6a94c290b157b174bb5953b790a8fcac1880e40b9732"
+      }
+    ],
+    "note": "PDF 51-64: Арсений Тверской; Антоний и Феодосий Печерские PDF 52, Киприан PDF 54, Стефан Пермский PDF 55, Иезекииль PDF 56, Богородица, Нестор и Симон Владимирский PDF 57. Агафон и Троадий на PDF 64 являются самостоятельными памятями. Сноска о мощах Арсения под ними возвращена к его произведению.",
+    "kind": "saint-life",
+    "label": "Требуется сверка имен",
+    "personCoverage": "unresolved"
   }
 ]
