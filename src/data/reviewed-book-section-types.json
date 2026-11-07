@@ -26198,5 +26198,69 @@
     "kind": "saint-life",
     "label": "Именованные святые сверены",
     "personCoverage": "reviewed-named-saints"
+  },
+  {
+    "book": 7,
+    "page": 101,
+    "heading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО ИАКОВА ПОСТНИКА",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pages": [
+      {
+        "page": 101,
+        "sha256": "9117cb5162964c6438019b00cd003959eee4834e97a6a139e2ea182f47b329dd"
+      },
+      {
+        "page": 102,
+        "sha256": "e212a80dccf23b4a1bb09ff00a5a4eaa7a45a6efae69f18bd7933c42d36e2e83"
+      },
+      {
+        "page": 103,
+        "sha256": "215c8ff81c6ad90398a9cc7ff1fd3e5d0ec6c8a8fb7ed07dbd18c4de2e36d1fa"
+      },
+      {
+        "page": 104,
+        "sha256": "b96976e98c627f228027447fbb4fbc21d308378c8a803ef888ef66b8d5d8c220"
+      },
+      {
+        "page": 105,
+        "sha256": "19e6a54ed63bbac485f912607f91e694198300c7b204649957de9d553786eb65"
+      },
+      {
+        "page": 106,
+        "sha256": "f2469e08fb847ef56a7353e040225efc1c73e72627033a0ecd1049ef9b6b3098"
+      },
+      {
+        "page": 107,
+        "sha256": "65e031dcf598a4a80a3a83d45609643b392ec105b5a44466bd62a25d102f14a5"
+      },
+      {
+        "page": 108,
+        "sha256": "4daf06ebc8aa418493368d4467700d34088cbaba3a6abd9db721fa88d721ae58"
+      },
+      {
+        "page": 109,
+        "sha256": "4ea153328c69d7310c589f4bd11c8f98dd57266e647357e0139e8d801a73bbb0"
+      },
+      {
+        "page": 110,
+        "sha256": "7ff88965001fbd1f763644846a9927d0e7e4028e36b463956207af2b10bd28ae"
+      },
+      {
+        "page": 111,
+        "sha256": "dca9241edf7ca5ad59ca9a1eb28be04a471b18d6db2c4225c70b0e63399c0762"
+      },
+      {
+        "page": 112,
+        "sha256": "f468cad3357a10e14f53ea8239002e6106f4cb3b1d33c53c94020ab2e3194ba7"
+      },
+      {
+        "page": 113,
+        "sha256": "2fc55e5b4a3ede1737c0703b8ecfc07ae088042959c3a92ad885c34f6a5336c7"
+      }
+    ],
+    "note": "PDF 101-113: Иаков Постник Финикийский, Давид и апостол Петр прямо названы на PDF 109. Епископ Александр PDF 104 требует идентификации; поздний епископ PDF 111-113 без имени. Григорий, Даниил Московский и Василько Ростовский относятся к отдельным памятям после окончания жития.",
+    "kind": "saint-life",
+    "label": "Требуется сверка имен",
+    "personCoverage": "unresolved"
   }
 ]
