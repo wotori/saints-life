@@ -8152,7 +8152,8 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПЕРЕНЕСЕНИЕ МОЩЕЙ СВЯТОГО СВЯЩЕННОМУЧЕНИКА ИГНАТИЯ БОГОНОСЦА",
       "saintIds": [
-        "ignatij-bogonosec"
+        "ignatij-bogonosec",
+        "kliment-rimskij-papa"
       ]
     },
     {
@@ -8161,7 +8162,11 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО ЛАВРЕНТИЯ,",
       "saintIds": [
-        "lavrentij-turovskij"
+        "lavrentij-turovskij",
+        "isaakij-pecherskij-zatvornik",
+        "nikita-novgorodskij",
+        "dimitrij-solunskij",
+        "presvjataja-bogorodica"
       ]
     },
     {
@@ -8183,7 +8188,10 @@
       "saintIds": [
         "vasilij-velikij",
         "grigorij-bogoslov",
-        "ioann-zlatoust"
+        "ioann-zlatoust",
+        "feodor-tiron",
+        "presvjataja-bogorodica",
+        "ioann-predtecha"
       ]
     },
     {
@@ -8192,7 +8200,8 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО МУЧЕНИКА ФЕОФИЛА НОВОГО",
       "saintIds": [
-        "feofil-novyj"
+        "feofil-novyj",
+        "irina-afinjanka-imperatrica"
       ]
     },
     {
@@ -8204,7 +8213,16 @@
         "ippolit-rimskij-30-janvarja",
         "kensorin-s-ippolitom",
         "savin-s-ippolitom",
-        "hrisija-s-ippolitom"
+        "hrisija-s-ippolitom",
+        "lavrentij-rimskij-arhidiakon",
+        "damas-i-rimskij",
+        "matfej-apostol-evangelist",
+        "luka-apostol-evangelist",
+        "ioann-bogoslov",
+        "isaija-prorok",
+        "iezekiil-prorok",
+        "daniil-prorok",
+        "zaharija-serpovidec"
       ]
     },
     {
@@ -8213,7 +8231,8 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ЗИНОНА",
       "saintIds": [
-        "zinon-antiohijskij"
+        "zinon-antiohijskij",
+        "vasilij-velikij"
       ]
     },
     {
@@ -8348,7 +8367,11 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ЕФРЕМА НОВОТОРЖСКОГО",
       "saintIds": [
-        "efrem-novotorzhskij"
+        "efrem-novotorzhskij",
+        "boris-strastoterpec",
+        "gleb-strastoterpec",
+        "moisej-ugrin-pecherskij",
+        "iosif-prekrasnyj"
       ]
     },
     {
