@@ -31,6 +31,13 @@ export function sectionHeadings(body: string): SectionHeading[] {
   const result: SectionHeading[] = [];
   for (let i = 0; i < lines.length; i++) {
     const first = lines[i].trim().replace(/^_\s+(?=[А-ЯЁ])/u, '');
+    // Require the separate subject line: running headers also name these accounts.
+    if (/^(?:ПЕРВОЕ|ВТОРОЕ) ИЗБИЕНИЕ$/u.test(first)
+      && lines[i + 1]?.trim() === 'ПРЕПОДОБНЫХ ОТЦОВ') {
+      result.push({ offset: offsets[i], title: `${first} ПРЕПОДОБНЫХ ОТЦОВ` });
+      i += 1;
+      continue;
+    }
     // Praise sermons have a sentence-case label, display subject and author line.
     // Require all three so running headers and prose cannot split a work.
     if (first === 'Похвальное слово') {

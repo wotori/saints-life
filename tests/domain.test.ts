@@ -3052,3 +3052,17 @@ test('baptism display heading exposes its own reading without splitting prose or
   assert.deepEqual(reviewedWorkForPage('ioann-predtecha', 5, 190, sha, body), { book: 5, page: 190, section: 0 });
   assert.equal(reviewedWorkForPage('ioann-predtecha', 5, 190, 'changed-edition', body), undefined);
 });
+
+
+test('Sinai massacre accounts have separate headings without matching running headers', async () => {
+  const { sectionHeadings } = await import('../src/lib/book-sections');
+  for (const ordinal of ['ПЕРВОЕ', 'ВТОРОЕ']) {
+    const title = `${ordinal} ИЗБИЕНИЕ`;
+    const body = `Конец предыдущего рассказа.\n\n${title}\nПРЕПОДОБНЫХ ОТЦОВ\n\nв Синае и Раифе\n\nНачало рассказа.`;
+    assert.deepEqual(sectionHeadings(body), [{ offset: body.indexOf(title), title: `${title} ПРЕПОДОБНЫХ ОТЦОВ` }]);
+    assert.deepEqual(sectionHeadings(`${title} ПРЕПОДОБНЫХ ОТЦОВ 401`), []);
+    assert.deepEqual(sectionHeadings(`${title}\nОбычное предложение.`), []);
+  }
+  assert.deepEqual(sectionHeadings('Второе избиение преподобных отцов 401'), []);
+  assert.deepEqual(sectionHeadings('Первое избиение совершено было в четвертом веке.'), []);
+});
