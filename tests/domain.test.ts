@@ -3037,3 +3037,18 @@ test('conception heading separates the two Annas without treating prose as a hea
   assert.deepEqual(reviewedWorkForPage('anna-bogomatereva', 4, 247, sha, body), { book: 4, page: 247, section: 0 });
   assert.equal(reviewedWorkForPage('anna-prorochica-mat-samuila', 4, 247, sha, body), undefined);
 });
+
+
+test('baptism display heading exposes its own reading without splitting prose or running headers', async () => {
+  const { sectionHeadings } = await import('../src/lib/book-sections');
+  const { reviewedWorkForPage } = await import('../src/lib/reviewed-book-works');
+  const body = 'ДЕНЬ ШЕСТОЙ\n\nКРЕЩЕНИЕ ГОСПОДНЕ\n\nГосподь наш Иисус Христос.\n\nСЛОВО\nНА БОГОЯВЛЕНИЕ ГОСПОДНЕ\n\nТекст.';
+  const headings = sectionHeadings(body);
+  assert.deepEqual(headings.map(h => h.title), ['КРЕЩЕНИЕ ГОСПОДНЕ', 'СЛОВО НА БОГОЯВЛЕНИЕ ГОСПОДНЕ']);
+  assert.equal(headings[0].offset, body.indexOf('КРЕЩЕНИЕ'));
+  assert.equal(sectionHeadings('Крещение Господне 189').length, 0);
+  assert.equal(sectionHeadings('Крещение происходит в реке Иордане.').length, 0);
+  const sha = 'e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f';
+  assert.deepEqual(reviewedWorkForPage('ioann-predtecha', 5, 190, sha, body), { book: 5, page: 190, section: 0 });
+  assert.equal(reviewedWorkForPage('ioann-predtecha', 5, 190, 'changed-edition', body), undefined);
+});

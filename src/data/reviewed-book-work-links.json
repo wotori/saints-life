@@ -13211,7 +13211,8 @@
         "pavel-apostol-pervoverhovnyj",
         "ioann-predtecha",
         "moisej-prorok-bogovidec",
-        "isaija-prorok"
+        "isaija-prorok",
+        "presvjataja-bogorodica"
       ]
     },
     {
@@ -13900,6 +13901,22 @@
         "anna-bogomatereva",
         "andrej-kritskij-arhiepiskop",
         "konstantin-velikij-imperator"
+      ]
+    },
+    {
+      "book": 5,
+      "page": 190,
+      "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+      "expectedHeading": "КРЕЩЕНИЕ ГОСПОДНЕ",
+      "saintIds": [
+        "presvjataja-bogorodica",
+        "iosif-obruchnik",
+        "ioann-predtecha",
+        "zaharija-otec-predtechi",
+        "isaija-prorok",
+        "adam-praotec",
+        "ioann-zlatoust",
+        "noj-praotec"
       ]
     }
   ]
