@@ -350,13 +350,18 @@ test('the forty martyrs have distinct cards, one documented group and a shared b
   }
 });
 
-test('seven named martyrs of Amorium retain distinct cards and their common commemoration', async () => {
+test('eight named martyrs of Amorium retain distinct cards and their sourced common commemoration', async () => {
   const { reviewedWorkLocations } = await import('../src/lib/reviewed-book-works');
   const people = saints.filter(s => s.id.endsWith('-ammorejskij'));
-  assert.equal(people.length, 7);
+  assert.equal(people.length, 8);
+  const patrician = getSaint('konstantin-ammorejskij');
+  const notary = getSaint('konstantin-notarij-ammorejskij');
+  assert.ok(patrician && notary);
+  assert.notEqual(patrician.slug, notary.slug);
+  assert.notEqual(patrician.name, notary.name);
   for (const person of people) {
     assert.deepEqual(reviewedWorkLocations(person.id), [{ book: 7, page: 139 }]);
-    assert.ok(commemorations.some(c => c.saintId === person.id && c.sourceId === 'calendar-ammorejskie-mucheniki' && matchesCommemoration(c, { year: 2026, month: 3, day: 19 })));
+    assert.ok(commemorations.some(c => c.saintId === person.id && c.sourceId === (person.id === 'konstantin-notarij-ammorejskij' ? 'local-rostov' : 'calendar-ammorejskie-mucheniki') && matchesCommemoration(c, { year: 2026, month: 3, day: 19 })));
     assert.equal(venerations.some(v => v.saintId === person.id && v.traditionId === 'old-believer'), ['feodor-ammorejskij', 'konstantin-ammorejskij'].includes(person.id));
   }
 });
