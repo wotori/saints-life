@@ -8367,7 +8367,8 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО МУЧЕНИКА НЕОФИТА",
       "saintIds": [
-        "neofit-nikejskij"
+        "neofit-nikejskij",
+        "moisej-prorok-bogovidec"
       ]
     },
     {
@@ -8376,7 +8377,10 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОЙ МУЧЕНИЦЫ АГНИИ ДЕВЫ",
       "saintIds": [
-        "agnija-rimskaja"
+        "agnija-rimskaja",
+        "presvjataja-bogorodica",
+        "konstantin-velikij-imperator",
+        "emerentiana-rimskaja"
       ]
     },
     {
@@ -8397,7 +8401,18 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ СВЯТОГО АПОСТОЛА ТИМОФЕЯ",
       "saintIds": [
-        "timofej-apostol-efesskij"
+        "timofej-apostol-efesskij",
+        "pavel-apostol-pervoverhovnyj",
+        "varnava-apostol",
+        "luka-apostol-evangelist",
+        "sila-apostol-iz-semidesjati",
+        "ioann-bogoslov",
+        "presvjataja-bogorodica",
+        "konstantin-velikij-imperator",
+        "artemij-antiohijskij-velikomuchenik",
+        "andrej-pervozvannyj",
+        "evnika-mat-timofeja",
+        "loida-babka-timofeja"
       ]
     },
     {
