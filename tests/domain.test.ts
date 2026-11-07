@@ -3024,3 +3024,16 @@ test('reviewed works do not repeat the same section of the same edition', async 
   const keys = data.works.map(work => JSON.stringify([work.book, work.page, work.sourceSha256, work.expectedHeading]));
   assert.equal(new Set(keys).size, keys.length);
 });
+
+test('conception heading separates the two Annas without treating prose as a heading', async () => {
+  const { sectionHeadings } = await import('../src/lib/book-sections');
+  const { reviewedWorkForPage } = await import('../src/lib/reviewed-book-works');
+  const heading = 'ЗАЧАТИЕ СВЯТОЙ БОГОПРАМАТЕРИ АННЫ,';
+  const body = 'ДЕНЬ ДЕВЯТЫЙ\n\nЗАЧАТИЕ\nСВЯТОЙ БОГОПРАМАТЕРИ\n\nАННЫ,\n\nкогда зачала святую Богородицу\nТекст.';
+  assert.deepEqual(sectionHeadings(body).map(h => h.title), [heading]);
+  assert.equal(sectionHeadings('Зачатие святой Анны празднуется в декабре.').length, 0);
+  assert.equal(sectionHeadings('Зачатие святой Анны 245').length, 0);
+  const sha = '147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe';
+  assert.deepEqual(reviewedWorkForPage('anna-bogomatereva', 4, 247, sha, body), { book: 4, page: 247, section: 0 });
+  assert.equal(reviewedWorkForPage('anna-prorochica-mat-samuila', 4, 247, sha, body), undefined);
+});

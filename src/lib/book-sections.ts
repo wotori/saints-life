@@ -1,7 +1,7 @@
 import { matchesTitle } from '@/lib/search-terms';
 
 export type SectionHeading = { offset: number; title: string };
-const headingStart = /^(ОСВЯЩЕНИЕ|УСПЕНИЕ|О СОЗДАНИИ|ЖИТИЕ|ЖИЗНЕОПИСАНИЕ|ЖИЗНЬ|ПАМЯТЬ|СТРАДАНИЕ|ПОДВИГИ|СКАЗАНИЕ|ОБРЕТЕНИЕ|ПЕРЕНЕСЕНИЕ|СЛОВО|УБИЕНИЕ|ПРЕСТАВЛЕНИЕ|ВОСПОМИНАНИЕ|ПОВЕСТЬ|СОБОР|ПРАЗДНОВАНИЕ|СИНАКСАРЬ!?)(?:\s|,|$)/iu;
+const headingStart = /^(ЗАЧАТИЕ|ОСВЯЩЕНИЕ|УСПЕНИЕ|О СОЗДАНИИ|ЖИТИЕ|ЖИЗНЕОПИСАНИЕ|ЖИЗНЬ|ПАМЯТЬ|СТРАДАНИЕ|ПОДВИГИ|СКАЗАНИЕ|ОБРЕТЕНИЕ|ПЕРЕНЕСЕНИЕ|СЛОВО|УБИЕНИЕ|ПРЕСТАВЛЕНИЕ|ВОСПОМИНАНИЕ|ПОВЕСТЬ|СОБОР|ПРАЗДНОВАНИЕ|СИНАКСАРЬ!?)(?:\s|,|$)/iu;
 
 // OCR sometimes reads small capitals and conjunctions as ordinary lowercase.
 function isDisplayLine(line: string): boolean {
@@ -17,7 +17,7 @@ function bridgesTitleToUppercase(lines: string[], index: number): boolean {
     const candidate = lines[next].trim();
     if (!candidate) continue;
     if (/^(?:и|с|его)\s[а-яё\s,]{2,50}$/u.test(candidate)) continue;
-    return /[А-ЯЁ]/u.test(candidate) && isDisplayLine(candidate) && candidate.length <= 100 && !/^(?:ДЕНЬ|ОСВЯЩЕНИЕ|УСПЕНИЕ|О СОЗДАНИИ|ЖИТИЕ|ЖИЗНЕОПИСАНИЕ|ЖИЗНЬ|ПАМЯТЬ|СТРАДАНИЕ|ПОДВИГИ|СКАЗАНИЕ|ОБРЕТЕНИЕ|ПЕРЕНЕСЕНИЕ|СЛОВО|УБИЕНИЕ|ПРЕСТАВЛЕНИЕ|ВОСПОМИНАНИЕ|ПОВЕСТЬ|СОБОР|ПРАЗДНОВАНИЕ|СИНАКСАРЬ)(?:\s|,|$)/u.test(candidate);
+    return /[А-ЯЁ]/u.test(candidate) && isDisplayLine(candidate) && candidate.length <= 100 && !/^(?:ДЕНЬ|ЗАЧАТИЕ|ОСВЯЩЕНИЕ|УСПЕНИЕ|О СОЗДАНИИ|ЖИТИЕ|ЖИЗНЕОПИСАНИЕ|ЖИЗНЬ|ПАМЯТЬ|СТРАДАНИЕ|ПОДВИГИ|СКАЗАНИЕ|ОБРЕТЕНИЕ|ПЕРЕНЕСЕНИЕ|СЛОВО|УБИЕНИЕ|ПРЕСТАВЛЕНИЕ|ВОСПОМИНАНИЕ|ПОВЕСТЬ|СОБОР|ПРАЗДНОВАНИЕ|СИНАКСАРЬ)(?:\s|,|$)/u.test(candidate);
   }
   return false;
 }

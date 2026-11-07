@@ -13428,6 +13428,19 @@
         "iona-prorok",
         "presvjataja-bogorodica"
       ]
+    },
+    {
+      "book": 4,
+      "page": 247,
+      "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
+      "expectedHeading": "ЗАЧАТИЕ СВЯТОЙ БОГОПРАМАТЕРИ АННЫ,",
+      "saintIds": [
+        "presvjataja-bogorodica",
+        "ioakim-bogootec",
+        "anna-bogomatereva",
+        "andrej-kritskij-arhiepiskop",
+        "konstantin-velikij-imperator"
+      ]
     }
   ]
 }
