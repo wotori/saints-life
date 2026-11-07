@@ -8160,7 +8160,19 @@
         "tit-kritskij-apostol",
         "ioann-predtecha",
         "konstantin-velikij-imperator",
-        "feodor-studit"
+        "feodor-studit",
+        "nikifor-konstantinopolskij-patriarh",
+        "ignatij-konstantinopolskij-patriarh",
+        "trifon-apamejskij",
+        "feodor-nachertannyj",
+        "feofan-nachertannyj",
+        "savva-osvjashhennyj",
+        "feodora-carica-11-fevralja",
+        "mefodij-konstantinopolskij-patriarh",
+        "navkratij-studijskij-ispovednik",
+        "sofronij-studijskij-igumen",
+        "fotij-konstantinopolskij-patriarh",
+        "moisej-prorok-bogovidec"
       ]
     },
     {
@@ -8169,7 +8181,9 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО КИРИЛЛА,",
       "saintIds": [
-        "kirill-novoezerskij"
+        "kirill-novoezerskij",
+        "kornilij-komelskij",
+        "presvjataja-bogorodica"
       ]
     },
     {
