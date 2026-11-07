@@ -7858,5 +7858,24 @@
       "presvjataja-bogorodica",
       "lazar-chetverodnevnyj"
     ]
+  },
+  {
+    "book": 7,
+    "page": 155,
+    "heading": "ПАМЯТЬ ПРЕПОДОБНОГО АРКАДИЯ",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pages": [
+      {
+        "page": 155,
+        "sha256": "6d6ec82124b3d923b762596b8bf4ff25a0f4219176fee88dd90d48c030ac6849"
+      }
+    ],
+    "note": "PDF 155: Аркадий Кипрский, его ученики Иулиан врач и Еввул, император Константин Великий. Юлиан Отступник, гонитель, не мученик Иулиан. Примечание датирует мученичество учеников приблизительно 361 годом и указывает общую память с Аркадием.",
+    "saintIds": [
+      "arkadij-kiprskij",
+      "iulian-vrach-uchenik-arkadija",
+      "evvul-uchenik-arkadija",
+      "konstantin-velikij-imperator"
+    ]
   }
 ]

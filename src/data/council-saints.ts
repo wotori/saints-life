@@ -1128,3 +1128,15 @@ councilSaints.push({"id": "konstantin-notarij-ammorejskij", "slug": "konstantin-
 councilVenerations.push({"saintId": "konstantin-notarij-ammorejskij", "traditionId": "russian-orthodox", "sourceId": "local-rostov", "note": "Книга 7, PDF 148-154: нотарий Константин среди 42 Амморейских мучеников. Свидетельство данного издания, без автоматического присвоения другим традициям."});
 
 councilCommemorations.push({"id": "konstantin-notarij-ammorejskij-march6", "saintId": "konstantin-notarij-ammorejskij", "traditionId": "russian-orthodox", "sourceId": "local-rostov", "label": "С 42 мучениками Амморейскими", "rule": {"kind": "fixed", "calendar": "julian", "month": 3, "day": 6}});
+
+councilSaints.push({"id": "iulian-vrach-uchenik-arkadija", "slug": "iulian-vrach-uchenik-arkadija", "name": "Иулиан, врач, ученик Аркадия Кипрского", "aliases": ["Иулиан врач"], "rank": "мученик", "sourceId": "local-rostov", "sourceLocator": "Книга 7, PDF 155, печатная с. 153: святой ученик Аркадия Кипрского, пострадавший при Юлиане Отступнике около 361 года. Примечание указывает совместную память с Аркадием 6 марта."});
+
+councilVenerations.push({"saintId": "iulian-vrach-uchenik-arkadija", "traditionId": "russian-orthodox", "sourceId": "local-rostov", "note": "Свидетельство книги 7, PDF 155; признание другими традициями автоматически не назначено."});
+
+councilCommemorations.push({"id": "iulian-vrach-uchenik-arkadija-march6", "saintId": "iulian-vrach-uchenik-arkadija", "traditionId": "russian-orthodox", "sourceId": "local-rostov", "label": "С преподобным Аркадием Кипрским", "rule": {"kind": "fixed", "calendar": "julian", "month": 3, "day": 6}});
+
+councilSaints.push({"id": "evvul-uchenik-arkadija", "slug": "evvul-uchenik-arkadija", "name": "Еввул, ученик Аркадия Кипрского", "aliases": ["Еввул Кипрский"], "rank": "мученик", "sourceId": "local-rostov", "sourceLocator": "Книга 7, PDF 155, печатная с. 153: святой ученик Аркадия Кипрского, пострадавший при Юлиане Отступнике около 361 года. Примечание указывает совместную память с Аркадием 6 марта."});
+
+councilVenerations.push({"saintId": "evvul-uchenik-arkadija", "traditionId": "russian-orthodox", "sourceId": "local-rostov", "note": "Свидетельство книги 7, PDF 155; признание другими традициями автоматически не назначено."});
+
+councilCommemorations.push({"id": "evvul-uchenik-arkadija-march6", "saintId": "evvul-uchenik-arkadija", "traditionId": "russian-orthodox", "sourceId": "local-rostov", "label": "С преподобным Аркадием Кипрским", "rule": {"kind": "fixed", "calendar": "julian", "month": 3, "day": 6}});
