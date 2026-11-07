@@ -2,7 +2,7 @@
   "book": 5,
   "firstPage": 139,
   "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
-  "scope": "Основной перечень на PDF 140-156: 72 персоны с соборной памятью. Дополнительные рассказы и примечание об Авиве на PDF 157-160: 16 персон, привязанных отдельно, без автоматического назначения соборной даты. Это проверка названных участников, не всех библейских ссылок и авторов, цитируемых в разделе.",
+  "scope": "Основной перечень на PDF 140-156: 72 персоны с соборной памятью. Дополнительные рассказы и примечание об Авиве на PDF 157-160: 16 персон, привязанных отдельно, без автоматического назначения соборной даты. Это проверка названных участников, не всех библейских ссылок и авторов, цитируемых в разделе. Дополнительные именованные святые в изложении и примечаниях сохраняются в mentionedRecords с контрольными суммами страниц; это связи с текстом, не включение в основной соборный перечень и не назначение календарной памяти.",
   "records": [
     {
       "page": 140,
@@ -212,6 +212,78 @@
         "ierofej-afinskij",
         "antipa-pergamskij",
         "dimitrij-filadelfijskij"
+      ]
+    }
+  ],
+  "mentionedRecords": [
+    {
+      "page": 139,
+      "pageTextSha256": "cb8f97b05662df6ac54cc18a12ba7c3f3c1454298166b555151a8f9a3f216175",
+      "saintIds": [
+        "ioann-bogoslov",
+        "matfij-apostol-iz-dvenadcati",
+        "pavel-apostol-pervoverhovnyj",
+        "petr-apostol-pervoverhovnyj"
+      ]
+    },
+    {
+      "page": 140,
+      "pageTextSha256": "7a979ad94ba3356e1f051aa3e662e2b91b565d27e440752ed81b8ee43274098d",
+      "saintIds": [
+        "iosif-obruchnik",
+        "grigorij-bogoslov"
+      ]
+    },
+    {
+      "page": 142,
+      "pageTextSha256": "ae5796501de8914c90d4eba793fd01b6739dddfc0203a92395827518116420b9",
+      "saintIds": [
+        "ioann-predtecha"
+      ]
+    },
+    {
+      "page": 143,
+      "pageTextSha256": "a83e3ef8b99b0cd9d482331664b34a59c37854b75b3617c168392c870a414466",
+      "saintIds": [
+        "avgar-v-edesskij"
+      ]
+    },
+    {
+      "page": 147,
+      "pageTextSha256": "d7c8c1b46f071a058d0b195831540241f881dd18e25f9f7d4d11c8f30c3b7a47",
+      "saintIds": [
+        "andrej-pervozvannyj"
+      ]
+    },
+    {
+      "page": 156,
+      "pageTextSha256": "a57df7737afefeb707948a01145473e7654526c964e71ef5561d9a7c27b0dc55",
+      "saintIds": [
+        "epifanij-kiprskij",
+        "ioann-zlatoust",
+        "ioann-damaskin"
+      ]
+    },
+    {
+      "page": 157,
+      "pageTextSha256": "4be0dfab5fbadb38476c2005fc3ffddc76af4b559ff8e56b8f3a5a784003685f",
+      "saintIds": [
+        "ieronim-stridonskij"
+      ]
+    },
+    {
+      "page": 159,
+      "pageTextSha256": "08fc57e1d4a94ebc65cba8ca04a6761b369d81d4c982262feaecb13b0e704f77",
+      "saintIds": [
+        "simeon-metafrast",
+        "dimitrij-rostovskij"
+      ]
+    },
+    {
+      "page": 160,
+      "pageTextSha256": "8e00921ce243795b2b45638b204c5ef4edc6f42012e51ac3812915a7dc900d21",
+      "saintIds": [
+        "presvjataja-bogorodica"
       ]
     }
   ]

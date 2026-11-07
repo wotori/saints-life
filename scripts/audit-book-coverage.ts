@@ -46,7 +46,7 @@ try {
   errors.push(...reviewedSaintLinkErrors(works, knownSaintIds, 'work'));
   errors.push(...reviewedSaintLinkErrors(reviewedMentionRecords(), knownSaintIds, 'mention'));
   errors.push(...reviewedSaintLinkErrors(
-    [...seventyRoster.records, ...seventyRoster.appendixRecords].map(record => ({ ...record, book: seventyRoster.book })),
+    [...seventyRoster.records, ...seventyRoster.appendixRecords, ...seventyRoster.mentionedRecords].map(record => ({ ...record, book: seventyRoster.book })),
     knownSaintIds, 'seventy apostles roster',
   ));
   for (const record of reviewedBookSupplements) {
@@ -69,8 +69,9 @@ try {
   const rosterWork = works.find(work => work.book === seventyRoster.book && work.page === seventyRoster.firstPage);
   const rosterIds = seventyRoster.records.flatMap(record => record.saintIds);
   if (rosterBook?.sha256 !== seventyRoster.sourceSha256 || rosterWork?.sourceSha256 !== seventyRoster.sourceSha256) errors.push('Seventy apostles roster edition mismatch');
-  if (new Set(rosterIds).size !== rosterIds.length || JSON.stringify([...rosterIds].sort()) !== JSON.stringify([...(rosterWork?.saintIds ?? [])].sort())) errors.push('Seventy apostles roster and work links differ');
-  for (const record of [...seventyRoster.records, ...seventyRoster.appendixRecords]) {
+  const allRosterIds = new Set([...rosterIds, ...seventyRoster.appendixRecords.flatMap(record => record.saintIds), ...seventyRoster.mentionedRecords.flatMap(record => record.saintIds)]);
+  if (new Set(rosterIds).size !== rosterIds.length || JSON.stringify([...allRosterIds].sort()) !== JSON.stringify([...(rosterWork?.saintIds ?? [])].sort())) errors.push('Seventy apostles reviewed people and work links differ');
+  for (const record of [...seventyRoster.records, ...seventyRoster.appendixRecords, ...seventyRoster.mentionedRecords]) {
     const page = db.prepare('SELECT body FROM pages WHERE book_number=? AND page=?').get(seventyRoster.book, record.page) as { body: string } | undefined;
     if (!page || createHash('sha256').update(page.body).digest('hex') !== record.pageTextSha256) errors.push(`Seventy apostles roster OCR changed: ${seventyRoster.book}/${record.page}`);
   }
