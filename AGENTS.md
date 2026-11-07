@@ -1,5 +1,7 @@
 # Saints Life
 
+- For library import work, start with [docs/import-handoff.md](docs/import-handoff.md) and the external checkpoint it references. Update the handoff and checkpoint after each completed batch.
+
 - Read docs/architecture.md and docs/content-policy.md before changing domain data.
 - Keep the person, veneration claim, commemoration, work, edition and published text separate.
 - Never infer recognition by a church from a person's age or another church's calendar.
