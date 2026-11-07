@@ -383,6 +383,8 @@ test('reviewed edition links require the same person, file and unique heading', 
       assert.ok(getSaint(id), id);
       assert.ok(reviewedWorkLocations(id).some(item => item.book === work.book && item.page === work.page));
       const multiline: Record<string, string> = {
+        '5:389': 'ПЕРВОЕ ИЗБИЕНИЕ\nПРЕПОДОБНЫХ ОТЦОВ',
+        '5:403': 'ВТОРОЕ ИЗБИЕНИЕ\nПРЕПОДОБНЫХ ОТЦОВ',
         "3:772": "Похвальное слово\nСВЯТОМУ АПОСТОЛУ АНДРЕЮ ПЕРВОЗВАННОМУ\nсвятого Иоанна Златоустого",
         '3:507': 'Слово святого Василия Великого\n\nО СВЯТОМ МУЧЕНИКЕ ВАРЛААМЕ',
         '3:510': 'Слово святого Иоанна Златоуста\n\nО СВЯТОМ МУЧЕНИКЕ ВАРЛААМЕ',

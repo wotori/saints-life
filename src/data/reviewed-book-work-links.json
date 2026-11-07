@@ -14058,6 +14058,53 @@
         "ioann-zlatoust",
         "noj-praotec"
       ]
+    },
+    {
+      "book": 5,
+      "page": 389,
+      "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+      "expectedHeading": "ПЕРВОЕ ИЗБИЕНИЕ ПРЕПОДОБНЫХ ОТЦОВ",
+      "saintIds": [
+        "dula-sinajskij-igumen",
+        "isaija-sinajskij-pervoe-izbienie",
+        "savva-sinajskij-pervoe-izbienie",
+        "moisej-raifskij-nastavnik",
+        "moisej-raifskij-uchenik",
+        "iosif-analitin-raifskij",
+        "ieremija-raifskij",
+        "pavel-raifskij",
+        "adam-raifskij",
+        "sergij-raifskij-uchenik-adama",
+        "domn-raifskij",
+        "petr-aleksandrijskij-arhiepiskop",
+        "moisej-prorok-bogovidec",
+        "avraam-praotec",
+        "ilija-fesvitjanin-prorok",
+        "elisej-prorok",
+        "david-car-prorok"
+      ]
+    },
+    {
+      "book": 5,
+      "page": 403,
+      "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+      "expectedHeading": "ВТОРОЕ ИЗБИЕНИЕ ПРЕПОДОБНЫХ ОТЦОВ",
+      "saintIds": [
+        "nil-postnik",
+        "feodul-sinajskij-presviter",
+        "feodul-sinajskij-syn-nila",
+        "prokl-veframva-sinajskij",
+        "ipatij-gefa-sinajskij",
+        "isaak-salailskij-sinajskij",
+        "makarij-sinajskij-s-markom",
+        "mark-sinajskij-s-makariem",
+        "veniamin-za-elimom-sinajskij",
+        "evsevij-fola-sinajskij",
+        "ilija-aza-sinajskij",
+        "daniil-prorok",
+        "iov-mnogostradalnyj",
+        "presvjataja-bogorodica"
+      ]
     }
   ]
 }

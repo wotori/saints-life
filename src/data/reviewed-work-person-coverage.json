@@ -5274,5 +5274,62 @@
       "ilija-fesvitjanin-prorok",
       "grigorij-prosvetitel-armenii"
     ]
+  },
+  {
+    "book": 5,
+    "page": 403,
+    "heading": "ВТОРОЕ ИЗБИЕНИЕ ПРЕПОДОБНЫХ ОТЦОВ",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pages": [
+      {
+        "page": 403,
+        "sha256": "0d97f9c6d1ab8c9651793671d79c3820ebdc630a24606e2b70ff434a1adf95a7"
+      },
+      {
+        "page": 404,
+        "sha256": "2c562122413ae4be5ab29b830b6e8dc331c7065cdaaf0455a841e08f75c914d1"
+      },
+      {
+        "page": 405,
+        "sha256": "8b65bc9ae01f06906680fdf420e675242b7344209b30c6e0de8eec3c0ec1b267"
+      },
+      {
+        "page": 406,
+        "sha256": "7ac231b403062b63f52d4fe15252fc9c3256d2968e8e0f5744bb4d959296f00d"
+      },
+      {
+        "page": 407,
+        "sha256": "ec94335c2f215badec06851ea14c7d4b4344ce247d64869d9b2c41ef4327d91c"
+      },
+      {
+        "page": 408,
+        "sha256": "750c1836c3a879df9d0376cc6fc9175f38741bd5dd922797230198de20e97855"
+      },
+      {
+        "page": 409,
+        "sha256": "fb1ae1a061434564306f764f79950ca280d6f4151349dc44f2d4cae0d48fe2a3"
+      },
+      {
+        "page": 410,
+        "sha256": "df7ac4a1e19efb8854477efb2d7e40d0f11375802fe3e2e677d961f678786002"
+      }
+    ],
+    "note": "Прочитан OCR PDF 403-410 от второго заголовка. Пресвитер Феодул умер от ран; сын Нила Феодул пережил плен, стал клириком и вернулся с отцом на Синай. Восемь названных мучеников на PDF 409 связаны с отдельными карточками. Даниил назван на 406, Иов на 407, Богородица в молитве на 409. Вавилонские отроки упомянуты без личных имен; цитаты Исхода и книги Иисуса Навина не превращены в упоминания авторов. Корей противник, Магедон и его сын жертвы разбойников без прямого свидетельства святости; князь Аман не отождествлен с библейским тезкой. Епископ Емесы, жена и дочь Нила не названы. Иустин Младший в примечании о перенесении мощей не отождествлен с Иустинианом или Иустином Философом; отдельное почитание здесь не утверждается. Примечание о Мемфисе на 403 принадлежит первому рассказу.",
+    "saintIds": [
+      "nil-postnik",
+      "feodul-sinajskij-presviter",
+      "feodul-sinajskij-syn-nila",
+      "prokl-veframva-sinajskij",
+      "ipatij-gefa-sinajskij",
+      "isaak-salailskij-sinajskij",
+      "makarij-sinajskij-s-markom",
+      "mark-sinajskij-s-makariem",
+      "veniamin-za-elimom-sinajskij",
+      "evsevij-fola-sinajskij",
+      "ilija-aza-sinajskij",
+      "daniil-prorok",
+      "iov-mnogostradalnyj",
+      "presvjataja-bogorodica"
+    ]
   }
 ]
