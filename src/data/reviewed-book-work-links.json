@@ -8670,7 +8670,11 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО ПАВЛА ФИВЕЙСКОГО",
       "saintIds": [
-        "pavel-fivejskij"
+        "pavel-fivejskij",
+        "antonij-velikij",
+        "afanasij-velikij-aleksandrijskij",
+        "ilija-fesvitjanin-prorok",
+        "ioann-predtecha"
       ]
     },
     {
@@ -8679,7 +8683,13 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ИОАННА КУЩНИКА!",
       "saintIds": [
-        "ioann-kushhnik"
+        "ioann-kushhnik",
+        "lev-i-vizantijskij-imperator",
+        "aleksandr-neusypajushhih",
+        "markell-neusypajushhih",
+        "david-car-prorok",
+        "iov-mnogostradalnyj",
+        "ioann-bogoslov"
       ]
     },
     {
