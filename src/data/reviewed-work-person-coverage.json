@@ -4442,5 +4442,56 @@
       "konstantin-velikij-imperator",
       "avraam-praotec"
     ]
+  },
+  {
+    "book": 5,
+    "page": 7,
+    "heading": "СЛОВО на ОБРЕЗАНИЕ ХРИСТОВО",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pages": [
+      {
+        "page": 7,
+        "sha256": "85bac7d2ae40538cfc5937d824d22f4e6aa6c4d06028f53a89a56762e4ff4cd0"
+      },
+      {
+        "page": 8,
+        "sha256": "497fe51b4f95ffb575f5eb4081f86af19d3393e818fde7f90c1cfbd2b4e0c6f5"
+      },
+      {
+        "page": 9,
+        "sha256": "ebbc677f73dbf169ea37e93e439df39694e1f6bcc06605b9ee425d38b974abfe"
+      },
+      {
+        "page": 10,
+        "sha256": "ebcd70365e438cb81d48e71e7be450e3a1a8830a6c8aa1ef156b31b3ad2a3ec4"
+      },
+      {
+        "page": 11,
+        "sha256": "d6b79c239ca933f02478a51aeaa013c5d0e4f34c6b8671e38b7a1f31913faeee"
+      },
+      {
+        "page": 12,
+        "sha256": "cee486d2fc34b009ec94d062a27a04e028212edee2b0b3922bcb9fb76a9a62fd"
+      },
+      {
+        "page": 13,
+        "sha256": "3d33b355abfed40b13c6563fdb80a1a80062495667611fd8ce3de4a600758057"
+      }
+    ],
+    "note": "Прочитан весь OCR Слова на Обрезание Христово, PDF 7-13. Проверены именованные святые: Ефрем Сирин, Иосиф Обручник, Григорий Нисский, Давид, Моисей, Богородица, Гавриил, Петр, Иоанн Лествичник, Иероним, Павел и Стефан Савваит-песнописец. Стефан прямо назван автором канона, в сноске 3 на PDF 8 память 28 октября; скан этой страницы подтверждает VIII век, а не VII, как в OCR. Он отделен от одноименного святого с памятью 13 июля. Гавриил на PDF 10 прямо назван архангелом Благовещения; отождествление с ангелом из сна Иосифа относится к авторскому рассказу. Первосвященник на PDF 12 без имени, не отождествлен с Аароном. Библейские сокращения сами по себе не добавляют именованных авторов. Связи не назначают всем участникам праздник 1 января. Полнота относится к именам этого текста, не к исторической проверке цитат и атрибуций. Скан PDF 8 проверен, остальные сканы раздела не сверены.",
+    "saintIds": [
+      "efrem-sirin",
+      "grigorij-nisskij",
+      "david-car-prorok",
+      "moisej-prorok-bogovidec",
+      "iosif-obruchnik",
+      "petr-apostol-pervoverhovnyj",
+      "ioann-lestvichnik",
+      "ieronim-stridonskij",
+      "pavel-apostol-pervoverhovnyj",
+      "presvjataja-bogorodica",
+      "gavriil-arhangel",
+      "stefan-savvait-pesnopisec-28-oktjabrja"
+    ]
   }
 ]
