@@ -6998,5 +6998,34 @@
     "saintIds": [
       "mina-aleksandrijskij-krasnorechivyj"
     ]
+  },
+  {
+    "book": 6,
+    "page": 318,
+    "heading": "ПАМЯТЬ СВЯТОГО АГАПИТА ИСПОВЕДНИКА,",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pages": [
+      {
+        "page": 318,
+        "sha256": "58358275ee9017bcb70b6c878ea67b10938cab3bae97176f666522f20d01ab2f"
+      },
+      {
+        "page": 319,
+        "sha256": "5cf71341c9508edcf244966c67fb50ebc78e43e272dd3df1feb6d5fc93aacc93"
+      },
+      {
+        "page": 320,
+        "sha256": "b8bd17800a7b14462654a432a9d82b1f65df6b57f927e16fe0bd170f1191a744"
+      }
+    ],
+    "note": "PDF 318-320 прочитаны полностью. Виктор, Дорофей, Феодул и Агриппа названы мучениками при Ликинии; Агапит ранен, но остается жив и впоследствии становится епископом Синады. Четыре мученика не смешаны с тезками из иных рассказов. Их память 18 февраля прямо указана в примечании PDF 319. Константин Великий назван на PDF 318-319. Родители, епископ-предшественник, епископ Силандеи, ираклийский диакон, слуги и исцеленные не названы. Диоклетиан, Максимиан, Ликиний и Галерий упомянуты как правители, не добавлены как святые.",
+    "saintIds": [
+      "agapit-sinadskij",
+      "konstantin-velikij-imperator",
+      "viktor-iz-zhitija-agapita-sinadskogo",
+      "dorofej-iz-zhitija-agapita-sinadskogo",
+      "feodul-iz-zhitija-agapita-sinadskogo",
+      "agrippa-iz-zhitija-agapita-sinadskogo"
+    ]
   }
 ]

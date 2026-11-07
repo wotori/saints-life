@@ -7616,7 +7616,14 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ОТЦА НАШЕГО ФЛАВИАНА ИСПОВЕДНИКА,",
       "saintIds": [
-        "flavian-konstantinopolskij"
+        "flavian-konstantinopolskij",
+        "prokl-konstantinopolskij",
+        "ioann-zlatoust",
+        "feodosij-ii-mladshij-imperator",
+        "feodosij-i-velikij-imperator",
+        "pulherija-carica",
+        "anatolij-konstantinopolskij-patriarh",
+        "markian-vizantijskij-imperator"
       ]
     },
     {
@@ -7625,7 +7632,12 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО АГАПИТА ИСПОВЕДНИКА,",
       "saintIds": [
-        "agapit-sinadskij"
+        "agapit-sinadskij",
+        "konstantin-velikij-imperator",
+        "viktor-iz-zhitija-agapita-sinadskogo",
+        "dorofej-iz-zhitija-agapita-sinadskogo",
+        "feodul-iz-zhitija-agapita-sinadskogo",
+        "agrippa-iz-zhitija-agapita-sinadskogo"
       ]
     },
     {
