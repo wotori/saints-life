@@ -9304,7 +9304,9 @@
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО МУЧЕНИКА ВОНИФАТИЯ",
       "saintIds": [
         "vonifatij-tarsijskij",
-        "aglaida-rimskaja"
+        "aglaida-rimskaja",
+        "aleksij-chelovek-bozhij",
+        "nikodim-svjatogorec"
       ]
     },
     {
@@ -9313,7 +9315,9 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ВОНИФАТИЯ МИЛОСТИВОГО,",
       "saintIds": [
-        "vonifatij-ferentijskij"
+        "vonifatij-ferentijskij",
+        "prokl-ankirskij-12ijulja",
+        "presvjataja-bogorodica"
       ]
     },
     {
@@ -9322,7 +9326,34 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ГРИГОРИЯ,",
       "saintIds": [
-        "grigorij-omiritskij"
+        "grigorij-omiritskij",
+        "vonifatij-tarsijskij",
+        "aglaida-rimskaja",
+        "frumentij-efiopskij",
+        "edessij-tirskij-s-frumentiem",
+        "petr-apostol-pervoverhovnyj",
+        "pavel-apostol-pervoverhovnyj",
+        "elezvoj-efiopskij",
+        "arefa-nagranskij",
+        "mark-evangelist",
+        "presvjataja-bogorodica",
+        "dimitrij-rostovskij",
+        "makarij-moskovskij-mitropolit",
+        "moisej-prorok-bogovidec",
+        "iisus-navin",
+        "david-car-prorok",
+        "noj-praotec",
+        "isaak-praotec",
+        "iosif-prekrasnyj",
+        "iakov-praotec",
+        "isaija-prorok",
+        "avraam-praotec",
+        "avvakum-prorok",
+        "daniil-prorok",
+        "ilija-fesvitjanin-prorok",
+        "elisej-prorok",
+        "aaron-pervosvjashhennik",
+        "solomon-tsar-prorok"
       ]
     },
     {
