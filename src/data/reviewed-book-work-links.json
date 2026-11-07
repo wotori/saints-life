@@ -9539,7 +9539,35 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО ДАНИИЛА СТОЛПНИКА",
       "saintIds": [
-        "daniil-stolpnik"
+        "daniil-stolpnik",
+        "sarra-supruga-avraama",
+        "isaak-praotec",
+        "anna-prorochica-mat-samuila",
+        "samuil-prorok",
+        "elisaveta-mat-predtechi",
+        "ioann-predtecha",
+        "daniil-prorok",
+        "simeon-stolpnik-starshij",
+        "pavel-apostol-pervoverhovnyj",
+        "varnava-apostol",
+        "petr-apostol-pervoverhovnyj",
+        "mihail-arhangel",
+        "antonij-velikij",
+        "lev-i-vizantijskij-imperator",
+        "anatolij-konstantinopolskij-patriarh",
+        "ilija-fesvitjanin-prorok",
+        "elisej-prorok",
+        "aleksandr-neusypajushhih",
+        "david-car-prorok",
+        "gennadij-konstantinopolskij",
+        "feodosij-ii-mladshij-imperator",
+        "presvjataja-bogorodica",
+        "mamant-kesarijskij",
+        "konstantin-velikij-imperator",
+        "evfimij-konstantinopolskij-490",
+        "ananija-vavilonskij",
+        "azarija-vavilonskij",
+        "misail-vavilonskij"
       ]
     },
     {
@@ -9548,7 +9576,13 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО НИКОНА",
       "saintIds": [
-        "nikon-suhoj-pecherskij"
+        "nikon-suhoj-pecherskij",
+        "pavel-apostol-pervoverhovnyj",
+        "evstratij-pecherskij",
+        "antonij-pecherskij",
+        "feodosij-pecherskij",
+        "presvjataja-bogorodica",
+        "david-car-prorok"
       ]
     },
     {
