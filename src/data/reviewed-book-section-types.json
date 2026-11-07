@@ -20610,5 +20610,141 @@
     "kind": "saint-life",
     "label": "Произведение с проверенными именами",
     "personCoverage": "reviewed-named-saints"
+  },
+  {
+    "book": 5,
+    "page": 505,
+    "heading": "ЖИТИЕ СВЯТОГО ОТЦА НАШЕГО АФАНАСИЯ,",
+    "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+    "pages": [
+      {
+        "page": 505,
+        "sha256": "4ab285dab8795accac0f79979f714967ff1fd1c3bd6e474a5cad91a1cce31fea"
+      },
+      {
+        "page": 506,
+        "sha256": "561d0bcff8c98a62f96df0150fe16e6e1537999a0b92e3d166f79eedb657e9ff"
+      },
+      {
+        "page": 507,
+        "sha256": "6492546d2b3eb91a9922ceaf13ec68ae0814374e1060da1ea2ce6fc0f577847f"
+      },
+      {
+        "page": 508,
+        "sha256": "33d7af9f0da45eb095457aee232571fb32444bc73583a1187aeca398a1e2e6a1"
+      },
+      {
+        "page": 509,
+        "sha256": "705ef3f79013f55323c24dfbfb686691b66316e859e871fe09b1e1145a1c4e61"
+      },
+      {
+        "page": 510,
+        "sha256": "1c1dd932d8f9fbb5acbd047e7071213c15fac08f577b18aa30faa3544e6435b8"
+      },
+      {
+        "page": 511,
+        "sha256": "96c3b3c8a58c96c8924be0cd4ef829f21d553e581398a8f2bae09bc52cb7938c"
+      },
+      {
+        "page": 512,
+        "sha256": "acda4437602311527085071586b07fbd633107b6f2862fd76d6a93a70adac327"
+      },
+      {
+        "page": 513,
+        "sha256": "4514d49928f9494d404b1cb2727bab811c437e85fdac5391f4a8fac85a9c4f80"
+      },
+      {
+        "page": 514,
+        "sha256": "8c83e8ded9caad6e9c3dd8c7a3a72d271d8ccf55d44d71d56fc7dc0cd9289200"
+      },
+      {
+        "page": 515,
+        "sha256": "1ba4cb71d8c87f8b0776681266006124400e07c339525d7ca5e4a528068171c8"
+      },
+      {
+        "page": 516,
+        "sha256": "c9f1adc6942c005a0d0d94460c5ac017a1dbf6c1cabb76fcd85a80492e1e9885"
+      },
+      {
+        "page": 517,
+        "sha256": "5e11227e65962a565a7602d0166c0b232b960786f5a600390e4b154de2df051e"
+      },
+      {
+        "page": 518,
+        "sha256": "e0b16f44b82cffeb046b69930e6e483cbaee037b56d5f482114c235e19e9fc00"
+      },
+      {
+        "page": 519,
+        "sha256": "7d4c2359f81d1ce90d5c2657771b0815665439c04c227b610f67bbe0a70a798b"
+      },
+      {
+        "page": 520,
+        "sha256": "7222635e6a2ad80fd8fa0e460c297f91317ac662291a2f8a26bdc9cd1f35308d"
+      },
+      {
+        "page": 521,
+        "sha256": "35e07aeba2ad19f210d902d353bb04df1d092eec881041dd900533a709818c67"
+      },
+      {
+        "page": 522,
+        "sha256": "c5b5008798454c66d62fc525154703e89ed38289faa34536a00c24ce46824759"
+      },
+      {
+        "page": 523,
+        "sha256": "58b66c9ab2c9ba6586cc70d413d6118b5ce6b8fa22d8fe472d2f6633cf719bed"
+      },
+      {
+        "page": 524,
+        "sha256": "a63ccdbdd138479f5983ddd81857d4feae58e5984ddfa839bbe77e48e9f836ec"
+      },
+      {
+        "page": 525,
+        "sha256": "7a24d718bdea148d0f258ba5e510e2c397c909dc04284ad91add149d091f7bfd"
+      },
+      {
+        "page": 526,
+        "sha256": "7632551795e749a22bc844333baa7a0e8d39f13197a765e4d1ab367a1df783b8"
+      },
+      {
+        "page": 527,
+        "sha256": "cb76e4be218c7354aa870ffe5598ea42f9441ec9609b970e41f5646688d83133"
+      },
+      {
+        "page": 528,
+        "sha256": "b0c21bfdca0f450a6260b0aa12e657e0fc1c2b6ac8af434987cad977a6d432da"
+      },
+      {
+        "page": 529,
+        "sha256": "57b64d16959ead5a5a6594b03d91dc6f0dccc87e8b8aaa7d1ae40a34399b069a"
+      },
+      {
+        "page": 530,
+        "sha256": "167b27375d411716d8f812571f03b82423f6cf209b3e7384350f5014124e01ef"
+      },
+      {
+        "page": 531,
+        "sha256": "fc258f94412c310339dc17b603bc58ccc412f752bbd0e942739cabeb0e0c78ea"
+      },
+      {
+        "page": 532,
+        "sha256": "e69d36f2037ff2e8634b14eed70994d398c1eeb0e66c85b0053dd1ea25b87a3b"
+      },
+      {
+        "page": 533,
+        "sha256": "b01d32cf733404fca2b676c0c2d8d102d1732029d25f14b53ac5845a36c15016"
+      },
+      {
+        "page": 534,
+        "sha256": "53113c8a173036b6a02764e8873e03aa8184550e9e724610fb75f7017842ca7e"
+      },
+      {
+        "page": 535,
+        "sha256": "a59af97c970164b9511b630403684ecc3aa4324ffc25abd669c456d69f43cb0f"
+      }
+    ],
+    "kind": "saint-life",
+    "label": "Житие с нерешенными именами",
+    "personCoverage": "unresolved",
+    "note": "PDF 505-535 прочитаны, подтвержденные личности связаны с карточками. Отдельной сверки требуют перечень изгнанных епископов, адресаты сочинений, Максимин Трирский, Александр Солунский, Протоген Сардикийский и участники Медиоланского собора. Полнота имен не подтверждена."
   }
 ]
