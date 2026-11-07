@@ -7448,7 +7448,9 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ГЕОРГИЯ,",
       "saintIds": [
-        "georgij-amastridskij"
+        "georgij-amastridskij",
+        "tarasij-konstantinopolskij",
+        "irina-afinjanka-imperatrica"
       ]
     },
     {
@@ -7457,7 +7459,45 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ОТЦА НАШЕГО ЕВСТАФИЯ,",
       "saintIds": [
-        "evstafij-antiohijskij-arhiepiskop"
+        "evstafij-antiohijskij-arhiepiskop",
+        "stefan-pervomuchenik",
+        "varnava-apostol",
+        "pavel-apostol-pervoverhovnyj",
+        "petr-apostol-pervoverhovnyj",
+        "vasilij-velikij",
+        "petr-aleksandrijskij-arhiepiskop",
+        "aleksandr-aleksandrijskij-arhiepiskop",
+        "afanasij-velikij-aleksandrijskij",
+        "konstantin-velikij-imperator",
+        "osija-korduvijskij",
+        "andrej-pervozvannyj",
+        "simon-zilot-apostol",
+        "nina-prosvetitelnica-gruzii",
+        "georgij-pobedonosec",
+        "zavulon-otec-niny",
+        "susanna-mat-niny",
+        "nana-iverijskaja",
+        "mirian-iii-iverijskij",
+        "presvjataja-bogorodica",
+        "kornilij-sotnik",
+        "elena-mat-konstantina",
+        "ioann-zlatoust",
+        "ieronim-stridonskij",
+        "ignatij-bogonosec",
+        "polikarp-smirnskij",
+        "luka-apostol-evangelist",
+        "timofej-apostol-efesskij",
+        "spiridon-trimifuntskij",
+        "irina-afinjanka-imperatrica",
+        "epifanij-kiprskij",
+        "anastasij-sinait-antiohijskij",
+        "iustinian-vizantijskij",
+        "filaret-gumilevskij-chernigovskij",
+        "solomon-tsar-prorok",
+        "david-car-prorok",
+        "avraam-praotec",
+        "grigorij-neokesarijskij",
+        "samuil-prorok"
       ]
     },
     {

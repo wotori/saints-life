@@ -7219,5 +7219,27 @@
       "feoktist-igumen-v-simvolah",
       "platon-studijskij"
     ]
+  },
+  {
+    "book": 6,
+    "page": 349,
+    "heading": "ПАМЯТЬ СВЯТОГО ГЕОРГИЯ,",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pages": [
+      {
+        "page": 349,
+        "sha256": "1bd691b018215b87fb3512a7e84b3d9963d5ef9e52cf86c8ace9ad332920b2ae"
+      },
+      {
+        "page": 350,
+        "sha256": "c0fdbba0255e0cf8b17cf775cb9a435413f9eafb58450fc998082130c1476ff5"
+      }
+    ],
+    "note": "PDF 349-350: Георгий рукоположен Тарасием при Константине VI и его матери Ирине. Родители Феодор и Мигефуса описаны благочестивыми, но не названы святыми; отдельные карточки по родству не созданы. Старец-наставник, предшественник на кафедре и спасенные купцы не названы. Константин VI и Никифор Логофет не добавлены как святые.",
+    "saintIds": [
+      "georgij-amastridskij",
+      "tarasij-konstantinopolskij",
+      "irina-afinjanka-imperatrica"
+    ]
   }
 ]
