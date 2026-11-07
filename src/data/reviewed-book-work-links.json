@@ -9008,7 +9008,11 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ПРОРОКА МИХЕЯ",
       "saintIds": [
-        "mihej-syn-iemvlaja"
+        "mihej-syn-iemvlaja",
+        "ilija-fesvitjanin-prorok",
+        "iosafat-tsar-iudejskij",
+        "mihej-morasfitjanin",
+        "dimitrij-rostovskij"
       ]
     },
     {
@@ -9017,7 +9021,10 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ГРИГОРИЯ КРИТСКОГО",
       "saintIds": [
-        "grigorij-akritskij"
+        "grigorij-akritskij",
+        "nikifor-konstantinopolskij-patriarh",
+        "lev-iii-papa-rimskij",
+        "mihail-sinadskij-ispovednik"
       ]
     },
     {
@@ -9026,7 +9033,8 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ФОСТИРИЯ",
       "saintIds": [
-        "fostirij-otshelnik"
+        "fostirij-otshelnik",
+        "ilija-fesvitjanin-prorok"
       ]
     },
     {
@@ -9035,7 +9043,10 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО МИНЫ",
       "saintIds": [
-        "mina-sinajskij-5-janvarja"
+        "mina-sinajskij-5-janvarja",
+        "moisej-prorok-bogovidec",
+        "ioann-postnik-konstantinopolskij",
+        "ioann-lestvichnik"
       ]
     },
     {
