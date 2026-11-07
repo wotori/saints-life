@@ -8825,7 +8825,8 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ДОМЕТИАНА,",
       "saintIds": [
-        "dometian-melitinskij"
+        "dometian-melitinskij",
+        "mavrikij-vizantijskij-imperator"
       ]
     },
     {
@@ -8834,7 +8835,15 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО МАРКИАНА",
       "saintIds": [
-        "markian-konstantinopolskij-presviter"
+        "markian-konstantinopolskij-presviter",
+        "markian-vizantijskij-imperator",
+        "pulherija-carica",
+        "feodosij-ii-mladshij-imperator",
+        "konstantin-velikij-imperator",
+        "anastasija-uzoreshitelnica",
+        "gennadij-konstantinopolskij",
+        "irina-makedonskaja",
+        "lev-i-vizantijskij-imperator"
       ]
     },
     {
@@ -8843,7 +8852,15 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ПАВЛА КОМЕЛЬСКОГО",
       "saintIds": [
-        "pavel-komelskij"
+        "pavel-komelskij",
+        "sergij-radonezhskij",
+        "kirill-belozerskij",
+        "avramij-chuhlomskij",
+        "georgij-vsevolodovich-vladimirskij",
+        "aleksandr-nevskij",
+        "fotij-mitropolit-moskovskij",
+        "pahomij-velikij",
+        "feodosij-velikij-kinoviarh"
       ]
     },
     {
