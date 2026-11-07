@@ -26110,5 +26110,93 @@
     "kind": "saint-life",
     "label": "Требуется сверка имен",
     "personCoverage": "unresolved"
+  },
+  {
+    "book": 7,
+    "page": 83,
+    "heading": "СТРАДАНИЕ СВЯТЫХ МУЧЕНИКОВ ПАВЛА и сестры его ИУЛИАНИИ",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pages": [
+      {
+        "page": 83,
+        "sha256": "c2009e54244f96b975fbd2929ad66be56115e4f9685ba363b19097def28e6ae5"
+      },
+      {
+        "page": 84,
+        "sha256": "2ccbd60480c439816c1884192ef4283b3b4ce7bc80be8077498db2089928d8d8"
+      },
+      {
+        "page": 85,
+        "sha256": "afaaec0904ea614726fa4f638ebcd91f9b69de2cde91d7dcacaf555738a61dbb"
+      },
+      {
+        "page": 86,
+        "sha256": "a9e7e2cb0c5cf8a9f954e75f650551c5c8a184e639cdbff7e466caf549e1af07"
+      },
+      {
+        "page": 87,
+        "sha256": "ae96ded3bc44d103f80386275e7d700e3503af026058896b412913d068b754b2"
+      },
+      {
+        "page": 88,
+        "sha256": "d433f918cd3753f098c22f799fd3d09dcbc7e30d695c7b921dc1afe8cc7efa14"
+      },
+      {
+        "page": 89,
+        "sha256": "3a7401976babc58187eaebbd20e92a91a03dd315015cfb98a56f2843afbe3fdb"
+      },
+      {
+        "page": 90,
+        "sha256": "a157b5cf64ea7406b8e0c1ac48b2f45d5c340003ba9129cb2bd698ab0e707844"
+      },
+      {
+        "page": 91,
+        "sha256": "2c1926428197d03f4b417964a071adf337b5aff21665de0345b0277769a9d60e"
+      },
+      {
+        "page": 92,
+        "sha256": "fc84ae263eb60a120f1aeca158e6340e99feb1f06c76a0b41a17b8e12b13ef0d"
+      },
+      {
+        "page": 93,
+        "sha256": "0bb1a85e898b687d3e0095876dec548d60ea8ae5e45ec5006c42833231cedcc7"
+      },
+      {
+        "page": 94,
+        "sha256": "71cfd1f6ab9a6054d8c96bbd3903456da7116427cadf40f124b088e98f80f0eb"
+      },
+      {
+        "page": 95,
+        "sha256": "6f7d42982b54e0f04a6d64261e6133b4e4e27cdde294af74f987755816f26dae"
+      },
+      {
+        "page": 96,
+        "sha256": "e85fa7d2c5b825f2e8ae31d2ff1aa592218e0261db130f41a637e687c8bea183"
+      },
+      {
+        "page": 97,
+        "sha256": "43f380fc34e26bcf6b0781343c06e7bd90a6fecca16027d723e512ee0c2cc2df"
+      },
+      {
+        "page": 98,
+        "sha256": "e16b2db2d39fe93636940dac1511039e31b6a6816224c55d3aac8c1aff49025a"
+      },
+      {
+        "page": 99,
+        "sha256": "019eb2fa298a775648b67243d989d81944cd22288144d138f76a8ebb08fa334c"
+      },
+      {
+        "page": 100,
+        "sha256": "9b23992152dc3de5863f5355afebb53c43bce15e5c2ee8d1191f0b411e5733af"
+      },
+      {
+        "page": 101,
+        "sha256": "9117cb5162964c6438019b00cd003959eee4834e97a6a139e2ea182f47b329dd"
+      }
+    ],
+    "note": "PDF 83-101: Павел, Иулиания, Квадрат, Акакий и Стратоник; апостол Павел отдельно в примечании PDF 83 и речи PDF 98. Дионисий Ареопагит назван в примечании PDF 85. Авраам, Исаак, Иаков и три отрока PDF 87; Адам, Ева, Моисей, Гавриил и Богородица PDF 98. Начало страницы 83 относится к Герасиму, конец 101 к Иакову Постнику и не входит в сверяемый состав.",
+    "kind": "saint-life",
+    "label": "Именованные святые сверены",
+    "personCoverage": "reviewed-named-saints"
   }
 ]
