@@ -8479,7 +8479,15 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО АНТОНИЯ ВЕЛИКОГО",
       "saintIds": [
-        "antonij-velikij"
+        "antonij-velikij",
+        "osija-prorok",
+        "ilija-fesvitjanin-prorok",
+        "pavel-fivejskij",
+        "afanasij-velikij-aleksandrijskij",
+        "iezekiil-prorok",
+        "pavel-apostol-pervoverhovnyj",
+        "iov-mnogostradalnyj",
+        "petr-aleksandrijskij-arhiepiskop"
       ]
     },
     {
