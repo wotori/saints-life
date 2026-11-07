@@ -7437,7 +7437,9 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ОТЦА НАШЕГО ТИМОФЕЯ,",
       "saintIds": [
-        "timofej-v-simvolah"
+        "timofej-v-simvolah",
+        "feoktist-igumen-v-simvolah",
+        "platon-studijskij"
       ]
     },
     {
@@ -7689,7 +7691,10 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ОТЦА НАШЕГО ЛЬВА,",
       "saintIds": [
-        "lev-katanskij"
+        "lev-katanskij",
+        "savin-katanskij",
+        "petr-apostol-pervoverhovnyj",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
@@ -7698,7 +7703,8 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО СВЯЩЕННОМУЧЕНИКА САДОКА,",
       "saintIds": [
-        "sadok-persidskij"
+        "sadok-persidskij",
+        "simeon-persidskij-episkop"
       ]
     },
     {
