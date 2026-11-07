@@ -26070,5 +26070,45 @@
     "kind": "saint-life",
     "label": "Именованные святые сверены",
     "personCoverage": "reviewed-named-saints"
+  },
+  {
+    "book": 7,
+    "page": 77,
+    "heading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО ГЕРАСИМА,",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pages": [
+      {
+        "page": 77,
+        "sha256": "6a097027c85f343e3d6b8a59c0568dce4476dacbfbb3ab795750ac6cbe931b4e"
+      },
+      {
+        "page": 78,
+        "sha256": "61ced3b62cdca62c754876cd131b0d701582a6a24464ef4e5c5168afb6ee6cb5"
+      },
+      {
+        "page": 79,
+        "sha256": "73f9177a11282c883bd21a00119f5dc0459e32b0169f102a64ad0dd0a33fe37b"
+      },
+      {
+        "page": 80,
+        "sha256": "9f1a9d297b5eabf20c42bcb00e59c85826b3aeb2cebfe24d85e0d8195a0a94a2"
+      },
+      {
+        "page": 81,
+        "sha256": "0afb2e1959d6f0b908ef45dcaf0e0e20f8b46d8551d25ca8feb05c32e018618b"
+      },
+      {
+        "page": 82,
+        "sha256": "82ad17b359b79bd5edf8b6625c17482cd08a2bf636e21800609b7b00cec9a52a"
+      },
+      {
+        "page": 83,
+        "sha256": "c2009e54244f96b975fbd2929ad66be56115e4f9685ba363b19097def28e6ae5"
+      }
+    ],
+    "note": "PDF 77-83: Герасим Иорданский. Феодосий II, Феодосий I, Маркиан и Пульхерия PDF 77; Иувеналий, Евфимий, Иосиф и Мария PDF 78; Кириак PDF 80; Софроний PDF 81; Адам PDF 83. Кирилл Иерусалимский и Кирилл Александрийский названы в споре об авторстве PDF 78, ссылки отражают упоминания, не устанавливают авторство. Сноски к Павлу и Иулиании на PDF 83 исключены.",
+    "kind": "saint-life",
+    "label": "Требуется сверка имен",
+    "personCoverage": "unresolved"
   }
 ]
