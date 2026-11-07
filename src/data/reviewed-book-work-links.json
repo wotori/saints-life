@@ -9131,7 +9131,15 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "СТРАДАНИЕ СВЯТОЙ МУЧЕНИЦЫ ИУЛИАНИИ ДЕВЫ",
       "saintIds": [
-        "iulianija-nikomidiiskaja"
+        "iulianija-nikomidiiskaja",
+        "pavel-apostol-pervoverhovnyj",
+        "konstantin-velikij-imperator",
+        "daniil-prorok",
+        "fekla-ikonijskaja-pervomuchenica",
+        "eva-pramater",
+        "solomon-tsar-prorok",
+        "stefan-pervomuchenik",
+        "petr-apostol-pervoverhovnyj"
       ]
     },
     {
@@ -9140,7 +9148,11 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ПЕТРА,",
       "saintIds": [
-        "petr-moskovskij-mitropolit"
+        "petr-moskovskij-mitropolit",
+        "presvjataja-bogorodica",
+        "maksim-kievskij-mitropolit",
+        "aleksandr-nevskij",
+        "daniil-moskovskij"
       ]
     },
     {
@@ -9149,7 +9161,8 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО МУЧЕНИКА ФЕМИСТОКЛЕЯ",
       "saintIds": [
-        "femistoklej-mirlikiiskij"
+        "femistoklej-mirlikiiskij",
+        "dioskorid-iz-zhitija-femistokleja"
       ]
     },
     {
@@ -9383,7 +9396,20 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО СВЯЩЕННОМУЧЕНИКА ИГНАТИЯ БОГОНОСЦА",
       "saintIds": [
-        "ignatij-bogonosec"
+        "ignatij-bogonosec",
+        "petr-apostol-pervoverhovnyj",
+        "pavel-apostol-pervoverhovnyj",
+        "ioann-bogoslov",
+        "polikarp-smirnskij",
+        "simeon-metafrast",
+        "dimitrij-rostovskij",
+        "grigorij-dvoeslov",
+        "ioann-zlatoust",
+        "varnava-apostol",
+        "david-car-prorok",
+        "avraam-praotec",
+        "daniil-prorok",
+        "fekla-ikonijskaja-pervomuchenica"
       ]
     },
     {
@@ -9392,7 +9418,9 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ФИЛОГОНИЯ,",
       "saintIds": [
-        "filogonij-antiohijskij"
+        "filogonij-antiohijskij",
+        "ioann-zlatoust",
+        "konstantin-velikij-imperator"
       ]
     },
     {
@@ -9401,7 +9429,20 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ДАНИИЛА,",
       "saintIds": [
-        "daniil-serbskij-arhiepiskop"
+        "daniil-serbskij-arhiepiskop",
+        "stefan-milutin-serbskij",
+        "stefan-dechanskij",
+        "evstafij-ii-serbskij",
+        "isaija-prorok",
+        "simeon-serbskij-mirotochivyj",
+        "savva-serbskij",
+        "nikodim-i-serbskij",
+        "savva-iii-serbskij",
+        "presvjataja-bogorodica",
+        "ioann-predtecha",
+        "arsenij-i-serbskij",
+        "nikolaj-mirlikijskij",
+        "daniil-stolpnik"
       ]
     },
     {
