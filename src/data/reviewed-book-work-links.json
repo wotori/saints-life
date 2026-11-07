@@ -9628,7 +9628,8 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО МУЧЕНИКА РАЗУМНИКА",
       "saintIds": [
-        "razumnik-rimskij"
+        "razumnik-rimskij",
+        "sikst-rimskij-papa"
       ]
     },
     {
@@ -11569,7 +11570,23 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ОТЦА НАШЕГО СПИРИДОНА ТРИМИФУНТСКОГО",
       "saintIds": [
-        "spiridon-trimifuntskij"
+        "spiridon-trimifuntskij",
+        "david-car-prorok",
+        "iakov-praotec",
+        "avraam-praotec",
+        "konstantin-velikij-imperator",
+        "ilija-fesvitjanin-prorok",
+        "moisej-prorok-bogovidec",
+        "iisus-navin",
+        "aleksandr-konstantinopolskij",
+        "mitrofan-konstantinopolskij-patriarh",
+        "afanasij-velikij-aleksandrijskij",
+        "presvjataja-bogorodica",
+        "trifillij-levkusijskij",
+        "elisej-prorok",
+        "pavel-apostol-pervoverhovnyj",
+        "varnava-apostol",
+        "gedeon-sudija-izrailev"
       ]
     },
     {
