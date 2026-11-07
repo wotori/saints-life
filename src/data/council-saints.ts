@@ -1146,3 +1146,7 @@ councilSaints.push({"id": "dionisij-drugoj-korinfskij", "slug": "dionisij-drugoj
 councilVenerations.push({"saintId": "dionisij-drugoj-korinfskij", "traditionId": "russian-orthodox", "sourceId": "local-rostov", "note": "Свидетельство данного издания: книга 7, PDF 195-196. Другие традиции автоматически не назначены."});
 
 councilCommemorations.push({"id": "dionisij-drugoj-korinfskij-march10", "saintId": "dionisij-drugoj-korinfskij", "traditionId": "russian-orthodox", "sourceId": "local-rostov", "label": "С Коринфскими мучениками, книжная память", "rule": {"kind": "fixed", "calendar": "julian", "month": 3, "day": 10}});
+
+councilSaints.push({"id": "ioann-mosh-evirat", "slug": "ioann-mosh-evirat", "name": "Иоанн Мосх (Евират)", "aliases": ["Иоанн Евират", "Иоанн Мосх"], "rank": "преподобный", "sourceId": "local-rostov", "sourceLocator": "Книга 7, PDF 219-225: Иоанн Мосх и Евират, пресвитер, наставник и спутник Софрония, прямо назван преподобным и святым. PDF 219 и 221: связан с Лимонарем; PDF 225: кончина в Риме и погребение в киновии Феодосия. Это свидетельство данного издания, не самостоятельное установление авторства всех приписываемых сочинений."});
+
+councilVenerations.push({"saintId": "ioann-mosh-evirat", "traditionId": "russian-orthodox", "sourceId": "local-rostov", "note": "Книга 7, PDF 219-225 прямо именует Иоанна святым и преподобным. Дата памяти Софрония не назначена Иоанну, другие традиции автоматически не назначены."});

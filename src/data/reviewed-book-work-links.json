@@ -7089,7 +7089,29 @@
       "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
       "expectedHeading": "ПАМЯТЬ ИЖЕ ВО СВЯТЫХ ОТЦА НАШЕГО СОФРОНИЯ ПРЕМУДРОГО,",
       "saintIds": [
-        "sofronij-ierusalimskij"
+        "sofronij-ierusalimskij",
+        "ioann-lestvichnik",
+        "pavel-apostol-pervoverhovnyj",
+        "vasilij-velikij",
+        "feodosij-velikij-kinoviarh",
+        "ioann-mosh-evirat",
+        "savva-osvjashhennyj",
+        "zaharija-ierusalimskij-patriarh",
+        "mark-evangelist",
+        "ioann-milostivyj",
+        "evlogij-aleksandrijskij",
+        "presvjataja-bogorodica",
+        "ieremija-prorok",
+        "kir-aleksandrijskij",
+        "ioann-aleksandrijskij-bessrebrenik",
+        "iosif-prekrasnyj",
+        "iakov-praotec",
+        "feodosij-i-velikij-imperator",
+        "modest-ierusalimskij",
+        "maksim-ispovednik",
+        "marija-egipetskaja",
+        "ioann-predtecha",
+        "solomon-tsar-prorok"
       ]
     },
     {
@@ -13072,7 +13094,8 @@
         "presvjataja-bogorodica",
         "kiriak-otshelnik-palestinskij",
         "sofronij-ierusalimskij",
-        "adam-praotec"
+        "adam-praotec",
+        "ioann-mosh-evirat"
       ]
     },
     {
