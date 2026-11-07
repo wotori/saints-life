@@ -25682,5 +25682,153 @@
     "kind": "short-memory",
     "label": "Требуется сверка имен",
     "personCoverage": "unresolved"
+  },
+  {
+    "book": 7,
+    "page": 7,
+    "heading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОЙ ПРЕПОДОБНОМУЧЕНИЦЫ ЕВДОКИИ",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pages": [
+      {
+        "page": 7,
+        "sha256": "432a3762dff57924efc96d76a851ed2ca7ba9d6b652b15a88c9d8b3edc9a5f42"
+      },
+      {
+        "page": 8,
+        "sha256": "21a2d316496fcbdb8446bc3204ecb5b70b0bece8b54d9839f1ea3a8c33ca7f67"
+      },
+      {
+        "page": 9,
+        "sha256": "dbeb278058ae77d4989f815185d44757b35dfa5ce275127abe81d20387f51fb7"
+      },
+      {
+        "page": 10,
+        "sha256": "a1c284ebe9b8028507c8879895062c8f481e3d0775c9b1b987cb1c1c88524999"
+      },
+      {
+        "page": 11,
+        "sha256": "d519c967422dc918545c62b86dcff0c60d0c3cabc20bc93134f25eb0670e2d6b"
+      },
+      {
+        "page": 12,
+        "sha256": "6a56d19e7c5f92d4b4477593fa8f1c43d7345d4654c3bbafc2db2c5e5cc4aa65"
+      },
+      {
+        "page": 13,
+        "sha256": "9adfbae50aba4b65f4aa496098526e76dd951491d590407249a0bd97373b01cd"
+      },
+      {
+        "page": 14,
+        "sha256": "ecb709a18ea93f949b9d3fe6f927cb58fd80d78a673af11ec0ea8d7c7cb41279"
+      },
+      {
+        "page": 15,
+        "sha256": "13cb3920b2c57b078b2176827f370d34a59504078280e173d9bc71d5ed3a41e9"
+      },
+      {
+        "page": 16,
+        "sha256": "7ae1d57c5aac524037f4555881daafb5c23d2404949962cea2f776010aafb2ba"
+      },
+      {
+        "page": 17,
+        "sha256": "8656ec06e1c1c607ed08492b727440fb4e8198cabe6f98289d818db2d4a3fa46"
+      },
+      {
+        "page": 18,
+        "sha256": "2c93b0505d50f7e1bf71dc181874542184eb467cd9e9e23043e98ffc4d58b897"
+      },
+      {
+        "page": 19,
+        "sha256": "51552a583009c58badabe052ad78d38e1092e00eccb8cb5a15a4690e83957a1e"
+      },
+      {
+        "page": 20,
+        "sha256": "aab9695bd3150d2dec5fc4e22b6907136474720f2171376c1bd4d2f30a44b443"
+      },
+      {
+        "page": 21,
+        "sha256": "94bc3a2fe263de7e3c275bd452d96b373b008c2ff3314d1e354ec27c3b2371d1"
+      },
+      {
+        "page": 22,
+        "sha256": "6ac880e0190f0bff26fe529d14c5fe1bcc3183f6054f6e252b88ccf6062ab3d2"
+      },
+      {
+        "page": 23,
+        "sha256": "c56a0a964fe1a6c6c7545ddc902b521c5cba95aeb96aa9fad9310fb4e9b79c49"
+      },
+      {
+        "page": 24,
+        "sha256": "a6e8d24ca98f27c59f81ebf2834124e8f77a5d81854024acb37e63a5475df9b9"
+      },
+      {
+        "page": 25,
+        "sha256": "d1ad5abdf72beed50c44e20c239a947c9579cdf8a60eac19162ea10e09b9fca8"
+      },
+      {
+        "page": 26,
+        "sha256": "b067b4462c6c153c51f1ea1dcfa5e2cab7e8f0b1ca5c3356fc3a73d56c1a5c51"
+      },
+      {
+        "page": 27,
+        "sha256": "9df8611c799d50b8f46aebc0f5482b09e073c6c1421d0621c00407a422d2d561"
+      },
+      {
+        "page": 28,
+        "sha256": "07b04d004df85a5d8452bbd2a03ed16b1b2980636e66a53b74077c28738b711f"
+      },
+      {
+        "page": 29,
+        "sha256": "d3faeb352606dda0c5141455149635d6d5a397655446acff2f834ab677ec96bc"
+      },
+      {
+        "page": 30,
+        "sha256": "9c89851684b1139ff237da6823c08387c183d17426f73d1102ada0c3a8047020"
+      },
+      {
+        "page": 31,
+        "sha256": "b4cfb77d7edc2bea02325696b1e64e7aa0d5eca675f9c85f87203bcaf8df3160"
+      },
+      {
+        "page": 32,
+        "sha256": "e2ece714e8da7dc4f801e2a85598817619f699cd201ccd1fd1ebc2e02d7e0eec"
+      },
+      {
+        "page": 33,
+        "sha256": "593983a21790cf80819ad65848a5ed9c485a46f90aaba3065cd9a309a7c74c27"
+      },
+      {
+        "page": 34,
+        "sha256": "59a22b0d1c851c6a91b171a2813175420ca53156ac60c868289fad3499eab55d"
+      },
+      {
+        "page": 35,
+        "sha256": "c31a47fe24f6b0f3de7ac46ab3c9cc0cb4edeaeda2b575ee8820a6ebb003be3c"
+      },
+      {
+        "page": 36,
+        "sha256": "bc25a0d031279d182b7989db99f8ffb097b5b592ad2635e41138491d5b99e5f5"
+      },
+      {
+        "page": 37,
+        "sha256": "0112e51c6ef0217945dd27cb934bada370093de00aa6adc5fb133fbc3400e225"
+      },
+      {
+        "page": 38,
+        "sha256": "8932b0f212b8faf7b0c396554db2fa334e2dbdad26bb1a10785ce326be65e311"
+      },
+      {
+        "page": 39,
+        "sha256": "329a48a6216a293bebaef16dbf6ddc59f2bbb818ea8f63d2fada09fa8422ad70"
+      },
+      {
+        "page": 40,
+        "sha256": "4094776bab2c15f9c019dc06125996e2238f914f9ef78a638faac73593e77e96"
+      }
+    ],
+    "note": "PDF 7-40: Евдокия Илиопольская до заголовка Нестора и Тривимия. Подтверждены Моисей, Иисус Навин, Давид, Авраам и Михаил. Герман назван преподобным, требуется идентификация; Феодот, Харитина и другие участники в очереди проверки. Сноски следующего произведения исключены.",
+    "kind": "saint-life",
+    "label": "Требуется сверка имен",
+    "personCoverage": "unresolved"
   }
 ]
