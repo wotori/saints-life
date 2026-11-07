@@ -9155,7 +9155,8 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "СТРАДАНИЕ СВЯТОЙ МУЧЕНИЦЫ АНИСИИ ДЕВИЦЫ",
       "saintIds": [
-        "anisija-solunskaja"
+        "anisija-solunskaja",
+        "presvjataja-bogorodica"
       ]
     },
     {
@@ -9164,7 +9165,8 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО МУЧЕНИКА ФИЛЕТЕРА",
       "saintIds": [
-        "fileter-nikomidiiskij"
+        "fileter-nikomidiiskij",
+        "evviot-sigrianskij"
       ]
     },
     {
@@ -9173,7 +9175,9 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ЗОТИКА СИРОТОПИТАТЕЛЯ",
       "saintIds": [
-        "zotik-sirotopitatel"
+        "zotik-sirotopitatel",
+        "konstantin-velikij-imperator",
+        "avraam-praotec"
       ]
     },
     {
@@ -9182,7 +9186,12 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОЙ ФЕОДОРЫ КЕСАРИЙСКОЙ",
       "saintIds": [
-        "feodora-kesarijskaja-30-dekabrja"
+        "feodora-kesarijskaja-30-dekabrja",
+        "presvjataja-bogorodica",
+        "anna-bogomatereva",
+        "sarra-supruga-avraama",
+        "ripsimija-armjanskaja",
+        "tiridat-iii-armjanskij"
       ]
     },
     {
@@ -9191,7 +9200,8 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОЙ ФЕОДОРЫ ЦАРЕГРАДСКОЙ",
       "saintIds": [
-        "feodora-caregradskaja"
+        "feodora-caregradskaja",
+        "vasilij-novyj-konstantinopolskij"
       ]
     },
     {
