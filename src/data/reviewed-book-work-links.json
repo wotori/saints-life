@@ -9175,7 +9175,12 @@
         "hrisogon-s-anastasiej",
         "feodotija-s-anastasiej",
         "evod-s-feodotiej",
-        "evtihian-s-anastasiej"
+        "evtihian-s-anastasiej",
+        "zoil-presviter-s-hrisogonom",
+        "agapija-solunskaja",
+        "hionija-solunskaja",
+        "irina-solunskaja-s-agapiej",
+        "david-car-prorok"
       ]
     },
     {
@@ -9184,7 +9189,16 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ОТЦА НАШЕГО НИФОНТА,",
       "saintIds": [
-        "nifont-kiprskij"
+        "nifont-kiprskij",
+        "konstantin-velikij-imperator",
+        "presvjataja-bogorodica",
+        "anastasija-uzoreshitelnica",
+        "pavel-apostol-pervoverhovnyj",
+        "iona-prorok",
+        "aleksandr-aleksandrijskij-arhiepiskop",
+        "petr-aleksandrijskij-arhiepiskop",
+        "afanasij-velikij-aleksandrijskij",
+        "hristofor-konstancijskij-episkop"
       ]
     },
     {
@@ -9202,7 +9216,8 @@
         "pompij-kritskij",
         "agafopus-kritskij",
         "vasilid-kritskij",
-        "evarest-kritskij"
+        "evarest-kritskij",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
@@ -9211,7 +9226,9 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ПАВЛА,",
       "saintIds": [
-        "pavel-neokesarijskij"
+        "pavel-neokesarijskij",
+        "konstantin-velikij-imperator",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
