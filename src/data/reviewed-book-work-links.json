@@ -8018,7 +8018,14 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО МУЧЕНИКА ТРИФОНА",
       "saintIds": [
-        "trifon-apamejskij"
+        "trifon-apamejskij",
+        "makarij-moskovskij-mitropolit",
+        "dimitrij-rostovskij",
+        "petr-apostol-pervoverhovnyj",
+        "pavel-apostol-pervoverhovnyj",
+        "david-car-prorok",
+        "stefan-pervomuchenik",
+        "iulian-livijskij"
       ]
     },
     {
@@ -8027,7 +8034,8 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ВЕНДИМИАНА,",
       "saintIds": [
-        "vendimian-vifinskij"
+        "vendimian-vifinskij",
+        "avksentij-vifinskij"
       ]
     },
     {
