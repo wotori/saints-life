@@ -8680,7 +8680,12 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ГРИГОРИЯ ПЕЧЕРСКОГО",
       "saintIds": [
-        "grigorij-pecherskij-chudotvorec"
+        "grigorij-pecherskij-chudotvorec",
+        "grigorij-neokesarijskij",
+        "antonij-pecherskij",
+        "feodosij-pecherskij",
+        "presvjataja-bogorodica",
+        "jaroslav-mudryj-kievskij"
       ]
     },
     {
@@ -8689,7 +8694,10 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОЙ ДОМНИКИ",
       "saintIds": [
-        "domnika-konstantinopolskaja"
+        "domnika-konstantinopolskaja",
+        "feodosij-i-velikij-imperator",
+        "nektarij-konstantinopolskij",
+        "vasilij-velikij"
       ]
     },
     {
