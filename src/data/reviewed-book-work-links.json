@@ -7648,7 +7648,12 @@
       "saintIds": [
         "arhipp-apostol",
         "filimon-apostol",
-        "apfija-ravnoapostolnaja"
+        "apfija-ravnoapostolnaja",
+        "amvrosij-mediolanskij",
+        "epafras-apostol",
+        "pavel-apostol-pervoverhovnyj",
+        "vasilij-velikij",
+        "ioann-zlatoust"
       ]
     },
     {
@@ -7657,7 +7662,15 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО РАВУЛЫ",
       "saintIds": [
-        "ravula-sirijskij"
+        "ravula-sirijskij",
+        "ilija-fesvitjanin-prorok",
+        "ioann-predtecha",
+        "pavel-apostol-pervoverhovnyj",
+        "varnava-apostol",
+        "petr-apostol-pervoverhovnyj",
+        "ioann-bogoslov",
+        "iustinian-vizantijskij",
+        "konstantin-velikij-imperator"
       ]
     },
     {
@@ -7969,7 +7982,9 @@
         "simeon-stolpnik-starshij",
         "feodosij-i-velikij-imperator",
         "grigorij-bogoslov",
-        "grigorij-nisskij"
+        "grigorij-nisskij",
+        "evgenij-ispovednik-s-makariem",
+        "makarij-ispovednik-s-evgeniem"
       ]
     },
     {
