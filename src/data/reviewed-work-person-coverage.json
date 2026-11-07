@@ -7357,5 +7357,33 @@
       "moisej-sirijskij-s-polihroniem",
       "damian-sirijskij-s-polihroniem"
     ]
+  },
+  {
+    "book": 6,
+    "page": 415,
+    "heading": "ПАМЯТЬ ПРЕПОДОБНОГО ЕРАЗМА ПЕЧЕРСКОГО",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pages": [
+      {
+        "page": 415,
+        "sha256": "373157378d102940f157828f22902698adffca614bdb01243568c4c426e570d8"
+      },
+      {
+        "page": 416,
+        "sha256": "8b13e9dcfac2ef7d801e7add7c9f30f074f0cd5e0da4635ee1286fdb878dc507"
+      },
+      {
+        "page": 417,
+        "sha256": "de1117751114debe0207daf0e99ac6e54b6adee22402e7d3a8a9ef5dfac03994"
+      }
+    ],
+    "note": "PDF 415-417: Еразм Печерский, Соломон в начальной цитате, Антоний и Феодосий Печерские и Богородица в явлении. Другие иноки и множество святых поименно не названы. Перенесенные под заголовок примечания о главе Предтечи отнесены к предыдущему разделу. Неназванный пророк при цитате псалма не отождествлен только по номеру псалма.",
+    "saintIds": [
+      "erazm-pecherskij",
+      "solomon-tsar-prorok",
+      "antonij-pecherskij",
+      "feodosij-pecherskij",
+      "presvjataja-bogorodica"
+    ]
   }
 ]

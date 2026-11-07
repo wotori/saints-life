@@ -7595,7 +7595,17 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ОБРЕТЕНИЕ ЧЕСТНОЙ ГЛАВЫ Предтечи и Крестителя Господня ИОАННА",
       "saintIds": [
-        "ioann-predtecha"
+        "ioann-predtecha",
+        "luka-apostol-evangelist",
+        "ioanna-zhena-huzy",
+        "konstantin-velikij-imperator",
+        "elena-mat-konstantina",
+        "simeon-metafrast",
+        "dimitrij-rostovskij",
+        "matrona-konstantinopolskaja",
+        "ioann-zlatoust",
+        "feodora-carica-11-fevralja",
+        "ignatij-konstantinopolskij-patriarh"
       ]
     },
     {
@@ -7604,7 +7614,11 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ЕРАЗМА ПЕЧЕРСКОГО",
       "saintIds": [
-        "erazm-pecherskij"
+        "erazm-pecherskij",
+        "solomon-tsar-prorok",
+        "antonij-pecherskij",
+        "feodosij-pecherskij",
+        "presvjataja-bogorodica"
       ]
     },
     {
