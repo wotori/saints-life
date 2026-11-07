@@ -7940,7 +7940,9 @@
       "saintIds": [
         "favsta-kizicheskaja",
         "evilasij-s-favstoj",
-        "maksim-s-favstoj"
+        "maksim-s-favstoj",
+        "presvjataja-bogorodica",
+        "blagorazumnyj-razbojnik"
       ]
     },
     {
@@ -7952,7 +7954,8 @@
         "dorofeja-kesarijskaja",
         "hristina-s-dorofeej",
         "kallista-s-dorofeej",
-        "feofil-s-dorofeej"
+        "feofil-s-dorofeej",
+        "vasilij-velikij"
       ]
     },
     {
@@ -7961,7 +7964,10 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО МУЧЕНИКА ИУЛИАНА",
       "saintIds": [
-        "iulian-emisskij"
+        "iulian-emisskij",
+        "silvan-emesskij",
+        "luka-diakon-emesskij",
+        "mokij-chtec-emesskij"
       ]
     },
     {
@@ -7970,7 +7976,9 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ВУКОЛА,",
       "saintIds": [
-        "vukol-smirnskij"
+        "vukol-smirnskij",
+        "ioann-bogoslov",
+        "polikarp-smirnskij"
       ]
     },
     {
