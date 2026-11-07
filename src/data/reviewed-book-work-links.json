@@ -8124,7 +8124,11 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ЖИТИЕ СВЯТОГО БЛАГОВЕРНОГО КНЯЗЯ РОМАНА,",
       "saintIds": [
-        "roman-uglichskij"
+        "roman-uglichskij",
+        "iov-moskovskij-patriarh",
+        "ermogen-moskovskij-patriarh",
+        "georgij-vsevolodovich-vladimirskij",
+        "dimitrij-uglichskij"
       ]
     },
     {
@@ -8133,7 +8137,15 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ОТЦА НАШЕГО ИСИДОРА ПИЛУСИОТСКОГО",
       "saintIds": [
-        "isidor-pelusiotskij"
+        "isidor-pelusiotskij",
+        "kirill-aleksandrijskij-arhiepiskop",
+        "ioann-zlatoust",
+        "feodosij-ii-mladshij-imperator",
+        "feodosij-i-velikij-imperator",
+        "presvjataja-bogorodica",
+        "pavel-apostol-pervoverhovnyj",
+        "palladij-elenopolskij",
+        "dorofej-egipetskij-pustynnik"
       ]
     },
     {
@@ -8142,7 +8154,13 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО НИКОЛАЯ",
       "saintIds": [
-        "nikolaj-studijskij"
+        "nikolaj-studijskij",
+        "vasilid-kritskij",
+        "pavel-apostol-pervoverhovnyj",
+        "tit-kritskij-apostol",
+        "ioann-predtecha",
+        "konstantin-velikij-imperator",
+        "feodor-studit"
       ]
     },
     {
