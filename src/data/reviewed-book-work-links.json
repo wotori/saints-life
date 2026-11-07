@@ -8421,7 +8421,12 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОГО ПРЕПОДОБНОМУЧЕНИКА АНАСТАСИЯ ПЕРСЯНИНА",
       "saintIds": [
-        "anastasij-persjanin"
+        "anastasij-persjanin",
+        "ilija-ierusalimskij-presviter",
+        "modest-ierusalimskij",
+        "zaharija-ierusalimskij-patriarh",
+        "presvjataja-bogorodica",
+        "evfimija-vsehvalnaja-halkidonskaja"
       ]
     },
     {
