@@ -8767,7 +8767,10 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ЕВСТРАТИЯ",
       "saintIds": [
-        "evstratij-tarsijskij"
+        "evstratij-tarsijskij",
+        "ioannikij-velikij",
+        "grigorij-avgarskij-nastavnik-evstratija",
+        "vasilij-avgarskij-nastavnik-evstratija"
       ]
     },
     {
@@ -8776,7 +8779,9 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ПРОРОКА САМЕЯ",
       "saintIds": [
-        "samej-prorok"
+        "samej-prorok",
+        "solomon-tsar-prorok",
+        "moisej-prorok-bogovidec"
       ]
     },
     {
@@ -8785,7 +8790,10 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ПЕТРА,",
       "saintIds": [
-        "petr-sevastijskij-episkop"
+        "petr-sevastijskij-episkop",
+        "vasilij-velikij",
+        "makrina-kappadokijskaja",
+        "grigorij-nisskij"
       ]
     },
     {
