@@ -7422,7 +7422,13 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОГО СВЯЩЕННОМУЧЕНИКА ПРОТЕРИЯ,",
       "saintIds": [
-        "proterij-aleksandrijskij"
+        "proterij-aleksandrijskij",
+        "kirill-aleksandrijskij-arhiepiskop",
+        "presvjataja-bogorodica",
+        "markian-vizantijskij-imperator",
+        "isaija-prorok",
+        "lev-i-vizantijskij-imperator",
+        "anatolij-konstantinopolskij-patriarh"
       ]
     },
     {
@@ -7431,7 +7437,8 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ОТЦА НАШЕГО ВАСИЛИЯ ИСПОВЕДНИКА",
       "saintIds": [
-        "vasilij-dekapolit-ispovednik"
+        "vasilij-dekapolit-ispovednik",
+        "prokopij-dekapolit"
       ]
     },
     {
@@ -7450,7 +7457,9 @@
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНЫХ ЖЕН МАРИНЫ и КИРЫ",
       "saintIds": [
         "marina-verijskaja",
-        "kira-verijskaja"
+        "kira-verijskaja",
+        "fekla-ikonijskaja-pervomuchenica",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
