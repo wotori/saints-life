@@ -2503,7 +2503,10 @@ test('March readings keep namesakes and different calendar dates tied to their s
   const sha = '569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9';
   const body = 'СТРАДАНИЕ СВЯТОГО МУЧЕНИКА КОДРАТА НИКОМИДИЙСКОГО И С НИМ СВЯТЫХ МУЧЕНИКОВ САТОРИНА и РУФИНА';
   for (const id of ['kodrat-nikomidijskij', 'satorin-nikomidijskij', 'rufin-nikomidijskij']) assert.deepEqual(reviewedWorkForPage(id, 7, 196, sha, body), { book: 7, page: 196, section: 0 });
-  assert.equal(reviewedWorkForPage('kodrat-korinfskij', 7, 196, sha, body), undefined);
+  // The Corinthian namesake is explicitly mentioned in the opening and its footnote.
+  assert.deepEqual(reviewedWorkForPage('kodrat-korinfskij', 7, 196, sha, body), { book: 7, page: 196, section: 0 });
+  assert.notEqual(getSaint('kodrat-korinfskij')?.slug, getSaint('kodrat-nikomidijskij')?.slug);
+  assert.equal(reviewedWorkForPage('kodrat-korinfskij', 7, 196, 'other-edition', body), undefined);
   assert.ok(commemorations.some(c => c.saintId === 'pionij-smirnskij' && c.sourceId === 'pomor-mesjaceslov-2015' && c.rule.kind === 'fixed' && c.rule.month === 3 && c.rule.day === 10));
   assert.ok(commemorations.some(c => c.saintId === 'pionij-smirnskij' && c.traditionId === 'russian-orthodox' && c.rule.kind === 'fixed' && c.rule.month === 3 && c.rule.day === 11));
   const anchor = 'В тот же день память святой мученицы Христины, в [У веке в Пер-';
