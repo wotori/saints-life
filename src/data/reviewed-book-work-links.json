@@ -8024,7 +8024,8 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО ВЕЛИКОМУЧЕНИКА ФЕОДОРА СТРАТИЛАТА",
       "saintIds": [
-        "feodor-stratilat"
+        "feodor-stratilat",
+        "feodor-tiron"
       ]
     },
     {
@@ -8033,7 +8034,16 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ПРОРОКА ЗАХАРИИ СЕРПОВИДЦА",
       "saintIds": [
-        "zaharija-serpovidec"
+        "zaharija-serpovidec",
+        "zorovavel-syn-salafiilja",
+        "david-car-prorok",
+        "daniil-prorok",
+        "isaija-prorok",
+        "aggej-prorok",
+        "kirill-aleksandrijskij-arhiepiskop",
+        "matfej-apostol-evangelist",
+        "ieremija-prorok",
+        "ioann-bogoslov"
       ]
     },
     {
