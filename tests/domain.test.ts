@@ -383,6 +383,7 @@ test('reviewed edition links require the same person, file and unique heading', 
       assert.ok(getSaint(id), id);
       assert.ok(reviewedWorkLocations(id).some(item => item.book === work.book && item.page === work.page));
       const multiline: Record<string, string> = {
+        '5:460': 'ПОКЛОНЕНИЕ ЧЕСТНЫМ ВЕРИГАМ\nСВЯТОГО АПОСТОЛА ПЕТРА',
         '5:389': 'ПЕРВОЕ ИЗБИЕНИЕ\nПРЕПОДОБНЫХ ОТЦОВ',
         '5:403': 'ВТОРОЕ ИЗБИЕНИЕ\nПРЕПОДОБНЫХ ОТЦОВ',
         "3:772": "Похвальное слово\nСВЯТОМУ АПОСТОЛУ АНДРЕЮ ПЕРВОЗВАННОМУ\nсвятого Иоанна Златоустого",
@@ -3067,4 +3068,14 @@ test('Sinai massacre accounts have separate headings without matching running he
   }
   assert.deepEqual(sectionHeadings('Второе избиение преподобных отцов 401'), []);
   assert.deepEqual(sectionHeadings('Первое избиение совершено было в четвертом веке.'), []);
+});
+
+
+test('Peter chains display title is separate from prose and running headers', async () => {
+  const { sectionHeadings } = await import('../src/lib/book-sections');
+  const body = 'ДЕНЬ ШЕСТНАДЦАТЫЙ\n\nПОКЛОНЕНИЕ ЧЕСТНЫМ ВЕРИГАМ\nСВЯТОГО АПОСТОЛА ПЕТРА\n\nТекст.';
+  assert.deepEqual(sectionHeadings(body), [{ offset: body.indexOf('ПОКЛОНЕНИЕ'), title: 'ПОКЛОНЕНИЕ ЧЕСТНЫМ ВЕРИГАМ СВЯТОГО АПОСТОЛА ПЕТРА' }]);
+  for (const text of ['Поклонение честным веригам апостола Петра 459', 'Поклонение честным веригам совершается в январе.', 'ПОКЛОНЕНИЕ ЧЕСТНЫМ ВЕРИГАМ\nОбычная проза.', 'ПОКЛОНЕНИЕ ЧЕСТНЫМ ВЕРИГАМ СВЯТОГО АПОСТОЛА ПЕТРА 459']) {
+    assert.deepEqual(sectionHeadings(text), []);
+  }
 });

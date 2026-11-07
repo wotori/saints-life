@@ -8713,7 +8713,13 @@
         "leonilla-langonijskaja",
         "neon-langonijskij",
         "turvon-langonijskij",
-        "iovilla-langonijskaja"
+        "iovilla-langonijskaja",
+        "polikarp-smirnskij",
+        "ioann-bogoslov",
+        "andohij-gallskij",
+        "venign-dizhonskij",
+        "firs-diakon-gallskij",
+        "simforian-otenskij"
       ]
     },
     {
@@ -14143,6 +14149,22 @@
         "daniil-prorok",
         "iov-mnogostradalnyj",
         "presvjataja-bogorodica"
+      ]
+    },
+    {
+      "book": 5,
+      "page": 460,
+      "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
+      "expectedHeading": "ПОКЛОНЕНИЕ ЧЕСТНЫМ ВЕРИГАМ СВЯТОГО АПОСТОЛА ПЕТРА",
+      "saintIds": [
+        "petr-apostol-pervoverhovnyj",
+        "pavel-apostol-pervoverhovnyj",
+        "iakov-zevedeev",
+        "iuvenalij-ierusalimskij",
+        "feodosij-ii-mladshij-imperator",
+        "konstantin-velikij-imperator",
+        "iustinian-vizantijskij",
+        "aleksandr-rimskij-papa"
       ]
     }
   ]

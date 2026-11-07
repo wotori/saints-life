@@ -31,6 +31,13 @@ export function sectionHeadings(body: string): SectionHeading[] {
   const result: SectionHeading[] = [];
   for (let i = 0; i < lines.length; i++) {
     const first = lines[i].trim().replace(/^_\s+(?=[А-ЯЁ])/u, '');
+    // This relic feast uses two display lines rather than a generic life heading.
+    if (first === 'ПОКЛОНЕНИЕ ЧЕСТНЫМ ВЕРИГАМ'
+      && lines[i + 1]?.trim() === 'СВЯТОГО АПОСТОЛА ПЕТРА') {
+      result.push({ offset: offsets[i], title: 'ПОКЛОНЕНИЕ ЧЕСТНЫМ ВЕРИГАМ СВЯТОГО АПОСТОЛА ПЕТРА' });
+      i += 1;
+      continue;
+    }
     // Require the separate subject line: running headers also name these accounts.
     if (/^(?:ПЕРВОЕ|ВТОРОЕ) ИЗБИЕНИЕ$/u.test(first)
       && lines[i + 1]?.trim() === 'ПРЕПОДОБНЫХ ОТЦОВ') {
