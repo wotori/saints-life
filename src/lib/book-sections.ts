@@ -31,6 +31,14 @@ export function sectionHeadings(body: string): SectionHeading[] {
   const result: SectionHeading[] = [];
   for (let i = 0; i < lines.length; i++) {
     const first = lines[i].trim().replace(/^_\s+(?=[А-ЯЁ])/u, '');
+    // This sentence-case title needs its full subtitle to exclude running headers.
+    if (first === 'Повесть о затворнике,') {
+      const subtitle = lines.slice(i + 1, i + 5).map(line => line.trim()).filter(Boolean);
+      if (subtitle[0] === 'которому Бог открыл об участи' && subtitle[1] === 'принимающих милостыню') {
+        result.push({ offset: offsets[i], title: [first, ...subtitle.slice(0, 2)].join(' ') });
+      }
+      continue;
+    }
     // A dropped initial in a display heading requires a separate uppercase name.
     // Preserve the OCR title; do not repair prose or running headers.
     if (first === 'АМЯТЬ СВЯТОГО' && /^[А-ЯЁ]+,$/u.test(lines[i + 1]?.trim() ?? '')) {

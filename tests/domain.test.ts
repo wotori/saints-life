@@ -551,6 +551,18 @@ test('section headings preserve offsets and do not mistake prose or running head
   assert.ok(text.slice(headings[1].offset).startsWith('ПАМЯТЬ СВЯТОГО'));
 });
 
+test('recluse narrative has a separate heading without promoting running headers or incomplete subtitles', async () => {
+  const { sectionHeadings } = await import('../src/lib/book-sections');
+  const title = 'Повесть о затворнике,\n\nкоторому Бог открыл об участи\nпринимающих милостыню';
+  const prefix = 'Окончание памяти Павла.\n\n';
+  assert.deepEqual(sectionHeadings(prefix + title + '\n\nН екоторый затворник...'), [{
+    offset: prefix.length, title: 'Повесть о затворнике, которому Бог открыл об участи принимающих милостыню',
+  }]);
+  assert.deepEqual(sectionHeadings('Повесть о затворнике 163\n\nПродолжение рассказа.'), []);
+  assert.deepEqual(sectionHeadings('Повесть о затворнике,\n\nкоторому Бог открыл об участи\nОбычная проза.'), []);
+  assert.deepEqual(sectionHeadings('Повесть о затворнике, которому Бог открыл об участи принимающих милостыню.'), []);
+});
+
 test('OCR headings recover mixed-case connectors and preserve consecutive section boundaries', async () => {
   const { sectionHeadings, uniqueSectionForName } = await import('../src/lib/book-sections');
   const group = 'ПАМЯТЬ СВЯТОГО БЛАГОВЕРНОГО КНЯЗЯ\nФЕОДОРА,\n\nСмоленского и Ярославского чудотворца,\nи чад его\n\nДАВИДА и КОНСТАНТИНА\n\nТекст жития.';
