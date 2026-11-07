@@ -8948,7 +8948,13 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ СВЯТОГО ЕВСТАФИЯ,",
       "saintIds": [
-        "evstafij-serbskij"
+        "evstafij-serbskij",
+        "daniil-serbskij-arhiepiskop",
+        "stefan-milutin-serbskij",
+        "simeon-serbskij-mirotochivyj",
+        "savva-serbskij",
+        "presvjataja-bogorodica",
+        "mihail-arhangel"
       ]
     },
     {
@@ -8958,7 +8964,8 @@
       "expectedHeading": "ПАМЯТЬ СВЯТЫХ ПРЕПОДОБНОМУЧЕНИКА ЗОСИМЫ и МУЧЕНИКА АФАНАСИЯ",
       "saintIds": [
         "zosima-kilikijskij",
-        "afanasij-kommentarisij"
+        "afanasij-kommentarisij",
+        "feoktist-kukumskij"
       ]
     },
     {
@@ -8977,7 +8984,8 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОЙ СИНКЛИТИКИИ",
       "saintIds": [
-        "sinklitikija-aleksandrijskaja"
+        "sinklitikija-aleksandrijskaja",
+        "iov-mnogostradalnyj"
       ]
     },
     {
