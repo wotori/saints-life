@@ -3173,7 +3173,7 @@ const mentions = [
   page: 477,
   sourceSha256: '01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9',
   anchor: 'В тот же день память святого мученика Феоктириста, игумена Пе-',
-  saintIds: ['feoktirist-pelikitskij'],
+  saintIds: ['feoktirist-pelikitskij', 'stefan-novyj-ispovednik'],
 }, {
   book: 6,
   page: 404,

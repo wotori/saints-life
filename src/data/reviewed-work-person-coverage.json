@@ -7496,5 +7496,32 @@
       "fekla-ikonijskaja-pervomuchenica",
       "pavel-apostol-pervoverhovnyj"
     ]
+  },
+  {
+    "book": 6,
+    "page": 473,
+    "heading": "ПАМЯТЬ преподобного отца нашего КАССИАНА РИМЛЯНИНА",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pages": [
+      {
+        "page": 473,
+        "sha256": "0b99c9edcaa23721df0f6b22dbea006bc2ffb5fd55b6825f7d468c8e8291056f"
+      },
+      {
+        "page": 474,
+        "sha256": "063d375d414d951e2df7071c121fc56576d2922776c6fda174897c2e2bac05d2"
+      },
+      {
+        "page": 475,
+        "sha256": "627a3980bbe06d2549d8118bc4384e383e526e36daf1c719a3bdac5a64944a89"
+      }
+    ],
+    "note": "PDF 473-475: Кассиан, Иоанн Златоуст, Богородица и Кирилл Александрийский названы прямо. Родители и посещенные подвижники не названы поименно. Несторий выступает оппонентом, а оценка его учения принадлежит изданию. Последняя сноска о Кассиане напечатана под заголовком Иоанна и возвращена к своему произведению.",
+    "saintIds": [
+      "ioann-kassian-rimljanin",
+      "ioann-zlatoust",
+      "presvjataja-bogorodica",
+      "kirill-aleksandrijskij-arhiepiskop"
+    ]
   }
 ]

@@ -7468,7 +7468,10 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ преподобного отца нашего КАССИАНА РИМЛЯНИНА",
       "saintIds": [
-        "ioann-kassian-rimljanin"
+        "ioann-kassian-rimljanin",
+        "ioann-zlatoust",
+        "presvjataja-bogorodica",
+        "kirill-aleksandrijskij-arhiepiskop"
       ]
     },
     {
@@ -7477,7 +7480,10 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ИОАННА, НАРЕЧЕННОГО",
       "saintIds": [
-        "ioann-varsonofij-damasskij"
+        "ioann-varsonofij-damasskij",
+        "mark-evangelist",
+        "lev-i-vizantijskij-imperator",
+        "proterij-aleksandrijskij"
       ]
     },
     {
