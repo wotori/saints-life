@@ -7594,7 +7594,20 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ОТЦА НАШЕГО ЛЬВА,",
       "saintIds": [
-        "lev-velikij-rimskij"
+        "lev-velikij-rimskij",
+        "afanasij-velikij-aleksandrijskij",
+        "petr-apostol-pervoverhovnyj",
+        "pavel-apostol-pervoverhovnyj",
+        "ioann-bogoslov",
+        "flavian-konstantinopolskij",
+        "feodosij-ii-mladshij-imperator",
+        "markian-vizantijskij-imperator",
+        "pulherija-carica",
+        "sofronij-ierusalimskij",
+        "feodosij-velikij-kinoviarh",
+        "evlogij-aleksandrijskij",
+        "lev-i-vizantijskij-imperator",
+        "presvjataja-bogorodica"
       ]
     },
     {
