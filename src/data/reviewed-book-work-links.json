@@ -7040,7 +7040,8 @@
       "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО КЕСАРИЯ",
       "saintIds": [
-        "kesarij-brat-grigorija"
+        "kesarij-brat-grigorija",
+        "grigorij-bogoslov"
       ]
     },
     {
@@ -13176,7 +13177,17 @@
         "severian-sevastijskij",
         "hudion-sevastijskij",
         "meliton-sevastijskij",
-        "aglaij-sevastijskij"
+        "aglaij-sevastijskij",
+        "konstantin-velikij-imperator",
+        "pavel-apostol-pervoverhovnyj",
+        "iakov-praotec",
+        "iosif-prekrasnyj",
+        "moisej-prorok-bogovidec",
+        "noj-praotec",
+        "ilija-fesvitjanin-prorok",
+        "matfij-apostol-iz-dvenadcati",
+        "vasilij-velikij",
+        "efrem-sirin"
       ]
     },
     {
