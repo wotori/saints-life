@@ -7562,7 +7562,10 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО ВЕЛИКОМУЧЕНИКА ФЕОДОРА ТИРОНА",
       "saintIds": [
-        "feodor-tiron"
+        "feodor-tiron",
+        "ioann-bogoslov",
+        "konstantin-velikij-imperator",
+        "ioann-damaskin"
       ]
     },
     {
@@ -7571,7 +7574,9 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОЙ МАРИАМНЫ",
       "saintIds": [
-        "mariamna-sestra-filippa"
+        "mariamna-sestra-filippa",
+        "filipp-apostol-iz-dvenadcati",
+        "varfolomej-apostol"
       ]
     },
     {
