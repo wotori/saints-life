@@ -8911,7 +8911,10 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО СВЯЩЕННОМУЧЕНИКА ФЕОГЕНА,",
       "saintIds": [
-        "feogen-parijskij"
+        "feogen-parijskij",
+        "konstantin-velikij-imperator",
+        "silvestr-pecherskij",
+        "nestor-letopisec"
       ]
     },
     {
@@ -8920,7 +8923,9 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО МУЧЕНИКА ГОРДИЯ",
       "saintIds": [
-        "gordij-kesarijskij"
+        "gordij-kesarijskij",
+        "ilija-fesvitjanin-prorok",
+        "isaija-prorok"
       ]
     },
     {
@@ -8929,7 +8934,12 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ПРОРОКА МАЛАХИИ",
       "saintIds": [
-        "malahija-prorok"
+        "malahija-prorok",
+        "zavulon-syn-iakova",
+        "iakov-praotec",
+        "lija-supruga-iakova",
+        "neemija-prorok",
+        "ioann-predtecha"
       ]
     },
     {
