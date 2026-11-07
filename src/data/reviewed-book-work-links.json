@@ -7548,7 +7548,20 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОГО СВЯЩЕННОМУЧЕНИКА ПОЛИКАРПА,",
       "saintIds": [
-        "polikarp-smirnskij"
+        "polikarp-smirnskij",
+        "vukol-smirnskij",
+        "ioann-bogoslov",
+        "ilija-fesvitjanin-prorok",
+        "pionij-smirnskij",
+        "pavel-apostol-pervoverhovnyj",
+        "ignatij-bogonosec",
+        "iona-prorok",
+        "lot-pravednyj",
+        "irinej-lionskij",
+        "pofin-lionskij",
+        "ieronim-stridonskij",
+        "dimitrij-rostovskij",
+        "germanik-smirnskij"
       ]
     },
     {
@@ -7560,7 +7573,8 @@
         "ioann-sirijskij-s-antiohom",
         "antioh-sirijskij-s-ioannom",
         "antonin-sirijskij-s-ioannom",
-        "moisej-sirijskij-s-ioannom"
+        "moisej-sirijskij-s-ioannom",
+        "limnej-podvizhnik-u-targaly"
       ]
     },
     {

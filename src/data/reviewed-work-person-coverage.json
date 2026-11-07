@@ -7310,5 +7310,52 @@
       "petr-apostol-pervoverhovnyj",
       "pavel-apostol-pervoverhovnyj"
     ]
+  },
+  {
+    "book": 6,
+    "page": 402,
+    "heading": "ПАМЯТЬ ПРЕПОДОБНЫХ ИОАННА, АНТИОХА, АНТОНИНА и МОИСЕЯ",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pages": [
+      {
+        "page": 402,
+        "sha256": "313b5fd5aff420d7a41fe73a6f24e91f8b6328b5b53af909e79f51adad9321fd"
+      },
+      {
+        "page": 403,
+        "sha256": "d81721c63e43a0130cd4a2b409f5cf9884d7edde87c10d97e813dded7014049b"
+      }
+    ],
+    "note": "PDF 402-403: Иоанн ученик Лимнея у Таргалы; Моисей подражает Иоанну, Антиох и Антонин подвизаются рядом. Моисей этого раздела отличается от ученика Полихрония в следующей памяти. Примечание о V веке и Сирии на PDF 403 относится к этой четверице.",
+    "saintIds": [
+      "ioann-sirijskij-s-antiohom",
+      "antioh-sirijskij-s-ioannom",
+      "antonin-sirijskij-s-ioannom",
+      "moisej-sirijskij-s-ioannom",
+      "limnej-podvizhnik-u-targaly"
+    ]
+  },
+  {
+    "book": 6,
+    "page": 403,
+    "heading": "ПАМЯТЬ ПРЕПОДОБНЫХ ЗЕВИНА, ПОЛИХРОНИЯ, МОИСКЯ и ДАМИАНА",
+    "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+    "pages": [
+      {
+        "page": 403,
+        "sha256": "d81721c63e43a0130cd4a2b409f5cf9884d7edde87c10d97e813dded7014049b"
+      },
+      {
+        "page": 404,
+        "sha256": "2071c60d2465e41c84cb47881da092cb6dc78c4f3e2ab414bc2088b498730361"
+      }
+    ],
+    "note": "PDF 403-404: Зевин, его ученик Полихроний и ученики последнего Моисей и Дамиан. Иера название обители, не человек. Краткая память Александра, основателя неусыпающих, отделена и уже имеет самостоятельную ссылку. Примечание о V веке и Сирии сохранено за этим разделом.",
+    "saintIds": [
+      "zevin-sirijskij",
+      "polihronij-sirijskij",
+      "moisej-sirijskij-s-polihroniem",
+      "damian-sirijskij-s-polihroniem"
+    ]
   }
 ]

@@ -1,5 +1,6 @@
 /** Editorial boundaries are applied only to the checked edition and exact OCR text. */
 const boundaries = [
+  {"book": 6, "firstPage": 403, "heading": "ПАМЯТЬ ПРЕПОДОБНЫХ ЗЕВИНА, ПОЛИХРОНИЯ, МОИСКЯ и ДАМИАНА", "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9", "endPage": 404, "nextText": "В тот же день память преподобного Александра монаха, обители"},
   {"book": 6, "firstPage": 337, "heading": "ПАМЯТЬ ПРЕПОДОБНЫХ ЕВГЕНИЯ и МАКАРИЯ", "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9", "endPage": 339, "nextText": "В тот же день память святых мучеников Максима, Феодота, Иси-"},
   {"book": 12, "firstPage": 655, "heading": "ВОСПОМИНАНИЕ У ВСЕЛЕНСКОГО СОБОРА", "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee", "endPage": 686, "nextText": "АЛФАВИТ СВЯТЫХ,"},
   {"book": 12, "firstPage": 113, "heading": "ПРАЗДНОВАНИЕ ПРЕСВЯТОЙ БОГОРОДИЦЫ", "sourceSha256": "c2753b176cf59793edf93e94e3f26dca118b685057e8d1ddb16743d9bab89fee", "endPage": 118, "nextText": "В тот же день память святых мучеников Елевферия и Леонида,"},
