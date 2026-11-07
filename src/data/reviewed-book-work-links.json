@@ -9406,7 +9406,15 @@
       "saintIds": [
         "elevferij-illirijskij",
         "anfija-mat-elevferija",
-        "koriv-s-elevferiem"
+        "koriv-s-elevferiem",
+        "pavel-apostol-pervoverhovnyj",
+        "anaklet-rimskij",
+        "filipp-apostol-iz-semi-diakonov",
+        "stefan-pervomuchenik",
+        "daniil-prorok",
+        "avvakum-prorok",
+        "ilija-fesvitjanin-prorok",
+        "iosif-pesnopisec"
       ]
     },
     {
@@ -9415,7 +9423,13 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "ЖИТИЕ СВЯТОГО СТЕФАНА ИСПОВЕДЛНИКА,",
       "saintIds": [
-        "stefan-surozhskij"
+        "stefan-surozhskij",
+        "german-konstantinopolskij-patriarh",
+        "grigorij-bogoslov",
+        "vasilij-velikij",
+        "grigorij-neokesarijskij",
+        "presvjataja-bogorodica",
+        "ioann-predtecha"
       ]
     },
     {
