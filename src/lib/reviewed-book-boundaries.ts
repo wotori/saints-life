@@ -1,5 +1,6 @@
 /** Editorial boundaries are applied only to the checked edition and exact OCR text. */
 const boundaries = [
+  {"book": 7, "firstPage": 42, "heading": "ПАМЯТЬ ПРЕПОДОБНОЙ ДОМНИНЫ", "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9", "endPage": 42, "nextText": "В тот же день память святых мучеников Маркелла и Антония, ог-"},
   {"book": 6, "firstPage": 475, "heading": "ПАМЯТЬ ПРЕПОДОБНОГО ИОАННА, НАРЕЧЕННОГО", "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9", "endPage": 477, "nextText": "В тот же день память святого мученика Феоктириста, игумена Пе-"},
   {"book": 6, "firstPage": 403, "heading": "ПАМЯТЬ ПРЕПОДОБНЫХ ЗЕВИНА, ПОЛИХРОНИЯ, МОИСКЯ и ДАМИАНА", "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9", "endPage": 404, "nextText": "В тот же день память преподобного Александра монаха, обители"},
   {"book": 6, "firstPage": 337, "heading": "ПАМЯТЬ ПРЕПОДОБНЫХ ЕВГЕНИЯ и МАКАРИЯ", "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9", "endPage": 339, "nextText": "В тот же день память святых мучеников Максима, Феодота, Иси-"},

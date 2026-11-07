@@ -7523,5 +7523,62 @@
       "presvjataja-bogorodica",
       "kirill-aleksandrijskij-arhiepiskop"
     ]
+  },
+  {
+    "book": 7,
+    "page": 40,
+    "heading": "СТРАДАНИЕ СВЯТЫХ МУЧЕНИКОВ НЕСТОРА и ТРИВИМИЯ",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pages": [
+      {
+        "page": 40,
+        "sha256": "4094776bab2c15f9c019dc06125996e2238f914f9ef78a638faac73593e77e96"
+      },
+      {
+        "page": 41,
+        "sha256": "f0a4551b1b867690e2e9e6b52446588bcbd7126b06c4d6ade029a140ccee10f7"
+      }
+    ],
+    "note": "Нестор и Тривимий Пергийские при Декии. Правитель и палачи без имен. Конец перед Антониной; сноски о Никее и Максимиане относятся к следующему произведению.",
+    "saintIds": [
+      "nestor-pergijskij-1-marta",
+      "trivimij-pergijskij"
+    ]
+  },
+  {
+    "book": 7,
+    "page": 41,
+    "heading": "СТРАДАНИЕ СВЯТОЙ МУЧЕНИЦЫ АНТОНИНЫ",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pages": [
+      {
+        "page": 41,
+        "sha256": "f0a4551b1b867690e2e9e6b52446588bcbd7126b06c4d6ade029a140ccee10f7"
+      },
+      {
+        "page": 42,
+        "sha256": "46a7434b3086a02f75bd0d77ce1a2abfea968b7787f0f271a64efe5facdefcdb"
+      }
+    ],
+    "note": "Антонина Никейская; не мученица с Александром. Примечание различает Максимиана Галерия и Геркула. Ангелы без имен. Конец перед Домниной.",
+    "saintIds": [
+      "antonina-nikejskaja-1-marta"
+    ]
+  },
+  {
+    "book": 7,
+    "page": 42,
+    "heading": "ПАМЯТЬ ПРЕПОДОБНОЙ ДОМНИНЫ",
+    "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
+    "pages": [
+      {
+        "page": 42,
+        "sha256": "46a7434b3086a02f75bd0d77ce1a2abfea968b7787f0f271a64efe5facdefcdb"
+      }
+    ],
+    "note": "Домнина Сирийская, смерть между 450 и 460; мать без имени. Последующая память Маркелла и Антония самостоятельна, исключена из произведения.",
+    "saintIds": [
+      "domnina-sirijskaja-novaja"
+    ]
   }
 ]

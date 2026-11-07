@@ -7283,7 +7283,10 @@
       "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
       "expectedHeading": "СТРАДАНИЕ СВЯТОГО СВЯЩЕННОМУЧЕНИКА ФЕОДОТА,",
       "saintIds": [
-        "feodot-kirinijskij"
+        "feodot-kirinijskij",
+        "pavel-apostol-pervoverhovnyj",
+        "david-car-prorok",
+        "konstantin-velikij-imperator"
       ]
     },
     {
@@ -7292,7 +7295,9 @@
       "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
       "expectedHeading": "ПАМЯТЬ СВЯТОЙ МУЧЕНИЦЫ ЕВФАЛИИ",
       "saintIds": [
-        "evfalija-sicilijskaja"
+        "evfalija-sicilijskaja",
+        "alfij-s-filadelfom",
+        "filadelf-s-alfiem"
       ]
     },
     {
