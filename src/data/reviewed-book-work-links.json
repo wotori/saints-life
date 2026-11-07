@@ -7863,7 +7863,12 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО БЛАГОВЕРНОГО КНЯЗЯ ВСЕВОЛОДА,",
       "saintIds": [
-        "vsevolod-pskovskij"
+        "vsevolod-pskovskij",
+        "ioann-predtecha",
+        "nifont-novgorodskij",
+        "dimitrij-solunskij",
+        "jaroslav-mudryj-kievskij",
+        "vladimir-svjatoslavich-kievskij"
       ]
     },
     {
@@ -12867,7 +12872,12 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ДИМИТРИЯ ПРИЛУЦКОГО,",
       "saintIds": [
-        "dimitrij-priluckij"
+        "dimitrij-priluckij",
+        "boris-strastoterpec",
+        "gleb-strastoterpec",
+        "sergij-radonezhskij",
+        "nikolaj-mirlikijskij",
+        "dimitrij-donskoj"
       ]
     },
     {
