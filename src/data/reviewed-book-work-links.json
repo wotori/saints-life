@@ -7675,7 +7675,18 @@
       "saintIds": [
         "martinian-palestinskij",
         "zoja-s-martinianom",
-        "fotinija-s-martinianom"
+        "fotinija-s-martinianom",
+        "adam-praotec",
+        "david-car-prorok",
+        "pavel-apostol-pervoverhovnyj",
+        "enoh-pravednyj",
+        "avraam-praotec",
+        "isaak-praotec",
+        "iakov-praotec",
+        "moisej-prorok-bogovidec",
+        "pavla-rimskaja-vifleemskaja",
+        "eva-pramater",
+        "presvjataja-bogorodica"
       ]
     },
     {
@@ -7684,7 +7695,11 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО",
       "saintIds": [
-        "simeon-serbskij-mirotochivyj"
+        "simeon-serbskij-mirotochivyj",
+        "savva-serbskij",
+        "stefan-pervovenchannyj-serbskij",
+        "presvjataja-bogorodica",
+        "panteleimon-nikomidijskij"
       ]
     },
     {
@@ -7693,7 +7708,10 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО ЕВЛОГИЯ,",
       "saintIds": [
-        "evlogij-aleksandrijskij"
+        "evlogij-aleksandrijskij",
+        "moisej-prorok-bogovidec",
+        "grigorij-dvoeslov",
+        "fotij-konstantinopolskij-patriarh"
       ]
     },
     {
