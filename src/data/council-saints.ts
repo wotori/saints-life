@@ -1140,3 +1140,9 @@ councilSaints.push({"id": "evvul-uchenik-arkadija", "slug": "evvul-uchenik-arkad
 councilVenerations.push({"saintId": "evvul-uchenik-arkadija", "traditionId": "russian-orthodox", "sourceId": "local-rostov", "note": "Свидетельство книги 7, PDF 155; признание другими традициями автоматически не назначено."});
 
 councilCommemorations.push({"id": "evvul-uchenik-arkadija-march6", "saintId": "evvul-uchenik-arkadija", "traditionId": "russian-orthodox", "sourceId": "local-rostov", "label": "С преподобным Аркадием Кипрским", "rule": {"kind": "fixed", "calendar": "julian", "month": 3, "day": 6}});
+
+councilSaints.push({"id": "dionisij-drugoj-korinfskij", "slug": "dionisij-drugoj-korinfskij", "name": "Дионисий, второй Коринфский мученик", "aliases": ["Дионисий другой, заколотый ножом"], "rank": "мученик", "sourceId": "local-rostov", "sourceLocator": "Книга 7, PDF 195, печатная с. 193: после казни Кодрата и пяти сподвижников отдельно назван Дионисий другой, заколотый ножом. Отличен от Дионисия, обезглавленного вместе с Кодратом в том же рассказе."});
+
+councilVenerations.push({"saintId": "dionisij-drugoj-korinfskij", "traditionId": "russian-orthodox", "sourceId": "local-rostov", "note": "Свидетельство данного издания: книга 7, PDF 195-196. Другие традиции автоматически не назначены."});
+
+councilCommemorations.push({"id": "dionisij-drugoj-korinfskij-march10", "saintId": "dionisij-drugoj-korinfskij", "traditionId": "russian-orthodox", "sourceId": "local-rostov", "label": "С Коринфскими мучениками, книжная память", "rule": {"kind": "fixed", "calendar": "julian", "month": 3, "day": 10}});
