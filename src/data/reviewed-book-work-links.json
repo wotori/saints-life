@@ -6976,7 +6976,10 @@
         "aleksandr-pervyj-s-agapiem",
         "aleksandr-vtoroj-s-agapiem",
         "dionisij-pervyj-s-agapiem",
-        "dionisij-vtoroj-s-agapiem"
+        "dionisij-vtoroj-s-agapiem",
+        "timofej-gazskij",
+        "agapij-s-timofeem-i-fekloj",
+        "fekla-s-timofeem-i-agapiem"
       ]
     },
     {
@@ -7003,7 +7006,11 @@
       "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9",
       "expectedHeading": "ПАМЯТЬ СВЯТОГО АПОСТОЛА АРИСТОВУЛА",
       "saintIds": [
-        "aristovul-apostol"
+        "aristovul-apostol",
+        "varnava-apostol",
+        "pavel-apostol-pervoverhovnyj",
+        "iakov-zevedeev",
+        "ioann-bogoslov"
       ]
     },
     {
