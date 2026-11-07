@@ -41,7 +41,8 @@
       "expectedHeading": "ОБРЕТЕНИЕ МОЩЕЙ СВЯТЫХ МУЧЕНИКОВ",
       "saintIds": [
         "andronik-apostol-iz-semidesjati",
-        "iunija-s-andronikom"
+        "iunija-s-andronikom",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
@@ -7508,7 +7509,8 @@
       "saintIds": [
         "mavrikij-apamejskij",
         "fotin-syn-mavrikija",
-        "filipp-s-mavrikijem"
+        "filipp-s-mavrikijem",
+        "feodorit-s-mavrikijem"
       ]
     },
     {
@@ -7535,7 +7537,9 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО АФАНАСИЯ ИСПОВЕДНИКА",
       "saintIds": [
-        "afanasij-pavlopetrijskij"
+        "afanasij-pavlopetrijskij",
+        "petr-apostol-pervoverhovnyj",
+        "pavel-apostol-pervoverhovnyj"
       ]
     },
     {
