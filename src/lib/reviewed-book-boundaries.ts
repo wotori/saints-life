@@ -1,5 +1,6 @@
 /** Editorial boundaries are applied only to the checked edition and exact OCR text. */
 const boundaries = [
+  {"book": 7, "firstPage": 280, "heading": "ПАМЯТЬ СВЯТОГО МУЧЕНИКА АЛЕКСАНДРА", "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9", "endPage": 280, "nextText": "В тот же день память святой мученицы Христины, в [У веке в Пер-"},
   {"book": 7, "firstPage": 171, "heading": "ПАМЯТЬ ПРЕПОДОБНОГО ФЕОФИЛАКТА ИСПОВЕДНИКА,", "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9", "endPage": 173, "nextText": "Память святого апостола Ерма, в [ веке мученически скончавше-"},
   {"book": 7, "firstPage": 163, "heading": "ПАМЯТЬ ПРЕПОДОБНОГО ПАВЛА ИСПОВЕДНИКА", "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9", "endPage": 164, "nextText": "Повесть о затворнике,"},
   {"book": 7, "firstPage": 129, "heading": "ПАМЯТЬ СВЯТОГО МУЧЕНИКА ЕВЛОГИЯ", "sourceSha256": "569c63acc0bb571cd3380e3e9a283510f0e84b0f739a5785f122ca2b2d77c4e9", "endPage": 129, "nextText": "Память святого мученика Онисия, жившего и пострадавшего в"},
