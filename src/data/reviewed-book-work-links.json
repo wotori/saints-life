@@ -9360,7 +9360,8 @@
       "sourceSha256": "147b1c3fe520c621b8d87d79025adff2be4f1815241296722e51639dc90b36fe",
       "expectedHeading": "СТРАДАНИЕ СВЯТОЙ МУЧЕНИЦЫ ЛУКИИ",
       "saintIds": [
-        "lukija-sirakuzskaja"
+        "lukija-sirakuzskaja",
+        "agafija-katanskaja"
       ]
     },
     {
@@ -12218,7 +12219,11 @@
         "avksentij-sevastijskij",
         "evgenij-sevastijskij",
         "mardarij-sevastijskij",
-        "orest-sevastijskij"
+        "orest-sevastijskij",
+        "noj-praotec",
+        "presvjataja-bogorodica",
+        "vlasij-sevastijskij",
+        "apollinarij-ravennijskij"
       ]
     },
     {
