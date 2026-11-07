@@ -7773,7 +7773,14 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ЖИТИЕ И СТРАДАНИЕ СВЯТОГО АПОСТОЛА ОНИСИМА,",
       "saintIds": [
-        "onisim-apostol"
+        "onisim-apostol",
+        "filimon-apostol",
+        "pavel-apostol-pervoverhovnyj",
+        "tihik-apostol",
+        "timofej-apostol-efesskij",
+        "ioann-bogoslov",
+        "ignatij-bogonosec",
+        "eva-pramater"
       ]
     },
     {
@@ -14619,6 +14626,19 @@
         "konstantin-velikij-imperator",
         "iustinian-vizantijskij",
         "aleksandr-rimskij-papa"
+      ]
+    },
+    {
+      "book": 6,
+      "page": 275,
+      "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
+      "expectedHeading": "АМЯТЬ СВЯТОГО АВРААМА,",
+      "saintIds": [
+        "avraam-karrijskij-episkop",
+        "feodosij-i-velikij-imperator",
+        "feodosij-ii-mladshij-imperator",
+        "pavel-apostol-pervoverhovnyj",
+        "varnava-apostol"
       ]
     }
   ]

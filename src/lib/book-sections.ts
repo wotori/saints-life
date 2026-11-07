@@ -31,6 +31,13 @@ export function sectionHeadings(body: string): SectionHeading[] {
   const result: SectionHeading[] = [];
   for (let i = 0; i < lines.length; i++) {
     const first = lines[i].trim().replace(/^_\s+(?=[А-ЯЁ])/u, '');
+    // A dropped initial in a display heading requires a separate uppercase name.
+    // Preserve the OCR title; do not repair prose or running headers.
+    if (first === 'АМЯТЬ СВЯТОГО' && /^[А-ЯЁ]+,$/u.test(lines[i + 1]?.trim() ?? '')) {
+      result.push({ offset: offsets[i], title: first + ' ' + lines[i + 1].trim() });
+      i += 1;
+      continue;
+    }
     // This relic feast uses two display lines rather than a generic life heading.
     if (first === 'ПОКЛОНЕНИЕ ЧЕСТНЫМ ВЕРИГАМ'
       && lines[i + 1]?.trim() === 'СВЯТОГО АПОСТОЛА ПЕТРА') {
