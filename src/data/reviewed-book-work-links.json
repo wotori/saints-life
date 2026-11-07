@@ -8601,7 +8601,40 @@
       "sourceSha256": "e62ed1051709261e1b21d03eac3e74d8475e1f77e28c5a56d2faf2b0390e242f",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ОТЦА НАШЕГО ЕВФИМИЯ ВЕЛИКОГО",
       "saintIds": [
-        "evfimij-velikij"
+        "evfimij-velikij",
+        "polievkt-melitinskij",
+        "feodosij-i-velikij-imperator",
+        "anna-prorochica-mat-samuila",
+        "samuil-prorok",
+        "otrij-melitinskij",
+        "akakij-melitinskij",
+        "hariton-ispovednik",
+        "feoktist-palestinskij",
+        "feodosij-velikij-kinoviarh",
+        "pavel-apostol-pervoverhovnyj",
+        "dometian-palestinskij",
+        "david-car-prorok",
+        "iuvenalij-ierusalimskij",
+        "passarion-palestinskij",
+        "isihij-ierusalimskij-presviter",
+        "adam-praotec",
+        "iov-mnogostradalnyj",
+        "kirill-aleksandrijskij-arhiepiskop",
+        "kiriak-otshelnik-palestinskij",
+        "arsenij-velikij",
+        "konstantin-velikij-imperator",
+        "feodosij-ii-mladshij-imperator",
+        "markian-vizantijskij-imperator",
+        "gerasim-iordanskij",
+        "simeon-stolpnik-starshij",
+        "savva-osvjashhennyj",
+        "proterij-aleksandrijskij",
+        "iakov-brat-gospoden",
+        "lev-i-vizantijskij-imperator",
+        "antonij-velikij",
+        "ilija-ierusalimskij-patriarh",
+        "mina-konstantinopolskij",
+        "ioann-molchalnik-kolonijskij"
       ]
     },
     {
@@ -8613,7 +8646,8 @@
         "vass-nikomidiiskij",
         "evsevij-nikomidiiskij-s-vassom",
         "evtihij-nikomidiiskij-s-vassom",
-        "vasilid-nikomidiiskij-s-vassom"
+        "vasilid-nikomidiiskij-s-vassom",
+        "feopempt-nikomidiiskij"
       ]
     },
     {
@@ -8624,7 +8658,8 @@
       "saintIds": [
         "inna-skifskij",
         "pinna-skifskij",
-        "rimma-skifskij"
+        "rimma-skifskij",
+        "andrej-pervozvannyj"
       ]
     },
     {
