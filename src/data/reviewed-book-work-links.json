@@ -7383,7 +7383,9 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ОТЦА НАШЕГО ПРОКОПИЯ ДЕКАПОЛИТА,",
       "saintIds": [
-        "prokopij-dekapolit"
+        "prokopij-dekapolit",
+        "mark-evangelist",
+        "vasilij-dekapolit-ispovednik"
       ]
     },
     {
@@ -7392,7 +7394,12 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ПАМЯТЬ ПРЕПОДОБНОГО ФАЛАЛЕЯ",
       "saintIds": [
-        "falalej-sirijskij"
+        "falalej-sirijskij",
+        "savva-osvjashhennyj",
+        "evfimij-velikij",
+        "feoktist-palestinskij",
+        "gerasim-iordanskij",
+        "sofronij-ierusalimskij"
       ]
     },
     {
@@ -7401,7 +7408,12 @@
       "sourceSha256": "01c0ca7096c861b5edf80f97c2ee15484b2bb6c8b59cd0ab751e69690aa72ab9",
       "expectedHeading": "ЖИТИЕ ПРЕПОДОБНОГО ТИТА,",
       "saintIds": [
-        "tit-pecherskij-presviter"
+        "tit-pecherskij-presviter",
+        "antonij-pecherskij",
+        "feodosij-pecherskij",
+        "efrem-sirin",
+        "pavel-apostol-pervoverhovnyj",
+        "tit-kritskij-apostol"
       ]
     },
     {
